@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Ethics.md",
+                "file": "IT/Linux/RAM/Limit RAM for User.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Ethics.md",
+                "file": "IT/Linux/RAM/Limit RAM for User.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Ethics.md",
+                "file": "IT/Linux/RAM/Limit RAM for User.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Ethics.md"
+                "file": "IT/Linux/RAM/Limit RAM for User.md"
               }
             }
           }
@@ -127,9 +127,20 @@
   },
   "active": "e4d619fc82d131bf",
   "lastOpenFiles": [
+    "IT/Linux/RAM/Available RAM and SWAP.md",
+    "IT/Linux/RAM/Limit RAM for User.md",
+    "IT/Linux/Users/Passwords.md",
+    "IT/Linux/Users/Create a new one.md",
+    "IT/Linux/HDD/Format.md",
+    "IT/Linux/Services/Show.md",
+    "IT/Linux/Services/Working with service.md",
+    "IT/Linux/Services/Untitled",
+    "IT/Linux/Internet/Troubleshooting.md",
+    "IT/Linux/Basic Components/Basic Components.md",
+    "IT/Linux/Internet",
+    "Philosophy/Ethics.md",
     "Psychology/!Что делать.md",
     "Pasted image 20231106235015.png",
-    "Philosophy/Ethics.md",
     "Здоровье/Зрение.md",
     "Здоровье/Гастрит Хронический.md",
     "Здоровье/Астма.md",
@@ -145,23 +156,13 @@
     "IT/Design Patterns/Gang of Four/Behavioral/Visitor.md",
     "IT/Design Patterns/Gang of Four/Behavioral/Observer.md",
     "IT/Design Patterns/Gang of Four/Behavioral/Command.md",
-    "IT/Algorithm/Graph.md",
-    "IT/Linux/Basic Components/Basic Components.md",
-    "IT/Linux/Boot/LILO.md",
     "IT/Linux/Basic Components",
     "IT/Linux/Boot",
-    "IT/Algorithm/Algorithms/Search in String aka Find a Substring.md",
-    "IT/Algorithm/Algorithms/Sorting String.md",
-    "IT/Algorithm/Algorithms/Sorting.md",
-    "IT/Algorithm/Algorithms/Shortest Path in Directed Weighted Graph.md",
-    "IT/Algorithm/Algorithms/Minimum Spanning Tree.md",
-    "IT/Algorithm/Algorithms/Longest Repeated Substring.md",
     "IT/Linux/Users",
     "IT/Linux/Virtual Hosting",
     "IT/Linux/Files and Folders",
     "IT/Linux/HDD",
     "IT/Linux/Services",
-    "IT/Linux/RAM",
-    "IT/Linux"
+    "IT/Linux/RAM"
   ]
 }

@@ -1,3 +1,7 @@
+# Change Password
+
+`passwd %userName%`
+
 # /etc/passwd
 
 Stores users
