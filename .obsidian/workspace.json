@@ -8,19 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4d619fc82d131bf",
+            "id": "3d2c95d3d722f285",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Linux/Alias/Alias.md",
+                "file": "IT/Linux/Boot/init (Initialization Process).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 371.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -79,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux/Alias/Alias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Linux/Alias/Alias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,16 +104,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Linux/Alias/Alias.md"
+                "file": "conflict-files-obsidian-git.md"
               }
+            }
+          },
+          {
+            "id": "ae6eae0de275e4ac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 421.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -126,44 +130,44 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "3d2c95d3d722f285",
+  "active": "f70bad8294d50d2c",
   "lastOpenFiles": [
     "IT/Linux/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "IT/Linux/Boot/init (Initialization Process).md",
+    "IT/Linux/Files and Folders/Filename.md",
+    "IT/Linux/CPU/CPU.md",
+    "IT/Linux/CPU",
     "IT/Linux/Alias/Alias.md",
     "IT/Linux/Alias",
-    "IT/Bash/Redirection.md",
-    "IT/Linux/Files and Folders/Filename.md",
     "IT/Internet/Protocols/SSH.md",
-    "IT/Linux/CPU/CPU.md",
-    "IT/Linux/Processes and Daemons/Process.md",
-    "IT/Linux/CPU",
-    "IT/Linux/Boot/init (Initialization Process).md",
-    "IT/Linux/Files and Folders/Copy.md",
-    "IT/Linux/Users/Permissions.md",
-    "IT/Linux/Processes and Daemons/Working with service.md",
-    "IT/Linux/Files and Folders/Permissions.md",
+    "IT/Bash/Redirection.md",
+    "IT/Linux/Boot/LILO.md",
+    "IT/Linux/Basic Components/Basic Components.md",
     "IT/Linux/Runlevels/Runlevels.md",
-    "IT/Bash/Replace.md",
     "IT/Linux/Runlevels",
-    "IT/Linux/Scheduling/Schedule Running.md",
-    "IT/Linux/Scheduling/crontab.md",
-    "IT/Linux/Scheduling",
+    "IT/Linux/Processes and Daemons/Working with service.md",
+    "IT/Linux/Processes and Daemons/Show.md",
+    "IT/Linux/Processes and Daemons/Process.md",
     "IT/Linux/Processes and Daemons/Daemons.md",
-    "IT/Linux/Archives",
+    "IT/Linux/Processes and Daemons",
+    "IT/Linux/Internet/Troubleshooting.md",
+    "IT/Linux/Internet/Firewall.md",
+    "IT/Linux/Internet/DNS.md",
+    "IT/Linux/Internet",
     "IT/Linux/Archives/Archives.md",
     "IT/Linux/Archives",
     "IT/Internet/Protocols/UDP.md",
     "IT/Internet/Protocols/TCP.md",
-    "IT/Internet/Protocols/UDP.md",
-    "IT/Linux/HDD/LVM.md",
     "IT/Internet/Protocols",
     "IT/Internet",
-    "IT/Linux/Processes and Daemons/Show.md",
-    "IT/Linux/RAM/Available RAM and SWAP.md",
-    "IT/Linux/Internet/Firewall.md",
-    "IT/Linux/Files and Folders/Search.md",
-    "IT/Linux/Services/Untitled",
-    "IT/Linux/Internet",
+    "IT/Linux/Users/Permissions.md",
+    "IT/Linux/Users/Create a new one.md",
+    "IT/Linux/Scheduling/Schedule Running.md",
+    "IT/Linux/Scheduling/crontab.md",
+    "IT/Linux/Scheduling",
+    "Philosophy/Ethics.md",
+    "Test/Test folder",
     "Pasted image 20231106235015.png"
   ]
 }
