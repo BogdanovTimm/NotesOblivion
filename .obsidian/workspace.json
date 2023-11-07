@@ -11,8 +11,12 @@
             "id": "d52c1d20a546945a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IT/Linux/Troubleshooting/Networking/Networking.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/Linux/Troubleshooting/Networking/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/Linux/Troubleshooting/Networking/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT/Linux/Troubleshooting/Networking/Networking.md"
+              }
             }
           },
           {
