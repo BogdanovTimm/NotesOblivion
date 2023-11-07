@@ -1,14 +1,11 @@
 # Run service
 
-```
-systemctl start %service_name%
+```bash
+sudo systemctl start %service_name%
 ```
 
 # Stop service
 
+```bash
+sudo systemctl stop %service_name%
 ```
-systemctl stop %service_name%
-```
-
-# End process
-

@@ -1,0 +1,3 @@
+# Tool for configuring
+
+`mdadm`

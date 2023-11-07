@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Java/Java-Core.md",
+                "file": "IT/Bash/Environment Variables/Environment Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Java/Java-Core.md",
+                "file": "IT/Bash/Environment Variables/Environment Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Java/Java-Core.md",
+                "file": "IT/Bash/Environment Variables/Environment Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Java/Java-Core.md"
+                "file": "IT/Bash/Environment Variables/Environment Variables.md"
               }
             }
           },
@@ -132,20 +132,24 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "f70bad8294d50d2c",
+  "active": "d52c1d20a546945a",
   "lastOpenFiles": [
-    "IT/Java/Mulithreading.md",
+    "IT/Linux/Processes, Services and Daemons/Process.md",
+    "IT/Bash/Environment Variables/Environment Variables.md",
+    "IT/Bash/Environment Variables",
+    "IT/Linux/HDD/RAID.md",
+    "IT/Linux/Processes, Services and Daemons/Working with service.md",
+    "IT/Linux/Processes, Services and Daemons/Daemons.md",
+    "IT/Linux/HDD/Used-Free space.md",
     "IT/Java/Java-Core.md",
+    "IT/Java/Mulithreading.md",
     "IT/Java/Java Memory.md",
     "IT/Linux/Troubleshooting/Troubleshooting.md",
     "IT/Linux/Troubleshooting/Networking/Networking.md",
-    "IT/Linux/Processes, Services and Daemons/Daemons.md",
     "IT/Linux/Troubleshooting",
     "IT/Linux/SSH/SSH.md",
     "IT/Linux/SSH",
-    "IT/Linux/Processes, Services and Daemons/Working with service.md",
     "IT/Linux/Processes, Services and Daemons/Show.md",
-    "IT/Linux/Processes, Services and Daemons/Daemons.md",
     "IT/Linux/Processes, Services and Daemons",
     "IT/Bash/Redirection and Chaining/Rerirection to Files.md",
     "IT/Bash/Redirection and Chaining/Chaining.md",
