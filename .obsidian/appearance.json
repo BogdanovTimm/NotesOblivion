@@ -6,5 +6,6 @@
   "baseFontSizeAction": false,
   "showViewHeader": false,
   "translucency": false,
-  "cssTheme": "Sample Theme"
+  "cssTheme": "Sample Theme",
+  "baseFontSize": 15
 }

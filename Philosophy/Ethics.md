@@ -6,7 +6,7 @@ Whether moral is objective:
 
 - `Realism` \- moral is objective
 - `Quasi-Realism` -
-- `Anti-Realism` \- moral is notnot objective
+- `Anti-Realism` \- moral is not objective
 
 ## Cognitivism vs Non-Cognitivism vs Semi-Cognitivism (Philosophy of Language of Moral)
 

@@ -36,3 +36,7 @@ chown nameOfOwningUser:nameOfOwningGroup filename.txt
 ```
 chown -R nameOfOwningUser:nameOfOwningGroup folderName
 ```
+
+# Default Permissions
+
+`umask u+rwxs`

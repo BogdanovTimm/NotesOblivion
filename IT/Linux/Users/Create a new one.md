@@ -1,0 +1,1 @@
+1. `adduser %userName%` - create user without password

@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b99c672307d4916e",
+        "id": "976f9c538dc71e3f",
         "type": "tabs",
         "children": [
           {
-            "id": "e4d619fc82d131bf",
+            "id": "3d2c95d3d722f285",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/themes/Sample Theme",
-                "staged": false
+                "file": "IT/Linux/Basic Components/Basic Components.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/Linux/Basic Components/Basic Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/Linux/Basic Components/Basic Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT/Linux/Basic Components/Basic Components.md"
+              }
             }
           },
           {
@@ -126,8 +131,31 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "ae6eae0de275e4ac",
+  "active": "3d2c95d3d722f285",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "IT/Linux/Runlevels/Runlevels.md",
+    "IT/Linux/Runlevels",
+    "IT/Linux/Processes and Daemons/Working with service.md",
+    "IT/Linux/Processes and Daemons/Show.md",
+    "IT/Linux/Processes and Daemons/Process.md",
+    "IT/Linux/Processes and Daemons/Daemons.md",
+    "IT/Linux/Processes and Daemons",
+    "IT/Linux/Internet/Troubleshooting.md",
+    "IT/Linux/Internet/Firewall.md",
+    "IT/Linux/Internet/DNS.md",
+    "IT/Linux/Internet",
+    "IT/Linux/Archives/Archives.md",
+    "IT/Linux/Archives",
+    "IT/Internet/Protocols/UDP.md",
+    "IT/Internet/Protocols/TCP.md",
+    "IT/Internet/Protocols",
+    "IT/Internet",
+    "IT/Linux/Users/Permissions.md",
+    "IT/Linux/Users/Create a new one.md",
+    "IT/Linux/Scheduling/Schedule Running.md",
+    "IT/Linux/Scheduling/crontab.md",
+    "IT/Linux/Scheduling",
     "Philosophy/Ethics.md",
     "IT/Algorithm/Algorithms/Shuffling.md",
     "IT/Algorithm/Data Structure/Priority Queue.md",
@@ -141,29 +169,6 @@
     "IT/Java/Java-Core.md",
     "Psychology/!Что делать.md",
     "Pasted image 20231106235015.png",
-    "Здоровье/Зрение.md",
-    "Здоровье/Гастрит Хронический.md",
-    "Здоровье/Астма.md",
-    "Здоровье/Мигрень с аурой.md",
-    "Здоровье/Диабет.md",
-    "Cooking/Hard Boiled Eggs.md",
-    "IT/Algorithm/Data Structure/Symbol Tables.md",
-    "IT/Algorithm/Data Structure/Stack.md",
-    "IT/Algorithm/Data Structure/QuickUnion.md",
-    "IT/Algorithm/Data Structure/Queue.md",
-    "IT/Design Patterns/Gang of Four/Behavioral/Visitor.md",
-    "IT/Design Patterns/Gang of Four/Behavioral/Observer.md",
-    "IT/Design Patterns/Gang of Four/Behavioral/Command.md",
-    "IT/Linux/Basic Components/Basic Components.md",
-    "IT/Linux/Boot/LILO.md",
-    "IT/Linux/Basic Components",
-    "IT/Linux/Boot",
-    "IT/Algorithm/Algorithms/Search in String aka Find a Substring.md",
-    "IT/Linux/Users",
-    "IT/Linux/Virtual Hosting",
-    "IT/Linux/Files and Folders",
-    "IT/Linux/HDD",
-    "IT/Linux/Services",
-    "IT/Linux/RAM"
+    "IT/Linux/Basic Components"
   ]
 }
