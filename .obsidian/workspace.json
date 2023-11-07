@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d1a5aa3270b8f6d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TestNote2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TestNote2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TestNote2.md"
+                "file": "New.md"
               }
             }
           }
@@ -136,9 +142,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4d619fc82d131bf",
+  "active": "f70bad8294d50d2c",
   "lastOpenFiles": [
-    "TestNote.md",
-    "TestNote2.md"
+    "New.md",
+    "TestNote2.md",
+    "TestNote.md"
   ]
 }

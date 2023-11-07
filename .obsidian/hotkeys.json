@@ -41,5 +41,14 @@
     }
   ],
   "markdown:toggle-preview": [],
-  "workspace:goto-tab-8": []
+  "workspace:goto-tab-8": [],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:save-file": []
 }
