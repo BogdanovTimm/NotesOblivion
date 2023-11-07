@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Linux/Troubleshooting/Networking/Networking.md",
+                "file": "IT/Linux/Troubleshooting/Troubleshooting.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux/Troubleshooting/Networking/Networking.md",
+                "file": "IT/Linux/Troubleshooting/Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Linux/Troubleshooting/Networking/Networking.md",
+                "file": "IT/Linux/Troubleshooting/Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Linux/Troubleshooting/Networking/Networking.md"
+                "file": "IT/Linux/Troubleshooting/Troubleshooting.md"
               }
             }
           },
@@ -135,6 +134,8 @@
   },
   "active": "d52c1d20a546945a",
   "lastOpenFiles": [
+    "IT/Java/Java Memory.md",
+    "IT/Linux/Troubleshooting/Networking/Networking.md",
     "IT/Linux/Troubleshooting/Troubleshooting.md",
     "IT/Linux/Processes, Services and Daemons/Daemons.md",
     "IT/Linux/Troubleshooting",
