@@ -1,3 +1,3 @@
-# Settings
+# Open Settings
 
-Settings for DNS is stored in `/etc/resolv.conf` file.
+`nano /etc/resolv.conf`

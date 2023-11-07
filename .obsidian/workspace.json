@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "976f9c538dc71e3f",
+        "id": "53e0822fa3717caf",
         "type": "tabs",
         "children": [
           {
-            "id": "3d2c95d3d722f285",
+            "id": "84723254b14fdd02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Linux/Troubleshooting/Troubleshooting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c121629ffde3d069",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Bash/Redirection and Chaining/Redirection To Other Command.md",
+                "file": "IT/Linux/Troubleshooting/Networking/Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -89,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux/Troubleshooting/Troubleshooting.md",
+                "file": "IT/Linux/Troubleshooting/Networking/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Linux/Troubleshooting/Troubleshooting.md",
+                "file": "IT/Linux/Troubleshooting/Networking/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,24 +107,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Linux/Troubleshooting/Troubleshooting.md"
+                "file": "IT/Linux/Troubleshooting/Networking/Networking.md"
               }
-            }
-          },
-          {
-            "id": "ae6eae0de275e4ac",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 421.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -144,44 +125,44 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "3d2c95d3d722f285",
+  "active": "84723254b14fdd02",
   "lastOpenFiles": [
-    "IT/Linux/Processes, Services and Daemons/Daemons.md",
+    "IT/Linux/Troubleshooting/DNS.md",
+    "IT/Linux/Troubleshooting/Networking/Networking.md",
+    "IT/Linux/Troubleshooting/Networking",
+    "IT/Linux/Runlevels/Runlevels.md",
+    "IT/Linux/Files and Folders/Permissions.md",
+    "IT/Bash/Permissions.md",
+    "IT/Bash/Text/Replace.md",
+    "IT/Bash/Text/Find in file.md",
+    "IT/Bash/Text",
+    "IT/Linux/Scheduling/crontab.md",
+    "IT/Linux/Scheduling/Schedule Running.md",
+    "IT/Linux/Internet/Firewall.md",
+    "IT/Linux/Internet/DNS.md",
+    "IT/Linux/Boot/Boot Sequence.md",
+    "IT/Linux/Boot/MBR.md",
+    "IT/Linux/Internet/Hardware.md",
+    "IT/Linux/Processes, Services and Daemons/Process.md",
+    "IT/Linux/Files and Folders/INode.md",
+    "IT/Linux/Alias/Alias.md",
     "IT/Linux/Troubleshooting/Troubleshooting.md",
     "IT/Linux/Troubleshooting",
     "IT/Linux/SSH/SSH.md",
-    "IT/Linux/Files and Folders/Search.md",
     "IT/Linux/SSH",
-    "IT/Bash/Redirection and Chaining/Chaining.md",
-    "IT/Bash/Redirection and Chaining/Redirection To Other Command.md",
-    "IT/Bash/Redirection and Chaining/Rerirection to Files.md",
-    "IT/Bash/Redirection.md",
-    "IT/Bash/Creating.md",
-    "IT/Bash/Permissions.md",
-    "IT/Bash/Redirection and Chaining",
-    "IT/Linux/RAM/Swap.md",
-    "IT/Linux/Boot/init (Initialization Process).md",
-    "IT/Linux/Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "IT/Linux/Files and Folders/Filename.md",
-    "IT/Linux/CPU/CPU.md",
-    "IT/Linux/CPU",
-    "IT/Linux/Alias/Alias.md",
-    "IT/Linux/Alias",
-    "IT/Internet/Protocols/SSH.md",
-    "IT/Linux/Boot/LILO.md",
-    "IT/Linux/Basic Components/Basic Components.md",
-    "IT/Linux/Runlevels/Runlevels.md",
-    "IT/Linux/Runlevels",
     "IT/Linux/Processes, Services and Daemons/Working with service.md",
     "IT/Linux/Processes, Services and Daemons/Show.md",
-    "IT/Linux/Processes, Services and Daemons/Process.md",
+    "IT/Linux/Processes, Services and Daemons/Daemons.md",
     "IT/Linux/Processes, Services and Daemons",
-    "IT/Linux/Internet/Troubleshooting.md",
-    "IT/Linux/Internet/Firewall.md",
-    "IT/Linux/Internet",
-    "IT/Linux/Archives",
-    "IT/Internet/Protocols",
+    "IT/Bash/Redirection and Chaining/Rerirection to Files.md",
+    "IT/Bash/Redirection and Chaining/Chaining.md",
+    "IT/Bash/Redirection and Chaining/Redirection To Other Command.md",
+    "IT/Bash/Redirection and Chaining",
+    "IT/Linux/Untitled.md",
+    "IT/Linux/Alias",
+    "IT/Linux/CPU",
+    "IT/Linux/Runlevels",
+    "IT/Linux/Scheduling",
     "Pasted image 20231106235015.png"
   ]
 }
