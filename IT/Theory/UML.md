@@ -2,7 +2,7 @@
 
 Parent-Child:
 
-```
+```java
 ParentClass <|----- ChildClass
 ```
 
@@ -10,7 +10,7 @@ ParentClass <|----- ChildClass
 
 Interface-ClassThatImplementsInterface:
 
-```
+```java
 Interface <|- - - ClassThatImplementsInterface
 ```
 
@@ -18,7 +18,7 @@ Interface <|- - - ClassThatImplementsInterface
 
 Class1 has Class2 instances in itself:
 
-```
+```java
 Class1 <>----- Class2
 ```
 
@@ -26,6 +26,6 @@ Class1 <>----- Class2
 
 Class1 calls some method in Class2
 
-```
+```java
 Class1 -----> Class2
 ```

@@ -12,6 +12,8 @@
 
 # Queue using Resizable Array
 
+
+
 Memory Space: `amountOfElements`  
 Speed:
 

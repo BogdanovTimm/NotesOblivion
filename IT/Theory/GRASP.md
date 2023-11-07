@@ -26,6 +26,7 @@ Class1----->Class2
    | 
    +------->Class3
 ```
+
 Must be changed to this:
 ```
 Class1------>Class2----->Class3
@@ -44,12 +45,14 @@ Class1----->ClassToWorkWith1
    | 
    +------->ClassToWorkWith2
 ```
+
 Must be changed to this:
 ```
 Class1----->CustomInterface------>ClassThatImplementsInterface1------>ClassToWorkWith1
                   |
                   +-------------->ClassThatImplementsInterface2------>ClassToWorkWith2
 ```
+
 # Protected Variations
 
 You need to work always thinking about whether changes will occur.

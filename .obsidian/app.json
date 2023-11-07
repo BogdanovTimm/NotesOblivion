@@ -1,3 +1,7 @@
 {
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "foldHeading": false,
+  "foldIndent": false
 }

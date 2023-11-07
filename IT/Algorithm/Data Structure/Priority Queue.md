@@ -6,7 +6,7 @@ It can be realised with `Binary Heap Tree` data structure.
 
 Parent's value always > value of its child.
 
-## Array representatoin
+## Array Representation
 
 `array[0]` = null
 
@@ -18,10 +18,11 @@ childValue / 2
 ```
 
 Find parent:
-```
+```java
 if (childValue % 2 = 0) {
     return childValue * 2;
 } else {
     return (childValue * 2) + 1;
 }
+String string = "ANus";
 ```

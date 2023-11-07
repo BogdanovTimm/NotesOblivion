@@ -11,8 +11,12 @@
             "id": "e4d619fc82d131bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Ethics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Philosophy/Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Philosophy/Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,11 +106,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TestNote2.md"
+                "file": "Philosophy/Ethics.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,14 +120,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true
     }
   },
-  "active": "f70bad8294d50d2c",
+  "active": "e4d619fc82d131bf",
   "lastOpenFiles": [
-    "TestNote.md",
-    "TestNote2.md",
-    "New.md"
+    "Psychology/!Что делать.md",
+    "Pasted image 20231106235015.png",
+    "Philosophy/Ethics.md",
+    "Здоровье/Зрение.md",
+    "Здоровье/Гастрит Хронический.md",
+    "Здоровье/Астма.md",
+    "Здоровье/Мигрень с аурой.md",
+    "Здоровье/Диабет.md",
+    "Cooking/Hard Boiled Eggs.md",
+    "IT/Algorithm/Data Structure/Symbol Tables.md",
+    "IT/Algorithm/Data Structure/Stack.md",
+    "IT/Algorithm/Data Structure/QuickUnion.md",
+    "IT/Algorithm/Data Structure/Queue.md",
+    "IT/Algorithm/Data Structure/Priority Queue.md",
+    "IT/Algorithm/Data Structure/Overview.md",
+    "IT/Design Patterns/Gang of Four/Behavioral/Visitor.md",
+    "IT/Design Patterns/Gang of Four/Behavioral/Observer.md",
+    "IT/Design Patterns/Gang of Four/Behavioral/Command.md",
+    "IT/Algorithm/Graph.md",
+    "IT/Linux/Basic Components/Basic Components.md",
+    "IT/Linux/Boot/LILO.md",
+    "IT/Linux/Basic Components",
+    "IT/Linux/Boot",
+    "IT/Algorithm/Algorithms/Search in String aka Find a Substring.md",
+    "IT/Algorithm/Algorithms/Sorting String.md",
+    "IT/Algorithm/Algorithms/Sorting.md",
+    "IT/Algorithm/Algorithms/Shortest Path in Directed Weighted Graph.md",
+    "IT/Algorithm/Algorithms/Minimum Spanning Tree.md",
+    "IT/Algorithm/Algorithms/Longest Repeated Substring.md",
+    "IT/Linux/Users",
+    "IT/Linux/Virtual Hosting",
+    "IT/Linux/Files and Folders",
+    "IT/Linux/HDD",
+    "IT/Linux/Services",
+    "IT/Linux/RAM",
+    "IT/Linux"
   ]
 }
