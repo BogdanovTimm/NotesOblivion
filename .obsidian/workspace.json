@@ -8,18 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d2c95d3d722f285",
+            "id": "e4d619fc82d131bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Linux/Boot/init (Initialization Process).md",
+                "file": "IT/Linux/Alias/Alias.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -77,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux/Boot/init (Initialization Process).md",
+                "file": "IT/Linux/Alias/Alias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Linux/Boot/init (Initialization Process).md",
+                "file": "IT/Linux/Alias/Alias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,24 +108,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Linux/Boot/init (Initialization Process).md"
+                "file": "IT/Linux/Alias/Alias.md"
               }
-            }
-          },
-          {
-            "id": "ae6eae0de275e4ac",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 421.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -134,42 +128,42 @@
   },
   "active": "3d2c95d3d722f285",
   "lastOpenFiles": [
-    "IT/Linux/Boot/LILO.md",
-    "IT/Linux/Basic Components/Basic Components.md",
-    "conflict-files-obsidian-git.md",
-    "IT/Linux/Runlevels/Runlevels.md",
-    "IT/Linux/Runlevels",
-    "IT/Linux/Processes and Daemons/Working with service.md",
-    "IT/Linux/Processes and Daemons/Show.md",
+    "IT/Linux/Untitled.md",
+    "IT/Linux/Alias/Alias.md",
+    "IT/Linux/Alias",
+    "IT/Bash/Redirection.md",
+    "IT/Linux/Files and Folders/Filename.md",
+    "IT/Internet/Protocols/SSH.md",
+    "IT/Linux/CPU/CPU.md",
     "IT/Linux/Processes and Daemons/Process.md",
+    "IT/Linux/CPU",
+    "IT/Linux/Boot/init (Initialization Process).md",
+    "IT/Linux/Files and Folders/Copy.md",
+    "IT/Linux/Users/Permissions.md",
+    "IT/Linux/Processes and Daemons/Working with service.md",
+    "IT/Linux/Files and Folders/Permissions.md",
+    "IT/Linux/Runlevels/Runlevels.md",
+    "IT/Bash/Replace.md",
+    "IT/Linux/Runlevels",
+    "IT/Linux/Scheduling/Schedule Running.md",
+    "IT/Linux/Scheduling/crontab.md",
+    "IT/Linux/Scheduling",
     "IT/Linux/Processes and Daemons/Daemons.md",
-    "IT/Linux/Processes and Daemons",
-    "IT/Linux/Internet/Troubleshooting.md",
-    "IT/Linux/Internet/Firewall.md",
-    "IT/Linux/Internet/DNS.md",
-    "IT/Linux/Internet",
+    "IT/Linux/Archives",
     "IT/Linux/Archives/Archives.md",
     "IT/Linux/Archives",
     "IT/Internet/Protocols/UDP.md",
     "IT/Internet/Protocols/TCP.md",
+    "IT/Internet/Protocols/UDP.md",
+    "IT/Linux/HDD/LVM.md",
     "IT/Internet/Protocols",
     "IT/Internet",
-    "IT/Linux/Users/Permissions.md",
-    "IT/Linux/Users/Create a new one.md",
-    "IT/Linux/Scheduling/Schedule Running.md",
-    "IT/Linux/Scheduling/crontab.md",
-    "IT/Linux/Scheduling",
-    "Philosophy/Ethics.md",
-    "IT/Algorithm/Algorithms/Shuffling.md",
-    "IT/Algorithm/Data Structure/Priority Queue.md",
-    "IT/Algorithm/Data Structure/Overview.md",
-    "IT/Algorithm/Graph.md",
-    "Test/Test folder/Test note.md",
-    "IT/Java/Java Memory.md",
-    "Test/Test folder",
-    "Test",
-    "IT/Java/Mulithreading.md",
-    "Pasted image 20231106235015.png",
-    "IT/Linux/Basic Components"
+    "IT/Linux/Processes and Daemons/Show.md",
+    "IT/Linux/RAM/Available RAM and SWAP.md",
+    "IT/Linux/Internet/Firewall.md",
+    "IT/Linux/Files and Folders/Search.md",
+    "IT/Linux/Services/Untitled",
+    "IT/Linux/Internet",
+    "Pasted image 20231106235015.png"
   ]
 }
