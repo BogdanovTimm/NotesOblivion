@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "976f9c538dc71e3f",
+        "id": "346c786de2e71cac",
         "type": "tabs",
         "children": [
           {
-            "id": "3d2c95d3d722f285",
+            "id": "d52c1d20a546945a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Linux/Troubleshooting/Troubleshooting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c121629ffde3d069",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Bash/Redirection and Chaining/Redirection To Other Command.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -89,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux/Troubleshooting/Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Linux/Troubleshooting/Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT/Linux/Troubleshooting/Troubleshooting.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,10 +125,10 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "3d2c95d3d722f285",
+  "active": "d52c1d20a546945a",
   "lastOpenFiles": [
-    "IT/Linux/Processes, Services and Daemons/Daemons.md",
     "IT/Linux/Troubleshooting/Troubleshooting.md",
+    "IT/Linux/Processes, Services and Daemons/Daemons.md",
     "IT/Linux/Troubleshooting",
     "IT/Linux/SSH/SSH.md",
     "IT/Linux/Files and Folders/Search.md",
