@@ -8,39 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ecdf56ade11941a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TestNote.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e4d619fc82d131bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TestNote2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d1a5aa3270b8f6d",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New.md"
+                "file": "TestNote2.md"
               }
             }
           }
@@ -144,8 +119,8 @@
   },
   "active": "f70bad8294d50d2c",
   "lastOpenFiles": [
-    "New.md",
+    "TestNote.md",
     "TestNote2.md",
-    "TestNote.md"
+    "New.md"
   ]
 }
