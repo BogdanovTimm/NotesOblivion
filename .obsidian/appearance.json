@@ -4,7 +4,7 @@
   "textFontFamily": "Neue Haas Unica",
   "monospaceFontFamily": "RobotoMono Nerd Font",
   "baseFontSizeAction": false,
-  "showViewHeader": false,
+  "showViewHeader": true,
   "translucency": false,
   "cssTheme": "Sample Theme",
   "baseFontSize": 15
