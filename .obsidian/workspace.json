@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Linux/Boot/init (Initialization Process).md",
+                "file": "IT/Linux/Alias/Alias.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux/Boot/init (Initialization Process).md",
+                "file": "IT/Linux/Alias/Alias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Linux/Boot/init (Initialization Process).md",
+                "file": "IT/Linux/Alias/Alias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Linux/Boot/init (Initialization Process).md"
+                "file": "IT/Linux/Alias/Alias.md"
               }
             }
           }
@@ -126,9 +127,18 @@
   },
   "active": "e4d619fc82d131bf",
   "lastOpenFiles": [
+    "IT/Linux/Untitled.md",
+    "IT/Linux/Alias/Alias.md",
+    "IT/Linux/Alias",
+    "IT/Bash/Redirection.md",
+    "IT/Linux/Files and Folders/Filename.md",
+    "IT/Internet/Protocols/SSH.md",
+    "IT/Linux/CPU/CPU.md",
+    "IT/Linux/Processes and Daemons/Process.md",
+    "IT/Linux/CPU",
+    "IT/Linux/Boot/init (Initialization Process).md",
     "IT/Linux/Files and Folders/Copy.md",
     "IT/Linux/Users/Permissions.md",
-    "IT/Linux/Processes and Daemons/Process.md",
     "IT/Linux/Processes and Daemons/Working with service.md",
     "IT/Linux/Files and Folders/Permissions.md",
     "IT/Linux/Runlevels/Runlevels.md",
@@ -149,20 +159,10 @@
     "IT/Internet",
     "IT/Linux/Processes and Daemons/Show.md",
     "IT/Linux/RAM/Available RAM and SWAP.md",
-    "IT/Linux/Boot/init (Initialization Process).md",
     "IT/Linux/Internet/Firewall.md",
     "IT/Linux/Files and Folders/Search.md",
-    "IT/Linux/RAM/Limit RAM for User.md",
-    "IT/Linux/Users/Passwords.md",
-    "IT/Linux/Users/Create a new one.md",
-    "IT/Linux/HDD/Format.md",
     "IT/Linux/Services/Untitled",
-    "IT/Linux/Internet/Troubleshooting.md",
-    "IT/Linux/Basic Components/Basic Components.md",
     "IT/Linux/Internet",
-    "Pasted image 20231106235015.png",
-    "IT/Linux/Basic Components",
-    "IT/Linux/Boot",
-    "IT/Linux/Users"
+    "Pasted image 20231106235015.png"
   ]
 }
