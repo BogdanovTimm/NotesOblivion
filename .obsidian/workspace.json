@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b99c672307d4916e",
+        "id": "976f9c538dc71e3f",
         "type": "tabs",
         "children": [
           {
@@ -140,7 +140,8 @@
     "IT/Linux/Processes and Daemons/Daemons.md",
     "IT/Linux/Archives",
     "IT/Linux/Archives/Archives.md",
-    "IT/Linux/Internet/DNS.md",
+    "IT/Linux/Archives",
+    "IT/Internet/Protocols/UDP.md",
     "IT/Internet/Protocols/TCP.md",
     "IT/Internet/Protocols/UDP.md",
     "IT/Linux/HDD/LVM.md",
