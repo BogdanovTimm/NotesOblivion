@@ -1,0 +1,1 @@
+Hibernate is a realization of JPA

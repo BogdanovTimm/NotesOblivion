@@ -1,0 +1,1 @@
+Very similar to the Union-Find one, but faster.

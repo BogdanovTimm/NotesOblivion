@@ -1,0 +1,1 @@
+You just create a List or a Map of desired output form SQL and `assert()` it.
