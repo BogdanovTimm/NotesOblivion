@@ -1,3 +1,9 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "Neue Haas Unica",
+  "textFontFamily": "Neue Haas Unica",
+  "monospaceFontFamily": "RobotoMono Nerd Font",
+  "baseFontSizeAction": false,
+  "showViewHeader": false,
+  "translucency": false
 }
