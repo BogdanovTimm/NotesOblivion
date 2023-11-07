@@ -112,11 +112,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 421.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -131,38 +131,20 @@
     "IT/Linux/Processes, Services and Daemons/Daemons.md",
     "IT/Linux/Troubleshooting",
     "IT/Linux/SSH/SSH.md",
-    "IT/Linux/Files and Folders/Search.md",
     "IT/Linux/SSH",
-    "IT/Bash/Redirection and Chaining/Chaining.md",
-    "IT/Bash/Redirection and Chaining/Redirection To Other Command.md",
-    "IT/Bash/Redirection and Chaining/Rerirection to Files.md",
-    "IT/Bash/Redirection.md",
-    "IT/Bash/Creating.md",
-    "IT/Bash/Permissions.md",
-    "IT/Bash/Redirection and Chaining",
-    "IT/Linux/RAM/Swap.md",
-    "IT/Linux/Boot/init (Initialization Process).md",
-    "IT/Linux/Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "IT/Linux/Files and Folders/Filename.md",
-    "IT/Linux/CPU/CPU.md",
-    "IT/Linux/CPU",
-    "IT/Linux/Alias/Alias.md",
-    "IT/Linux/Alias",
-    "IT/Internet/Protocols/SSH.md",
-    "IT/Linux/Boot/LILO.md",
-    "IT/Linux/Basic Components/Basic Components.md",
-    "IT/Linux/Runlevels/Runlevels.md",
-    "IT/Linux/Runlevels",
     "IT/Linux/Processes, Services and Daemons/Working with service.md",
     "IT/Linux/Processes, Services and Daemons/Show.md",
-    "IT/Linux/Processes, Services and Daemons/Process.md",
+    "IT/Linux/Processes, Services and Daemons/Daemons.md",
     "IT/Linux/Processes, Services and Daemons",
-    "IT/Linux/Internet/Troubleshooting.md",
-    "IT/Linux/Internet/Firewall.md",
-    "IT/Linux/Internet",
-    "IT/Linux/Archives",
-    "IT/Internet/Protocols",
+    "IT/Bash/Redirection and Chaining/Rerirection to Files.md",
+    "IT/Bash/Redirection and Chaining/Chaining.md",
+    "IT/Bash/Redirection and Chaining/Redirection To Other Command.md",
+    "IT/Bash/Redirection and Chaining",
+    "IT/Linux/Untitled.md",
+    "IT/Linux/Alias",
+    "IT/Linux/CPU",
+    "IT/Linux/Runlevels",
+    "IT/Linux/Scheduling",
     "Pasted image 20231106235015.png"
   ]
 }
