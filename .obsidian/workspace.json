@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Linux/RAM/Limit RAM for User.md",
+                "file": "IT/Linux/Files and Folders/Copy.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 267.5,
     "collapsed": true
   },
   "right": {
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux/RAM/Limit RAM for User.md",
+                "file": "IT/Linux/Files and Folders/Copy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Linux/RAM/Limit RAM for User.md",
+                "file": "IT/Linux/Files and Folders/Copy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Linux/RAM/Limit RAM for User.md"
+                "file": "IT/Linux/Files and Folders/Copy.md"
               }
             }
           }
@@ -127,42 +127,42 @@
   },
   "active": "e4d619fc82d131bf",
   "lastOpenFiles": [
+    "IT/Linux/Users/Permissions.md",
+    "IT/Linux/Files and Folders/Copy.md",
+    "IT/Linux/Processes and Daemons/Process.md",
+    "IT/Linux/Processes and Daemons/Working with service.md",
+    "IT/Linux/Files and Folders/Permissions.md",
+    "IT/Linux/Runlevels/Runlevels.md",
+    "IT/Bash/Replace.md",
+    "IT/Linux/Runlevels",
+    "IT/Linux/Scheduling/Schedule Running.md",
+    "IT/Linux/Scheduling/crontab.md",
+    "IT/Linux/Scheduling",
+    "IT/Linux/Processes and Daemons/Daemons.md",
+    "IT/Linux/Archives",
+    "IT/Linux/Archives/Archives.md",
+    "IT/Linux/Internet/DNS.md",
+    "IT/Internet/Protocols/TCP.md",
+    "IT/Internet/Protocols/UDP.md",
+    "IT/Linux/HDD/LVM.md",
+    "IT/Internet/Protocols",
+    "IT/Internet",
+    "IT/Linux/Processes and Daemons/Show.md",
     "IT/Linux/RAM/Available RAM and SWAP.md",
+    "IT/Linux/Boot/init (Initialization Process).md",
+    "IT/Linux/Internet/Firewall.md",
+    "IT/Linux/Files and Folders/Search.md",
     "IT/Linux/RAM/Limit RAM for User.md",
     "IT/Linux/Users/Passwords.md",
     "IT/Linux/Users/Create a new one.md",
     "IT/Linux/HDD/Format.md",
-    "IT/Linux/Services/Show.md",
-    "IT/Linux/Services/Working with service.md",
     "IT/Linux/Services/Untitled",
     "IT/Linux/Internet/Troubleshooting.md",
     "IT/Linux/Basic Components/Basic Components.md",
     "IT/Linux/Internet",
-    "Philosophy/Ethics.md",
-    "Psychology/!Что делать.md",
     "Pasted image 20231106235015.png",
-    "Здоровье/Зрение.md",
-    "Здоровье/Гастрит Хронический.md",
-    "Здоровье/Астма.md",
-    "Здоровье/Мигрень с аурой.md",
-    "Здоровье/Диабет.md",
-    "Cooking/Hard Boiled Eggs.md",
-    "IT/Algorithm/Data Structure/Symbol Tables.md",
-    "IT/Algorithm/Data Structure/Stack.md",
-    "IT/Algorithm/Data Structure/QuickUnion.md",
-    "IT/Algorithm/Data Structure/Queue.md",
-    "IT/Algorithm/Data Structure/Priority Queue.md",
-    "IT/Algorithm/Data Structure/Overview.md",
-    "IT/Design Patterns/Gang of Four/Behavioral/Visitor.md",
-    "IT/Design Patterns/Gang of Four/Behavioral/Observer.md",
-    "IT/Design Patterns/Gang of Four/Behavioral/Command.md",
     "IT/Linux/Basic Components",
     "IT/Linux/Boot",
-    "IT/Linux/Users",
-    "IT/Linux/Virtual Hosting",
-    "IT/Linux/Files and Folders",
-    "IT/Linux/HDD",
-    "IT/Linux/Services",
-    "IT/Linux/RAM"
+    "IT/Linux/Users"
   ]
 }

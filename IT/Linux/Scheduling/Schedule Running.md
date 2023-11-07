@@ -1,4 +1,4 @@
-# Run Script multiple times
+# Run Program or Script multiple times
 
 1. `crontab -e` - opens configuration for crontab
 2. Within opened by previous command file:
@@ -8,7 +8,7 @@
   59       23     *             *      5            /usr/local/bin/scriptname.sh
 ```
 
-# Run Script later once
+# Run Program or Script later once
 
 `at 22:00 081623 -f /path/to/script.sh` - it will run script.sh at 22:00 of 16th august 2023
 
