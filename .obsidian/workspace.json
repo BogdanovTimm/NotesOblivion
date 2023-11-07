@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -126,7 +126,7 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "e4d619fc82d131bf",
+  "active": "ae6eae0de275e4ac",
   "lastOpenFiles": [
     "Philosophy/Ethics.md",
     "IT/Algorithm/Algorithms/Shuffling.md",
