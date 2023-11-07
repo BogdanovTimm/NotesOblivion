@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Linux/Troubleshooting/Troubleshooting.md",
+                "file": "IT/Java/Java-Core.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux/Troubleshooting/Troubleshooting.md",
+                "file": "IT/Java/Java-Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Linux/Troubleshooting/Troubleshooting.md",
+                "file": "IT/Java/Java-Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Linux/Troubleshooting/Troubleshooting.md"
+                "file": "IT/Java/Java-Core.md"
               }
             }
           },
@@ -132,11 +132,13 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "d52c1d20a546945a",
+  "active": "f70bad8294d50d2c",
   "lastOpenFiles": [
+    "IT/Java/Mulithreading.md",
+    "IT/Java/Java-Core.md",
     "IT/Java/Java Memory.md",
-    "IT/Linux/Troubleshooting/Networking/Networking.md",
     "IT/Linux/Troubleshooting/Troubleshooting.md",
+    "IT/Linux/Troubleshooting/Networking/Networking.md",
     "IT/Linux/Processes, Services and Daemons/Daemons.md",
     "IT/Linux/Troubleshooting",
     "IT/Linux/SSH/SSH.md",
