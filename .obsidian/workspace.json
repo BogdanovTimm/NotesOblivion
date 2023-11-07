@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Linux/Files and Folders/Copy.md",
+                "file": "IT/Linux/Boot/init (Initialization Process).md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux/Files and Folders/Copy.md",
+                "file": "IT/Linux/Boot/init (Initialization Process).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Linux/Files and Folders/Copy.md",
+                "file": "IT/Linux/Boot/init (Initialization Process).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Linux/Files and Folders/Copy.md"
+                "file": "IT/Linux/Boot/init (Initialization Process).md"
               }
             }
           }
@@ -127,8 +126,8 @@
   },
   "active": "e4d619fc82d131bf",
   "lastOpenFiles": [
-    "IT/Linux/Users/Permissions.md",
     "IT/Linux/Files and Folders/Copy.md",
+    "IT/Linux/Users/Permissions.md",
     "IT/Linux/Processes and Daemons/Process.md",
     "IT/Linux/Processes and Daemons/Working with service.md",
     "IT/Linux/Files and Folders/Permissions.md",
