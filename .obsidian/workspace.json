@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Linux/Basic Components/Basic Components.md",
+                "file": "IT/Linux/Boot/init (Initialization Process).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux/Basic Components/Basic Components.md",
+                "file": "IT/Linux/Boot/init (Initialization Process).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Linux/Basic Components/Basic Components.md",
+                "file": "IT/Linux/Boot/init (Initialization Process).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Linux/Basic Components/Basic Components.md"
+                "file": "IT/Linux/Boot/init (Initialization Process).md"
               }
             }
           },
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 421.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -133,6 +134,8 @@
   },
   "active": "3d2c95d3d722f285",
   "lastOpenFiles": [
+    "IT/Linux/Boot/LILO.md",
+    "IT/Linux/Basic Components/Basic Components.md",
     "conflict-files-obsidian-git.md",
     "IT/Linux/Runlevels/Runlevels.md",
     "IT/Linux/Runlevels",
@@ -166,8 +169,6 @@
     "Test/Test folder",
     "Test",
     "IT/Java/Mulithreading.md",
-    "IT/Java/Java-Core.md",
-    "Psychology/!Что делать.md",
     "Pasted image 20231106235015.png",
     "IT/Linux/Basic Components"
   ]
