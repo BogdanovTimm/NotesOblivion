@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d52c1d20a546945a",
+            "id": "3afee03a7cb4b8bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Bash/Text/Find in file.md",
+                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Bash/Text/Find in file.md",
+                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Bash/Text/Find in file.md",
+                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Bash/Text/Find in file.md"
+                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md"
               }
             }
           },
@@ -133,10 +133,27 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "d52c1d20a546945a",
+  "active": "3afee03a7cb4b8bf",
   "lastOpenFiles": [
-    "IT/Bash/Text/Replace.md",
+    "Music/Jazz/Charlie Parker/Albums.md",
+    "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
+    "Psychology PhD course/Elnglish/Homework/2023.11.27.md",
+    "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
+    "Psychology PhD course/Elnglish/Homeworks.md",
+    "Psychology PhD course/Elnglish/Homework",
+    "Philosophy/Ethics.md",
+    "Psychology PhD course/!Что делать.md",
+    "Psychology PhD course/Диссертационная Работа.md",
+    "Psychology PhD course/Парфенова.md",
+    "Psychology PhD course/Elnglish/Translation.md",
+    "Psychology PhD course/Elnglish/Teacher.md",
+    "Psychology PhD course/Elnglish/Self Representation.md",
+    "Psychology PhD course/Elnglish",
     "IT/Bash/Text/Find in file.md",
+    "Music/Jazz/Charlie Parker",
+    "Music/Jazz",
+    "Music",
+    "IT/Bash/Text/Replace.md",
     "IT/Bash/Environment Variables/Environment Variables.md",
     "IT/Linux/Processes, Services and Daemons/Process.md",
     "IT/Bash/Environment Variables",
@@ -152,17 +169,8 @@
     "IT/Linux/Troubleshooting",
     "IT/Linux/SSH/SSH.md",
     "IT/Linux/SSH",
-    "IT/Linux/Processes, Services and Daemons/Show.md",
     "IT/Linux/Processes, Services and Daemons",
-    "IT/Bash/Redirection and Chaining/Rerirection to Files.md",
-    "IT/Bash/Redirection and Chaining/Chaining.md",
-    "IT/Bash/Redirection and Chaining/Redirection To Other Command.md",
     "IT/Bash/Redirection and Chaining",
-    "IT/Linux/Untitled.md",
-    "IT/Linux/Alias",
-    "IT/Linux/CPU",
-    "IT/Linux/Runlevels",
-    "IT/Linux/Scheduling",
     "Pasted image 20231106235015.png"
   ]
 }

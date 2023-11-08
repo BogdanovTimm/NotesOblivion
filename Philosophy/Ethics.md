@@ -34,10 +34,10 @@ Can moral facts be found in our experience, intuitions, a-priory field on knowle
 Relativism implies Cognitivism and Anti-Realism
 
 `Relativism` \- Cognitivism + Anti-Realism - there are moral facts, but they are not objective and they can be found in:
-\- `Cultural Relativism` \- cultures
-\- `Subjectivism` \- individual's opinions
-\- `Ideal Observer Theory` -
-\- `Divine Command Theory` \- God's commands
+- `Cultural Relativism` \- cultures
+- `Subjectivism` \- individual's opinions
+- `Ideal Observer Theory` -
+- `Divine Command Theory` \- God's commands
 
 ## Particular examples
 
