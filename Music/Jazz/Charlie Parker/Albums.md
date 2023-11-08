@@ -70,13 +70,13 @@
 - _Gene Roland Band featuring Charlie Parker - The Band That Never Was_ (Spotlight)
 - _Bird's Eyes, Vol. 6_ (Philology)
 - _[Bird on 52nd St.](https://en.wikipedia.org/wiki/Bird_on_52nd_St. "Bird on 52nd St.")_ (Jazz Workshop) 
-- _Charlie Parker_ (Prestige) `<--- Now I am here`
+- _Charlie Parker_ (Prestige)
 - _Charlie Parker - Live Performances_ (ESP)
 - _Charlie Parker on the Air, Vol. 1_ (Everest)
 
 # 1949
 
-- _Bird at the Roost, Vol. 2_
+- _Bird at the Roost, Vol. 2_ `<--- Now I am here`
 - _Bird at the Roost_
 - The Genius of Charlie Parker, #7 - Jazz Perennial_
 - _Jazz at the Philharmonic, Vol. 7_
