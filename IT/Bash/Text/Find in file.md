@@ -1,25 +1,43 @@
 # Find Lines containing giving REGEXP
 
-`awk '/^REGEXP to find/' fileName.txt`
+```bash
+awk '/^REGEXP to find/ {print$0}' fileName.txt
+```
 where:
 - `-F":"` - allows you to choose custom delimiter between words (instead of a standard whitespace)
 
 # Find Lines that match Nth Word
 
-`awk '$2 == "^RegexpToFind" {print($0)}' fileName.txt` - prints only lines which 2nd word is equal to given regexp
+Prints only lines which 2nd word is equal to given regexp:
+
+```bash
+awk '$2 == "^RegexpToFind" {print($0)}' fileName.txt
+``` 
 
 # Find Nth Word in each Line
 
-`awk '{print("2nd word is: ", $2)}' fileName.txt` - prints 2nd word from each line.
+Prints 2nd word from each line:
 
+```bash
+awk '{print("2nd word is: ", $2)}' fileName.txt
+```
 
 # Find Nth Word from the End in each Line
 
-`awk '{print("2nd word from the end is: ", $(NF-2))}' fileName.txt` - prints 2nd word from each line.
+Prints 2nd word from each line.:
+
+```bash
+awk '{print("2nd word from the end is: ", $(NF-2))}' fileName.txt
+```
 
 # Custom dilimeter
 
-`awk -F": '/text/ fileName.txt'` - use ':'  as a dilimeter instead of a standard whitespace
+Use ':'  as a dilimeter instead of a standard whitespace:
+
+```bash
+awk -F": '/text/ {print($0)}' fileName.txt
+```
+
 
 # Functions
 
@@ -43,4 +61,8 @@ Also, you can use variables with `$`: `$NF` - will give you `$4` for example.
 
 # How to escape `'`
 
-`awk '/Your/47s/ {print($0)}' fileName.txt` - just replace `'` with `\47`
+Just replace `'` with `\47`:
+
+```bash
+awk '/Your/47s/ {print($0)}' fileName.txt
+```

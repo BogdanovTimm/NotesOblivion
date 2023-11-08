@@ -1,7 +1,7 @@
 # Replace every occurrence
 
 ```bash
-sed 's/Text to Find/Text that will replace/g' fileName.txt
+awk 'gsub(/Text To Find/, "New text") {print($0)}' fileName.txt
 ```
 
 # Replace only second occurrence in each line
