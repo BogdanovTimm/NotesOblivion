@@ -1,7 +1,7 @@
 # 1940
 
-- _Bird's Eyes, Vol. 1_ (Philology)
-- _Charlie Parker with Jay McShann and His Orchestra - Early Bird_ (Stash)
+- Bird's Eyes, Vol. 1_ (Philology)
+- Charlie Parker with Jay McShann and His Orchestra - Early Bird_ (Stash)
 - _Jay McShann Orchestra featuring Charlie Parker - Early Bird_ (Spotlight)
 
 # 1941
