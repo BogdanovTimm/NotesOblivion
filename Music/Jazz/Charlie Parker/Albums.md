@@ -76,18 +76,18 @@
 
 # 1949
 
-- _Bird at the Roost, Vol. 2_ `<--- Now I am here`
+- _Bird at the Roost, Vol. 2_ 
 - _Bird at the Roost_
-- The Genius of Charlie Parker, #7 - Jazz Perennial_
-- _Jazz at the Philharmonic, Vol. 7_
-- _Jazz at the Philharmonic - The Ella Fitzgerald Set_
-- _The Complete Charlie Parker on Verve - Bird_
-- Charlie Parker - Broadcast Performances, Vol. 2_ (ESP)
-- _The Metronome All Stars - From Swing to Be-Bop_ (RCA Camden)
-- _Jazz at the Philharmonic - J.A.T.P. at Carnegie Hall 1949_ (Pablo)
-- _Rara Avis Avis, Rare Bird_ (Stash)
+- The Genius of Charlie Parker, #7 - Jazz Perennial `<--- Now I am here`
+- Jazz at the Philharmonic, Vol. 7
+- Jazz at the Philharmonic - The Ella Fitzgerald Set
+- The Complete Charlie Parker on Verve - Bird
+- Charlie Parker - Broadcast Performances, Vol. 2 (ESP)
+- The Metronome All Stars - From Swing to Be-Bop (RCA Camden)
+- Jazz at the Philharmonic - J.A.T.P. at Carnegie Hall 1949 (Pablo)
+- Rara Avis Avis, Rare Bird_ (Stash)
 - Various Artists - _Alto Saxes_ (Norgran)
-- _Bird on the Road_ (Jazz Showcase)
+- Bird on the Road (Jazz Showcase)
 - _Charlie Parker/Dizzy Gillespie - Bird and Diz_ (Universal (Japan))
 - _Charlie Parker - Bird in Paris_ (Bird in Paris)
 - _Charlie Parker in France 1949_ (Jazz O.P. (France))
