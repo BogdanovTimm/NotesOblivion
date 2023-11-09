@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Self Representation.md",
+                "file": "Psychology PhD course/Elnglish/Translation/Translation.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Self Representation.md",
+                "file": "Psychology PhD course/Elnglish/Translation/Translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Self Representation.md",
+                "file": "Psychology PhD course/Elnglish/Translation/Translation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Self Representation.md"
+                "file": "Psychology PhD course/Elnglish/Translation/Translation.md"
               }
             }
           },
@@ -135,9 +135,11 @@
   },
   "active": "3afee03a7cb4b8bf",
   "lastOpenFiles": [
+    "Psychology PhD course/Elnglish/Self Representation.md",
+    "Psychology PhD course/Elnglish/Translation/Translation.md",
+    "Psychology PhD course/Elnglish/Translation",
     "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
     "Psychology PhD course/Elnglish/Homeworks.md",
-    "Psychology PhD course/Elnglish/Self Representation.md",
     "Psychology PhD course/Диссертационная Работа.md",
     "Music/Jazz/Charlie Parker/Albums.md",
     "Psychology PhD course/Elnglish/Homework/2023.11.27.md",
@@ -167,10 +169,8 @@
     "IT/Linux/Troubleshooting/Troubleshooting.md",
     "IT/Linux/Troubleshooting/Networking/Networking.md",
     "IT/Linux/Troubleshooting",
-    "IT/Linux/SSH/SSH.md",
     "IT/Linux/SSH",
     "IT/Linux/Processes, Services and Daemons",
-    "IT/Bash/Redirection and Chaining",
     "Pasted image 20231106235015.png"
   ]
 }
