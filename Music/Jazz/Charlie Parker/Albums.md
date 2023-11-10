@@ -78,9 +78,9 @@
 
 - _Bird at the Roost, Vol. 2_ 
 - _Bird at the Roost_
-- The Genius of Charlie Parker, #7 - Jazz Perennial `<--- Now I am here`
+- The Genius of Charlie Parker, #7 - Jazz Perennial 
 - Jazz at the Philharmonic, Vol. 7
-- Jazz at the Philharmonic - The Ella Fitzgerald Set
+- Jazz at the Philharmonic - The Ella Fitzgerald Set `<--- Now I am here`
 - The Complete Charlie Parker on Verve - Bird
 - Charlie Parker - Broadcast Performances, Vol. 2 (ESP)
 - The Metronome All Stars - From Swing to Be-Bop (RCA Camden)

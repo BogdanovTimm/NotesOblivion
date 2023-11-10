@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree/Primm Eager MST.md",
+                "file": "Music/Jazz/Charlie Parker/Albums.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree/Primm Eager MST.md",
+                "file": "Music/Jazz/Charlie Parker/Albums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree/Primm Eager MST.md",
+                "file": "Music/Jazz/Charlie Parker/Albums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree/Primm Eager MST.md"
+                "file": "Music/Jazz/Charlie Parker/Albums.md"
               }
             }
           },
@@ -134,10 +134,10 @@
   },
   "active": "3afee03a7cb4b8bf",
   "lastOpenFiles": [
+    "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree/Primm Eager MST.md",
     "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree/Kruskal MST.md",
     "edge.md",
     "IT/Algorithm/Queues/Priority Queues/Min Priority Queue.md",
-    "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree/Primm Eager MST.md",
     "IT/Algorithm/Queues/Priority Queues",
     "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree.md",
     "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree",
