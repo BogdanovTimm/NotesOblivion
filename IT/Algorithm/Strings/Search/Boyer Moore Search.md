@@ -2,8 +2,6 @@
 
 This algorithm checks whether given substring exists in some String.
 
-# Characteristics
-
 # Code
 
 ```java
