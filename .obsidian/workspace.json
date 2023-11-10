@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
+                "file": "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Strongly Connected Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
+                "file": "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Strongly Connected Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
+                "file": "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Strongly Connected Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md"
+                "file": "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Strongly Connected Components.md"
               }
             }
           },
@@ -134,6 +134,15 @@
   },
   "active": "3afee03a7cb4b8bf",
   "lastOpenFiles": [
+    "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Depth First Search.md",
+    "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Depth First Order or Topological Sort.md",
+    "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Cycles.md",
+    "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Breadth First Search.md",
+    "IT/Algorithm/Graphs/Graph.md",
+    "IT/Algorithm/Algorithms/Merge 2 Sorted Arrays.md",
+    "IT/Algorithm/Algorithms/Longest Repeated Substring.md",
+    "IT/Algorithm/Algorithms/Connected Component.md",
+    "Music/Jazz/Charlie Parker/Albums.md",
     "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree/Primm Eager MST.md",
     "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree/Kruskal MST.md",
     "edge.md",
@@ -153,25 +162,16 @@
     "IT/Algorithm/Graphs/Weighted/Directed",
     "IT/Algorithm/Graphs/Unweighted/QuickFind/QuickFind.md",
     "Pasted image 20231110210358.png",
-    "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Depth First Order or Topological Sort.md",
     "IT/Algorithm/Graphs/Unweighted/QuickFind",
-    "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Breadth First Search.md",
     "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms/Breadth First Search.md",
-    "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Depth First Search.md",
     "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Strongly Connected Components.md",
     "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms/Depth First Search.md",
     "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms/Connected Components.md",
     "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms/Cycles.md",
-    "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Cycles.md",
-    "IT/Algorithm/Graphs/Unweighted/Directed/Digraph.md",
-    "IT/Algorithm/Graphs/Unweighted/Undirected/Undirected Symbol.md",
-    "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms/Check if Biparite.md",
     "IT/Algorithm/Graphs/Weighted",
     "IT/Algorithm/Graphs/Unweighted",
     "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms",
     "Pasted image 20231110190311.png",
-    "IT/Algorithm/Arrays/Sorted arrays/Binary Search.md",
-    "IT/Algorithm/Graph.md",
     "Pasted image 20231110135620.png",
     "Pasted image 20231110133406.png",
     "Untitled-2023-11-10-1121.png",
