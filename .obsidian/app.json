@@ -3,5 +3,6 @@
   "readableLineLength": false,
   "strictLineBreaks": false,
   "foldHeading": false,
-  "foldIndent": false
+  "foldIndent": false,
+  "alwaysUpdateLinks": true
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
+                "file": "IT/Algorithm/Strings/Longest Common Prefix/Longest Common Prefix.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
+                "file": "IT/Algorithm/Strings/Longest Common Prefix/Longest Common Prefix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
+                "file": "IT/Algorithm/Strings/Longest Common Prefix/Longest Common Prefix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md"
+                "file": "IT/Algorithm/Strings/Longest Common Prefix/Longest Common Prefix.md"
               }
             }
           },
@@ -135,42 +134,45 @@
   },
   "active": "3afee03a7cb4b8bf",
   "lastOpenFiles": [
+    "IT/Algorithm/Strings/Search/Boyer Moore Search.md",
+    "IT/Algorithm/Graph.md",
+    "IT/Algorithm/Arrays/Arrays of string/Quick Sort 3 Way Recursive for Strings.md",
+    "IT/Algorithm/Strings/Longest Common Prefix/Longest Common Prefix.md",
+    "Pasted image 20231110135620.png",
+    "IT/Algorithm/Strings/Longest Common Prefix",
+    "IT/Algorithm/Graphs/Directed/Digraph.md",
+    "IT/Algorithm/Strings/Search",
+    "Pasted image 20231110133406.png",
+    "IT/Algorithm/Bags/Bag.md",
+    "IT/Algorithm/Graphs/Directed",
+    "IT/Algorithm/Arrays/Sorted arrays/Binary Search.md",
+    "IT/Algorithm/Arrays/Sorting/Quick Sort 3 Way Recursive.md",
+    "IT/Algorithm/Arrays/Sorting/Merge Sort.md",
+    "IT/Algorithm/Arrays/Sorting/Insertion Sort.md",
+    "IT/Algorithm/Arrays/Top Key Element.md",
+    "IT/Algorithm/Arrays/Shuffle.md",
+    "IT/Algorithm/Arrays/Partition.md",
+    "IT/Algorithm/Arrays/Sorting",
+    "Music/Jazz/Charlie Parker/Albums.md",
+    "Untitled-2023-11-10-1121.png",
+    "Philosophy/Ethics.md",
+    "IT/Algorithm/Strings",
+    "IT/Algorithm/Stacks",
+    "IT/Algorithm/Queues",
+    "IT/Algorithm/Matrixes",
+    "IT/Algorithm/Maps",
+    "IT/Algorithm/Linked List",
+    "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
     "Psychology PhD course/Elnglish/Translation.md",
     "Psychology PhD course/Elnglish/Teacher.md",
     "Psychology PhD course/Elnglish/Self Representation.md",
     "Psychology PhD course/Elnglish/Translation/Translation.md",
-    "Music/Jazz/Charlie Parker/Albums.md",
-    "Psychology PhD course/Elnglish/Translation",
-    "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
     "Psychology PhD course/Elnglish/Homeworks.md",
     "Psychology PhD course/Диссертационная Работа.md",
     "Psychology PhD course/Elnglish/Homework/2023.11.27.md",
     "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
-    "Psychology PhD course/Elnglish/Homework",
-    "Philosophy/Ethics.md",
     "Psychology PhD course/!Что делать.md",
     "Psychology PhD course/Парфенова.md",
-    "Psychology PhD course/Elnglish",
-    "IT/Bash/Text/Find in file.md",
-    "Music/Jazz/Charlie Parker",
-    "Music/Jazz",
-    "Music",
-    "IT/Bash/Text/Replace.md",
-    "IT/Bash/Environment Variables/Environment Variables.md",
-    "IT/Linux/Processes, Services and Daemons/Process.md",
-    "IT/Bash/Environment Variables",
-    "IT/Linux/HDD/RAID.md",
-    "IT/Linux/Processes, Services and Daemons/Working with service.md",
-    "IT/Linux/Processes, Services and Daemons/Daemons.md",
-    "IT/Linux/HDD/Used-Free space.md",
-    "IT/Java/Java-Core.md",
-    "IT/Java/Mulithreading.md",
-    "IT/Java/Java Memory.md",
-    "IT/Linux/Troubleshooting/Troubleshooting.md",
-    "IT/Linux/Troubleshooting/Networking/Networking.md",
-    "IT/Linux/Troubleshooting",
-    "IT/Linux/SSH",
-    "IT/Linux/Processes, Services and Daemons",
     "Pasted image 20231106235015.png"
   ]
 }
