@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Strongly Connected Components.md",
+                "file": "Music/Jazz/Charlie Parker/Albums.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Strongly Connected Components.md",
+                "file": "Music/Jazz/Charlie Parker/Albums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Strongly Connected Components.md",
+                "file": "Music/Jazz/Charlie Parker/Albums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Strongly Connected Components.md"
+                "file": "Music/Jazz/Charlie Parker/Albums.md"
               }
             }
           },
@@ -134,47 +135,42 @@
   },
   "active": "3afee03a7cb4b8bf",
   "lastOpenFiles": [
+    "Psychology PhD course/Elnglish/Self Representation.md",
+    "IT/Algorithm/Strings/Search/Boyer Moore Search.md",
+    "IT/Algorithm/Strings/Longest Common Prefix/Longest Common Prefix.md",
+    "IT/Algorithm/Strings/Search",
+    "IT/Algorithm/Strings/Longest Common Prefix",
+    "IT/Algorithm/Strings",
+    "IT/Algorithm/Queues/Priority Queues/Min Priority Queue.md",
+    "IT/Algorithm/Queues/Priority Queues",
+    "IT/Algorithm/Queues",
+    "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree/Primm Eager MST.md",
+    "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree/Kruskal MST.md",
+    "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms/Depth First Search.md",
+    "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms/Cycles.md",
+    "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms/Connected Components.md",
+    "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms/Check if Biparite.md",
+    "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms/Breadth First Search.md",
+    "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree.md",
+    "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree",
+    "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Strongly Connected Components.md",
     "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Depth First Search.md",
     "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Depth First Order or Topological Sort.md",
     "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Cycles.md",
     "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Breadth First Search.md",
-    "IT/Algorithm/Graphs/Graph.md",
-    "IT/Algorithm/Algorithms/Merge 2 Sorted Arrays.md",
-    "IT/Algorithm/Algorithms/Longest Repeated Substring.md",
-    "IT/Algorithm/Algorithms/Connected Component.md",
-    "Music/Jazz/Charlie Parker/Albums.md",
-    "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree/Primm Eager MST.md",
-    "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree/Kruskal MST.md",
-    "edge.md",
-    "IT/Algorithm/Queues/Priority Queues/Min Priority Queue.md",
-    "IT/Algorithm/Queues/Priority Queues",
-    "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree.md",
-    "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree",
-    "IT/Algorithm/Graphs/Weighted/Undirected/Edge Undirected Weighted.md",
-    "IT/Algorithm/Graphs/Weighted/Undirected/Undirected Weighted Graph.md",
-    "IT/Algorithm/Strings/Search/Boyer Moore Search.md",
-    "IT/Algorithm/Strings/Longest Common Prefix/Longest Common Prefix.md",
-    "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms",
+    "IT/Algorithm/Graphs/Unweighted/Undirected/Undirected Symbol.md",
     "IT/Algorithm/Graphs/Unweighted/Undirected/Undirected Graph.md",
-    "IT/Algorithm/Graphs/Unweighted/QuickFind/Weighted QuickUnion.md",
-    "IT/Algorithm/Graphs/Weighted/Directed/Untitled",
-    "IT/Algorithm/Graphs/Weighted/Undirected",
-    "IT/Algorithm/Graphs/Weighted/Directed",
-    "IT/Algorithm/Graphs/Unweighted/QuickFind/QuickFind.md",
-    "Pasted image 20231110210358.png",
-    "IT/Algorithm/Graphs/Unweighted/QuickFind",
-    "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms/Breadth First Search.md",
-    "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms/Strongly Connected Components.md",
-    "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms/Depth First Search.md",
-    "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms/Connected Components.md",
-    "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms/Cycles.md",
-    "IT/Algorithm/Graphs/Weighted",
-    "IT/Algorithm/Graphs/Unweighted",
     "IT/Algorithm/Graphs/Unweighted/Undirected/Algorithms",
-    "Pasted image 20231110190311.png",
-    "Pasted image 20231110135620.png",
-    "Pasted image 20231110133406.png",
-    "Untitled-2023-11-10-1121.png",
+    "IT/Algorithm/Graphs/Weighted/Undirected/Undirected Weighted Graph.md",
+    "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms",
+    "IT/Algorithm/Graphs/Weighted/Undirected/Edge Undirected Weighted.md",
+    "IT/Algorithm/Graphs/Unweighted/QuickFind/Weighted QuickUnion.md",
+    "IT/Algorithm/Graphs/Unweighted/QuickFind/QuickFind.md",
+    "IT/Algorithm/Graphs/Unweighted/Directed/Digraph.md",
+    "IT/Algorithm/Graphs/Unweighted/Directed/Algorithms",
+    "IT/Algorithm/Graphs/Weighted/Undirected",
+    "IT/Algorithm/Graphs/Graph.md",
+    "IT/Algorithm/Bags/Bag.md",
     "Pasted image 20231106235015.png"
   ]
 }
