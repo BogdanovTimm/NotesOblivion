@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Java/SecureCapita/How to Run it.md",
+                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Java/SecureCapita/How to Run it.md",
+                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Java/SecureCapita/How to Run it.md",
+                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Java/SecureCapita/How to Run it.md"
+                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md"
               }
             }
           },
@@ -135,8 +135,11 @@
   },
   "active": "eb9fff4445267220",
   "lastOpenFiles": [
-    "IT/Linux/Files and Folders/Permissions.md",
+    "Psychology PhD course/Elnglish/Self Representation.md",
+    "Psychology PhD course/Elnglish/Translation/Translation.md",
+    "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
     "IT/Java/SecureCapita/How to Run it.md",
+    "IT/Linux/Files and Folders/Permissions.md",
     "IT/Linux/Users/Permissions.md",
     "IT/Java/SecureCapita/Passwords.md",
     "Music/Jazz/Charlie Parker/Albums.md",
@@ -162,9 +165,6 @@
     "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree.md",
     "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree",
     "IT/Algorithm/Graphs/Weighted/Undirected/Edge Undirected Weighted.md",
-    "IT/Algorithm/Graphs/Weighted/Undirected/Undirected Weighted Graph.md",
-    "IT/Algorithm/Strings/Search/Boyer Moore Search.md",
-    "IT/Algorithm/Strings/Longest Common Prefix/Longest Common Prefix.md",
     "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms",
     "IT/Algorithm/Graphs/Weighted/Directed/Untitled",
     "IT/Algorithm/Graphs/Weighted/Undirected",
