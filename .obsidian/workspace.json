@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "daf869a0c19cb8a1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Linux/Files and Folders/Permissions.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "eb9fff4445267220",
             "type": "leaf",
             "state": {
@@ -33,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,8 +136,8 @@
   "active": "eb9fff4445267220",
   "lastOpenFiles": [
     "IT/Linux/Files and Folders/Permissions.md",
-    "IT/Linux/Users/Permissions.md",
     "IT/Java/SecureCapita/How to Run it.md",
+    "IT/Linux/Users/Permissions.md",
     "IT/Java/SecureCapita/Passwords.md",
     "Music/Jazz/Charlie Parker/Albums.md",
     "IT/Docker/Run.md",
