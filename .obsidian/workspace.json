@@ -10,16 +10,31 @@
           {
             "id": "daf869a0c19cb8a1",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Linux/Files and Folders/Permissions.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "eb9fff4445267220",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "IT/Java/SecureCapita/How to Run it.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,10 +148,14 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "daf869a0c19cb8a1",
+  "active": "eb9fff4445267220",
   "lastOpenFiles": [
-    "IT/Docker/Run.md",
+    "IT/Linux/Files and Folders/Permissions.md",
+    "IT/Linux/Users/Permissions.md",
     "IT/Java/SecureCapita/How to Run it.md",
+    "IT/Java/SecureCapita/Passwords.md",
+    "Music/Jazz/Charlie Parker/Albums.md",
+    "IT/Docker/Run.md",
     "IT/Java/Java-Core.md",
     "IT/Java/Java Memory.md",
     "IT/Docker",
@@ -150,7 +169,6 @@
     "IT/Algorithm/Algorithms/Merge 2 Sorted Arrays.md",
     "IT/Algorithm/Algorithms/Longest Repeated Substring.md",
     "IT/Algorithm/Algorithms/Connected Component.md",
-    "Music/Jazz/Charlie Parker/Albums.md",
     "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree/Primm Eager MST.md",
     "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree/Kruskal MST.md",
     "edge.md",
@@ -163,12 +181,9 @@
     "IT/Algorithm/Strings/Search/Boyer Moore Search.md",
     "IT/Algorithm/Strings/Longest Common Prefix/Longest Common Prefix.md",
     "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms",
-    "IT/Algorithm/Graphs/Unweighted/Undirected/Undirected Graph.md",
-    "IT/Algorithm/Graphs/Unweighted/QuickFind/Weighted QuickUnion.md",
     "IT/Algorithm/Graphs/Weighted/Directed/Untitled",
     "IT/Algorithm/Graphs/Weighted/Undirected",
     "IT/Algorithm/Graphs/Weighted/Directed",
-    "IT/Algorithm/Graphs/Unweighted/QuickFind/QuickFind.md",
     "Pasted image 20231110210358.png",
     "IT/Algorithm/Graphs/Unweighted/QuickFind",
     "IT/Algorithm/Graphs/Weighted",
