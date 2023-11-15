@@ -81,11 +81,11 @@
 - The Genius of Charlie Parker, #7 - Jazz Perennial 
 - Jazz at the Philharmonic, Vol. 7
 - Jazz at the Philharmonic - The Ella Fitzgerald Set
-- The Complete Charlie Parker on Verve - Bird  `<--- Now I am here`
+- The Complete Charlie Parker on Verve - Bird  
 - Charlie Parker - Broadcast Performances, Vol. 2 (ESP)
 - The Metronome All Stars - From Swing to Be-Bop (RCA Camden)
 - Jazz at the Philharmonic - J.A.T.P. at Carnegie Hall 1949 (Pablo)
-- Rara Avis Avis, Rare Bird_ (Stash)
+- Rara Avis Avis, Rare Bird_ (Stash) `<--- Now I am here`
 - Various Artists - _Alto Saxes_ (Norgran)
 - Bird on the Road (Jazz Showcase)
 - _Charlie Parker/Dizzy Gillespie - Bird and Diz_ (Universal (Japan))
