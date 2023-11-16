@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Java/SecureCapita/How To Run It Within Java.md",
+                "file": "Psychology PhD course/Philosophy/Книги.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Java/SecureCapita/How To Run It Within Java.md",
+                "file": "Psychology PhD course/Philosophy/Книги.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Java/SecureCapita/How To Run It Within Java.md",
+                "file": "Psychology PhD course/Philosophy/Книги.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Java/SecureCapita/How To Run It Within Java.md"
+                "file": "Psychology PhD course/Philosophy/Книги.md"
               }
             }
           },
@@ -150,10 +149,12 @@
   },
   "active": "3e8c0761bdf60429",
   "lastOpenFiles": [
-    "IT/Java/SecureCapita/How to Run it.md",
-    "IT/Java/SecureCapita/How To Run It Within Java.md",
-    "IT/Docker/Run.md",
     "Music/Jazz/Charlie Parker/Albums.md",
+    "Psychology PhD course/Philosophy/Книги.md",
+    "Psychology PhD course/Philosophy",
+    "IT/Java/SecureCapita/How To Run It Within Java.md",
+    "IT/Java/SecureCapita/How to Run it.md",
+    "IT/Docker/Run.md",
     "Sanya/2023 15 11.md",
     "IT/Bash/Redirection and Chaining/Redirection To Other Command.md",
     "Sanya",
@@ -176,7 +177,6 @@
     "IT/Bash/Creating.md",
     "IT/Bash/Text/Replace.md",
     "IT/Bash/Text/Find in file.md",
-    "IT/Bash/Redirection and Chaining/Rerirection to Files.md",
     "IT/Docker",
     "IT/Java/SecureCapita",
     "IT/Algorithm/Queues/Priority Queues",
@@ -186,7 +186,6 @@
     "IT/Algorithm/Graphs/Weighted/Undirected",
     "IT/Algorithm/Graphs/Weighted/Directed",
     "Pasted image 20231110210358.png",
-    "IT/Algorithm/Graphs/Unweighted/QuickFind",
     "Pasted image 20231110190311.png",
     "Pasted image 20231110135620.png",
     "Pasted image 20231110133406.png",

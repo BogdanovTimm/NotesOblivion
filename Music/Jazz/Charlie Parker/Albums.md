@@ -88,8 +88,8 @@
 - Rara Avis Avis, Rare Bird_ (Stash) 
 - Various Artists - _Alto Saxes_ (Norgran)
 - Bird on the Road (Jazz Showcase)
-- _Charlie Parker/Dizzy Gillespie - Bird and Diz_ (Universal (Japan)) `<--- Now I am here`
-- _Charlie Parker - Bird in Paris_ (Bird in Paris)
+- _Charlie Parker/Dizzy Gillespie - Bird and Diz_ (Universal (Japan)) 
+- _Charlie Parker - Bird in Paris_ (Bird in Paris) `<--- Now I am here`
 - _Charlie Parker in France 1949_ (Jazz O.P. (France))
 - _Charlie Parker - Bird Box, Vol. 2_ (Jazz Up (Italy))
 - _Bird's Eyes, Vol. 5_ (Philology)
