@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3e8c0761bdf60429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Docker/Run.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
+                "file": "IT/Docker/Run.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
+                "file": "IT/Docker/Run.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md"
+                "file": "IT/Docker/Run.md"
               }
             }
           },
@@ -135,10 +148,12 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "eb9fff4445267220",
+  "active": "3e8c0761bdf60429",
   "lastOpenFiles": [
-    "Sanya/2023 15 11.md",
+    "IT/Java/SecureCapita/How to Run it.md",
+    "IT/Docker/Run.md",
     "Music/Jazz/Charlie Parker/Albums.md",
+    "Sanya/2023 15 11.md",
     "IT/Bash/Redirection and Chaining/Redirection To Other Command.md",
     "Sanya",
     "IT/Bash/Redirection and Chaining/Chaining.md",
@@ -151,8 +166,6 @@
     "IT/Kubernates/Get inside cluster.md",
     "IT/Java/Java Memory.md",
     "IT/Java/SecureCapita/Passwords.md",
-    "IT/Java/SecureCapita/How to Run it.md",
-    "IT/Docker/Run.md",
     "IT/Design Patterns/Gang of Four/Behavioral/Visitor.md",
     "IT/Design Patterns/Gang of Four/Behavioral/Observer.md",
     "IT/Design Patterns/Gang of Four/Behavioral/Command.md",
