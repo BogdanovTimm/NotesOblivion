@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Docker/Run.md",
+                "file": "IT/Java/SecureCapita/How To Run It Within Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Docker/Run.md",
+                "file": "IT/Java/SecureCapita/How To Run It Within Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Docker/Run.md",
+                "file": "IT/Java/SecureCapita/How To Run It Within Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Docker/Run.md"
+                "file": "IT/Java/SecureCapita/How To Run It Within Java.md"
               }
             }
           },
@@ -151,6 +151,7 @@
   "active": "3e8c0761bdf60429",
   "lastOpenFiles": [
     "IT/Java/SecureCapita/How to Run it.md",
+    "IT/Java/SecureCapita/How To Run It Within Java.md",
     "IT/Docker/Run.md",
     "Music/Jazz/Charlie Parker/Albums.md",
     "Sanya/2023 15 11.md",
@@ -176,7 +177,6 @@
     "IT/Bash/Text/Replace.md",
     "IT/Bash/Text/Find in file.md",
     "IT/Bash/Redirection and Chaining/Rerirection to Files.md",
-    "IT/Kubernates/Installation.md",
     "IT/Docker",
     "IT/Java/SecureCapita",
     "IT/Algorithm/Queues/Priority Queues",
