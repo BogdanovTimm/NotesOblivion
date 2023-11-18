@@ -8,25 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb9fff4445267220",
+            "id": "1dad953c262b370b",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Psychology PhD course/Elnglish/Translation/Translation.md",
+                "mode": "source",
+                "source": false
+              },
               "pinned": true
             }
           },
           {
-            "id": "1dad953c262b370b",
+            "id": "d6fa3198f7786ed4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
+                "file": "Psychology PhD course/Dissertation/Moral Psychology/Literature/Undreaded.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -72,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 275.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
+                "file": "Psychology PhD course/Dissertation/Moral Psychology/Literature/Undreaded.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
+                "file": "Psychology PhD course/Dissertation/Moral Psychology/Literature/Undreaded.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md"
+                "file": "Psychology PhD course/Dissertation/Moral Psychology/Literature/Undreaded.md"
               }
             }
           },
@@ -144,8 +149,22 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "1dad953c262b370b",
+  "active": "d6fa3198f7786ed4",
   "lastOpenFiles": [
+    "Psychology PhD course/Dissertation/Moral Psychology/Literature/Readed.md",
+    "Psychology PhD course/Elnglish/Translation/Translation.md",
+    "Psychology PhD course/Elnglish/Teacher.md",
+    "Psychology PhD course/Dissertation/Moral Psychology/Literature/Undreaded.md",
+    "Psychology PhD course/Dissertation/Moral Psychology/Literature.md",
+    "Psychology PhD course/Dissertation/Moral Psychology/Literature/Untitled",
+    "Psychology PhD course/Dissertation/Moral Psychology/Literature",
+    "Psychology PhD course/Dissertation/Moral Psychology/Values.md",
+    "Psychology PhD course/Dissertation/Moral Psychology/Tests.md",
+    "Psychology PhD course/Dissertation/Moral Psychology/History.md",
+    "Psychology PhD course/Dissertation/Moral Psychology/Kohlberg, Lawrence.md",
+    "Psychology PhD course/Dissertation/Moral Psychology",
+    "Psychology PhD course/Диссертационная Работа.md",
+    "Psychology PhD course/Dissertation",
     "Music/Jazz/Charlie Parker/Albums.md",
     "Music/Jazz/Charlie Parker",
     "Music/Jazz",
@@ -167,22 +186,8 @@
     "Untitled-2023-11-10-1121.png",
     "Sanya/2023 15 11.md",
     "Sanya",
-    "Psychology PhD course/Elnglish/Translation/Translation.md",
     "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
     "Psychology PhD course/Elnglish/Homework/2023.11.27.md",
-    "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
-    "Psychology PhD course/Philosophy/Книги.md",
-    "Psychology PhD course/Elnglish/Translation.md",
-    "Psychology PhD course/Elnglish/Translation",
-    "Psychology PhD course/Elnglish/Teacher.md",
-    "Psychology PhD course/Elnglish/Self Representation.md",
-    "Psychology PhD course/Elnglish/Homework",
-    "Psychology PhD course/Парфенова.md",
-    "Psychology PhD course/Диссертационная Работа.md",
-    "Psychology PhD course/Philosophy",
-    "Psychology PhD course/Elnglish",
-    "Psychology PhD course/!Что делать.md",
-    "Philosophy/Ethics.md",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
     "Pasted image 20231110135620.png",
