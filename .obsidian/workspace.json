@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d69527e29e16af95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology PhD course/Philosophy/Книги.md",
+                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology PhD course/Philosophy/Книги.md",
+                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology PhD course/Philosophy/Книги.md"
+                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md"
               }
             }
           },
@@ -147,7 +159,7 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "3e8c0761bdf60429",
+  "active": "d69527e29e16af95",
   "lastOpenFiles": [
     "Music/Jazz/Charlie Parker/Albums.md",
     "Psychology PhD course/Philosophy/Книги.md",
