@@ -12,41 +12,25 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
           },
           {
-            "id": "3e8c0761bdf60429",
+            "id": "1dad953c262b370b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology PhD course/Philosophy/Книги.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d69527e29e16af95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
+                "file": "Music/Jazz/Charlie Parker/Albums.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -104,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
+                "file": "Music/Jazz/Charlie Parker/Albums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
+                "file": "Music/Jazz/Charlie Parker/Albums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023.11.13.md"
+                "file": "Music/Jazz/Charlie Parker/Albums.md"
               }
             }
           },
@@ -159,49 +144,49 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "d69527e29e16af95",
+  "active": "1dad953c262b370b",
   "lastOpenFiles": [
     "Music/Jazz/Charlie Parker/Albums.md",
-    "Psychology PhD course/Philosophy/Книги.md",
-    "Psychology PhD course/Philosophy",
-    "IT/Java/SecureCapita/How To Run It Within Java.md",
-    "IT/Java/SecureCapita/How to Run it.md",
-    "IT/Docker/Run.md",
+    "Music/Jazz/Charlie Parker",
+    "Music/Jazz",
+    "Music",
+    "Поэзия/Когда движение замедлится.md",
+    "Поэзия",
+    "Здоровье/Ноги.md",
+    "Здоровье/Недостаточность кардии желудочка.md",
+    "Здоровье/Мигрень с аурой.md",
+    "Здоровье/Зрение.md",
+    "Здоровье/Диабет.md",
+    "Здоровье/Гастродуоденит.md",
+    "Здоровье/Гастро-эзофагальный рефлюкс.md",
+    "Здоровье/БАР.md",
+    "Здоровье/Гастрит Хронический.md",
+    "Здоровье/Астма.md",
+    "Здоровье",
+    "edge.md",
+    "Untitled-2023-11-10-1121.png",
     "Sanya/2023 15 11.md",
-    "IT/Bash/Redirection and Chaining/Redirection To Other Command.md",
     "Sanya",
-    "IT/Bash/Redirection and Chaining/Chaining.md",
-    "IT/Bash/Environment Variables/Environment Variables.md",
+    "Psychology PhD course/Elnglish/Translation/Translation.md",
+    "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
+    "Psychology PhD course/Elnglish/Homework/2023.11.27.md",
     "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
-    "IT/Kubernates/Pod.md",
-    "IT/Kubernates/Services.md",
-    "IT/Kubernates/Deploy.md",
-    "IT/Kubernates/Ingress.md",
-    "IT/Kubernates/Get inside cluster.md",
-    "IT/Java/Java Memory.md",
-    "IT/Java/SecureCapita/Passwords.md",
-    "IT/Design Patterns/Gang of Four/Behavioral/Visitor.md",
-    "IT/Design Patterns/Gang of Four/Behavioral/Observer.md",
-    "IT/Design Patterns/Gang of Four/Behavioral/Command.md",
-    "IT/Bash/Where to store scripts.md",
-    "IT/Bash/Run.md",
-    "IT/Bash/Permissions.md",
-    "IT/Bash/Creating.md",
-    "IT/Bash/Text/Replace.md",
-    "IT/Bash/Text/Find in file.md",
-    "IT/Docker",
-    "IT/Java/SecureCapita",
-    "IT/Algorithm/Queues/Priority Queues",
-    "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms/Minimum Spanning Tree",
-    "IT/Algorithm/Graphs/Weighted/Undirected/Algorithms",
-    "IT/Algorithm/Graphs/Weighted/Directed/Untitled",
-    "IT/Algorithm/Graphs/Weighted/Undirected",
-    "IT/Algorithm/Graphs/Weighted/Directed",
+    "Psychology PhD course/Philosophy/Книги.md",
+    "Psychology PhD course/Elnglish/Translation.md",
+    "Psychology PhD course/Elnglish/Translation",
+    "Psychology PhD course/Elnglish/Teacher.md",
+    "Psychology PhD course/Elnglish/Self Representation.md",
+    "Psychology PhD course/Elnglish/Homework",
+    "Psychology PhD course/Парфенова.md",
+    "Psychology PhD course/Диссертационная Работа.md",
+    "Psychology PhD course/Philosophy",
+    "Psychology PhD course/Elnglish",
+    "Psychology PhD course/!Что делать.md",
+    "Philosophy/Ethics.md",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
     "Pasted image 20231110135620.png",
     "Pasted image 20231110133406.png",
-    "Untitled-2023-11-10-1121.png",
     "Pasted image 20231106235015.png"
   ]
 }

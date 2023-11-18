@@ -89,11 +89,11 @@
 - Various Artists - _Alto Saxes_ (Norgran)
 - Bird on the Road (Jazz Showcase)
 - _Charlie Parker/Dizzy Gillespie - Bird and Diz_ (Universal (Japan)) 
-- _Charlie Parker - Bird in Paris_ (Bird in Paris) `<--- Now I am here`
+- _Charlie Parker - Bird in Paris_ (Bird in Paris) 
 - _Charlie Parker in France 1949_ (Jazz O.P. (France))
 - _Charlie Parker - Bird Box, Vol. 2_ (Jazz Up (Italy))
 - _Bird's Eyes, Vol. 5_ (Philology)
-- _[Charlie Parker with Strings](https://en.wikipedia.org/wiki/Charlie_Parker_with_Strings "Charlie Parker with Strings")_ (Clef)
+- _[Charlie Parker with Strings](https://en.wikipedia.org/wiki/Charlie_Parker_with_Strings "Charlie Parker with Strings")_ (Clef) `<--- Now I am here`
 - _Bird's Eyes, Vol. 2_ (Philology)
 - _Bird's Eyes, Vol. 3_ (Philology)
 - _Dance of the Infidels_ (S.C.A.M.)
