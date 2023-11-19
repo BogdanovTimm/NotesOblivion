@@ -24,5 +24,5 @@ http://timofeimen.fvds.ru
 11. `chmod ugo+x ./securecapita-0.0.1-SNAPSHOT.jar`
 12. `sudo apt update`
 13. `sudo apt install openjdk-17-jdk`
-14. `java -jar /var/shared/webapplication/securecapita-0.0.1-SNAPSHOT.jar --spring.datasource.password=Analsex1488! --spring.datasource.username=tim --spring.mail.password="vwku yerk hzon oltu"`
+14. `nohup java -jar /var/shared/webapplication/securecapita-0.0.1-SNAPSHOT.jar --spring.datasource.password=Analsex1488! --spring.datasource.username=tim --spring.mail.password="vwku yerk hzon oltu" &`
 15. Add new firewall rule to open 80 port  (IP = `0.0.0.0/0` - this means that every PC in the world can send TCP or UDP signal)
