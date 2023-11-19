@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md",
+                "file": "Philosophy/Ethics/Metaethics/Moore's Open Question.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md",
+                "file": "Philosophy/Ethics/Metaethics/Moore's Open Question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md",
+                "file": "Philosophy/Ethics/Metaethics/Moore's Open Question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md"
+                "file": "Philosophy/Ethics/Metaethics/Moore's Open Question.md"
               }
             }
           },
@@ -134,8 +135,16 @@
   },
   "active": "74220086c5263c33",
   "lastOpenFiles": [
-    "Psychology PhD course/Dissertation/Moral Psychology/Values.md",
+    "Philosophy/Ethics.md",
+    "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
+    "Psychology PhD course/Elnglish/Homework/2023.11.27.md",
+    "Philosophy/Ethics/Metaethics/Moore's Open Question.md",
+    "Philosophy/Untitled.md",
+    "Philosophy/Ethics/Metaethics",
+    "Philosophy/Ethics",
     "Psychology PhD course/Dissertation/Ideas.md",
+    "Measures.md",
+    "Psychology PhD course/Dissertation/Moral Psychology/Values.md",
     "Psychology PhD course/Dissertation/Moral Psychology/Kohlberg, Lawrence.md",
     "Psychology PhD course/Dissertation/Moral Psychology/Literature/Undreaded.md",
     "Psychology PhD course/Elnglish/Translation/Translation.md",
@@ -162,15 +171,7 @@
     "Здоровье/Диабет.md",
     "Здоровье/Гастродуоденит.md",
     "Здоровье/Гастро-эзофагальный рефлюкс.md",
-    "Здоровье/БАР.md",
-    "Здоровье/Гастрит Хронический.md",
-    "Здоровье/Астма.md",
-    "Здоровье",
-    "edge.md",
     "Untitled-2023-11-10-1121.png",
-    "Sanya/2023 15 11.md",
-    "Sanya",
-    "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
     "Pasted image 20231110135620.png",
