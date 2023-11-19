@@ -25,3 +25,24 @@ This reconstruction of Moore's Open Arguments cannot be destroyed by Frege's phi
 5. So, `goodness` and `pleasantness` differ in respect of what Moore believes about them. (He believes that one is good, but he isn’t sure about the other.) 
 6. But by the **principle of the indiscernibility of identicals**, if `X` is identical with `Y`, then `X` and `Y` are indiscernible, that is they have all their properties in common. *(Premise—sometimes known as **Leibniz’s Law**)*
 7. Thus `goodness` and `pleasantness` are distinct. *(From 5. and 6.)*
+
+# If Moore is Right
+
+If Moore is right, we have 3 possibility:
+- `Good` = some `normative property`
+- There is no `Good`
+- There is only 1 `moral property` - but it is false, because different people has different meanings about what `good`, `bad` and other `moral properties` mean
+
+# Naturalistic Fallacy
+
+For **Moore** it means a **1 way of reaching the conclusion** that `good` = `something else`.
+
+For others it means **any conclusion** that `moral properties` = `natural properties`.
+
+# Natural Properties
+
+`Natural properties` for **Moore** are those properties that both **nor moral** and **nor supernatural**.
+
+But most philosopher think that:
+- `natural properties` = properties that may be **explored by sciences**
+- `naturalism` = belief that **there are** some **properties** that may be **explored by sciences**
