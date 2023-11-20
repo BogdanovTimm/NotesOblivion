@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "346c786de2e71cac",
+        "id": "78374ab07c16c564",
         "type": "tabs",
         "children": [
           {
-            "id": "74220086c5263c33",
+            "id": "610ae5900e3e511c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Internalism/Internalism.md",
+                "file": "Philosophy/Ethics/Metaethics/Internalism/Bernard William's argument.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Internalism/Internalism.md",
+                "file": "Philosophy/Ethics/Metaethics/Internalism/Bernard William's argument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Internalism/Internalism.md",
+                "file": "Philosophy/Ethics/Metaethics/Internalism/Bernard William's argument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Internalism/Internalism.md"
+                "file": "Philosophy/Ethics/Metaethics/Internalism/Bernard William's argument.md"
               }
             }
           },
@@ -132,10 +132,17 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "74220086c5263c33",
+  "active": "610ae5900e3e511c",
   "lastOpenFiles": [
-    "Philosophy/Ethics/Metaethics/Externalism/Externalism.md",
+    "Philosophy/Ethics/Metaethics/Internalism/Falk's argument.md",
+    "Philosophy/Ethics/Metaethics/Internalism/Bernard William's argument.md",
     "Philosophy/Ethics/Metaethics/Internalism/Internalism.md",
+    "Philosophy/Ethics/Metaethics/Internalism/Translation argument.md",
+    "Philosophy/Ethics/Metaethics/Internalism/Argument from the Epistemology of Moral Attitude Attribution.md",
+    "Philosophy/Ethics/Metaethics/Internalism/Horgan and Timmons thought experiment.md",
+    "Philosophy/Ethics/Metaethics/Internalism/Counterargument from amoralists.md",
+    "Philosophy/Ethics/Metaethics/Hare's Translation Argument.md",
+    "Philosophy/Ethics/Metaethics/Externalism/Externalism.md",
     "Philosophy/Ethics/Metaethics/Externalism",
     "Philosophy/Ethics/Metaethics/Harman's claim.md",
     "Philosophy/Ethics/Metaethics/Internalism",
@@ -159,13 +166,6 @@
     "Здоровье/Ноги.md",
     "Здоровье/Недостаточность кардии желудочка.md",
     "Здоровье/Мигрень с аурой.md",
-    "Здоровье/Зрение.md",
-    "Здоровье/Диабет.md",
-    "Здоровье/Гастродуоденит.md",
-    "Здоровье/Гастро-эзофагальный рефлюкс.md",
-    "Здоровье/Гастрит Хронический.md",
-    "Здоровье/БАР.md",
-    "Здоровье/Астма.md",
     "Здоровье",
     "Sanya",
     "Psychology PhD course/Dissertation/Moral Psychology/Literature",

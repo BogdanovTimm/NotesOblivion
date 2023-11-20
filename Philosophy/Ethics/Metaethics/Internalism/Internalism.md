@@ -14,7 +14,7 @@ Types of Internalism:
 	- Reasons/motives = belief that reasons must have a connection with motives
 - Group 2:
 	- Judgment internalism - moral judgements must be connected with reasons or motives
-	- Existense internalism - moral facts (properties) must be connected with reasons or motives
+	- Existence internalism - moral facts (properties) must be connected with reasons or motives
 - Group 3:
 	- Defeasible internalism - Morals or reasons may motivate someone (for example, only rational agents. Irrational people will not be motivated by their moral positions)
 	- Indefeasible internalism - morals or reasons always motivate someone
