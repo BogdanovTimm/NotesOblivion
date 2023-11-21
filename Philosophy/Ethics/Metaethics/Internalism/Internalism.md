@@ -9,12 +9,12 @@ To be `metaethical internalist` is either:
 
 Types of Internalism:
 - Group 1:
-	- Morals/reasons = belief that moral judgments must have a connection with reasons.
-	- Morals/motives = belief that moral judgments must have a connection with motives
-	- Reasons/motives = belief that reasons must have a connection with motives
+	- Morals/reasons = belief that moral obligations must have a connection with reasons.
+	- Morals/motives = belief that moral obligations must have a connection with motives (or desires)
+	- Reasons/motives = belief that reasons must have a connection with motives (or desires)
 - Group 2:
-	- Judgment internalism - moral judgements must be connected with reasons or motives
-	- Existence internalism - moral facts (properties) must be connected with reasons or motives
+	- Judgment internalism - moral judgements must be connected with reasons or motives (or desires)
+	- Existence internalism - moral facts (properties) must be connected with reasons or motives (or desires)
 - Group 3:
 	- Defeasible internalism - Morals or reasons may motivate someone (for example, only rational agents. Irrational people will not be motivated by their moral positions)
 	- Indefeasible internalism - morals or reasons always motivate someone
