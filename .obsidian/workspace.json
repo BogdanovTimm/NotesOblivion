@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Error Theory.md",
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Mackie.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Error Theory.md",
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Mackie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Error Theory.md",
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Mackie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Error Theory.md"
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Mackie.md"
               }
             }
           },
@@ -134,11 +134,12 @@
   },
   "active": "610ae5900e3e511c",
   "lastOpenFiles": [
-    "Philosophy/Ethics/Metaethics/Internalism/Williams' Internalism.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Error Theory.md",
+    "Philosophy/Ethics/Metaethics/Internalism/Bernard William's argument.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Mackie.md",
+    "Philosophy/Ethics/Metaethics/Internalism/Williams' Internalism.md",
     "Philosophy/Ethics/Metaethics/Cognitivism",
     "Philosophy/Ethics/Metaethics/Internalism/Counterargument from amoralists.md",
-    "Philosophy/Ethics/Metaethics/Internalism/Bernard William's argument.md",
     "Philosophy/Ethics/Metaethics/Theories of Rationality/Categorical.md",
     "Philosophy/Ethics/Metaethics/Theories of Rationality/Hypothetical.md",
     "Philosophy/Ethics/Metaethics/Internalism/Internalism.md",
@@ -167,7 +168,6 @@
     "Philosophy/Ethics/Metaethics/Naturalism",
     "Philosophy/Ethics/Metaethics/Intuitionism",
     "Philosophy/Ethics/Metaethics/Ethics and Empirical.md",
-    "Philosophy/Ethics/Metaethics/Error Theory.md",
     "Поэзия",
     "Здоровье",
     "Untitled-2023-11-10-1121.png",
