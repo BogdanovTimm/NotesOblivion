@@ -23,4 +23,6 @@ They are cognitivists:
 
 So they believe that sentences deploying  moral predicates like ‘right,’ ‘wrong,’ ‘good,’ and so on, have truth conditions, predicate properties, and express propositions. These judgements and sentences would be true if the world were as these judgements and sentences represent it to be.
 
-Yet they are not minimal realists because they think moral judgements fundamentally misrepresent reality. 
+Yet they are not minimal realists because they think moral judgements fundamentally misrepresent reality.
+
+Many of Error Theorist assume that Frege's philosophy of language is true.
