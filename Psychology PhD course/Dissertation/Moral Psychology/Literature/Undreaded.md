@@ -31,3 +31,5 @@
 [Donelson R. Forsyth (socialpsychology.org)](http://forsyth.socialpsychology.org/)
 
 [Vita – Donelson R. Forsyth (wordpress.com)](https://donforsyth.wordpress.com/about/vita-john-donelson-ross-forsyth/)
+
+Kahneman and Tversky (1979) asked  experimental subjects to choose between different policy responses to a  dangerous disease that was sure to kill at least some people. Their subjects’  answers varied depending on whether the identical course of action was  presented to them in terms of saving people or instead in terms of allowing  people to die. Petrinovich and O’Neill (1996) found similar results in their  experiments. They asked subjects whether they should switch a train onto  a side track in order to save a greater number of people.
