@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "78374ab07c16c564",
+        "id": "346c786de2e71cac",
         "type": "tabs",
         "children": [
           {
-            "id": "610ae5900e3e511c",
+            "id": "74220086c5263c33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Mackie.md",
+                "file": "Philosophy/Ethics/Metaethics/Naturalism/Reductive Naturalism.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Mackie.md",
+                "file": "Philosophy/Ethics/Metaethics/Naturalism/Reductive Naturalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Mackie.md",
+                "file": "Philosophy/Ethics/Metaethics/Naturalism/Reductive Naturalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Mackie.md"
+                "file": "Philosophy/Ethics/Metaethics/Naturalism/Reductive Naturalism.md"
               }
             }
           },
@@ -132,44 +132,44 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "610ae5900e3e511c",
+  "active": "74220086c5263c33",
   "lastOpenFiles": [
-    "Philosophy/Ethics/Metaethics/Cognitivism/Error Theory.md",
-    "Philosophy/Ethics/Metaethics/Internalism/Bernard William's argument.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Mackie.md",
-    "Philosophy/Ethics/Metaethics/Internalism/Williams' Internalism.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism",
-    "Philosophy/Ethics/Metaethics/Internalism/Counterargument from amoralists.md",
-    "Philosophy/Ethics/Metaethics/Theories of Rationality/Categorical.md",
+    "Philosophy/Supervenience.md",
+    "Philosophy/Gettier's problem.md",
+    "Philosophy/Ethics/Positivism.md",
     "Philosophy/Ethics/Metaethics/Theories of Rationality/Hypothetical.md",
-    "Philosophy/Ethics/Metaethics/Internalism/Internalism.md",
+    "Philosophy/Ethics/Metaethics/Theories of Rationality/Categorical.md",
     "Philosophy/Ethics/Metaethics/Theories of Rationality",
-    "Philosophy/Ethics/Metaethics/Internalism/Plato's Internalism.md",
+    "Philosophy/Ethics/Metaethics/Positivism vs Ethics.md",
     "Philosophy/Ethics/Metaethics/Motivation Theories/Humean Motivation Theory.md",
     "Philosophy/Ethics/Metaethics/Motivation Theories",
-    "Philosophy/Ethics/Metaethics/Internalism/Falk's argument.md",
+    "Philosophy/Ethics/Metaethics/Internalism/Williams' Internalism.md",
     "Philosophy/Ethics/Metaethics/Internalism/Translation argument.md",
-    "Philosophy/Ethics/Metaethics/Internalism/Argument from the Epistemology of Moral Attitude Attribution.md",
+    "Philosophy/Ethics/Metaethics/Internalism/Plato's Internalism.md",
+    "Philosophy/Ethics/Metaethics/Internalism/Internalism.md",
     "Philosophy/Ethics/Metaethics/Internalism/Horgan and Timmons thought experiment.md",
+    "Philosophy/Ethics/Metaethics/Internalism/Falk's argument.md",
+    "Philosophy/Ethics/Metaethics/Internalism/Counterargument from amoralists.md",
+    "Philosophy/Ethics/Metaethics/Internalism/Bernard William's argument.md",
+    "Philosophy/Ethics/Metaethics/Internalism/Argument from the Epistemology of Moral Attitude Attribution.md",
+    "Philosophy/Ethics/Metaethics/Internalism",
+    "Philosophy/Ethics/Metaethics/Harman's claim.md",
     "Philosophy/Ethics/Metaethics/Hare's Translation Argument.md",
     "Philosophy/Ethics/Metaethics/Externalism/Externalism.md",
     "Philosophy/Ethics/Metaethics/Externalism",
-    "Philosophy/Ethics/Metaethics/Harman's claim.md",
-    "Philosophy/Ethics/Metaethics/Internalism",
-    "Philosophy/Ethics/Positivism.md",
-    "Philosophy/Ethics/Metaethics/Positivism vs Ethics.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Mackie.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Error Theory.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism",
     "Philosophy/Ethics/Metaethics/Intuitionism/Intuitionism.md",
     "Philosophy/Ethics/Metaethics/Naturalism/Reductive Naturalism.md",
-    "Philosophy/Supervenience.md",
-    "Philosophy/Gettier's problem.md",
-    "Philosophy/Ethics/Metaethics/Mackie's argument of disagreement.md",
-    "Philosophy/Ethics/Metaethics/Relativism/Relativism.md",
-    "Philosophy/Ethics/Metaethics/Relativism",
+    "Philosophy/Ethics/Metaethics/Ethics and Empirical.md",
     "Philosophy/Ethics/Metaethics/Naturalism",
     "Philosophy/Ethics/Metaethics/Intuitionism",
-    "Philosophy/Ethics/Metaethics/Ethics and Empirical.md",
-    "Поэзия",
-    "Здоровье",
+    "Philosophy/Ethics/Metaethics/Error Theory.md",
+    "Philosophy/Ethics/Metaethics/Moore's Open Question.md",
+    "Philosophy/Ethics/Metaethics/Relativism",
+    "Philosophy/Ethics/Metaethics",
+    "Philosophy/Ethics",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
