@@ -15,3 +15,13 @@ These types need to be combined to get `Appriser group subjectivism`.
 # Assumptions
 
 [[Internalism]] is true.
+
+# Counter arguments
+
+## Counter argument for Agent Subjectivism
+
+If [[Mackie's argument of disagreement]] is true, then the fact that there can't be any disagreement between people, proves that the Error Theory is right.
+
+## Counter argument for Speaker Subjectivism
+
+If [[Hare's Translation Argument]] is true, then there are disagreement, according to our common sense. But subjectivism concludes that there are no disagreement.

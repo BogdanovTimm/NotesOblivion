@@ -38,6 +38,11 @@ If Moore is right, we have 3 possibility:
 - There is only 1 `moral property` - but it is false, because different people has different meanings about what `good`, `bad` and other `moral properties` mean
 #MetaethicsAcontemporaryIntroduction 
 
+
+# Counter arguments
+
+If Open Question is relevant argument, then we can't be sure that ice is H20.
+
 # Naturalistic Fallacy
 
 For **Moore** it means a **1 way of reaching the conclusion** that `good` = `something else`.
