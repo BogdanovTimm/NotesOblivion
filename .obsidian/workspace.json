@@ -11,8 +11,12 @@
             "id": "610ae5900e3e511c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Psychology PhD course/Philosophy/2023 11 23.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Psychology PhD course/Philosophy/2023 11 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Psychology PhD course/Philosophy/2023 11 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Psychology PhD course/Philosophy/2023 11 23.md"
+              }
             }
           },
           {
@@ -126,6 +134,7 @@
   },
   "active": "610ae5900e3e511c",
   "lastOpenFiles": [
+    "Psychology PhD course/Philosophy/2023 11 23.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Mackie.md",
     "Psychology PhD course/Philosophy/Работа.md",
     "Philosophy/Ethics/Metaethics/Right.md",
@@ -159,7 +168,6 @@
     "Philosophy/Ethics/Metaethics/Cognitivism",
     "Philosophy/Ethics/Metaethics/Internalism/Counterargument from amoralists.md",
     "Philosophy/Ethics/Metaethics/Theories of Rationality/Categorical.md",
-    "Philosophy/Ethics/Metaethics/Theories of Rationality/Hypothetical.md",
     "Philosophy/Ethics/Metaethics/Theories of Rationality",
     "Philosophy/Ethics/Metaethics/Motivation Theories",
     "Untitled-2023-11-10-1121.png",
