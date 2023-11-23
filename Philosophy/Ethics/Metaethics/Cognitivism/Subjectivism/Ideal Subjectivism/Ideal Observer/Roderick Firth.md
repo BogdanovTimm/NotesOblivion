@@ -13,7 +13,7 @@ Defeasible morals/motives existence [[Internalism]] is true.
 # Cons
 
 - It is an empirical issue whether `X` is good or not. That means that empirical sciences like psychology will have something to contribute to assessing the view, though commonsense psychology  may also give us relevant information.
-- It doesn't clear how an agent would be motivated or has reason to do something right
+- It doesn't clear how an agent would be tmotivated or has reason to do something right
 # Pros
 
 - It does not need **indefeasible** [[Internalism]]
