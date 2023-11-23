@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Right.md",
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Ideal Subjectivism/Ideal Observer/Roderick Firth.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "modal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Right.md",
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Ideal Subjectivism/Ideal Observer/Roderick Firth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Right.md",
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Ideal Subjectivism/Ideal Observer/Roderick Firth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Right.md"
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Ideal Subjectivism/Ideal Observer/Roderick Firth.md"
               }
             }
           },
@@ -131,17 +132,22 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "74220086c5263c33",
+  "active": "f70bad8294d50d2c",
   "lastOpenFiles": [
-    "Philosophy/Ethics/Metaethics/Cognitivism/Rationalism.md",
-    "Philosophy/Ethics/Metaethics/Right.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Ideal Subjectivism/Ideal Observer/Christine Kosrgaard and Michael Smith.md",
+    "Philosophy/Ethics/Metaethics/Motivation Theories/Anti-Humean Motivation Theory.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Ideal Subjectivism/Ideal Observer/Similar to observer Ideal observer.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Ideal Subjectivism/Ideal Observer/Roderick Firth.md",
+    "Psychology PhD course/Dissertation/Ideas.md",
+    "Psychology PhD course/Dissertation/Moral Psychology/Tests.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Ideal Subjectivism/Ideal Observer/Ideal Observer Theory.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Simple Subjectivism/Subjectivism.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Simple Subjectivism/Mark Schroeder.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Simple Subjectivism/Counter argument.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Ideal Subjectivism/Ideal Subjectivism.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Ideal Subjectivism/Ideal Observer/Christine Kosrgaard and Michael Smith.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Simple Subjectivism/Modal Problem.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Simple Subjectivism/Mark Schroeder.md",
+    "Philosophy/Ethics/Metaethics/Right.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Rationalism.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Simple Subjectivism/Subjectivism.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Simple Subjectivism/Counter argument.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Relativism/Relativism.md",
     "Philosophy/Ethics/Metaethics/Internalism/Internalism.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Ideal Subjectivism/Ideal Observer",
@@ -159,12 +165,7 @@
     "Philosophy/Ethics/Metaethics/Cognitivism/Error Theory/Error Theory.md",
     "Music/Jazz/Charlie Parker/Albums.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Error Theory/Mackie.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Error Theory/Sharon Street.md",
-    "Psychology PhD course/Dissertation/Moral Psychology/Literature/Undreaded.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Error Theory",
-    "Philosophy/Ethics/Metaethics/Naturalism/Reductive Naturalism.md",
-    "Philosophy/Supervenience.md",
-    "Philosophy/Gettier's problem.md",
     "Philosophy/Ethics/Metaethics/Theories of Rationality",
     "Philosophy/Ethics/Metaethics/Motivation Theories",
     "Philosophy/Ethics/Metaethics/Internalism",
