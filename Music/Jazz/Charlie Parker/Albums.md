@@ -93,7 +93,7 @@
 - _Charlie Parker in France 1949_ (Jazz O.P. (France))
 - _Charlie Parker - Bird Box, Vol. 2_ (Jazz Up (Italy))
 - _Bird's Eyes, Vol. 5_ (Philology)
-- _[Charlie Parker with Strings](https://en.wikipedia.org/wiki/Charlie_Parker_with_Strings "Charlie Parker with Strings")_ (Clef) `<--- Now I am here`
+- _[Charlie Parker with Strings](https://en.wikipedia.org/wiki/Charlie_Parker_with_Strings "Charlie Parker with Strings")_ (Clef) 
 - _Bird's Eyes, Vol. 2_ (Philology)
 - _Bird's Eyes, Vol. 3_ (Philology)
 - _Dance of the Infidels_ (S.C.A.M.)
@@ -103,7 +103,7 @@
 - _An Evening at Home with Charlie Parker Sextet_
 - [The Genius of Charlie Parker, #4 - Bird and Diz](https://en.wikipedia.org/wiki/Bird_%26_Diz "Bird & Diz")_ (released on Verve's subsidiary label Clef)
 - _The Charlie Parker Story, #3_
-- - _Charlie Parker Live Birdland 1950_ (EPM Musique (F) FDC 5710)
+- - _Charlie Parker Live Birdland 1950_ (EPM Musique (F) FDC 5710) `<--- Now I am here` 
 - _Charlie Parker - [Bird at St. Nick's](https://en.wikipedia.org/wiki/Bird_at_St._Nick%27s "Bird at St. Nick's")_ (Jazz Workshop JWS 500)
 - _Charlie Parker at the Apollo Theater and St. Nick's Arena_ (Zim ZM 1007)
 - _Charlie Parker - Bird's Eyes, Vol. 15_ (Philology (It) W 845–2)
