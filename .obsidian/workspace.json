@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Noncognitivism/Frege-Geach Problem.md",
+                "file": "Philosophy/Ethics/Metaethics/Noncognitivism/Expressivism/Expressivism.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Noncognitivism/Frege-Geach Problem.md",
+                "file": "Philosophy/Ethics/Metaethics/Noncognitivism/Expressivism/Expressivism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Noncognitivism/Frege-Geach Problem.md",
+                "file": "Philosophy/Ethics/Metaethics/Noncognitivism/Expressivism/Expressivism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Noncognitivism/Frege-Geach Problem.md"
+                "file": "Philosophy/Ethics/Metaethics/Noncognitivism/Expressivism/Expressivism.md"
               }
             }
           },
@@ -132,13 +132,16 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "f70bad8294d50d2c",
+  "active": "74220086c5263c33",
   "lastOpenFiles": [
-    "Philosophy/Ethics/Metaethics/Noncognitivism/Expressivism/Expressivism.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Simple Subjectivism/Subjectivism.md",
+    "Philosophy/Ethics/Metaethics/Noncognitivism/Hybrid Theories/Hybrid Theories.md",
+    "Philosophy/Ethics/Metaethics/Noncognitivism/Prescriptivism/Prescriptivism.md",
+    "Philosophy/Ethics/Metaethics/Noncognitivism/Hybrid Theories",
     "Philosophy/Ethics/Metaethics/Noncognitivism/Frege-Geach Problem.md",
+    "Philosophy/Ethics/Metaethics/Noncognitivism/Expressivism/Expressivism.md",
     "Philosophy/Ethics/Metaethics/Noncognitivism/Prescriptivism/Hare's Universal Prescriptivism.md",
     "Philosophy/Ethics/Metaethics/Noncognitivism/Expressivism",
-    "Philosophy/Ethics/Metaethics/Noncognitivism/Prescriptivism/Prescriptivism.md",
     "Philosophy/Ethics/Metaethics/Noncognitivism/Noncognitivism.md",
     "Philosophy/Ethics/Metaethics/Noncognitivism/Prescriptivism",
     "Philosophy/Ethics/Metaethics/Noncognitivism/Emotivism",
@@ -159,17 +162,14 @@
     "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Simple Subjectivism/Mark Schroeder.md",
     "Philosophy/Ethics/Metaethics/Right.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Rationalism.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Simple Subjectivism/Subjectivism.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Simple Subjectivism/Counter argument.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Relativism/Relativism.md",
     "Philosophy/Ethics/Metaethics/Internalism/Internalism.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Ideal Subjectivism/Ideal Observer",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Hybrid Subjectivism/Hybrid Subjectivism.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Ideal Subjectivism",
     "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Simple Subjectivism",
     "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Hybrid Subjectivism",
     "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Error Theory",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",

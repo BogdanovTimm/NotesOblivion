@@ -15,6 +15,7 @@ These types need to be combined to get `Appriser group subjectivism`.
 # Assumptions
 
 [[Internalism]] is true.
+Morals/motives judgmement [[Internalism]] is true.
 
 # Counter arguments
 
