@@ -19,3 +19,8 @@ Moral judgements = the psychological states  we attribute when we say someone be
 There are 2 types of mental:
 - cognitive - ones that represents the world
 - conative - desires, emotions - states that are allegedly directed at the world, but nonrepresentational
+
+# Pros
+
+- They resist to Open Question Argument
+- They don't need any new property - either natural or non-natural
