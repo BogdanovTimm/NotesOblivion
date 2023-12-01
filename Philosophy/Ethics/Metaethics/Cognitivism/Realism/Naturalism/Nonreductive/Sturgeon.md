@@ -1,0 +1,9 @@
+# Definition
+
+There is **no**  interesting **relationship beyond supervenience** on the natural **that connects** the **moral properties with the natural properties**. 
+
+He **denies that** any set of **natural properties constitutes or composes moral properties**, perhaps  because of worries about possible but not actual supernatural worlds. 
+
+That point would be that the **relationship** that holds **between moral properties and the natural properties on which they supervene** **is** just **like** the **relationship between** the economic, **psychological**, and biological **properties and physical properties** or even one another.  It might turn out that **we could not capture** the extension of **economic  properties in physical terms without deploying infinite disjunctions of physical properties**. **If** you think **infinitely disjunctive properties are not** the stuff of **genuine reductions you might  want to be a nonreductive physicalist** about these properties. You would  think that economic, biological, and **psychological properties were not identical to** these **disjunctive properties but** that **any instance** of the one **was  constituted by** one of the **physical disjuncts**. And yet you might consider  yourself a naturalist just because there is nothing spooky going on at any  level. If the psychological and the biological are natural and the relationship  between the moral and the physical is just like the relationships between  the psychological and the physical and the biological and the physical, why  not call the position a form of naturalism? 
+
+This seems to be part of Sturgeon’s  (2003) point when he notes that he thinks that the moral supervenes on  the natural because the thinks moral properties are natural properties and  that each property supervenes on itself. 

@@ -4,6 +4,8 @@
 
 Also, every `X` supervenes on `X`.
 
+Identity between `X` and `Y` means that `X` supervenes on `Y` && `Y` supervenes on `X`.
+
 # Types of Supervenience
 
 There are 2 types of supervenience:

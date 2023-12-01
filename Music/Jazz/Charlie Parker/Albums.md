@@ -103,8 +103,8 @@
 - _An Evening at Home with Charlie Parker Sextet_
 - [The Genius of Charlie Parker, #4 - Bird and Diz](https://en.wikipedia.org/wiki/Bird_%26_Diz "Bird & Diz")_ (released on Verve's subsidiary label Clef)
 - _The Charlie Parker Story, #3_
-- - _Charlie Parker Live Birdland 1950_ (EPM Musique (F) FDC 5710) `<--- Now I am here` 
-- _Charlie Parker - [Bird at St. Nick's](https://en.wikipedia.org/wiki/Bird_at_St._Nick%27s "Bird at St. Nick's")_ (Jazz Workshop JWS 500)
+- - _Charlie Parker Live Birdland 1950_ (EPM Musique (F) FDC 5710) 
+- _Charlie Parker - [Bird at St. Nick's](https://en.wikipedia.org/wiki/Bird_at_St._Nick%27s "Bird at St. Nick's")_ (Jazz Workshop JWS 500) `<--- Now I am here` 
 - _Charlie Parker at the Apollo Theater and St. Nick's Arena_ (Zim ZM 1007)
 - _Charlie Parker - Bird's Eyes, Vol. 15_ (Philology (It) W 845–2)
 - _Charlie Parker - Fats Navarro - Bud Powell_ (Ozone 4)

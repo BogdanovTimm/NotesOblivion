@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Quasi-Realism/Quasi-Realism.md",
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Peter Railton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f3b97c3d3427f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Sturgeon.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "superv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Quasi-Realism/Quasi-Realism.md",
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Peter Railton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Quasi-Realism/Quasi-Realism.md",
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Peter Railton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Quasi-Realism/Quasi-Realism.md"
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Peter Railton.md"
               }
             }
           },
@@ -134,9 +146,29 @@
   },
   "active": "74220086c5263c33",
   "lastOpenFiles": [
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Sturgeon.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Naturalism.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Peter Railton.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Boyd.md",
+    "Philosophy/Philosophy of Language/Real Definition.md",
+    "Philosophy/Philosophy of Language/Direct Reference Theory/Direct Reference Theory.md",
+    "Philosophy/Untitled 1.md",
+    "Philosophy/Philosophy of Language/Direct Reference Theory/Richard Boyd.md",
+    "Music/Jazz/Charlie Parker/Albums.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive",
+    "Philosophy/Philosophy of Language/Fregean Theory/Fregean Metasemantics.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Nonreductive Naturalism.md",
+    "Philosophy/Supervenience.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism",
+    "Philosophy/Philosophy of Language/Metasemantics.md",
+    "Philosophy/Philosophy of Language/Fregean Theory",
+    "Philosophy/Philosophy of Language/Direct Reference Theory",
+    "Philosophy/Philosophy of Language",
+    "Philosophy/Ethics/Metaethics/Quasi-Realism/Quasi-Realism.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism",
     "Philosophy/Ethics/Metaethics/Quasi-Realism",
     "Philosophy/Ethics/Metaethics/Noncognitivism/Early Noncognitivism.md",
-    "Philosophy/Ethics/Metaethics/Quasi-Realism/Quasi-Realism.md",
     "Philosophy/Ethics/Metaethics/Noncognitivism/Prescriptivism/Hare's Universal Prescriptivism.md",
     "Philosophy/Ethics/Metaethics/Noncognitivism/Prescriptivism/Prescriptivism.md",
     "Philosophy/Paradox of Analysis.md",
@@ -147,29 +179,9 @@
     "Psychology PhD course/Dissertation/Moral Psychology/Values.md",
     "Psychology PhD course/Dissertation/Ideas.md",
     "Psychology PhD course/Dissertation/Moral Psychology/History.md",
-    "Psychology PhD course/Philosophy/Работа.md",
-    "Psychology PhD course/Philosophy/Книги.md",
-    "Psychology PhD course/Philosophy/2023 11 23.md",
-    "Philosophy/Ethics/Metaethics/Fictionalism/Revolutionare Functionalism.md",
-    "Philosophy/Ethics/Metaethics/Fictionalism/Hermeneutic Fictionalism.md",
-    "Philosophy/Ethics/Metaethics/Fictionalism/Fictionalism.md",
-    "Philosophy/Ethics/Metaethics/Intuitionism/Intuitionism.md",
-    "Philosophy/Metaphysics/Constructive empiricism.md",
-    "Katya/Katya.md",
     "Philosophy/Metaphysics",
     "Katya",
-    "Philosophy/Ethics/Metaethics/Noncognitivism/Expressivism/Expressivism.md",
     "Philosophy/Ethics/Metaethics/Fictionalism",
-    "Philosophy/Ethics/Metaethics/Noncognitivism/Untitled",
-    "Philosophy/Ethics/Metaethics/Noncognitivism/Noncognitivism.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Simple Subjectivism/Subjectivism.md",
-    "Philosophy/Ethics/Metaethics/Noncognitivism/Hybrid Theories/Hybrid Theories.md",
-    "Philosophy/Ethics/Metaethics/Noncognitivism/Hybrid Theories",
-    "Philosophy/Ethics/Metaethics/Noncognitivism/Expressivism",
-    "Philosophy/Ethics/Metaethics/Noncognitivism/Prescriptivism",
-    "Philosophy/Ethics/Metaethics/Noncognitivism/Emotivism",
-    "Philosophy/Ethics/Metaethics/Noncognitivism",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Subjectivism/Ideal Subjectivism/Ideal Observer",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",

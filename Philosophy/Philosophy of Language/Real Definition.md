@@ -1,0 +1,3 @@
+# Definition
+
+Real definitions are fixed nonconventionally, by the nature of the referent of our terms, whatever that nature turns out to be. Conventional defniitions may help us get a fix on a  referent, but such defniitions do not determine the nature of the things to  which we refer. We can get a fix on a referent via some accidental feature  of the referent, one that isn’t necessary to it. This feature may not be part of its nature.
