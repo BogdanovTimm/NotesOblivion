@@ -104,14 +104,14 @@
 - [The Genius of Charlie Parker, #4 - Bird and Diz](https://en.wikipedia.org/wiki/Bird_%26_Diz "Bird & Diz")_ (released on Verve's subsidiary label Clef)
 - _The Charlie Parker Story, #3_
 - - _Charlie Parker Live Birdland 1950_ (EPM Musique (F) FDC 5710) 
-- _Charlie Parker - [Bird at St. Nick's](https://en.wikipedia.org/wiki/Bird_at_St._Nick%27s "Bird at St. Nick's")_ (Jazz Workshop JWS 500) `<--- Now I am here` 
+- _Charlie Parker - [Bird at St. Nick's](https://en.wikipedia.org/wiki/Bird_at_St._Nick%27s "Bird at St. Nick's")_ (Jazz Workshop JWS 500) 
 - _Charlie Parker at the Apollo Theater and St. Nick's Arena_ (Zim ZM 1007)
 - _Charlie Parker - Bird's Eyes, Vol. 15_ (Philology (It) W 845–2)
 - _Charlie Parker - Fats Navarro - Bud Powell_ (Ozone 4)
 - _Charlie Parker - One Night in Birdland_ (Columbia JG 34808)
 - _Charlie Parker - Bud Powell - Fats Navarro_ (Ozone 9)
 - _Charlie Parker - Just Friends_ (S.C.A.M. JPG 4)
-- _Charlie Parker - Apartment Jam Sessions_ (Zim ZM 1006)
+- _Charlie Parker - Apartment Jam Sessions_ (Zim ZM 1006) `<--- Now I am here` 
 - _V.A. - Our Best_ (Clef MGC 639)
 - _[The Genius of Charlie Parker, #4 - Bird and Diz](https://en.wikipedia.org/wiki/Bird_%26_Diz "Bird & Diz")_ (Verve MGV 8006)
 - _The Persuasively Coherent Miles Davis_ (Alto AL 701)

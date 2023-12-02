@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "346c786de2e71cac",
+        "id": "01b60ea367977649",
         "type": "tabs",
         "children": [
           {
-            "id": "74220086c5263c33",
+            "id": "5ed53d674f7dc8b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Moral Functionalism.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7f3b97c3d3427f9c",
+            "id": "0776549a1a1a7d2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
+                "file": "Sanya/2023 15 11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "superv",
+                "query": "twin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Moral Functionalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Moral Functionalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md"
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Moral Functionalism.md"
               }
             }
           },
@@ -144,12 +144,19 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "7f3b97c3d3427f9c",
+  "active": "5ed53d674f7dc8b3",
   "lastOpenFiles": [
-    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Cornell Realism.md",
+    "Sanya/2023 15 11.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Moral Functionalism.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Canberra Plan Reductionism.md",
     "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Sturgeon.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Untitled",
     "Music/Jazz/Charlie Parker/Albums.md",
+    "Philosophy/Ethics/Metaethics/Externalism/Externalism.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Cornell Realism.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Sturgeon.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Brink.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism",
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Peter Railton.md",
@@ -170,18 +177,11 @@
     "Philosophy/Philosophy of Language",
     "Philosophy/Ethics/Metaethics/Quasi-Realism/Quasi-Realism.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism",
-    "Philosophy/Ethics/Metaethics/Quasi-Realism",
     "Philosophy/Ethics/Metaethics/Noncognitivism/Early Noncognitivism.md",
     "Philosophy/Ethics/Metaethics/Noncognitivism/Prescriptivism/Hare's Universal Prescriptivism.md",
     "Philosophy/Ethics/Metaethics/Noncognitivism/Prescriptivism/Prescriptivism.md",
     "Philosophy/Paradox of Analysis.md",
     "Philosophy/Ethics/Metaethics/Internalism/Internalism.md",
-    "Psychology PhD course/Dissertation/Moral Psychology/Kohlberg, Lawrence.md",
-    "Psychology PhD course/Dissertation/Moral Psychology/Literature.md",
-    "Psychology PhD course/Dissertation/Moral Psychology/Tests.md",
-    "Psychology PhD course/Dissertation/Moral Psychology/Values.md",
-    "Philosophy/Metaphysics",
-    "Katya",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
