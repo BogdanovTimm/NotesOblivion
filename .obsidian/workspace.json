@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Peter Railton.md",
+                "file": "Music/Jazz/Charlie Parker/Albums.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Sturgeon.md",
+                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Peter Railton.md",
+                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Peter Railton.md",
+                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Peter Railton.md"
+                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md"
               }
             }
           },
@@ -144,18 +145,21 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "74220086c5263c33",
+  "active": "7f3b97c3d3427f9c",
   "lastOpenFiles": [
-    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Sturgeon.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Cornell Realism.md",
+    "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Sturgeon.md",
+    "Music/Jazz/Charlie Parker/Albums.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Brink.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Peter Railton.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Naturalism.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Peter Railton.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Boyd.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Boyd.md",
     "Philosophy/Philosophy of Language/Real Definition.md",
     "Philosophy/Philosophy of Language/Direct Reference Theory/Direct Reference Theory.md",
     "Philosophy/Untitled 1.md",
     "Philosophy/Philosophy of Language/Direct Reference Theory/Richard Boyd.md",
-    "Music/Jazz/Charlie Parker/Albums.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive",
     "Philosophy/Philosophy of Language/Fregean Theory/Fregean Metasemantics.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Nonreductive Naturalism.md",
@@ -177,11 +181,8 @@
     "Psychology PhD course/Dissertation/Moral Psychology/Literature.md",
     "Psychology PhD course/Dissertation/Moral Psychology/Tests.md",
     "Psychology PhD course/Dissertation/Moral Psychology/Values.md",
-    "Psychology PhD course/Dissertation/Ideas.md",
-    "Psychology PhD course/Dissertation/Moral Psychology/History.md",
     "Philosophy/Metaphysics",
     "Katya",
-    "Philosophy/Ethics/Metaethics/Fictionalism",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
