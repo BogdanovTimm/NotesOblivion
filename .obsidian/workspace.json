@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Moral Functionalism.md",
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Nonnaturalism/Nonnaturalism.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "twin",
+                "query": "moore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Moral Functionalism.md",
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Nonnaturalism/Nonnaturalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Moral Functionalism.md",
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Nonnaturalism/Nonnaturalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Moral Functionalism.md"
+                "file": "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Nonnaturalism/Nonnaturalism.md"
               }
             }
           },
@@ -146,6 +146,9 @@
   },
   "active": "5ed53d674f7dc8b3",
   "lastOpenFiles": [
+    "Philosophy/Ethics/Metaethics/Moore's Open Question.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Nonnaturalism/Nonnaturalism.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Nonnaturalism",
     "Sanya/2023 15 11.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Moral Functionalism.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Canberra Plan Reductionism.md",
@@ -176,12 +179,9 @@
     "Philosophy/Philosophy of Language/Direct Reference Theory",
     "Philosophy/Philosophy of Language",
     "Philosophy/Ethics/Metaethics/Quasi-Realism/Quasi-Realism.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Realism",
     "Philosophy/Ethics/Metaethics/Noncognitivism/Early Noncognitivism.md",
     "Philosophy/Ethics/Metaethics/Noncognitivism/Prescriptivism/Hare's Universal Prescriptivism.md",
     "Philosophy/Ethics/Metaethics/Noncognitivism/Prescriptivism/Prescriptivism.md",
-    "Philosophy/Paradox of Analysis.md",
-    "Philosophy/Ethics/Metaethics/Internalism/Internalism.md",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
