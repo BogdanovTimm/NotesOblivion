@@ -1,6 +1,8 @@
 # Definition
 
-Nonnaturalists are minimal realists, although they are more than minimal  realists. They think that (1) there are properties or relations corresponding  13 Nonnaturalism and  Antireductionism 254 Nonnaturalism and Antireductionism to moral predicates, that (2) moral sentences predicate these properties, and  that (3) moral thoughts represent actions, people, or things as having these  properties. They think that (4) some of these sentences and thoughts predicating moral properties are true and that (5) we believe the propositions  they represent when we accept them.
+Nonnaturalists are minimal realists, although they are more than minimal  realists. They think that (1) there are properties or relations corresponding to moral predicates, that (2) moral sentences predicate these properties, and  that (3) moral thoughts represent actions, people, or things as having these  properties. They think that (4) some of these sentences and thoughts predicating moral properties are true and that (5) we believe the propositions  they represent when we accept them.
+
+What differs Nonnatural properties from natural ones? - normativity. Nonnaturalists think that genuine normativity has a certain sort of authority. We can illustrate with Philippa Foot’s  (1972) example; sexist club rules that ban women from the smoking room  are normative in the sense that they specify norms of behavior. But they  don’t give us any reason to follow them just because they have that form.  In fact we have reason to flout them. They’re not authorative in the sense  that norms prescribing kindness or honesty might be. When nonnaturalists  talk about normativity, they take normativity to have the kind of authority  that the sexist club rules obviously lack. 
 
 # Assumptions
 
