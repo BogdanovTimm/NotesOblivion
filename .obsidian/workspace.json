@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md",
+                "file": "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6876e55a41ffe4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md",
+                "file": "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md",
+                "file": "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md"
+                "file": "Psychology PhD course/Elnglish/Homework/2023.12.13.md"
               }
             }
           },
@@ -132,10 +145,15 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "5ed53d674f7dc8b3",
+  "active": "6876e55a41ffe4d5",
   "lastOpenFiles": [
-    "Philosophy/Ethics/Metaethics/Cognitivism/Constructivism/Sharon Street.md",
+    "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
+    "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
+    "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
+    "Psychology PhD course/Elnglish/Article/Article.md",
     "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md",
+    "Psychology PhD course/Elnglish/Article",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Constructivism/Sharon Street.md",
     "Philosophy/Ethics/Metaethics/Rationalism",
     "Philosophy/Ethics/Metaethics/Cognitivism/Constructivism/Scalon.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Constructivism/Constructivism.md",
@@ -163,13 +181,8 @@
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Peter Railton.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Boyd.md",
     "Philosophy/Philosophy of Language/Real Definition.md",
-    "Philosophy/Philosophy of Language/Direct Reference Theory/Direct Reference Theory.md",
-    "Philosophy/Untitled 1.md",
-    "Philosophy/Philosophy of Language/Direct Reference Theory/Richard Boyd.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive",
-    "Philosophy/Philosophy of Language/Fregean Theory/Fregean Metasemantics.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism",
-    "Philosophy/Philosophy of Language/Fregean Theory",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
