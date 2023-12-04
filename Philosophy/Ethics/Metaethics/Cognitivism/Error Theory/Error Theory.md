@@ -13,7 +13,7 @@ Arguments for Error theory presented in 2 variants:
 
 See:
 - [[Mackie]]
-- [[Sharon Street]]
+- [[Philosophy/Ethics/Metaethics/Cognitivism/Error Theory/Sharon Street]]
 # Assumptions
 
 They are cognitivists:
@@ -26,3 +26,7 @@ So they believe that sentences deploying  moral predicates like ‘right,’ ‘
 Yet they are not minimal realists because they think moral judgements fundamentally misrepresent reality.
 
 Many of Error Theorist assume that Frege's philosophy of language is true.
+
+# Counter arguments
+
+If all premises of an error theory do not work for normative claims (not all normative claims are moral claims) - it is a problem for error theorists.
