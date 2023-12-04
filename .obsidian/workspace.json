@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
+                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 409.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
+                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
+                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023.12.04.md"
+                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md"
               }
             }
           },
@@ -131,8 +132,14 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "f70bad8294d50d2c",
+  "active": "5ed53d674f7dc8b3",
   "lastOpenFiles": [
+    "Philosophy/Ethics/Metaethics/Mackie's argument of disagreement.md",
+    "Philosophy/Ethics/Metaethics/Hare's Translation Argument.md",
+    "Philosophy/Ethics/Metaethics/Ethics and Empirical.md",
+    "Philosophy/Ethics/Metaethics/Error Theory.md",
+    "Philosophy/Ethics/Positivism.md",
+    "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Pluralism",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Sentimentalism",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Aristotelian",
@@ -142,7 +149,6 @@
     "Friends",
     "Psychology PhD course/Elnglish/Translation/Translation.md",
     "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
-    "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
     "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
     "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md",
     "Psychology PhD course/Elnglish/Article",
@@ -162,13 +168,8 @@
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Moral Functionalism.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Canberra Plan Reductionism.md",
     "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan",
     "Music/Jazz/Charlie Parker/Albums.md",
     "Philosophy/Ethics/Metaethics/Externalism/Externalism.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Cornell Realism.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Sturgeon.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Brink.md",
-    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Cornell Realism/Peter Railton.md",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
