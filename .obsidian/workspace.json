@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6876e55a41ffe4d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Sentimentalism/Slote.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5e0db4bb3b1843fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Ethics/Normative Ethics/Virtue Ethics/PLuralism/Christine Swanton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "575a1779574f0b1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Sentimentalism/Slote.md",
+                "file": "Psychology PhD course/Philosophy/2023 11 23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -102,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Ethics/Normative Ethics/Virtue Ethics/PLuralism/Christine Swanton.md",
+                "file": "Psychology PhD course/Philosophy/2023 11 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Ethics/Normative Ethics/Virtue Ethics/PLuralism/Christine Swanton.md",
+                "file": "Psychology PhD course/Philosophy/2023 11 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Ethics/Normative Ethics/Virtue Ethics/PLuralism/Christine Swanton.md"
+                "file": "Psychology PhD course/Philosophy/2023 11 23.md"
               }
             }
           },
@@ -158,9 +134,9 @@
   },
   "active": "5e0db4bb3b1843fd",
   "lastOpenFiles": [
+    "Philosophy/Ethics/Normative Ethics/Virtue Ethics/PLuralism/Christine Swanton.md",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Sentimentalism/Slote.md",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Aristotelian/Name.md",
-    "Philosophy/Ethics/Normative Ethics/Virtue Ethics/PLuralism/Christine Swanton.md",
     "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/PLuralism",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Sentimentalism",
