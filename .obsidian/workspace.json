@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e0db4bb3b1843fd",
+            "id": "5ed53d674f7dc8b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology PhD course/Philosophy/2023 11 23.md",
+                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 409.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology PhD course/Philosophy/2023 11 23.md",
+                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology PhD course/Philosophy/2023 11 23.md",
+                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology PhD course/Philosophy/2023 11 23.md"
+                "file": "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md"
               }
             }
           },
@@ -132,44 +131,44 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "5e0db4bb3b1843fd",
+  "active": "5ed53d674f7dc8b3",
   "lastOpenFiles": [
-    "Philosophy/Ethics/Normative Ethics/Virtue Ethics/PLuralism/Christine Swanton.md",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Sentimentalism/Slote.md",
+    "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Pluralism/Christine Swanton.md",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Aristotelian/Name.md",
-    "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
-    "Philosophy/Ethics/Normative Ethics/Virtue Ethics/PLuralism",
+    "Philosophy/Ethics/Metaethics/Mackie's argument of disagreement.md",
+    "Philosophy/Ethics/Metaethics/Hare's Translation Argument.md",
+    "Philosophy/Ethics/Metaethics/Ethics and Empirical.md",
+    "Philosophy/Ethics/Metaethics/Error Theory.md",
+    "Philosophy/Ethics/Positivism.md",
+    "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
+    "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Pluralism",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Sentimentalism",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Aristotelian",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics",
     "Philosophy/Ethics/Normative Ethics",
-    "Health/Ноги.md",
-    "Health/Недостаточность кардии желудочка.md",
-    "Health/Мигрень с аурой.md",
-    "Health/Зрение.md",
-    "Health/Диабет.md",
-    "Health/Гастродуоденит.md",
-    "Health/Гастро-эзофагальный рефлюкс.md",
-    "Health/Гастрит Хронический.md",
-    "Health/БАР.md",
-    "Health/Астма.md",
-    "Health",
-    "Friends/Sanya/2023 15 11.md",
-    "Friends/Katya/Katya.md",
-    "Friends/Sanya",
-    "Friends/Katya",
-    "Friends",
-    "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
-    "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
     "Psychology PhD course/Elnglish/Article/Article.md",
+    "Friends",
+    "Psychology PhD course/Elnglish/Translation/Translation.md",
+    "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
+    "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
     "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md",
     "Psychology PhD course/Elnglish/Article",
     "Philosophy/Ethics/Metaethics/Cognitivism/Constructivism/Sharon Street.md",
+    "Philosophy/Ethics/Metaethics/Rationalism",
     "Philosophy/Ethics/Metaethics/Cognitivism/Constructivism/Scalon.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Constructivism/Constructivism.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Error Theory/Error Theory.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Constructivism",
     "Philosophy/Ethics/Metaethics/Naturalism/Reductive Naturalism.md",
     "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Nonreductive/Four-Place Relation.md",
+    "Friends/Sanya/2023 15 11.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Naturalism.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Nonnaturalism/Nonnaturalism.md",
+    "Philosophy/Ethics/Metaethics/Moore's Open Question.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Nonnaturalism",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Moral Functionalism.md",
+    "Philosophy/Ethics/Metaethics/Cognitivism/Realism/Naturalism/Reductive/Canberra Plan/Canberra Plan Reductionism.md",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
