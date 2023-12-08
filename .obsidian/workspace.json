@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acid Kiss Studio/VST/Drums.md",
+                "file": "Life/Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acid Kiss Studio/VST/Drums.md",
+                "file": "Life/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acid Kiss Studio/VST/Drums.md",
+                "file": "Life/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acid Kiss Studio/VST/Drums.md"
+                "file": "Life/Ideas.md"
               }
             }
           },
@@ -133,8 +134,10 @@
   },
   "active": "5ed53d674f7dc8b3",
   "lastOpenFiles": [
-    "Acid Kiss Studio/Untitled.md",
     "Acid Kiss Studio/VST/Drums.md",
+    "Life/Ideas.md",
+    "Life",
+    "Acid Kiss Studio/Untitled.md",
     "Acid Kiss Studio/VST/Bass.md",
     "Acid Kiss Studio/VST",
     "IT/Linux/Troubleshooting/Logs/Log.md",
@@ -167,8 +170,6 @@
     "Psychology PhD course/Elnglish/Article/Article.md",
     "Friends",
     "Psychology PhD course/Elnglish/Translation/Translation.md",
-    "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
-    "Psychology PhD course/Elnglish/Article",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
