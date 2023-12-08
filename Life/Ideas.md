@@ -1,3 +1,3 @@
 # Cockroaches
 
-Buy plug for thsink
+Buy plug for the sink
