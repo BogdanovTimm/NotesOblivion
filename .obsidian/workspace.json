@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Ideas.md",
+                "file": "Psychology PhD course/Dissertation/Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Ideas.md",
+                "file": "Psychology PhD course/Dissertation/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Ideas.md",
+                "file": "Psychology PhD course/Dissertation/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Ideas.md"
+                "file": "Psychology PhD course/Dissertation/Ideas.md"
               }
             }
           },
@@ -134,8 +133,14 @@
   },
   "active": "5ed53d674f7dc8b3",
   "lastOpenFiles": [
-    "Acid Kiss Studio/VST/Drums.md",
+    "Psychology PhD course/Dissertation/Moral Psychology/Values.md",
+    "Psychology PhD course/Dissertation/Moral Psychology/Literature/Readed.md",
+    "Psychology PhD course/Dissertation/Moral Psychology/Literature.md",
+    "Psychology PhD course/Dissertation/Moral Psychology/History.md",
+    "Psychology PhD course/Elnglish/Translation/Translation.md",
+    "Psychology PhD course/Elnglish/Teacher.md",
     "Life/Ideas.md",
+    "Acid Kiss Studio/VST/Drums.md",
     "Life",
     "Acid Kiss Studio/Untitled.md",
     "Acid Kiss Studio/VST/Bass.md",
@@ -158,18 +163,12 @@
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Aristotelian/Name.md",
     "Philosophy/Ethics/Metaethics/Mackie's argument of disagreement.md",
     "Philosophy/Ethics/Metaethics/Hare's Translation Argument.md",
-    "Philosophy/Ethics/Metaethics/Ethics and Empirical.md",
-    "Philosophy/Ethics/Metaethics/Error Theory.md",
-    "Philosophy/Ethics/Positivism.md",
-    "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Pluralism",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Sentimentalism",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Aristotelian",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics",
     "Philosophy/Ethics/Normative Ethics",
-    "Psychology PhD course/Elnglish/Article/Article.md",
     "Friends",
-    "Psychology PhD course/Elnglish/Translation/Translation.md",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
