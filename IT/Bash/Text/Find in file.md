@@ -3,8 +3,6 @@
 ```bash
 awk '/^REGEXP to find/ {print$0}' fileName.txt
 ```
-where:
-- `-F":"` - allows you to choose custom delimiter between words (instead of a standard whitespace)
 
 # Find Lines that match Nth Word
 
