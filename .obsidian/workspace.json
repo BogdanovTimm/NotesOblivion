@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md",
+                "file": "IT/Linux/Internet/Troubleshooting.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md",
+                "file": "IT/Linux/Internet/Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md",
+                "file": "IT/Linux/Internet/Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md"
+                "file": "IT/Linux/Internet/Troubleshooting.md"
               }
             }
           },
@@ -131,38 +132,38 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "5ed53d674f7dc8b3",
+  "active": "f70bad8294d50d2c",
   "lastOpenFiles": [
-    "Psychology PhD course/Dissertation/Moral Psychology/Values.md",
-    "Psychology PhD course/Dissertation/Moral Psychology/Literature/Readed.md",
-    "Psychology PhD course/Dissertation/Moral Psychology/Literature.md",
-    "Psychology PhD course/Dissertation/Moral Psychology/History.md",
-    "Psychology PhD course/Elnglish/Translation/Translation.md",
-    "Psychology PhD course/Elnglish/Teacher.md",
-    "Life/Ideas.md",
-    "Acid Kiss Studio/VST/Drums.md",
-    "Life",
-    "Acid Kiss Studio/Untitled.md",
-    "Acid Kiss Studio/VST/Bass.md",
-    "Acid Kiss Studio/VST",
-    "IT/Linux/Troubleshooting/Logs/Log.md",
-    "Acid Kiss Studio",
-    "IT/Linux/Troubleshooting/Logs/Journalctl.md",
-    "IT/Linux/HDD/LVM.md",
-    "IT/Linux/Troubleshooting/Logs",
-    "Philosophy/Ethics/Metaethics/Noncognitivism/Hybrid Theories/Hybrid Theories.md",
-    "IT/Linux/Processes, Services and Daemons/Daemons.md",
-    "IT/Hibernate/Cache/2nd level.md",
+    "IT/Linux/Internet/Hardware.md",
+    "IT/Linux/Internet/Firewall.md",
+    "IT/Linux/Internet/DNS.md",
     "IT/Linux/Troubleshooting/Troubleshooting.md",
-    "IT/Linux/Users/Permissions.md",
-    "IT/Linux/Users/Passwords.md",
-    "IT/Linux/Users/Create a new one.md",
-    "Philosophy/Ethics/Metaethics/Moral Twin-Earth Objection.md",
-    "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Sentimentalism/Slote.md",
-    "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Pluralism/Christine Swanton.md",
-    "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Aristotelian/Name.md",
-    "Philosophy/Ethics/Metaethics/Mackie's argument of disagreement.md",
-    "Philosophy/Ethics/Metaethics/Hare's Translation Argument.md",
+    "IT/Linux/Troubleshooting/DNS.md",
+    "IT/Linux/Troubleshooting/Networking/Networking.md",
+    "IT/Linux/Troubleshooting/Logs/Journalctl.md",
+    "IT/Linux/Troubleshooting/Logs/Log.md",
+    "IT/Linux/Processes, Services and Daemons/Working with service.md",
+    "IT/Linux/Processes, Services and Daemons/Show.md",
+    "IT/Linux/Processes, Services and Daemons/Process.md",
+    "IT/Linux/CPU/CPU.md",
+    "IT/Linux/Archives/Archives.md",
+    "Music/Jazz/Charlie Parker/Albums.md",
+    "IT/Bash/Text/Replace.md",
+    "IT/Bash/Text/Find in file.md",
+    "IT/Linux/Alias/Alias.md",
+    "IT/Linux/Files and Folders/Rename.md",
+    "IT/Linux/Files and Folders/Search.md",
+    "IT/Linux/Files and Folders/Permissions.md",
+    "IT/Linux/Files and Folders/INode.md",
+    "IT/Linux/Files and Folders/find.md",
+    "IT/Linux/Files and Folders/Filename.md",
+    "IT/Linux/Files and Folders/Copy.md",
+    "IT/Linux/Scheduling/At Startup.md",
+    "IT/Linux/Boot/Reboot.md",
+    "Life",
+    "Acid Kiss Studio/VST",
+    "Acid Kiss Studio",
+    "IT/Linux/Troubleshooting/Logs",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Pluralism",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Sentimentalism",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Aristotelian",

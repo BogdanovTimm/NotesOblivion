@@ -1,1 +1,1 @@
-1. `adduser %userName%` - create user without password
+1. `sudo adduser %userName%` - create user

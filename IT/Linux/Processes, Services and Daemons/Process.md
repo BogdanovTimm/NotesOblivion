@@ -2,6 +2,10 @@
 
 `top`
 
+## Exit from top
+
+Press **q** key
+
 # End process
 
 1. `ps`

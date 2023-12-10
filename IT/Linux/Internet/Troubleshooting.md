@@ -6,7 +6,7 @@ First of all, please check if the internet connection option is on and also chec
 
 - Please check that your network is configured correctly and the network interface has your IP address. You can check it by running the `ip addr` or `ifconfig` commands.
 - You can also run the `ip route` command to check if the default gateway is set properly.
-- Finally, verify the [DNS server configuration](https://www.geeksforgeeks.org/setting-up-local-dns-server-between-client-server-machines/) in the ``/etc/resolv.conf` file.
+- Finally, verify the [DNS server configuration](https://www.geeksforgeeks.org/setting-up-local-dns-server-between-client-server-machines/) in the `/etc/resolv.conf` file.
 
 # Check the Firewall
 

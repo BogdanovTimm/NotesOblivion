@@ -1,0 +1,3 @@
+# Command
+
+`sudo reboot`

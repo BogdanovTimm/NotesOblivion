@@ -111,13 +111,13 @@
 - _Charlie Parker - One Night in Birdland_ (Columbia JG 34808)
 - _Charlie Parker - Bud Powell - Fats Navarro_ (Ozone 9)
 - _Charlie Parker - Just Friends_ (S.C.A.M. JPG 4)
-- _Charlie Parker - Apartment Jam Sessions_ (Zim ZM 1006) `<--- Now I am here` 
+- _Charlie Parker - Apartment Jam Sessions_ (Zim ZM 1006) 
 - _V.A. - Our Best_ (Clef MGC 639)
 - _[The Genius of Charlie Parker, #4 - Bird and Diz](https://en.wikipedia.org/wiki/Bird_%26_Diz "Bird & Diz")_ (Verve MGV 8006)
 - _The Persuasively Coherent Miles Davis_ (Alto AL 701)
 - _Charlie Parker - Ultimate Bird 1949-50_ (Grotto 495)
 - _Charlie Parker - Ballads and Birdland_ (Klacto (E) MG 101)
-- _Charlie Parker [Big Band](https://en.wikipedia.org/wiki/Big_Band_(Charlie_Parker_album) "Big Band (Charlie Parker album)")_ (Mercury MGC 609)
+- _Charlie Parker [Big Band](https://en.wikipedia.org/wiki/Big_Band_(Charlie_Parker_album) "Big Band (Charlie Parker album)")_ (Mercury MGC 609) `<--- Now I am here` 
 - _Charlie Parker - Parker Plus Strings_ (Charlie Parker PLP 513)
 - _Charlie Parker - Bird with Strings Live at the Apollo, Carnegie Hall and Birdland_ (Columbia JC 34832)
 - _Charlie Parker - The Bird You Never Heard_ (Stash STCD 10)

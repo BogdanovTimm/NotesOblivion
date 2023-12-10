@@ -4,3 +4,7 @@
 where:
 - userName - username on PC to connect to
 - 10.10.10.10. - IP address of a PC to connect to
+
+# Quit
+
+`exit`

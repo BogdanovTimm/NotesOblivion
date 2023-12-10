@@ -1,6 +1,6 @@
 # Change Password
 
-`passwd %userName%`
+`sudo passwd %userName%`
 
 # /etc/passwd
 
