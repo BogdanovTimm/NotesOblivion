@@ -1,4 +1,4 @@
 - `Atomicity` - allows you to create transactions - when you do more than 1 thing with a database and if your server dies - non-finished transactions will be undone  
 - `Consistency` - if all rows in a database constrained with some rule - they will be constrained after changing the database  
-- `Isolation` - allows you to use isolation levels
-- `Durability` - 
+- `Isolation` - allows you to use isolation levels to work with concurrency
+- `Durability` - Durability guarantees that once a transaction has been committed, it will remain committed even in the case of a system failure (e.g., power outage or crash). This usually means that completed transactions (or their effects) are recorded in non-volatile memory.

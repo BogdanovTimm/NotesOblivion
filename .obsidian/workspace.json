@@ -10,16 +10,31 @@
           {
             "id": "5ed53d674f7dc8b3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/SQL/PostgreSQL/Installation.md",
+                "file": "IT/SQL/PostgreSQL/Working with tables.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c51c0dbe08c97f70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/SQL/ACID.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/SQL/PostgreSQL/Installation.md",
+                "file": "IT/SQL/ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/SQL/PostgreSQL/Installation.md",
+                "file": "IT/SQL/ACID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/SQL/PostgreSQL/Installation.md"
+                "file": "IT/SQL/ACID.md"
               }
             }
           },
@@ -132,19 +147,21 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "5ed53d674f7dc8b3",
+  "active": "c51c0dbe08c97f70",
   "lastOpenFiles": [
+    "IT/SQL/Normalization.md",
+    "IT/SQL/Isolation Levels.md",
+    "IT/SQL/PostgreSQL/Working with tables.md",
+    "IT/SQL/MySQL/Working with tables.md",
+    "IT/SQL/MySQL/Working with databases.md",
+    "IT/SQL/PostgreSQL/Working with database.md",
+    "IT/SQL/PostgreSQL/Installation.md",
     "IT/SQL/PostgreSQL/Open PostgreSQL promt.md",
     "IT/SQL/MySQL/Open Mysql Promt.md",
     "IT/SQL/MySQL/Installation.md",
-    "IT/SQL/MySQL/Working with tables.md",
-    "IT/SQL/PostgreSQL/Installation.md",
     "IT/SQL/PostgreSQL",
-    "IT/SQL/MySQL/Working with databases.md",
     "IT/SQL/ACID.md",
     "IT/SQL/MySQL/Index.md",
-    "IT/SQL/Isolation Levels.md",
-    "IT/SQL/Normalization.md",
     "IT/SQL/MySQL/Create a dump.md",
     "IT/Linux/Internet/Http Servers/Apache.md",
     "IT/SQL/MySQL",
@@ -164,8 +181,6 @@
     "IT/Bash/Redirection and Chaining/Rerirection to Files.md",
     "IT/Bash/Redirection and Chaining/Redirection To Other Command.md",
     "IT/Bash/Redirection and Chaining/Chaining.md",
-    "IT/Bash/Environment Variables/Environment Variables.md",
-    "IT/Linux/Internet/Troubleshooting.md",
     "Life",
     "Acid Kiss Studio/VST",
     "Acid Kiss Studio",

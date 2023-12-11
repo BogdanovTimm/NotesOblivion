@@ -3,7 +3,7 @@
 ## Create new table 
 
 ```mysql
-CREATE TABLE IF NOT EXISTS %table_name% ( /*? Many to One */
+CREATE TABLE IF NOT EXISTS %table_name% (
 id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
 %lastname% VARCHAR (255) NOT NULL UNIQUE,
 %table1_id% BIGINT UNSIGNED DEFAULT NULL,
@@ -28,6 +28,16 @@ ALTER TABLE %table_name% CHANGE %old_column_name% %new_column_name% BIGINT NOT N
 ALTER TABLE %table_name% ADD COLUMN %column_name% VARCHAR(255) NOT NULL AFTER %existing_column%;
 ```
 
+## Delete column
+
+```mysql
+ALTER TABLE %tablename%  
+    DROP COLUMN %column1%
+;
+```
+
+# Working with constraints
+
 ## Add new constraint
 
 ```mysql
@@ -35,8 +45,22 @@ ALTER TABLE %table_name%
 ADD CONSTRAINT %constraint_name%
 FOREIGN KEY (%other_table_id%)
 REFERENCES %other_table% (%id%)
-ON DELETE RESTRICT ON UPDATE CASCADE;
+ON DELETE RESTRICT ON UPDATE CASCADE
+;
 ```
+
+## Change constraint
+
+You can do it only by deleting an old one and then creating a new one
+
+## Delete constraint
+
+```mysql
+ALTER TABLE %tablename%
+    DROP CONSTRAINT %constraintname%
+;
+```
+
 
 # Working with rows
 
@@ -44,7 +68,7 @@ ON DELETE RESTRICT ON UPDATE CASCADE;
 
 ```mysql
 INSERT INTO %table_name% (%column1%, %column2%)
-VALUES (228, 'Lorem')
+VALUES (228, 'Lorem Ipsum')
 ;
 ```
 
@@ -52,8 +76,16 @@ VALUES (228, 'Lorem')
 
 ```mysql
 UPDATE %table_name%
-SET %column1% = %'Lorem'%, column2 = %228%
+SET %column1% = %'Lorem Ipsum'%, column2 = %228%
 WHERE %id% = 1
+;
+```
+
+## Delete row
+
+```mysql
+DELETE FROM %tablename%
+	WHERE %column1% = %'Lorem Ipsum'%
 ;
 ```
 
