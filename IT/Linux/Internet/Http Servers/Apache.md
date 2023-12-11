@@ -22,5 +22,5 @@ ServerName %www.sitename.com%
 10. `sudo ufw status` - need to be active
 11. `sudo nano /etc/hosts` and write to is:
 ```
-127.0.0.1 %www.sitename.com%  
+127.0.1.1 %www.sitename.com%  
 ```
