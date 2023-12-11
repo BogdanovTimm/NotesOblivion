@@ -1,7 +1,7 @@
 # Installation
 
 1. `sudo apt update`
-2. `sudo apt install apache2`
+2. `sudo apt install apache2 apache2-utils apache2-doc`
 
 # Create new site
 

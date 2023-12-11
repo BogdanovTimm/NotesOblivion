@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Linux/Internet/Http Servers/Apache.md",
+                "file": "IT/Nvim/Windows like shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux/Internet/Http Servers/Apache.md",
+                "file": "IT/Nvim/Windows like shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Linux/Internet/Http Servers/Apache.md",
+                "file": "IT/Nvim/Windows like shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Linux/Internet/Http Servers/Apache.md"
+                "file": "IT/Nvim/Windows like shortcuts.md"
               }
             }
           },
@@ -134,8 +133,10 @@
   },
   "active": "5ed53d674f7dc8b3",
   "lastOpenFiles": [
-    "IT/Bash/Text/Replace.md",
     "IT/Linux/Internet/Http Servers/Apache.md",
+    "IT/Nvim/Windows like shortcuts.md",
+    "IT/Nvim",
+    "IT/Bash/Text/Replace.md",
     "IT/Linux/Internet/Http Servers",
     "IT/Linux/Untitled",
     "IT/Bash/Text/Find in file.md",
@@ -161,7 +162,6 @@
     "IT/Linux/Processes, Services and Daemons/Show.md",
     "IT/Linux/Processes, Services and Daemons/Process.md",
     "IT/Linux/CPU/CPU.md",
-    "Music/Jazz/Charlie Parker/Albums.md",
     "Life",
     "Acid Kiss Studio/VST",
     "Acid Kiss Studio",
@@ -169,7 +169,6 @@
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Pluralism",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Sentimentalism",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Aristotelian",
-    "Philosophy/Ethics/Normative Ethics/Virtue Ethics",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
