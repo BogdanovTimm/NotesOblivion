@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Nvim/Windows like shortcuts.md",
+                "file": "IT/SQL/MySQL/Working with tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Nvim/Windows like shortcuts.md",
+                "file": "IT/SQL/MySQL/Working with tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Nvim/Windows like shortcuts.md",
+                "file": "IT/SQL/MySQL/Working with tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Nvim/Windows like shortcuts.md"
+                "file": "IT/SQL/MySQL/Working with tables.md"
               }
             }
           },
@@ -133,7 +134,19 @@
   },
   "active": "5ed53d674f7dc8b3",
   "lastOpenFiles": [
+    "IT/SQL/MySQL/Working with databases.md",
+    "IT/SQL/MySQL/Open Mysql Promt.md",
+    "IT/SQL/MySQL/Installation.md",
+    "IT/SQL/ACID.md",
+    "IT/SQL/MySQL/Working with tables.md",
+    "IT/SQL/MySQL/Index.md",
+    "IT/SQL/Isolation Levels.md",
+    "IT/SQL/Normalization.md",
+    "IT/SQL/MySQL/Create a dump.md",
     "IT/Linux/Internet/Http Servers/Apache.md",
+    "IT/SQL/MySQL",
+    "IT/SQL",
+    "IT/Linux/Internet/Http Servers/Nginx.md",
     "IT/Nvim/Windows like shortcuts.md",
     "IT/Nvim",
     "IT/Bash/Text/Replace.md",
@@ -152,23 +165,11 @@
     "IT/Linux/Internet/Troubleshooting.md",
     "IT/Linux/Internet/Hardware.md",
     "IT/Linux/Internet/Firewall.md",
-    "IT/Linux/Internet/DNS.md",
-    "IT/Linux/Troubleshooting/Troubleshooting.md",
-    "IT/Linux/Troubleshooting/DNS.md",
-    "IT/Linux/Troubleshooting/Networking/Networking.md",
-    "IT/Linux/Troubleshooting/Logs/Journalctl.md",
-    "IT/Linux/Troubleshooting/Logs/Log.md",
-    "IT/Linux/Processes, Services and Daemons/Working with service.md",
-    "IT/Linux/Processes, Services and Daemons/Show.md",
-    "IT/Linux/Processes, Services and Daemons/Process.md",
-    "IT/Linux/CPU/CPU.md",
     "Life",
     "Acid Kiss Studio/VST",
     "Acid Kiss Studio",
     "IT/Linux/Troubleshooting/Logs",
     "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Pluralism",
-    "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Sentimentalism",
-    "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Aristotelian",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
