@@ -6,9 +6,11 @@
 CREATE TABLE IF NOT EXISTS %table_name% ( /*? Many to One */
 id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
 %lastname% VARCHAR (255) NOT NULL UNIQUE,
-%table1_id% BIGINT UNSIGNED,
+%table1_id% BIGINT UNSIGNED DEFAULT NULL,
+%bool_colulmn% BOOLEAN DEFAULT TRUE,
+CONSTRAINT UNIQUE (%lastname%, %bool_column%),
 FOREIGN KEY (%table1_id%) REFERENCES %other_table% (id),
-PRIMARY KEY (id)
+PRIMARY KEY (id, lastname)
 );
 ```
 
