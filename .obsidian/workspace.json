@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/SQL/Isolation Levels.md",
+                "file": "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/SQL/Isolation Levels.md",
+                "file": "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/SQL/Isolation Levels.md",
+                "file": "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/SQL/Isolation Levels.md"
+                "file": "Psychology PhD course/Elnglish/Homework/2023.12.13.md"
               }
             }
           },
@@ -134,9 +134,13 @@
   },
   "active": "ac963a184ae60767",
   "lastOpenFiles": [
+    "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
+    "Psychology PhD course/Elnglish/Homework/2023.11.27.md",
+    "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
+    "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
+    "IT/SQL/Isolation Levels.md",
     "IT/SQL/PostgreSQL/Working with tables.md",
     "IT/SQL/ACID.md",
-    "IT/SQL/Isolation Levels.md",
     "IT/SQL/MySQL/Create a dump.md",
     "IT/SQL/MySQL/Installation.md",
     "IT/SQL/MySQL/Index.md",
@@ -162,10 +166,6 @@
     "IT/Bash/Where to store scripts.md",
     "IT/Bash/Run.md",
     "IT/Bash/Permissions.md",
-    "IT/Bash/Creating.md",
-    "IT/Bash/Redirection and Chaining/Rerirection to Files.md",
-    "IT/Bash/Redirection and Chaining/Redirection To Other Command.md",
-    "IT/Bash/Redirection and Chaining/Chaining.md",
     "Life",
     "Acid Kiss Studio/VST",
     "Acid Kiss Studio",
