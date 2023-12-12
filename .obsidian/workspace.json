@@ -8,33 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ed53d674f7dc8b3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/SQL/PostgreSQL/Working with tables.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c51c0dbe08c97f70",
+            "id": "ac963a184ae60767",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/SQL/ACID.md",
+                "file": "IT/SQL/Isolation Levels.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/SQL/ACID.md",
+                "file": "IT/SQL/Isolation Levels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/SQL/ACID.md",
+                "file": "IT/SQL/Isolation Levels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/SQL/ACID.md"
+                "file": "IT/SQL/Isolation Levels.md"
               }
             }
           },
@@ -147,22 +132,22 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "c51c0dbe08c97f70",
+  "active": "ac963a184ae60767",
   "lastOpenFiles": [
-    "IT/SQL/Normalization.md",
-    "IT/SQL/Isolation Levels.md",
     "IT/SQL/PostgreSQL/Working with tables.md",
+    "IT/SQL/ACID.md",
+    "IT/SQL/Isolation Levels.md",
+    "IT/SQL/MySQL/Create a dump.md",
+    "IT/SQL/MySQL/Installation.md",
+    "IT/SQL/MySQL/Index.md",
+    "IT/SQL/MySQL/Open Mysql Promt.md",
     "IT/SQL/MySQL/Working with tables.md",
     "IT/SQL/MySQL/Working with databases.md",
+    "IT/SQL/Normalization.md",
     "IT/SQL/PostgreSQL/Working with database.md",
     "IT/SQL/PostgreSQL/Installation.md",
     "IT/SQL/PostgreSQL/Open PostgreSQL promt.md",
-    "IT/SQL/MySQL/Open Mysql Promt.md",
-    "IT/SQL/MySQL/Installation.md",
     "IT/SQL/PostgreSQL",
-    "IT/SQL/ACID.md",
-    "IT/SQL/MySQL/Index.md",
-    "IT/SQL/MySQL/Create a dump.md",
     "IT/Linux/Internet/Http Servers/Apache.md",
     "IT/SQL/MySQL",
     "IT/SQL",

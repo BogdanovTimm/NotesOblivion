@@ -9,5 +9,5 @@ Types of problems:
 
 1. Read Uncommitted - Dirty reads, Non-repeatable reads and Phantom reads may occur (the most fast one)
 2. Read Committed - Non-repeatable reads and Phantom reads may occur
-3. Repeatable Read - Phantom reads may occur (creates something like a snapshot of a database's state at the start of a transaction and works with it (yep, thread1 will not see changes, made by other threads unless thread1 finishes transcation))
+3. Repeatable Read - Phantom reads may occur (creates something like a snapshot of a database's state at the start of a transaction and works with it (yep, thread1 will not see changes, made by other threads unless thread1 finishes transaсtion))
 4. Serializable - non of problems may occur (the most slowest one - just do everything sequentially (not in parallel))

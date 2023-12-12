@@ -4,14 +4,14 @@
 
 ```postgresql
 CREATE TABLE %table_name% (  
-id      BIGSERIAL NOT NULL PRIMARY KEY,  
-%other_table_id% BIGSERIAL NOT NULL,  
-%string_column% VARCHAR(255) NOT NULL,  
-%date_column% TIMESTAMP NOT NULL,
-FOREIGN KEY (%other_table_id%) REFERENCES %other_table% (id) ON DELETE CASCADE ON UPDATE CASCADE,  
-CONSTRAINT %UQ_table_name_other_table_id% UNIQUE (%other_table_id%),  
-CONSTRAINT %UQ_table_name_string_column% UNIQUE (%string_column%),
-PRIMARY KEY (id, %string_column%)
+	id      BIGSERIAL NOT NULL PRIMARY KEY,  
+	%other_table_id% BIGSERIAL NOT NULL,  
+	%string_column% VARCHAR(255) NOT NULL,  
+	%date_column% TIMESTAMP NOT NULL,
+	FOREIGN KEY (%other_table_id%) REFERENCES %other_table% (id) ON DELETE CASCADE ON UPDATE CASCADE,  
+	CONSTRAINT %UQ_table_name_other_table_id% UNIQUE (%other_table_id%),  
+	CONSTRAINT %UQ_table_name_string_column% UNIQUE (%string_column%),
+	PRIMARY KEY (id, %string_column%)
 );
 ```
 

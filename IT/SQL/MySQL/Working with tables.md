@@ -19,13 +19,18 @@ PRIMARY KEY (id, lastname)
 ## Change existing column
 
 ```mysql
-ALTER TABLE %table_name% CHANGE %old_column_name% %new_column_name% BIGINT NOT NULL;
+ALTER TABLE %table_name%
+	CHANGE %old_column_name% %new_column_name% BIGINT NOT NULL
+;
 ```
 
 ## Add new column
 
 ```mysql
-ALTER TABLE %table_name% ADD COLUMN %column_name% VARCHAR(255) NOT NULL AFTER %existing_column%;
+ALTER TABLE %table_name%
+    ADD COLUMN %column_name% VARCHAR(255) NOT NULL 
+    AFTER %existing_column%
+;
 ```
 
 ## Delete column
