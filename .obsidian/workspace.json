@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -134,10 +133,13 @@
   },
   "active": "ac963a184ae60767",
   "lastOpenFiles": [
+    "Psychology PhD course/Elnglish/Article/Article 13.12.2023.md",
+    "Psychology PhD course/Elnglish/Article/Article.md",
+    "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
     "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
+    "Music/Jazz/Charlie Parker/Albums.md",
     "Psychology PhD course/Elnglish/Homework/2023.11.27.md",
     "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
-    "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
     "IT/SQL/Isolation Levels.md",
     "IT/SQL/PostgreSQL/Working with tables.md",
     "IT/SQL/ACID.md",
@@ -163,9 +165,6 @@
     "IT/Linux/Untitled",
     "IT/Bash/Text/Find in file.md",
     "IT/Linux/Archives/Archives.md",
-    "IT/Bash/Where to store scripts.md",
-    "IT/Bash/Run.md",
-    "IT/Bash/Permissions.md",
     "Life",
     "Acid Kiss Studio/VST",
     "Acid Kiss Studio",

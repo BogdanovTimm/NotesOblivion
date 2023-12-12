@@ -117,14 +117,14 @@
 - _The Persuasively Coherent Miles Davis_ (Alto AL 701)
 - _Charlie Parker - Ultimate Bird 1949-50_ (Grotto 495)
 - _Charlie Parker - Ballads and Birdland_ (Klacto (E) MG 101)
-- _Charlie Parker [Big Band](https://en.wikipedia.org/wiki/Big_Band_(Charlie_Parker_album) "Big Band (Charlie Parker album)")_ (Mercury MGC 609) `<--- Now I am here` 
+- _Charlie Parker [Big Band](https://en.wikipedia.org/wiki/Big_Band_(Charlie_Parker_album) "Big Band (Charlie Parker album)")_ (Mercury MGC 609) 
 - _Charlie Parker - Parker Plus Strings_ (Charlie Parker PLP 513)
 - _Charlie Parker - Bird with Strings Live at the Apollo, Carnegie Hall and Birdland_ (Columbia JC 34832)
 - _Charlie Parker - The Bird You Never Heard_ (Stash STCD 10)
 - _Norman Granz Jazz Concert_ (Norgran MGN 3501–2)
 - _Charlie Parker at the Pershing Ballroom Chicago 1950_ (Zim ZM 1003)
 - _The Charlie Parker Story, #3_ (Verve MGV 8002)
-- _Charlie Parker - Bird in Sweden_ (Spotlite (E) SPJ 124/25)
+- _Charlie Parker - Bird in Sweden_ (Spotlite (E) SPJ 124/25) `<--- Now I am here` 
 - _Charlie Parker - More Unissued, Vol. 2_ (Royal Jazz (D) RJD 506)
 - _Machito - Afro-Cuban Jazz_ (Clef MGC 689)
 - _An Evening at Home with Charlie Parker Sextet_ (Savoy MG 12152)
