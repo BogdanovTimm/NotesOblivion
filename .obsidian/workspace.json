@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e0db4bb3b1843fd",
+            "id": "ac963a184ae60767",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moral Psychology/Dual Process Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0c59a3405269c0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "moore",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
-    "width": 290.5,
+    "width": 309.5,
     "collapsed": true
   },
   "right": {
@@ -92,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moral Psychology/Dual Process Theory.md",
+                "file": "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moral Psychology/Dual Process Theory.md",
+                "file": "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Moral Psychology/Dual Process Theory.md"
+                "file": "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md"
               }
             }
           },
@@ -146,44 +132,44 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "5e0db4bb3b1843fd",
+  "active": "ac963a184ae60767",
   "lastOpenFiles": [
-    "Moral Psychology/Well being.md",
-    "Moral Psychology/Dual Process Theory.md",
+    "Philosophy/Ethics/Metaethics/Hare's Translation Argument.md",
+    "Philosophy/Ethics/Metaethics/Internalism-Externalism/Internalism.md",
+    "Psychology PhD course/Elnglish/Article/Article.md",
+    "conflict-files-obsidian-git.md",
+    "Psychology PhD course/Elnglish/Homework/2023 12 30.md",
+    "Psychology PhD course/Elnglish/Article/Article 13 12 2023.md",
     "Philosophy/Ethics/Why be moral.md",
     "Philosophy/Ethics/Well-being/Well-Being.md",
-    "Philosophy/Untitled.md",
-    "Philosophy/Untitled 1.md",
     "Philosophy/Ethics/Well-being",
-    "Psychology PhD course/Elnglish/Homework/2023 12 30.md",
+    "Moral Psychology/Well being.md",
+    "Moral Psychology/Dual Process Theory.md",
     "Moral Psychology",
-    "Psychology PhD course/Elnglish/Article/Article 13 12 2023.md",
-    "Psychology PhD course/Elnglish/Article/Article.md",
-    "Psychology PhD course/Philosophy/2023 11 23.md",
-    "Life/Ideas.md",
-    "Life",
-    "IT/SQL/PostgreSQL/Working with tables.md",
-    "IT/SQL/PostgreSQL/Working with database.md",
-    "IT/SQL/PostgreSQL/Open PostgreSQL promt.md",
-    "IT/SQL/PostgreSQL/Installation.md",
-    "IT/SQL/MySQL/Working with tables.md",
-    "IT/SQL/MySQL/Working with databases.md",
-    "IT/SQL/MySQL/Open Mysql Promt.md",
-    "IT/SQL/MySQL/Installation.md",
-    "IT/SQL/MySQL/Index.md",
-    "IT/SQL/MySQL/Create a dump.md",
-    "IT/SQL/PostgreSQL",
-    "IT/SQL/Normalization.md",
-    "IT/SQL/MySQL",
-    "IT/SQL/Isolation Levels.md",
-    "IT/SQL/ACID.md",
-    "IT/SQL",
+    "Psychology PhD course/Elnglish/Article/Article 13.12.2023.md",
+    "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
+    "Psychology PhD course/Elnglish/Homework/2023.11.13.md",
     "IT/Python/Create new project.md",
     "IT/Python",
-    "IT/Nvim/Windows like shortcuts.md",
+    "Music/Jazz/Charlie Parker/Albums.md",
+    "Psychology PhD course/Elnglish/Homework/2023.11.27.md",
+    "Psychology PhD course/Elnglish/Homework/2023.12.04.md",
+    "IT/SQL/Isolation Levels.md",
+    "IT/SQL/PostgreSQL/Working with tables.md",
+    "IT/SQL/ACID.md",
+    "IT/SQL/MySQL/Create a dump.md",
+    "IT/SQL/MySQL/Installation.md",
+    "IT/SQL/MySQL/Index.md",
+    "IT/SQL/MySQL/Open Mysql Promt.md",
+    "IT/SQL/MySQL/Working with tables.md",
+    "IT/SQL/MySQL/Working with databases.md",
+    "IT/SQL/PostgreSQL",
+    "IT/SQL/MySQL",
+    "IT/SQL",
     "IT/Nvim",
-    "IT/Linux/Troubleshooting/Logs",
     "IT/Linux/Internet/Http Servers",
+    "IT/Linux/Untitled",
+    "Life",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",

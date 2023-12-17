@@ -14,4 +14,4 @@ A rationalist might go on to give a nonnatural account of reasons. Scanlon’s  
 
 But Gibbard’s proposal that we briefly considered in section 14.1  implements a noncognitivist version of rationalism. Rationality talk is given  a noncognitivist gloss, and all other normative discourse is then analyzed in  terms of reasons. And moral judgements are included, although in a somewhat complicated way. 
 
-Rationalism is a species of morals/reasons existence internalism. True moral  claims are claims about the reasons a person has, so they have the tightest  possible connection with reasons. 
+Rationalism is a species of morals/reasons existence internalism. True moral  claims are claims about the reasons a person has, so they have the tightest possible connection with reasons. 
