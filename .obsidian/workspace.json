@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Ethics/Well-being/Well-Being.md",
+                "file": "Moral Psychology/Well being.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Ethics/Well-being/Well-Being.md",
+                "file": "Moral Psychology/Well being.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Ethics/Well-being/Well-Being.md",
+                "file": "Moral Psychology/Well being.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Ethics/Well-being/Well-Being.md"
+                "file": "Moral Psychology/Well being.md"
               }
             }
           },
@@ -134,8 +133,11 @@
   },
   "active": "5e0db4bb3b1843fd",
   "lastOpenFiles": [
-    "Moral Psychology/Untitled.md",
+    "Philosophy/Ethics/Why be moral.md",
+    "Moral Psychology/Well being.md",
     "Philosophy/Ethics/Well-being/Well-Being.md",
+    "Philosophy/Untitled.md",
+    "Philosophy/Untitled 1.md",
     "Philosophy/Ethics/Well-being",
     "Psychology PhD course/Elnglish/Homework/2023 12 30.md",
     "Moral Psychology",
@@ -165,10 +167,7 @@
     "IT/Nvim/Windows like shortcuts.md",
     "IT/Nvim",
     "IT/Linux/Troubleshooting/Logs/Journalctl.md",
-    "IT/Linux/Troubleshooting/Logs/Log.md",
     "IT/Linux/Troubleshooting/Logs",
-    "IT/Linux/Scheduling/at.md",
-    "IT/Linux/Scheduling/At Startup.md",
     "IT/Linux/Internet/Http Servers",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
