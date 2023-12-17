@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md",
+                "file": "IT/Nvim/Windows like shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md",
+                "file": "IT/Nvim/Windows like shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md",
+                "file": "IT/Nvim/Windows like shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md"
+                "file": "IT/Nvim/Windows like shortcuts.md"
               }
             }
           },
@@ -134,6 +134,7 @@
   },
   "active": "ac963a184ae60767",
   "lastOpenFiles": [
+    "Philosophy/Ethics/Metaethics/Rationalism/Rationalism.md",
     "Philosophy/Ethics/Metaethics/Hare's Translation Argument.md",
     "Philosophy/Ethics/Metaethics/Internalism-Externalism/Internalism.md",
     "Psychology PhD course/Elnglish/Article/Article.md",
@@ -162,7 +163,6 @@
     "IT/SQL/MySQL/Index.md",
     "IT/SQL/MySQL/Open Mysql Promt.md",
     "IT/SQL/MySQL/Working with tables.md",
-    "IT/SQL/MySQL/Working with databases.md",
     "IT/SQL/PostgreSQL",
     "IT/SQL/MySQL",
     "IT/SQL",
