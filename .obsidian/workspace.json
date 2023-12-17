@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moral Psychology/Well being.md",
+                "file": "Moral Psychology/Dual Process Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moral Psychology/Well being.md",
+                "file": "Moral Psychology/Dual Process Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moral Psychology/Well being.md",
+                "file": "Moral Psychology/Dual Process Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Moral Psychology/Well being.md"
+                "file": "Moral Psychology/Dual Process Theory.md"
               }
             }
           },
@@ -133,8 +134,9 @@
   },
   "active": "5e0db4bb3b1843fd",
   "lastOpenFiles": [
-    "Philosophy/Ethics/Why be moral.md",
     "Moral Psychology/Well being.md",
+    "Moral Psychology/Dual Process Theory.md",
+    "Philosophy/Ethics/Why be moral.md",
     "Philosophy/Ethics/Well-being/Well-Being.md",
     "Philosophy/Untitled.md",
     "Philosophy/Untitled 1.md",
@@ -166,7 +168,6 @@
     "IT/Python",
     "IT/Nvim/Windows like shortcuts.md",
     "IT/Nvim",
-    "IT/Linux/Troubleshooting/Logs/Journalctl.md",
     "IT/Linux/Troubleshooting/Logs",
     "IT/Linux/Internet/Http Servers",
     "Untitled-2023-11-10-1121.png",
