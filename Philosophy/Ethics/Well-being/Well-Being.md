@@ -16,5 +16,5 @@ Types of theories of well-being:
 	- Both ways dependent:
 		- Kraut  Individualist eudamonism - pleasure + developing individual nature
 - Objective:
-	- Eudamonistic of human species - we need to develop our onjective nature of a human being
+	- Species-based Eudamonistic - we need to develop our onjective nature of a human being
 	- 
