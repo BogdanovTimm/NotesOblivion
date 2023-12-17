@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -132,7 +131,7 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "f70bad8294d50d2c",
+  "active": "ac963a184ae60767",
   "lastOpenFiles": [
     "Psychology PhD course/Elnglish/Article/Article 13.12.2023.md",
     "Psychology PhD course/Elnglish/Homework/2023.12.13.md",
