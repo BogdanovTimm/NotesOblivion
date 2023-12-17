@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023 12 30.md",
+                "file": "Philosophy/Ethics/Well-being/Well-Being.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023 12 30.md",
+                "file": "Philosophy/Ethics/Well-being/Well-Being.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023 12 30.md",
+                "file": "Philosophy/Ethics/Well-being/Well-Being.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology PhD course/Elnglish/Homework/2023 12 30.md"
+                "file": "Philosophy/Ethics/Well-being/Well-Being.md"
               }
             }
           },
@@ -133,8 +134,12 @@
   },
   "active": "5e0db4bb3b1843fd",
   "lastOpenFiles": [
-    "Psychology PhD course/Elnglish/Article/Article 13 12 2023.md",
+    "Moral Psychology/Untitled.md",
+    "Philosophy/Ethics/Well-being/Well-Being.md",
+    "Philosophy/Ethics/Well-being",
     "Psychology PhD course/Elnglish/Homework/2023 12 30.md",
+    "Moral Psychology",
+    "Psychology PhD course/Elnglish/Article/Article 13 12 2023.md",
     "Psychology PhD course/Elnglish/Article/Article.md",
     "Psychology PhD course/Philosophy/2023 11 23.md",
     "Life/Ideas.md",
@@ -164,11 +169,7 @@
     "IT/Linux/Troubleshooting/Logs",
     "IT/Linux/Scheduling/at.md",
     "IT/Linux/Scheduling/At Startup.md",
-    "IT/Linux/Internet/Http Servers/Nginx.md",
-    "IT/Linux/Internet/Http Servers/Apache.md",
     "IT/Linux/Internet/Http Servers",
-    "Acid Kiss Studio/VST",
-    "Acid Kiss Studio",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
