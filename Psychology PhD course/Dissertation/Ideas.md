@@ -35,3 +35,7 @@ The most recent objection (h) to virtue ethics claims that work in “situationi
 # Moral education
 
 Following Plato and Aristotle, modern virtue ethics has always emphasised the importance of moral education, not as the inculcation of rules but as the training of character. There is now a growing movement towards virtues education, amongst both academics (Carr 1999; Athanassoulis 2014; Curren 2015) and teachers in the classroom. One exciting thing about research in this area is its engagement with other academic disciplines, including psychology, educational theory, and theology (see Cline 2015; and Snow 2015).
+
+# Ценности рича что ли
+
+Создать модифицированную версию где нет разделения на 2 шкалы - и тут надо заменить это на то как поступил бы в конкретной ситуации - и как потом сказал бы другие люди должны были бы поступить. и это надо проверять через неделю
