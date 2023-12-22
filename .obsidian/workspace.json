@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md",
+                "file": "Psychology PhD course/Dissertation/Tests/Ценностные ориентации Рокич.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md",
+                "file": "Psychology PhD course/Dissertation/Tests/Ценностные ориентации Рокич.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md",
+                "file": "Psychology PhD course/Dissertation/Tests/Ценностные ориентации Рокич.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md"
+                "file": "Psychology PhD course/Dissertation/Tests/Ценностные ориентации Рокич.md"
               }
             }
           },
@@ -134,6 +134,15 @@
   },
   "active": "5e0db4bb3b1843fd",
   "lastOpenFiles": [
+    "Psychology PhD course/Dissertation/Tests/Портретный ценностный опросник, PVQ-RR Шварц.md",
+    "Psychology PhD course/Dissertation/Tests/Методика исследования социальных аксиом.md",
+    "Psychology PhD course/Dissertation/Tests/Г. Хофстеде «Модуль исследования ценностей».md",
+    "Psychology PhD course/Dissertation/Tests/Ценностные ориентации Рокич.md",
+    "Psychology PhD course/Dissertation/Psychology/Worldview/Attitudes.md",
+    "Psychology PhD course/Dissertation/Tests",
+    "Psychology PhD course/Dissertation/Ideas.md",
+    "Psychology PhD course/Dissertation/Psychology/Worldview",
+    "Psychology PhD course/Dissertation/Psychology",
     "Moral Psychology/Dual Process Theory.md",
     "Philosophy/Ethics/Metaethics/Internalism-Externalism/Williams' Internalism.md",
     "Philosophy/Ethics/Metaethics/Internalism-Externalism/Translation argument.md",
@@ -158,18 +167,9 @@
     "Psychology PhD course/Philosophy/2023 11 23.md",
     "Life/Ideas.md",
     "Life",
-    "IT/SQL/PostgreSQL/Working with tables.md",
-    "IT/SQL/PostgreSQL/Working with database.md",
-    "IT/SQL/PostgreSQL/Open PostgreSQL promt.md",
-    "IT/SQL/PostgreSQL/Installation.md",
-    "IT/SQL/MySQL/Working with tables.md",
-    "IT/SQL/MySQL/Working with databases.md",
     "IT/SQL/PostgreSQL",
     "IT/SQL/MySQL",
     "IT/SQL",
-    "IT/Python",
-    "IT/Nvim",
-    "IT/Linux/Troubleshooting/Logs",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
