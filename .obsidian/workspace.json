@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Tests/Ценностные ориентации Рокич.md",
+                "file": "Psychology PhD course/Dissertation/Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 230.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Tests/Ценностные ориентации Рокич.md",
+                "file": "Psychology PhD course/Dissertation/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Tests/Ценностные ориентации Рокич.md",
+                "file": "Psychology PhD course/Dissertation/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Tests/Ценностные ориентации Рокич.md"
+                "file": "Psychology PhD course/Dissertation/Ideas.md"
               }
             }
           },
@@ -134,13 +133,13 @@
   },
   "active": "5e0db4bb3b1843fd",
   "lastOpenFiles": [
+    "Psychology PhD course/Dissertation/Tests/Ценностные ориентации Рокич.md",
     "Psychology PhD course/Dissertation/Tests/Портретный ценностный опросник, PVQ-RR Шварц.md",
     "Psychology PhD course/Dissertation/Tests/Методика исследования социальных аксиом.md",
     "Psychology PhD course/Dissertation/Tests/Г. Хофстеде «Модуль исследования ценностей».md",
-    "Psychology PhD course/Dissertation/Tests/Ценностные ориентации Рокич.md",
+    "Psychology PhD course/Dissertation/Ideas.md",
     "Psychology PhD course/Dissertation/Psychology/Worldview/Attitudes.md",
     "Psychology PhD course/Dissertation/Tests",
-    "Psychology PhD course/Dissertation/Ideas.md",
     "Psychology PhD course/Dissertation/Psychology/Worldview",
     "Psychology PhD course/Dissertation/Psychology",
     "Moral Psychology/Dual Process Theory.md",
