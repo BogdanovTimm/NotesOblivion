@@ -124,7 +124,7 @@
 - _Norman Granz Jazz Concert_ (Norgran MGN 3501–2)
 - _Charlie Parker at the Pershing Ballroom Chicago 1950_ (Zim ZM 1003)
 - _The Charlie Parker Story, #3_ (Verve MGV 8002)
-- _Charlie Parker - Bird in Sweden_ (Spotlite (E) SPJ 124/25) `<--- Now I am here` 
+- _Charlie Parker - Bird in Sweden_ (Spotlite (E) SPJ 124/25) 
 - _Charlie Parker - More Unissued, Vol. 2_ (Royal Jazz (D) RJD 506)
 - _Machito - Afro-Cuban Jazz_ (Clef MGC 689)
 - _An Evening at Home with Charlie Parker Sextet_ (Savoy MG 12152)
@@ -132,7 +132,7 @@
 # 1951
 
 - _[The Genius of Charlie Parker, #8 - Swedish Schnapps](https://en.wikipedia.org/wiki/Swedish_Schnapps_(album) "Swedish Schnapps (album)")_
-- _The Genius of Charlie Parker, #6 - Fiesta_
+- _The Genius of Charlie Parker, #6 - Fiesta_ `<--- Now I am here` 
 - - _[The Genius of Charlie Parker, #8 - Swedish Schnapps](https://en.wikipedia.org/wiki/Swedish_Schnapps_(album) "Swedish Schnapps (album)")_ (Verve MGV 8010)
 - _The Magnificent Charlie Parker_ (Clef MGC 646)
 - _The Genius of Charlie Parker, #6 - Fiesta_ (Verve MGV 8008)
