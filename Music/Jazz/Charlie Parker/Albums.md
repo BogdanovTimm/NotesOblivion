@@ -132,14 +132,14 @@
 # 1951
 
 - _[The Genius of Charlie Parker, #8 - Swedish Schnapps](https://en.wikipedia.org/wiki/Swedish_Schnapps_(album) "Swedish Schnapps (album)")_
-- _The Genius of Charlie Parker, #6 - Fiesta_ `<--- Now I am here` 
+- _The Genius of Charlie Parker, #6 - Fiesta_ 
 - - _[The Genius of Charlie Parker, #8 - Swedish Schnapps](https://en.wikipedia.org/wiki/Swedish_Schnapps_(album) "Swedish Schnapps (album)")_ (Verve MGV 8010)
 - _The Magnificent Charlie Parker_ (Clef MGC 646)
 - _The Genius of Charlie Parker, #6 - Fiesta_ (Verve MGV 8008)
 - _Charlie Parker - Summit Meeting at Birdland_ (Columbia JC 34831)
 - _Charlie Parker - Bird Meets Birks_ (Klacto (E) MG 102)
 - _Charlie Parker - The Happy "Bird"_ (Charlie Parker PLP 404)
-- _Charlie Parker Live Boston, Philadelphia, Brooklyn 1951_ (EPM Musique (F) FDC 5711)
+- _Charlie Parker Live Boston, Philadelphia, Brooklyn 1951_ (EPM Musique (F) FDC 5711) `<--- Now I am here` 
 - _Charlie Parker - Bird with the Herd 1951_ (Alamac QSR 2442)
 - _Charlie Parker - More Unissued, Vol. 1_ (Royal Jazz (D) RJD 505)
 
