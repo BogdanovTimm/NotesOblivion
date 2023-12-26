@@ -139,8 +139,8 @@
 - _Charlie Parker - Summit Meeting at Birdland_ (Columbia JC 34831)
 - _Charlie Parker - Bird Meets Birks_ (Klacto (E) MG 102)
 - _Charlie Parker - The Happy "Bird"_ (Charlie Parker PLP 404)
-- _Charlie Parker Live Boston, Philadelphia, Brooklyn 1951_ (EPM Musique (F) FDC 5711) `<--- Now I am here` 
-- _Charlie Parker - Bird with the Herd 1951_ (Alamac QSR 2442)
+- _Charlie Parker Live Boston, Philadelphia, Brooklyn 1951_ (EPM Musique (F) FDC 5711) 
+- _Charlie Parker - Bird with the Herd 1951_ (Alamac QSR 2442) `<--- Now I am here` 
 - _Charlie Parker - More Unissued, Vol. 1_ (Royal Jazz (D) RJD 505)
 
 # 1952
