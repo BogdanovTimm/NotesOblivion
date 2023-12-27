@@ -10,16 +10,57 @@
           {
             "id": "5e0db4bb3b1843fd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
+                "file": "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "938f000735a94fb4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Стратегии поведения.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "dac93ce09e0e01f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2c7e5eddd8f9a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Components.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5,
-    "collapsed": true
+    "width": 290.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
+                "file": "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
+                "file": "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md"
+                "file": "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md"
               }
             }
           },
@@ -132,23 +172,37 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "5e0db4bb3b1843fd",
+  "active": "dac93ce09e0e01f5",
   "lastOpenFiles": [
-    "IT/SQL/MySQL/Open Mysql Promt.md",
-    "IT/SQL/MySQL/Installation.md",
-    "IT/SQL/MySQL/Index.md",
-    "IT/SQL/MySQL/Create a dump.md",
-    "IT/Docker/Run.md",
-    "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Pluralism/Christine Swanton.md",
-    "Philosophy/Ethics/Normative Ethics/Virtue Ethics/Sentimentalism/Slote.md",
-    "Music/Jazz/Charlie Parker/Albums.md",
+    "Psychology PhD course/Dissertation/Psychology/Отношения и установки/Оотношения п установки.md",
+    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Литература.md",
+    "Psychology PhD course/Dissertation/Psychology/Отношения и установки",
+    "Psychology PhD course/Dissertation/Psychology/Стратегии/Стратегии подведения и установки.md",
+    "Psychology PhD course/Dissertation/Psychology/Атттрибутивные схемы/Определение.md",
+    "Psychology PhD course/Dissertation/Psychology/Стратегии",
+    "Psychology PhD course/Dissertation/Psychology/Отношение/Определение.md",
+    "Psychology PhD course/Dissertation/Psychology/Атттрибутивные схемы",
     "Psychology PhD course/Dissertation/Ideas.md",
+    "Psychology PhD course/Dissertation/Psychology/Отношение",
+    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Components.md",
+    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Стратегии поведения.md",
+    "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
+    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Междисциплинарность.md",
+    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Definition.md",
+    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/почитать.md",
+    "Psychology PhD course/Dissertation/Tests/Which to take.md",
+    "Psychology PhD course/Dissertation/Untitled",
+    "Untitled.md",
+    "Psychology PhD course/Dissertation/Names.md",
+    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Ресурсы.md",
+    "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety",
+    "Psychology PhD course/Dissertation/Psychology/Psychological Safety",
     "Psychology PhD course/Dissertation/Tests/Ценностные ориентации Рокич.md",
-    "Psychology PhD course/Dissertation/Tests/Портретный ценностный опросник, PVQ-RR Шварц.md",
     "Psychology PhD course/Dissertation/Tests/Методика исследования социальных аксиом.md",
+    "Psychology PhD course/Dissertation/Tests/Портретный ценностный опросник, PVQ-RR Шварц.md",
     "Psychology PhD course/Dissertation/Tests/Г. Хофстеде «Модуль исследования ценностей».md",
-    "Psychology PhD course/Dissertation/Psychology/Worldview/Attitudes.md",
     "Psychology PhD course/Dissertation/Tests",
+    "Psychology PhD course/Dissertation/Psychology/Worldview/Attitudes.md",
     "Psychology PhD course/Dissertation/Psychology/Worldview",
     "Psychology PhD course/Dissertation/Psychology",
     "Moral Psychology/Dual Process Theory.md",
@@ -156,20 +210,6 @@
     "Philosophy/Ethics/Metaethics/Internalism-Externalism/Translation argument.md",
     "Philosophy/Ethics/Metaethics/Internalism-Externalism/Plato's Internalism.md",
     "Philosophy/Ethics/Metaethics/Internalism-Externalism/Internalism.md",
-    "Philosophy/Ethics/Metaethics/Internalism-Externalism/Horgan and Timmons thought experiment.md",
-    "Philosophy/Ethics/Metaethics/Internalism-Externalism/Counterargument from amoralists.md",
-    "Philosophy/Ethics/Metaethics/Internalism-Externalism/Falk's argument.md",
-    "Philosophy/Ethics/Metaethics/Internalism-Externalism/Argument from the Epistemology of Moral Attitude Attribution.md",
-    "Philosophy/Ethics/Metaethics/Internalism-Externalism/Bernard William's argument.md",
-    "Philosophy/Ethics/Metaethics/Internalism-Externalism",
-    "Moral Psychology/Well being.md",
-    "Philosophy/Ethics/Why be moral.md",
-    "Philosophy/Ethics/Well-being",
-    "Moral Psychology",
-    "Life",
-    "IT/SQL/PostgreSQL",
-    "IT/SQL/MySQL",
-    "IT/SQL",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",

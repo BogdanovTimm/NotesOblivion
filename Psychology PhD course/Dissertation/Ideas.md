@@ -16,6 +16,10 @@ A second argument in favor of Humeanism appeals to the view about reasons associ
 
 Darwall (1983), pp. 51 ff., originally coined the expressions ‘judgment internalism’ and ‘existence internalism.’  Darwall describes judgment internalism as holding that it is a necessary condition on a judgment's genuinely being of a certain type—it's being, say, the judgment that one ought to φ or the judgment that one has a reason to φ—that the individual who makes the judgment be disposed to act in accordance with it. For a related, though slightly different distinction between kinds of internalism see Brink (1989),  pp. 37-80.
 
+Психологическая безопасность рассматривается прежде всего с позиции субъекта отношений, представленной в работах В.Н. Мясищева (Мясищев, 2003), где отношение устремлено в будущее, а также с позиции категории отношения в рамках представления Д.А. Леонтьева (Леонтьев, 1999) О смыслах человеческой деятельности, бытия, Где система отношений порождает смысл как психологическую реальность. 
+
+
+
 # Почему надо спрашивать не только об интернализме, но еще и о нормативных позициях
 
 Потому что дуал процесс тиори показывает что обе нормативных теории (консеквенциализм и деонтология) могут сосуществовать у одно человека.
@@ -44,8 +48,23 @@ Following Plato and Aristotle, modern virtue ethics has always emphasised the im
 
 мировоззрение - леонтьев - "мировоззрение миф или реальность", деятельный подход пантелеев
 
-# До вторника
+# Влияние изменения в этике и метаэтике на психологическую защищенность
 
-шкала ценности парфеновой - добавить добродетели - [Материалы - timofeimen@gmail.com - Gmail (google.com)](https://mail.google.com/mail/u/1/#search/%D0%BF%D0%B0%D1%80%D1%84%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0/QgrcJHsBscVTCGXJqfHSlkvlrwgNqpXbgXG)
+вот мой тест сравнить с Парфеновским карочи
 
+# Тест
 
+## О себе и о других
+
+Сравнить его о себе и о других
+
+## Смысл жизни
+
+Спростиь, есть ли у людей смысл жизни
+
+## Релятивизм-универсализм
+
+Вопросы типа:
+- "у всех людей одинаковые блага"
+- "все люди должны жить по одним и тем же правилам"
+- "у всех людей одна цель"
