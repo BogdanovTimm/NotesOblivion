@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Psychology/Атттрибутивные схемы/Определение.md",
+                "file": "Psychology PhD course/Dissertation/Tests/Парфенова, анкета псих безопасновть в медиаугрозах.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Psychology/Атттрибутивные схемы/Определение.md",
+                "file": "Psychology PhD course/Dissertation/Tests/Парфенова, анкета псих безопасновть в медиаугрозах.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Psychology/Атттрибутивные схемы/Определение.md",
+                "file": "Psychology PhD course/Dissertation/Tests/Парфенова, анкета псих безопасновть в медиаугрозах.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Psychology/Атттрибутивные схемы/Определение.md"
+                "file": "Psychology PhD course/Dissertation/Tests/Парфенова, анкета псих безопасновть в медиаугрозах.md"
               }
             }
           },
@@ -172,14 +173,15 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "f70bad8294d50d2c",
+  "active": "dac93ce09e0e01f5",
   "lastOpenFiles": [
+    "Psychology PhD course/Dissertation/Psychology/Атттрибутивные схемы/Определение.md",
+    "Psychology PhD course/Dissertation/Tests/Парфенова, анкета псих безопасновть в медиаугрозах.md",
     "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
     "Psychology PhD course/Dissertation/Psychology/Отношения и установки/Оотношения п установки.md",
     "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Литература.md",
     "Psychology PhD course/Dissertation/Psychology/Отношения и установки",
     "Psychology PhD course/Dissertation/Psychology/Стратегии/Стратегии подведения и установки.md",
-    "Psychology PhD course/Dissertation/Psychology/Атттрибутивные схемы/Определение.md",
     "Psychology PhD course/Dissertation/Psychology/Стратегии",
     "Psychology PhD course/Dissertation/Psychology/Отношение/Определение.md",
     "Psychology PhD course/Dissertation/Psychology/Атттрибутивные схемы",
@@ -209,7 +211,6 @@
     "Philosophy/Ethics/Metaethics/Internalism-Externalism/Williams' Internalism.md",
     "Philosophy/Ethics/Metaethics/Internalism-Externalism/Translation argument.md",
     "Philosophy/Ethics/Metaethics/Internalism-Externalism/Plato's Internalism.md",
-    "Philosophy/Ethics/Metaethics/Internalism-Externalism/Internalism.md",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
