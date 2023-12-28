@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e0db4bb3b1843fd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "dac93ce09e0e01f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Psychology/Отношения и установки/Оотношения п установки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7880ba223acdbef9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
+                "file": "Psychology PhD course/Dissertation/Практическая част/Этика добродетели.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md",
+                "file": "Psychology PhD course/Dissertation/Psychology/Установка и смысл/Установка и смысл.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md",
+                "file": "Psychology PhD course/Dissertation/Практическая част/Этика добродетели.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md",
+                "file": "Psychology PhD course/Dissertation/Практическая част/Этика добродетели.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Ideas.md"
+                "file": "Psychology PhD course/Dissertation/Практическая част/Этика добродетели.md"
               }
             }
           },
@@ -171,44 +144,45 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "ee54bcf12c63c7e1",
+  "active": "dac93ce09e0e01f5",
   "lastOpenFiles": [
+    "Psychology PhD course/Dissertation/Tests/Метафорический девиз жизни/Обоснование.md",
+    "Psychology PhD course/Dissertation/Psychology/Worldview/Обоснование.md",
+    "Psychology PhD course/Dissertation/Tests/Метафорический девиз жизни",
+    "Psychology PhD course/Dissertation/Psychology/Worldview/Attitudes.md",
+    "Psychology PhD course/Dissertation/Psychology/Общая методология/Системно-субъектный подход.md",
+    "Psychology PhD course/Dissertation/Psychology/Безопасность/Информационно-психологическая безопасноть.md",
+    "Pasted image 20231228210704.png",
+    "Psychology PhD course/Dissertation/Moral Psychology/Реферат/Reason Motive Internalism.md",
+    "Psychology PhD course/Dissertation/Psychology/Общая методология",
+    "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Медиадискурс и Безопасность.md",
+    "Psychology PhD course/Dissertation/Psychology/Установка и смысл/Установка и смысл.md",
+    "Psychology PhD course/Dissertation/Psychology/Безопасность/Ресурсы/Ресурсы.md",
+    "Psychology PhD course/Dissertation/Psychology/Безопасность/Проблемы/Проблемная ситуация.md",
+    "Psychology PhD course/Dissertation/Psychology/Безопасность/Ресурсы",
+    "Psychology PhD course/Dissertation/Psychology/Стратегии/Стратегии подведения и установки.md",
+    "Psychology PhD course/Dissertation/Psychology/Безопасность/Проблемы",
+    "Psychology PhD course/Dissertation/Psychology/Безопасность",
+    "Psychology PhD course/Dissertation/Psychology/Поступок/Поступок.md",
+    "Psychology PhD course/Dissertation/Psychology/Поступок",
+    "Psychology PhD course/Dissertation/Практическая част/Этика добродетели.md",
+    "Psychology PhD course/Dissertation/Moral Psychology/Реферат",
+    "Psychology PhD course/Dissertation/Psychology/Ценноостные ориентации/Ценнностные ориентации.md",
+    "Psychology PhD course/Dissertation/Практическая част",
+    "Psychology PhD course/Dissertation/Psychology/Неопределенность/Неопределенность.md",
+    "Psychology PhD course/Dissertation/Psychology/Смысловые обраования/Смысловые Образования.md",
+    "Psychology PhD course/Dissertation/Psychology/Неопределенность",
+    "Psychology PhD course/Dissertation/Psychology/Отношения и установки/Оотношения п установки.md",
+    "Psychology PhD course/Dissertation/Psychology/Установка и смысл",
+    "Psychology PhD course/Dissertation/Ideas.md",
     "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Устойчивость.md",
     "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Ресурсы.md",
     "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Трудные жизненные ситуации.md",
     "Psychology PhD course/Dissertation/Tests/Which to take.md",
-    "Psychology PhD course/Dissertation/Psychology/Ценноостные ориентации/Ценнностные ориентации.md",
-    "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
-    "Psychology PhD course/Dissertation/Psychology/Отношения и установки/Оотношения п установки.md",
     "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Components.md",
     "Psychology PhD course/Dissertation/Psychology/Установка и деятельность/Установка и деятельность.md",
-    "Psychology PhD course/Dissertation/Psychology/Ценноостные ориентации",
     "Psychology PhD course/Dissertation/Psychology/Установка и деятельность/Untitled.md",
-    "Psychology PhD course/Dissertation/Psychology/Untitled",
-    "Psychology PhD course/Dissertation/Psychology/Стратегии/Стратегии подведения и установки.md",
-    "Psychology PhD course/Dissertation/Psychology/Установка и деятельность",
     "Psychology PhD course/Dissertation/Psychology/Атттрибутивные схемы/Определение.md",
-    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Стратегии поведения.md",
-    "Psychology PhD course/Dissertation/Tests/Парфенова, анкета псих безопасновть в медиаугрозах.md",
-    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Литература.md",
-    "Psychology PhD course/Dissertation/Psychology/Отношения и установки",
-    "Psychology PhD course/Dissertation/Psychology/Стратегии",
-    "Psychology PhD course/Dissertation/Psychology/Отношение/Определение.md",
-    "Psychology PhD course/Dissertation/Psychology/Атттрибутивные схемы",
-    "Psychology PhD course/Dissertation/Ideas.md",
-    "Psychology PhD course/Dissertation/Psychology/Отношение",
-    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Междисциплинарность.md",
-    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Definition.md",
-    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/почитать.md",
-    "Psychology PhD course/Dissertation/Untitled",
-    "Untitled.md",
-    "Psychology PhD course/Dissertation/Names.md",
-    "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety",
-    "Psychology PhD course/Dissertation/Psychology/Psychological Safety",
-    "Psychology PhD course/Dissertation/Tests/Ценностные ориентации Рокич.md",
-    "Psychology PhD course/Dissertation/Tests/Методика исследования социальных аксиом.md",
-    "Psychology PhD course/Dissertation/Tests/Портретный ценностный опросник, PVQ-RR Шварц.md",
-    "Psychology PhD course/Dissertation/Tests/Г. Хофстеде «Модуль исследования ценностей».md",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
