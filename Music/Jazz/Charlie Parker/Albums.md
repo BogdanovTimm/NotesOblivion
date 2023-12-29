@@ -140,14 +140,14 @@
 - _Charlie Parker - Bird Meets Birks_ (Klacto (E) MG 102)
 - _Charlie Parker - The Happy "Bird"_ (Charlie Parker PLP 404)
 - _Charlie Parker Live Boston, Philadelphia, Brooklyn 1951_ (EPM Musique (F) FDC 5711) 
-- _Charlie Parker - Bird with the Herd 1951_ (Alamac QSR 2442) `<--- Now I am here` 
+- _Charlie Parker - Bird with the Herd 1951_ (Alamac QSR 2442)
 - _Charlie Parker - More Unissued, Vol. 1_ (Royal Jazz (D) RJD 505)
 
 # 1952
 
 - _The Genius of Charlie Parker, #3 - Now's the Time_
 - - _Charlie Parker - New Bird, Vol. 2_ (Phoenix LP 12)
-- _Charlie Parker/Sonny Criss/Chet Baker - Inglewood Jam 6-16-'52_ (Jazz Chronicles JCS 102)
+- _Charlie Parker/Sonny Criss/Chet Baker - Inglewood Jam 6-16-'52_ (Jazz Chronicles JCS 102)  `<--- Now I am here` 
 - _Norman Granz' Jam Session, #1_ (Clef MGC 601)
 - _Norman Granz' Jam Session, #2_ (Clef MGC 602)
 - _Charlie Parker Live at [Rockland Palace](https://en.wikipedia.org/w/index.php?title=Rockland_Palace&action=edit&redlink=1 "Rockland Palace (page does not exist)")_ (Charlie Parker PLP 502)
