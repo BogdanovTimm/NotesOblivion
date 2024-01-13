@@ -148,9 +148,9 @@
 - _The Genius of Charlie Parker, #3 - Now's the Time_
 - - _Charlie Parker - New Bird, Vol. 2_ (Phoenix LP 12)
 - _Charlie Parker/Sonny Criss/Chet Baker - Inglewood Jam 6-16-'52_ (Jazz Chronicles JCS 102)  
-- _Norman Granz' Jam Session, #1_ (Clef MGC 601) `<--- Now I am here` 
+- _Norman Granz' Jam Session, #1_ (Clef MGC 601) 
 - _Norman Granz' Jam Session, #2_ (Clef MGC 602)
-- _Charlie Parker Live at [Rockland Palace](https://en.wikipedia.org/w/index.php?title=Rockland_Palace&action=edit&redlink=1 "Rockland Palace (page does not exist)")_ (Charlie Parker PLP 502)
+- _Charlie Parker Live at [Rockland Palace](https://en.wikipedia.org/w/index.php?title=Rockland_Palace&action=edit&redlink=1 "Rockland Palace (page does not exist)")_ (Charlie Parker PLP 502) `<--- Now I am here` 
 - _Charlie Parker - Cheers_ (S.C.A.M. JPG 2)
 - _The Genius of Charlie Parker, #3 - Now's the Time_ (Verve MGV 8005)
 

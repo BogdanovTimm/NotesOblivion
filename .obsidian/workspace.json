@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "01b60ea367977649",
+        "id": "7d8ac10fad8e4cdc",
         "type": "tabs",
         "children": [
           {
-            "id": "dac93ce09e0e01f5",
+            "id": "c00711d2b6f6d33f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Moral/Untitled.md",
+                "file": "Music/Jazz/Charlie Parker/Albums.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Moral/Untitled.md",
+                "file": "Music/Jazz/Charlie Parker/Albums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Moral/Untitled.md",
+                "file": "Music/Jazz/Charlie Parker/Albums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Moral/Untitled.md"
+                "file": "Music/Jazz/Charlie Parker/Albums.md"
               }
             }
           },
@@ -132,35 +132,36 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "dac93ce09e0e01f5",
+  "active": "c00711d2b6f6d33f",
   "lastOpenFiles": [
-    "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
+    "IT/SAS/Basic Commands.md",
+    "IT/SAS",
+    "Friends/Sanya/2023 15 11.md",
+    "IT/Bash/Redirection and Chaining/Chaining.md",
+    "IT/Bash/Redirection and Chaining/Redirection To Other Command.md",
+    "IT/Bash/Redirection and Chaining/Rerirection to Files.md",
+    "IT/Bash/Text/Find in file.md",
+    "IT/Bash/Text/Replace.md",
+    "IT/Bash/Creating.md",
+    "IT/Bash/Permissions.md",
+    "IT/Bash/Run.md",
+    "IT/Bash/Where to store scripts.md",
+    "IT/SQL/MySQL/Create a dump.md",
+    "IT/SQL/MySQL/Index.md",
+    "IT/SQL/MySQL/Installation.md",
+    "IT/SQL/MySQL/Open Mysql Promt.md",
+    "IT/SQL/MySQL/Working with databases.md",
+    "IT/SQL/MySQL/Working with tables.md",
+    "IT/SQL/PostgreSQL/Working with tables.md",
+    "IT/SQL/PostgreSQL/Working with database.md",
+    "IT/SQL/PostgreSQL/Open PostgreSQL promt.md",
+    "Psychology PhD course/!Что делать.md",
+    "Psychology PhD course/Парфенова.md",
+    "IT/SQL/PostgreSQL/Installation.md",
     "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Moral/Untitled.md",
+    "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
     "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Moral",
     "Psychology PhD course/Dissertation/Moral Psychology/History.md",
-    "Psychology PhD course/Dissertation/Moral Psychology/Реферат/Reason Motive Internalism.md",
-    "Psychology PhD course/Dissertation/Moral Psychology/Literature/Undreaded.md",
-    "Psychology PhD course/Dissertation/Moral Psychology/Literature/Readed.md",
-    "Music/Jazz/Charlie Parker/Albums.md",
-    "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Медиадискурс и Безопасность.md",
-    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Components.md",
-    "Psychology PhD course/Dissertation/Psychology/Worldview/Attitudes.md",
-    "Psychology PhD course/Dissertation/Psychology/Worldview/Обоснование.md",
-    "Psychology PhD course/Dissertation/Psychology/Worldview/Определение.md",
-    "Psychology PhD course/Dissertation/Psychology/Безопасность/Проблемы/Проблемная ситуация.md",
-    "Psychology PhD course/Dissertation/Psychology/Безопасность/Ресурсы/Ресурсы.md",
-    "Psychology PhD course/Dissertation/Psychology/Медиадискурс/Медиадискурс.md",
-    "Psychology PhD course/Dissertation/Psychology/Неопределенность/Неопределенность.md",
-    "Psychology PhD course/Dissertation/Psychology/Общая методология/Системно-субъектный подход.md",
-    "Psychology PhD course/Dissertation/Psychology/Отношение/Определение.md",
-    "Psychology PhD course/Dissertation/Psychology/Отношения и установки/Оотношения п установки.md",
-    "Psychology PhD course/Dissertation/Psychology/Поступок/Поступок.md",
-    "Psychology PhD course/Dissertation/Psychology/Смысловые обраования/Смысловые Образования.md",
-    "Psychology PhD course/Dissertation/Psychology/Стратегии/Стратегии подведения и установки.md",
-    "Psychology PhD course/Dissertation/Psychology/Установка и деятельность/Установка и деятельность.md",
-    "Psychology PhD course/Dissertation/Psychology/Установка и смысл/Установка и смысл.md",
-    "Psychology PhD course/Dissertation/Psychology/Ценноостные ориентации/Ценнностные ориентации.md",
-    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Definition.md",
     "Psychology PhD course/Dissertation/Psychology/Медиадискурс",
     "Psychology PhD course/Dissertation/Tests/Неоконченные предложения",
     "Psychology PhD course/Dissertation/Tests/Метафорический девиз жизни",
@@ -170,7 +171,6 @@
     "Psychology PhD course/Dissertation/Psychology/Безопасность/Проблемы",
     "Psychology PhD course/Dissertation/Psychology/Безопасность",
     "Psychology PhD course/Dissertation/Psychology/Поступок",
-    "Psychology PhD course/Dissertation/Moral Psychology/Реферат",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
