@@ -12,6 +12,7 @@
 # 1943
 
 - _Birth of the Bebop: Bird on Tenor 1943_ (Stash)
+
 # 1944
 -  [The Immortal Charlie Parker](https://en.wikipedia.org/wiki/The_Immortal_Charlie_Parker "The Immortal Charlie Parker")_
 - _Bird: Master Takes_
@@ -103,7 +104,7 @@
 - _An Evening at Home with Charlie Parker Sextet_
 - [The Genius of Charlie Parker, #4 - Bird and Diz](https://en.wikipedia.org/wiki/Bird_%26_Diz "Bird & Diz")_ (released on Verve's subsidiary label Clef)
 - _The Charlie Parker Story, #3_
-- - _Charlie Parker Live Birdland 1950_ (EPM Musique (F) FDC 5710) 
+- _Charlie Parker Live Birdland 1950_ (EPM Musique (F) FDC 5710) 
 - _Charlie Parker - [Bird at St. Nick's](https://en.wikipedia.org/wiki/Bird_at_St._Nick%27s "Bird at St. Nick's")_ (Jazz Workshop JWS 500) 
 - _Charlie Parker at the Apollo Theater and St. Nick's Arena_ (Zim ZM 1007)
 - _Charlie Parker - Bird's Eyes, Vol. 15_ (Philology (It) W 845–2)
@@ -133,7 +134,7 @@
 
 - _[The Genius of Charlie Parker, #8 - Swedish Schnapps](https://en.wikipedia.org/wiki/Swedish_Schnapps_(album) "Swedish Schnapps (album)")_
 - _The Genius of Charlie Parker, #6 - Fiesta_ 
-- - _[The Genius of Charlie Parker, #8 - Swedish Schnapps](https://en.wikipedia.org/wiki/Swedish_Schnapps_(album) "Swedish Schnapps (album)")_ (Verve MGV 8010)
+- _[The Genius of Charlie Parker, #8 - Swedish Schnapps](https://en.wikipedia.org/wiki/Swedish_Schnapps_(album) "Swedish Schnapps (album)")_ (Verve MGV 8010)
 - _The Magnificent Charlie Parker_ (Clef MGC 646)
 - _The Genius of Charlie Parker, #6 - Fiesta_ (Verve MGV 8008)
 - _Charlie Parker - Summit Meeting at Birdland_ (Columbia JC 34831)
@@ -146,25 +147,25 @@
 # 1952
 
 - _The Genius of Charlie Parker, #3 - Now's the Time_
-- - _Charlie Parker - New Bird, Vol. 2_ (Phoenix LP 12)
+- _Charlie Parker - New Bird, Vol. 2_ (Phoenix LP 12)
 - _Charlie Parker/Sonny Criss/Chet Baker - Inglewood Jam 6-16-'52_ (Jazz Chronicles JCS 102)  
-- _Norman Granz' Jam Session, #1_ (Clef MGC 601) 
+- _Norman Granz' Jam Session, #1_ (Clef MGC 601)
 - _Norman Granz' Jam Session, #2_ (Clef MGC 602)
-- _Charlie Parker Live at [Rockland Palace](https://en.wikipedia.org/w/index.php?title=Rockland_Palace&action=edit&redlink=1 "Rockland Palace (page does not exist)")_ (Charlie Parker PLP 502) 
+- _Charlie Parker Live at [Rockland Palace](https://en.wikipedia.org/w/index.php?title=Rockland_Palace&action=edit&redlink=1 "Rockland Palace (page does not exist)")_ (Charlie Parker PLP 502)
 - _Charlie Parker - Cheers_ (S.C.A.M. JPG 2)
 - _The Genius of Charlie Parker, #3 - Now's the Time_ (Verve MGV 8005)
 
 # 1953
 
 - _The Quartet of Charlie Parker_
-- - Miles Davis - _[Collectors' Items](https://en.wikipedia.org/wiki/Collectors%27_Items "Collectors' Items")_ (Prestige PRLP 7044, released posthumously in 1956) 
-- _Charlie Parker - Montreal 1953_ (Uptown UP 27.36) `<--- Now I am here` 
+- Miles Davis - _[Collectors' Items](https://en.wikipedia.org/wiki/Collectors%27_Items "Collectors' Items")_ (Prestige PRLP 7044, released posthumously in 1956)
+- _Charlie Parker - Montreal 1953_ (Uptown UP 27.36)
 - _Charlie Parker/Miles Davis/Dizzy Gillespie - Bird with Miles and Dizzy_ (Queen Disc (It) Q-002)
-- _Charlie Parker - One Night in Washington_ (Elektra/Musician E1 60019)
+- _Charlie Parker - One Night in Washington_ (Elektra/Musician E1 60019) 
 - _Charlie Parker - Yardbird-DC-53_ (VGM 0009)
 - _Charlie Parker at Storyville_ (Blue Note BT 85108)
-- _Charlie Parker - Star Eyes_ (Klacto (E) MG 100)
-- _Charles Mingus - The Complete Debut Recordings_ (Debut 12DCD 4402–2)
+- _Charlie Parker - Star Eyes_ (Klacto (E) MG 100) 
+- _Charles Mingus - The Complete Debut Recordings_ (Debut 12DCD 4402–2) `<--- Now I am here`
 - _The Quintet - Jazz at Massey Hall, Vol. 1_ (Debut DLP 2)
 - _The Quintet - Jazz at Massey Hall_ (Debut DEB 124)
 - _Charlie Parker - Bird Meets Birks_ (Mark Gardner (E) MG 102)
@@ -175,7 +176,7 @@
 # 1954
 
 - _The Genius of Charlie Parker, #5 - Charlie Parker Plays Cole Porter_ (released posthumously)
-- - _Hi-Hat All Stars, Guest Artists, Charlie Parker_ (Fresh Sound (Sp) FSR 303)
+- _Hi-Hat All Stars, Guest Artists, Charlie Parker_ (Fresh Sound (Sp) FSR 303)
 - _Charlie Parker - Kenton and Bird_ (Jazz Supreme JS 703)
 - _The Genius of Charlie Parker, #5 - Charlie Parker Plays Cole Porter_ (Verve MGV 8007)
 - _Charlie Parker - Miles Davis - Lee Konitz_ (Ozone 2)
