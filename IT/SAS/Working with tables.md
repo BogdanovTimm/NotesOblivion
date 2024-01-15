@@ -1,3 +1,24 @@
+#                    Merge tables
+
+##                   Union
+
+```SAS
+SET table1 table2 table3;
+```
+
+##                   Join
+
+```SAS
+DATA output_table_name;
+    MERGE table1 table2 table3;
+    BY common_column common_column2;
+RUN;
+
+DATA output_table_name;
+    MERGE table1 table2 table3;
+    BY common_column;
+RUN;
+
 #                    Read table from existing table
 
 ```SAS
@@ -5,6 +26,19 @@ DATA table_to_work_with;
     SET library_name.table_name(keep=text_column1 text_column2 numeric_column1 numeric_column2);
     new_column = licensed + 1;
 RUN;
+```
+
+#                    Offset and Limit
+
+```SAS
+SET some_table(FIRSTOBS=2 OBS=9);
+```
+
+#                    Where
+
+```SAS
+set schema_name.table_name;
+where some_column like '%LoRem%';
 ```
 
 #                    Read from program itself

@@ -7,17 +7,21 @@ Language for analysing data
 Types of comments:
 
 - `/* comment */`
-- `* comment`
+- `* comment ;`
 
 #                    Types of Datatypes
 
 - numbers (empty cell looks like `.`)
 - text (empty cell looks like ` `)
 
+Other types created using `FORMATTER`.
+
 #                    Variables
 
 ```SAS
-RETAIN variable1=0 variable2=2;
+RETAIN
+    variable1 = 0
+    variable2 = 2;
 variable1 = variable1+1;
 ```
 
@@ -27,10 +31,10 @@ variable1 = variable1+1;
 
 #                    SQL to SAS translator
 
-row - observation
-column - variable
-schema - library
-data-set - table
+Row - Observation
+Column - Variable
+Database - Library
+Table - Data-set
 
 ##                   Arithmetic
 

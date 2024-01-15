@@ -2,50 +2,23 @@
 
 ```SAS
 DATA output_table_name;
-    SET scheme_name.table_name(KEEP=text_column numberic_column);
+    SET scheme_name.table_name (KEEP = text_column numeric_column);
 DATALINES;
-Lorem 69
-Inpsum 1999
-;
-```
-
-#                    Select
-
-```SAS
-DATA output_table_name;
-    SET scheme_name.table_name(KEEP=column1 column2);
+    Lorem 69
+    Inpsum 1999
 RUN;
 ```
 
-##                   Union
+#                   GET
 
 ```SAS
-SET table1 table2 table3;
-```
-
-#                    Offset and Limit
-
-```SAS
-SET some_table(FIRSTOBS=2 OBS=9);
-```
-
-#                    Where
-
-```SAS
-set schema_name.table_name;
-where some_column like '%LoRem%';
-```
-
-##                   Join
-
-```SAS
-DATA output_table_name;
-    MERGE table1 table2 table3;
-    BY common_column common_column2;
-RUN;
-
-DATA output_table_name;
-    MERGE table1 table2 table3;
-    BY common_column;
-RUN;
+DATA females; 
+    SET scheme_name.table_name (KEEP = text_column numeric_column);
+    WHERE text_column IN ('F', 'A');
+    WHERE text_column IS NULL;
+    WHERE text_column BETWEEN ('A', 'D'); /* A or B or C or D */
+    WHERE text_column CONTAINS ('Nick'); /* Nickname, Nick */
+    WHERE text_column LIKE 'R_n%'; /* Regexp: '_' means '.' and '%' means '*' */
+    WHERE text_column =* 'Nick'; /* Simple '=', but non-strict (Nack, Nikki) */
+RUN; 
 ```

@@ -33,8 +33,6 @@ PROC FORMAT;
     ;
 RUN;
 
-
-
 PROC FREQ DATA = schema_name.table_name;
     TITLE "Frequences analysis";
     TABLES
@@ -55,12 +53,11 @@ PROC FORMAT;
         other = 'Miscoded'
     ;
     VALUE numeric_format_class
-        low-29 = 'Less than 30'
-        30-50 = '30 to 50'
-        51-high = '51+'
+        low-<30 = 'Less than 30'
+        30-<50 = '30 to 50'
+        50<-high = '51+'
     ;
 RUN;
-
 
 TITLE "Print formatted";
     PROC PRINT DATA = schema_name.table_name;
