@@ -1,4 +1,4 @@
-%let DWL_TODAY = %sysget(DWL_TODAY); /* Get linux environmantal variable DWL_TODAY */
+%let DWL_TODAY = '24JAN2024'd; /* Because there is no DWL_TODAY */
 
 %macro mPdftCheck;
                 %if "&DWL_TODAY" = "" %then %do;
@@ -32,7 +32,7 @@
 
 %mend;
 
-%let DWL_TODAY = %sysget(DWL_TODAY);
+%let DWL_TODAY = '24JAN2024'd;
 %put &DWL_TODAY;
 
 %mPdftCheck;
