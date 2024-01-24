@@ -4,11 +4,13 @@
 DATA new_table;
  	SET schema.table_to_work_with (KEEP = text_column numeric_column);
     LENGTH new_column $ 10;
-	IF MISSING(text_column) THEN
-	    new_column = " "
-    ; ELSE IF installed = "Lorem" THEN
-	    new_column = 'Ipsum'
-    ;
+    IF MISSING(text_column) THEN DO;
+	    new_column = " ";
+        new_column2 = "1";
+    END; ELSE IF text_column = "Lorem" THEN DO;
+	    new_column = 'Ipsum';
+        new_column2 = "2";
+    END;
 RUN;
 ```
 

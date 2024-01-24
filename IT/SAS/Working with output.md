@@ -68,3 +68,50 @@ TITLE "Print formatted";
         numeric_column numeric_format_class.
 RUN;
 ```
+
+#                   Print into one or second table
+
+```SAS
+DATA table1 table2;
+    INPUT
+        @1 text_column $1.
+    ;
+    IF text_column = 'F' THEN DO;
+        OUTPUT table1; 
+    END; ELSE IF text_column = 'M' THEN DO;
+        OUTPUT table2;
+    END;
+
+DATALINES;
+F
+M
+F
+F
+M
+;
+RUN; 
+```
+
+
+
+
+
+
+
+
+#                  Print Sorted
+
+```SAS
+PROC SORT DATA = database_name.table_name OUT = table_name_sorted_copy; 
+    BY DESCENDING coplumn_to_sort_by; 
+RUN; 
+```
+
+
+
+
+
+
+
+
+
