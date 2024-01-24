@@ -8,7 +8,7 @@
     %end;
     
     %let START_TIME = %sysfunc(time());
-    %let STOP_TIME = %sysfunc(intnx(minute, &START_TIME, 1)); /* 1 minute */
+    %let STOP_TIME = %sysfunc(intnx(minute, &START_TIME, 2)); /* 2 minutes */
     %let DIFFERENCE = 1; /* Dummy value to enter into do-while-loop */
 
 
@@ -29,7 +29,7 @@
             %return;
         %end;
         
-        %let rc = %sysfunc(sleep(20 * 1, 1)); /* 20 second */
+        %let rc = %sysfunc(sleep(15 * 1, 1)); /* 15 seconds */
         
         %let CURRENT_TIME_CHECK = %sysfunc(time());
         %let DIFFERENCE = %sysfunc(intck(minute, &CURRENT_TIME_CHECK, &STOP_TIME));
