@@ -1,6 +1,6 @@
 #                  Add new job
 
-`bsub -G %user_group% -g %/job/group% -b %5:00 (start time)% -t %11:12:20:30 ((November, 12th, 20:30) terminate time)% %job_name%`
+`bsub -G %user_group% -g %/job/group% -b %5:00 (start time)% -t %11:12:20:30 ((November, 12th, 20:30) terminate time)% -J %job_name_alias% %job_name% %command or script%`
 
 
 
