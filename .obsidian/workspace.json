@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7d8ac10fad8e4cdc",
+        "id": "6d164540a6d40975",
         "type": "tabs",
         "children": [
           {
-            "id": "c00711d2b6f6d33f",
+            "id": "52435a48bc68637d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -61,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 238.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Music/Jazz/Charlie Parker/Albums.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,45 +123,45 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "c00711d2b6f6d33f",
+  "active": "f70bad8294d50d2c",
   "lastOpenFiles": [
-    "IT/SAS/Basic Commands.md",
-    "IT/SAS",
-    "Friends/Sanya/2023 15 11.md",
-    "IT/Bash/Redirection and Chaining/Chaining.md",
-    "IT/Bash/Redirection and Chaining/Redirection To Other Command.md",
-    "IT/Bash/Redirection and Chaining/Rerirection to Files.md",
-    "IT/Bash/Text/Find in file.md",
-    "IT/Bash/Text/Replace.md",
-    "IT/Bash/Creating.md",
-    "IT/Bash/Permissions.md",
-    "IT/Bash/Run.md",
-    "IT/Bash/Where to store scripts.md",
-    "IT/SQL/MySQL/Create a dump.md",
-    "IT/SQL/MySQL/Index.md",
-    "IT/SQL/MySQL/Installation.md",
-    "IT/SQL/MySQL/Open Mysql Promt.md",
-    "IT/SQL/MySQL/Working with databases.md",
-    "IT/SQL/MySQL/Working with tables.md",
-    "IT/SQL/PostgreSQL/Working with tables.md",
-    "IT/SQL/PostgreSQL/Working with database.md",
-    "IT/SQL/PostgreSQL/Open PostgreSQL promt.md",
-    "Psychology PhD course/!Что делать.md",
-    "Psychology PhD course/Парфенова.md",
-    "IT/SQL/PostgreSQL/Installation.md",
-    "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Moral/Untitled.md",
     "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
-    "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Moral",
-    "Psychology PhD course/Dissertation/Moral Psychology/History.md",
-    "Psychology PhD course/Dissertation/Psychology/Медиадискурс",
-    "Psychology PhD course/Dissertation/Tests/Неоконченные предложения",
-    "Psychology PhD course/Dissertation/Tests/Метафорический девиз жизни",
-    "Pasted image 20231228210704.png",
+    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Стратегии поведения.md",
+    "Psychology PhD course/Dissertation/Psychology/Смысловые обраования/Смысловые Образования.md",
+    "Psychology PhD course/Dissertation/Psychology/Смысловые обраования",
+    "Psychology PhD course/Dissertation/Psychology/Поступок/Поступок.md",
+    "Psychology PhD course/Dissertation/Psychology/Поступок",
+    "Psychology PhD course/Dissertation/Psychology/Общая методология/Системно-субъектный подход.md",
     "Psychology PhD course/Dissertation/Psychology/Общая методология",
+    "Psychology PhD course/Dissertation/Psychology/Неопределенность/Неопределенность.md",
+    "Psychology PhD course/Dissertation/Psychology/Неопределенность",
+    "Psychology PhD course/Dissertation/Psychology/Медиадискурс/Медиадискурс.md",
+    "Psychology PhD course/Dissertation/Psychology/Медиадискурс",
+    "Psychology PhD course/Dissertation/Psychology/Безопасность/Ресурсы/Ресурсы.md",
+    "Psychology PhD course/Dissertation/Psychology/Безопасность/Проблемы/Проблемная ситуация.md",
     "Psychology PhD course/Dissertation/Psychology/Безопасность/Ресурсы",
     "Psychology PhD course/Dissertation/Psychology/Безопасность/Проблемы",
+    "Psychology PhD course/Dissertation/Psychology/Безопасность/Информационно-психологическая безопасноть.md",
     "Psychology PhD course/Dissertation/Psychology/Безопасность",
-    "Psychology PhD course/Dissertation/Psychology/Поступок",
+    "IT/SAS/Programs/Sasha's answer.sas",
+    "IT/SAS/Programs/Check date in a file.sas",
+    "IT/SAS/Working with variables.md",
+    "IT/SAS/Working with tables.md",
+    "IT/SAS/Working with statistics.md",
+    "IT/SAS/Working with SQL.md",
+    "IT/SAS/Working with Schemas.md",
+    "IT/SAS/Working with rows.md",
+    "IT/SAS/Working with output.md",
+    "IT/SAS/Working with input.md",
+    "IT/SAS/Working with formats.md",
+    "IT/SAS/Working with columns.md",
+    "IT/SAS/Working with characters.md",
+    "IT/SAS/Speed.md",
+    "IT/SAS/Previous version of a table.md",
+    "IT/SAS/Miscellaneous.md",
+    "IT/SAS/Logic.md",
+    "IT/SAS/Grouping data.md",
+    "Pasted image 20231228210704.png",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
