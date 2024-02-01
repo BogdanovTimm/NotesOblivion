@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Docker/NewDockerfile.md",
+                "file": "IT/Docker/Learning/Backend Final Dockerfile.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
-    "collapsed": true
+    "width": 238.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Docker/NewDockerfile.md",
+                "file": "IT/Docker/Learning/Backend Final Dockerfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Docker/NewDockerfile.md",
+                "file": "IT/Docker/Learning/Backend Final Dockerfile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Docker/NewDockerfile.md"
+                "file": "IT/Docker/Learning/Backend Final Dockerfile.md"
               }
             }
           },
@@ -134,8 +133,12 @@
   },
   "active": "52435a48bc68637d",
   "lastOpenFiles": [
-    "IT/Docker/Dockerfile.md",
+    "IT/Docker/Learning/Frontend 1 Dockerfile.md",
+    "IT/Docker/Learning/Backend Final Dockerfile.md",
     "IT/Docker/NewDockerfile.md",
+    "IT/Docker/Learning/Frontend Final Dockerfile.md",
+    "IT/Docker/Run.md",
+    "IT/Docker/Learning",
     "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
     "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Стратегии поведения.md",
     "Psychology PhD course/Dissertation/Psychology/Смысловые обраования/Смысловые Образования.md",
@@ -155,7 +158,6 @@
     "Psychology PhD course/Dissertation/Psychology/Безопасность/Информационно-психологическая безопасноть.md",
     "Psychology PhD course/Dissertation/Psychology/Безопасность",
     "IT/SAS/Programs/Sasha's answer.sas",
-    "IT/SAS/Programs/Check date in a file.sas",
     "IT/SAS/Working with variables.md",
     "IT/SAS/Working with tables.md",
     "IT/SAS/Working with statistics.md",
@@ -167,9 +169,6 @@
     "IT/SAS/Working with formats.md",
     "IT/SAS/Working with columns.md",
     "IT/SAS/Working with characters.md",
-    "IT/SAS/Speed.md",
-    "IT/SAS/Previous version of a table.md",
-    "IT/SAS/Miscellaneous.md",
     "Pasted image 20231228210704.png",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
