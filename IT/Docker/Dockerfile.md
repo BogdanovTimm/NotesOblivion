@@ -1,3 +1,4 @@
+```Dockerfile
 FROM node:18-slim AS base
  
  
@@ -36,3 +37,4 @@ USER ${USER}
 ENV PORT="8080"
 EXPOSE ${PORT}/tcp
 ENTRYPOINT [ "node", "--", "/app/server.js" ]
+```
