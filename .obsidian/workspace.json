@@ -11,8 +11,12 @@
             "id": "52435a48bc68637d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IT/Docker/Dockerfile.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -57,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 238.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/Docker/Dockerfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/Docker/Dockerfile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT/Docker/Dockerfile.md"
+              }
             }
           },
           {
@@ -123,8 +132,9 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "f70bad8294d50d2c",
+  "active": "52435a48bc68637d",
   "lastOpenFiles": [
+    "IT/Docker/Dockerfile.md",
     "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
     "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Стратегии поведения.md",
     "Psychology PhD course/Dissertation/Psychology/Смысловые обраования/Смысловые Образования.md",
@@ -160,7 +170,6 @@
     "IT/SAS/Previous version of a table.md",
     "IT/SAS/Miscellaneous.md",
     "IT/SAS/Logic.md",
-    "IT/SAS/Grouping data.md",
     "Pasted image 20231228210704.png",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
