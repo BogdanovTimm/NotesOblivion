@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Docker/Learning/Backend Final Dockerfile.md",
+                "file": "IT/Docker/Virtual HDD.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Docker/Learning/Backend Final Dockerfile.md",
+                "file": "IT/Docker/Virtual HDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Docker/Learning/Backend Final Dockerfile.md",
+                "file": "IT/Docker/Virtual HDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Docker/Learning/Backend Final Dockerfile.md"
+                "file": "IT/Docker/Virtual HDD.md"
               }
             }
           },
@@ -133,11 +134,16 @@
   },
   "active": "52435a48bc68637d",
   "lastOpenFiles": [
-    "IT/Docker/Learning/Frontend 1 Dockerfile.md",
-    "IT/Docker/Learning/Backend Final Dockerfile.md",
-    "IT/Docker/NewDockerfile.md",
-    "IT/Docker/Learning/Frontend Final Dockerfile.md",
+    "IT/Docker/Terminology.md",
+    "IT/Docker/Docker as OS.md",
+    "IT/Bash/Text/Find in file.md",
     "IT/Docker/Run.md",
+    "IT/Docker/NewDockerfile.md",
+    "IT/Docker/Virtual HDD.md",
+    "IT/Docker/Network connections.md",
+    "IT/Docker/Learning/Backend Final Dockerfile.md",
+    "IT/Docker/Learning/Frontend 1 Dockerfile.md",
+    "IT/Docker/Learning/Frontend Final Dockerfile.md",
     "IT/Docker/Learning",
     "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
     "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Стратегии поведения.md",
@@ -164,11 +170,6 @@
     "IT/SAS/Working with SQL.md",
     "IT/SAS/Working with Schemas.md",
     "IT/SAS/Working with rows.md",
-    "IT/SAS/Working with output.md",
-    "IT/SAS/Working with input.md",
-    "IT/SAS/Working with formats.md",
-    "IT/SAS/Working with columns.md",
-    "IT/SAS/Working with characters.md",
     "Pasted image 20231228210704.png",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
