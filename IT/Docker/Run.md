@@ -14,4 +14,7 @@
 
 1. `run --detach --name %container_name% --publish 0.0.0.0:%8080 (host port)%:%80 (container port)%/tcp %image_name:version%` where:
 	- `--deatch` - runs in the background
-	- 
+
+# Display information
+
+`docker inspect %container_name% | less`
