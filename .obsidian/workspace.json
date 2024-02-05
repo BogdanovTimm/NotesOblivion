@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Docker/Run.md",
+                "file": "IT/Bash/Creating.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Docker/Run.md",
+                "file": "IT/Bash/Creating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Docker/Run.md",
+                "file": "IT/Bash/Creating.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Docker/Run.md"
+                "file": "IT/Bash/Creating.md"
               }
             }
           },
@@ -134,15 +133,16 @@
   },
   "active": "52435a48bc68637d",
   "lastOpenFiles": [
+    "IT/Bash/Run.md",
+    "IT/Docker/Run.md",
+    "IT/Docker/Network connections.md",
+    "IT/Docker/Docker as OS.md",
+    "IT/Docker/Learning/Frontend 1 Dockerfile.md",
+    "IT/Docker/Learning/Backend Final Dockerfile.md",
     "IT/Docker/Virtual HDD.md",
     "IT/Docker/Terminology.md",
-    "IT/Docker/Docker as OS.md",
     "IT/Bash/Text/Find in file.md",
-    "IT/Docker/Run.md",
     "IT/Docker/NewDockerfile.md",
-    "IT/Docker/Network connections.md",
-    "IT/Docker/Learning/Backend Final Dockerfile.md",
-    "IT/Docker/Learning/Frontend 1 Dockerfile.md",
     "IT/Docker/Learning/Frontend Final Dockerfile.md",
     "IT/Docker/Learning",
     "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
@@ -169,7 +169,6 @@
     "IT/SAS/Working with statistics.md",
     "IT/SAS/Working with SQL.md",
     "IT/SAS/Working with Schemas.md",
-    "IT/SAS/Working with rows.md",
     "Pasted image 20231228210704.png",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
