@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md",
+                "file": "Moral Psychology/Ethics Position Theory.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "429814b49bc25330",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Untitled-2023-11-10-1121.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md",
+                "file": "Untitled-2023-11-10-1121.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md",
+                "file": "Untitled-2023-11-10-1121.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md"
+                "file": "Untitled-2023-11-10-1121.png"
               }
             }
           },
@@ -132,9 +142,30 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "52435a48bc68637d",
+  "active": "429814b49bc25330",
   "lastOpenFiles": [
+    "edge.md",
+    "Untitled-2023-11-10-1121.png",
+    "Pasted image 20231228210704.png",
+    "Pasted image 20231110210358.png",
+    "Pasted image 20231110190311.png",
+    "Pasted image 20231110135620.png",
+    "Pasted image 20231106235015.png",
+    "Philosophy/Philosophy of Language/Direct Reference Theory/Direct Reference Theory.md",
+    "Philosophy/Ethics/Positivism.md",
+    "Philosophy/Ethics/Why be moral.md",
+    "Philosophy/Ethics/Well-being/Well-Being.md",
+    "Moral Psychology/Well being.md",
+    "Moral Psychology/Ethics Position Theory.md",
+    "Moral Psychology/Dual Process Theory.md",
     "IT/Ansible/Installation.md",
+    "IT/Bash/Files/Find files on Linux.md",
+    "IT/Bash/LSF/Check jobs.md",
+    "IT/Bash/Redirection and Chaining/Chaining.md",
+    "IT/Bash/Creating.md",
+    "IT/Bash/Text/Replace.md",
+    "IT/Bash/Text/Find in file.md",
+    "IT/Bash/Permissions.md",
     "IT/Virtualization/Vm Virtual Box/Internal Network.md",
     "IT/Virtualization/Vm Virtual Box",
     "IT/Virtualization",
@@ -150,32 +181,11 @@
     "IT/Docker/Docker Examples/docker-compose Example.md",
     "IT/Docker/Run.md",
     "IT/Docker/Docker Compose.md",
-    "IT/Docker/NewDockerfile.md",
-    "IT/Docker/Docker Examples/Nginx configuration Example.md",
-    "IT/Docker/Learning/Backend Final Dockerfile.md",
-    "IT/Docker/Learning/Frontend Final Dockerfile.md",
-    "IT/Docker/Docker Examples/Backend Dockerfile Example.md",
-    "IT/Docker/Docker Examples/Frontend Dockerfile Example.md",
-    "IT/Work/SAS Errors/Rename of temporary member for.md",
-    "IT/Work/Find scripts from Mantis.md",
     "IT/Work/SAS Errors",
     "IT/Work",
-    "IT/Kafka/Installation.md",
     "IT/Kafka",
-    "IT/Bash/Files/Find files on Linux.md",
     "IT/Bash/Files",
-    "IT/Docker/Terminology.md",
-    "IT/Docker/Docker as OS.md",
-    "IT/Bash/Creating.md",
-    "IT/Bash/Run.md",
-    "IT/Docker/Network connections.md",
     "IT/Docker/Docker Examples",
-    "Pasted image 20231228210704.png",
-    "Untitled-2023-11-10-1121.png",
-    "Pasted image 20231110210358.png",
-    "Pasted image 20231110190311.png",
-    "Pasted image 20231110135620.png",
-    "Pasted image 20231110133406.png",
-    "Pasted image 20231106235015.png"
+    "Pasted image 20231110133406.png"
   ]
 }
