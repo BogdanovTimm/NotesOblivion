@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/SAS/Logs/Correct Russian symbols.md",
+                "file": "IT/Ansible/Installation.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/SAS/Logs/Correct Russian symbols.md",
+                "file": "IT/Ansible/Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/SAS/Logs/Correct Russian symbols.md",
+                "file": "IT/Ansible/Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/SAS/Logs/Correct Russian symbols.md"
+                "file": "IT/Ansible/Installation.md"
               }
             }
           },
@@ -133,8 +133,15 @@
   },
   "active": "52435a48bc68637d",
   "lastOpenFiles": [
-    "IT/Linux/Files and Folders/Deleting files.md",
+    "IT/Ansible/Installing new.md",
+    "IT/Ansible/Examples/Playbook.yaml Example.md",
+    "IT/Ansible/Installation.md",
+    "IT/Ansible/Examples/ansible.cfg Example.md",
+    "IT/Ansible/Examples/hosts.yaml Example.md",
+    "IT/Ansible/Examples",
     "IT/SAS/Logs/Correct Russian symbols.md",
+    "IT/Ansible",
+    "IT/Linux/Files and Folders/Deleting files.md",
     "IT/SAS/Logs",
     "IT/Docker/Docker Examples/docker-compose Example.md",
     "IT/Docker/Run.md",
@@ -159,16 +166,9 @@
     "IT/Bash/Run.md",
     "IT/Docker/Network connections.md",
     "IT/Docker/Virtual HDD.md",
-    "IT/Bash/Text/Find in file.md",
     "IT/Docker/Docker Examples",
-    "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Safety/Untitled.md",
-    "Psychology PhD course/Dissertation/Psychology/Psychological Safety/Стратегии поведения.md",
-    "Psychology PhD course/Dissertation/Psychology/Смысловые обраования/Смысловые Образования.md",
     "Psychology PhD course/Dissertation/Psychology/Смысловые обраования",
-    "Psychology PhD course/Dissertation/Psychology/Поступок/Поступок.md",
     "Psychology PhD course/Dissertation/Psychology/Поступок",
-    "Psychology PhD course/Dissertation/Psychology/Общая методология",
-    "Psychology PhD course/Dissertation/Psychology/Неопределенность",
     "Pasted image 20231228210704.png",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
