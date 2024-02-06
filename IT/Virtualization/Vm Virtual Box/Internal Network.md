@@ -8,15 +8,6 @@ It is a LAN actually
 
 
 
-          Client:
-192.168.1.11
-
-          Router:
-192.168.1.1
-192.168.2.2
-
-          Server:
-192.168.2.22
 
 #                  Installation
 

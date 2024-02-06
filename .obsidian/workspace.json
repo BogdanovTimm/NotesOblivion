@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Ansible/Installation.md",
+                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Ansible/Installation.md",
+                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Ansible/Installation.md",
+                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Ansible/Installation.md"
+                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md"
               }
             }
           },
@@ -133,9 +134,12 @@
   },
   "active": "52435a48bc68637d",
   "lastOpenFiles": [
+    "IT/Ansible/Installation.md",
+    "IT/Virtualization/Vm Virtual Box/Internal Network.md",
+    "IT/Virtualization/Vm Virtual Box",
+    "IT/Virtualization",
     "IT/Ansible/Installing new.md",
     "IT/Ansible/Examples/Playbook.yaml Example.md",
-    "IT/Ansible/Installation.md",
     "IT/Ansible/Examples/ansible.cfg Example.md",
     "IT/Ansible/Examples/hosts.yaml Example.md",
     "IT/Ansible/Examples",
@@ -165,10 +169,7 @@
     "IT/Bash/Creating.md",
     "IT/Bash/Run.md",
     "IT/Docker/Network connections.md",
-    "IT/Docker/Virtual HDD.md",
     "IT/Docker/Docker Examples",
-    "Psychology PhD course/Dissertation/Psychology/Смысловые обраования",
-    "Psychology PhD course/Dissertation/Psychology/Поступок",
     "Pasted image 20231228210704.png",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
