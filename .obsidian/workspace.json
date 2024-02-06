@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Linux/Files and Folders/Deleting files.md",
+                "file": "IT/SAS/Logs/Correct Russian symbols.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux/Files and Folders/Deleting files.md",
+                "file": "IT/SAS/Logs/Correct Russian symbols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Linux/Files and Folders/Deleting files.md",
+                "file": "IT/SAS/Logs/Correct Russian symbols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Linux/Files and Folders/Deleting files.md"
+                "file": "IT/SAS/Logs/Correct Russian symbols.md"
               }
             }
           },
@@ -134,8 +133,10 @@
   },
   "active": "52435a48bc68637d",
   "lastOpenFiles": [
-    "IT/Docker/Docker Examples/docker-compose Example.md",
     "IT/Linux/Files and Folders/Deleting files.md",
+    "IT/SAS/Logs/Correct Russian symbols.md",
+    "IT/SAS/Logs",
+    "IT/Docker/Docker Examples/docker-compose Example.md",
     "IT/Docker/Run.md",
     "IT/Docker/Docker Compose.md",
     "IT/Docker/NewDockerfile.md",
@@ -166,10 +167,8 @@
     "Psychology PhD course/Dissertation/Psychology/Смысловые обраования",
     "Psychology PhD course/Dissertation/Psychology/Поступок/Поступок.md",
     "Psychology PhD course/Dissertation/Psychology/Поступок",
-    "Psychology PhD course/Dissertation/Psychology/Общая методология/Системно-субъектный подход.md",
     "Psychology PhD course/Dissertation/Psychology/Общая методология",
     "Psychology PhD course/Dissertation/Psychology/Неопределенность",
-    "Psychology PhD course/Dissertation/Psychology/Медиадискурс",
     "Pasted image 20231228210704.png",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231110210358.png",
