@@ -23,9 +23,11 @@
             "id": "429814b49bc25330",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Untitled-2023-11-10-1121.png"
+                "file": "IT/Linux/RAM/Swap.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -88,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled-2023-11-10-1121.png",
+                "file": "IT/Linux/RAM/Swap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled-2023-11-10-1121.png",
+                "file": "IT/Linux/RAM/Swap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled-2023-11-10-1121.png"
+                "file": "IT/Linux/RAM/Swap.md"
               }
             }
           },
@@ -144,8 +147,8 @@
   },
   "active": "429814b49bc25330",
   "lastOpenFiles": [
-    "edge.md",
     "Untitled-2023-11-10-1121.png",
+    "edge.md",
     "Pasted image 20231228210704.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
@@ -180,7 +183,6 @@
     "IT/SAS/Logs",
     "IT/Docker/Docker Examples/docker-compose Example.md",
     "IT/Docker/Run.md",
-    "IT/Docker/Docker Compose.md",
     "IT/Work/SAS Errors",
     "IT/Work",
     "IT/Kafka",

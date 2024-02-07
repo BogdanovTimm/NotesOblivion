@@ -48,3 +48,15 @@ It gives you:
 
 1. `sudo swapoff /path/to/swapFile`
 2. `sudo rm /path/to/swapFile`
+
+
+
+
+
+
+
+
+
+# Which files get into swap
+
+Old files are placed into swap, so swap will be full, although there may be a lot of RAM
