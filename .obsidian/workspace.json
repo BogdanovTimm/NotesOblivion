@@ -147,6 +147,9 @@
   },
   "active": "429814b49bc25330",
   "lastOpenFiles": [
+    "IT/Work/Scripts/morning.md",
+    "IT/Work/Scripts",
+    "IT/Ansible/Roles.md",
     "IT/Ansible/Installation.md",
     "IT/Ansible/Examples/Playbook.yaml Example.md",
     "IT/Ansible/Examples/hosts.yaml Example.md",
@@ -182,13 +185,10 @@
     "IT/Ansible",
     "IT/Linux/Files and Folders/Deleting files.md",
     "IT/SAS/Logs",
-    "IT/Docker/Docker Examples/docker-compose Example.md",
-    "IT/Docker/Run.md",
     "IT/Work/SAS Errors",
     "IT/Work",
     "IT/Kafka",
     "IT/Bash/Files",
-    "IT/Docker/Docker Examples",
     "Pasted image 20231110133406.png"
   ]
 }
