@@ -17,5 +17,5 @@ echo "${variable_null4}"
 echo "${!variable@}" # Prints names of all variables that start with 'variable'
 echo "${#variable5}" # Prints length of value of variable5
 echo "${variable5#abc}" # Prints value of variable5 without 'abc' if value starts with 'abc'
-echo "${variable5//123/CENSORED}" # Prints value of variable5 with '123' 
+echo "${variable5//123/CENSORED}" # Prints value of variable5 with '123' replaces by 'CENSORED' 
 ```

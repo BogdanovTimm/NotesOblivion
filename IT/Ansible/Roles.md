@@ -1,0 +1,49 @@
+#                  What it is?
+
+
+
+
+
+
+
+
+
+
+#                  Structure of role repository
+
+```
+./defaults/  - default values for variables
+./files/     - configurations and other files that is needed
+./handlers/  - handlers
+./library/   - modules, for example python ones
+./meta/      - metadata about author and dependencies
+./tasks/     - tasks to run. 'main.yaml' is the starting one.
+./templates/ - templates for Jinja2
+./vars/      - values for variables
+```
+
+
+
+
+
+
+
+
+
+#                  Where to save them
+
+`/roles/requirements.yaml`
+
+
+
+
+
+
+
+
+
+
+##                 Where to find the one I need if it links to gitlab
+
+`gitlab.domain.com:lorem/ipsum.git` becomes
+`gitlab.domain.com/lorem/ipsum`
