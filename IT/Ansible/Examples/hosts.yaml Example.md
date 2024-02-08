@@ -6,8 +6,8 @@ all:
     children:
        part1:
           hosts:
-             10.0.10.112 # Ip of backend
-       part2:
-          hosts:
-             10.0.10.112 # Ip of frontend
+             222.222.222.2 # Ip of backend
+       #part2:
+       #   hosts:
+       #      10.0.10.112 # Ip of frontend
 ```

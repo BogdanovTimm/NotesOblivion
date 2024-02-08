@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md",
+                "file": "IT/Ansible/Examples/Playbook.yaml Example.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
+    "width": 204.5,
     "collapsed": true
   },
   "right": {
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md",
+                "file": "IT/Ansible/Examples/Playbook.yaml Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md",
+                "file": "IT/Ansible/Examples/Playbook.yaml Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md"
+                "file": "IT/Ansible/Examples/Playbook.yaml Example.md"
               }
             }
           },
@@ -147,6 +147,12 @@
   },
   "active": "429814b49bc25330",
   "lastOpenFiles": [
+    "IT/Ansible/Installation.md",
+    "IT/Ansible/Examples/Playbook.yaml Example.md",
+    "IT/Ansible/Examples/hosts.yaml Example.md",
+    "IT/Ansible/Examples/ansible.cfg Example.md",
+    "IT/Ansible/Installing new.md",
+    "IT/Virtualization/Vm Virtual Box/Internal Network.md",
     "IT/Linux/RAM/Swap.md",
     "Untitled-2023-11-10-1121.png",
     "edge.md",
@@ -162,7 +168,6 @@
     "Moral Psychology/Well being.md",
     "Moral Psychology/Ethics Position Theory.md",
     "Moral Psychology/Dual Process Theory.md",
-    "IT/Ansible/Installation.md",
     "IT/Bash/Files/Find files on Linux.md",
     "IT/Bash/LSF/Check jobs.md",
     "IT/Bash/Redirection and Chaining/Chaining.md",
@@ -170,13 +175,8 @@
     "IT/Bash/Text/Replace.md",
     "IT/Bash/Text/Find in file.md",
     "IT/Bash/Permissions.md",
-    "IT/Virtualization/Vm Virtual Box/Internal Network.md",
     "IT/Virtualization/Vm Virtual Box",
     "IT/Virtualization",
-    "IT/Ansible/Installing new.md",
-    "IT/Ansible/Examples/Playbook.yaml Example.md",
-    "IT/Ansible/Examples/ansible.cfg Example.md",
-    "IT/Ansible/Examples/hosts.yaml Example.md",
     "IT/Ansible/Examples",
     "IT/SAS/Logs/Correct Russian symbols.md",
     "IT/Ansible",
