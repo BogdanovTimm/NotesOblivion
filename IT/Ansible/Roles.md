@@ -1,6 +1,6 @@
 #                  What it is?
 
-
+It is just a big peace of a Playbook (ansible script). It consists out of tasks: little peaces of a script.
 
 
 

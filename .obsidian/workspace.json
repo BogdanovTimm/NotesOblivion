@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Ansible/Examples/Playbook.yaml Example.md",
+                "file": "IT/Ansible/Roles.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Ansible/Examples/Playbook.yaml Example.md",
+                "file": "IT/Ansible/Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Ansible/Examples/Playbook.yaml Example.md",
+                "file": "IT/Ansible/Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Ansible/Examples/Playbook.yaml Example.md"
+                "file": "IT/Ansible/Roles.md"
               }
             }
           },
@@ -147,11 +147,11 @@
   },
   "active": "429814b49bc25330",
   "lastOpenFiles": [
+    "IT/Ansible/Examples/Playbook.yaml Example.md",
     "IT/Work/Scripts/morning.md",
     "IT/Work/Scripts",
     "IT/Ansible/Roles.md",
     "IT/Ansible/Installation.md",
-    "IT/Ansible/Examples/Playbook.yaml Example.md",
     "IT/Ansible/Examples/hosts.yaml Example.md",
     "IT/Ansible/Examples/ansible.cfg Example.md",
     "IT/Ansible/Installing new.md",
