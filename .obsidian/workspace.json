@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Linux/RAM/Swap.md",
+                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Linux/RAM/Swap.md",
+                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Linux/RAM/Swap.md",
+                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Linux/RAM/Swap.md"
+                "file": "IT/Virtualization/Vm Virtual Box/Internal Network.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "429814b49bc25330",
   "lastOpenFiles": [
+    "IT/Linux/RAM/Swap.md",
     "Untitled-2023-11-10-1121.png",
     "edge.md",
     "Pasted image 20231228210704.png",
