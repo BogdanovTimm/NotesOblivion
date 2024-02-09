@@ -1,6 +1,18 @@
-#                  What it is?
+# What it is?
 
-It is just a big peace of a Playbook (ansible script). It consists out of tasks: little peaces of a script.
+Roles is a little parts of a Playbookname.yaml. Different from [[Import tasks]], roles have their structure with variables, hendlers, etc.
+
+
+
+
+
+
+
+
+# Creating a new one
+1. `mkdir roles && cd roles` - creating a `roles` folder
+2. `ansible-galaxy init new_role_name`
+
 
 
 

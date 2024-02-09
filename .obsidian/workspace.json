@@ -8,24 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52435a48bc68637d",
+            "id": "429814b49bc25330",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moral Psychology/Ethics Position Theory.md",
+                "file": "IT/Ansible/Playbooks/Encrypt.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "429814b49bc25330",
+            "id": "20012966f0b68495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Ansible/Roles.md",
+                "file": "IT/Ansible/Roles/Role.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f37e002a0c7c41d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Ansible/Playbooks/Import tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88b1d132faec4cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Ansible/Playbooks/Do something after everything.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Ansible/Roles.md",
+                "file": "IT/Ansible/Roles/Role.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Ansible/Roles.md",
+                "file": "IT/Ansible/Roles/Role.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Ansible/Roles.md"
+                "file": "IT/Ansible/Roles/Role.md"
               }
             }
           },
@@ -145,12 +169,21 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "429814b49bc25330",
+  "active": "20012966f0b68495",
   "lastOpenFiles": [
+    "IT/Ansible/Playbooks/Import tasks.md",
+    "IT/Ansible/Roles/Role.md",
+    "IT/Ansible/Playbooks/Do something after everything.md",
+    "IT/Ansible/Playbooks/Encrypt.md",
+    "IT/Ansible/Playbooks/Wait.md",
+    "IT/Ansible/Roles",
     "IT/Ansible/Examples/Playbook.yaml Example.md",
+    "IT/Ansible/Playbooks/Variables.md",
+    "IT/Ansible/Playbooks/Loops.md",
+    "IT/Ansible/Playbooks/Copying from master PC to Slave ones.md",
+    "IT/Ansible/Playbooks",
     "IT/Work/Scripts/morning.md",
     "IT/Work/Scripts",
-    "IT/Ansible/Roles.md",
     "IT/Ansible/Installation.md",
     "IT/Ansible/Examples/hosts.yaml Example.md",
     "IT/Ansible/Examples/ansible.cfg Example.md",
@@ -173,22 +206,13 @@
     "Moral Psychology/Dual Process Theory.md",
     "IT/Bash/Files/Find files on Linux.md",
     "IT/Bash/LSF/Check jobs.md",
-    "IT/Bash/Redirection and Chaining/Chaining.md",
-    "IT/Bash/Creating.md",
-    "IT/Bash/Text/Replace.md",
-    "IT/Bash/Text/Find in file.md",
-    "IT/Bash/Permissions.md",
     "IT/Virtualization/Vm Virtual Box",
     "IT/Virtualization",
     "IT/Ansible/Examples",
-    "IT/SAS/Logs/Correct Russian symbols.md",
     "IT/Ansible",
-    "IT/Linux/Files and Folders/Deleting files.md",
     "IT/SAS/Logs",
     "IT/Work/SAS Errors",
     "IT/Work",
-    "IT/Kafka",
-    "IT/Bash/Files",
     "Pasted image 20231110133406.png"
   ]
 }
