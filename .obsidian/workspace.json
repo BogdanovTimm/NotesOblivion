@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/SQL/PostgreSQL/Vacuum.md",
+                "file": "IT/SQL/Partitioning vs Sharding.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/SQL/PostgreSQL/Vacuum.md",
+                "file": "IT/SQL/Partitioning vs Sharding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/SQL/PostgreSQL/Vacuum.md",
+                "file": "IT/SQL/Partitioning vs Sharding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/SQL/PostgreSQL/Vacuum.md"
+                "file": "IT/SQL/Partitioning vs Sharding.md"
               }
             }
           },
@@ -133,8 +133,11 @@
   },
   "active": "20012966f0b68495",
   "lastOpenFiles": [
-    "IT/Work/Terms.md",
+    "IT/SQL/Greenplum/Analyze.md",
+    "IT/SQL/Partitioning vs Sharding.md",
     "IT/SQL/PostgreSQL/Vacuum.md",
+    "IT/SQL/Greenplum",
+    "IT/Work/Terms.md",
     "IT/Ansible/Playbooks/Import tasks.md",
     "IT/SSH/Create keys.md",
     "IT/Ansible/Examples/Playbook.yaml Example.md",
@@ -168,13 +171,10 @@
     "Pasted image 20231110135620.png",
     "Pasted image 20231106235015.png",
     "Philosophy/Philosophy of Language/Direct Reference Theory/Direct Reference Theory.md",
-    "Philosophy/Ethics/Positivism.md",
-    "Philosophy/Ethics/Why be moral.md",
     "IT/Virtualization/Vm Virtual Box",
     "IT/Virtualization",
     "IT/Ansible/Examples",
     "IT/Ansible",
-    "IT/SAS/Logs",
     "Pasted image 20231110133406.png"
   ]
 }
