@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/SQL/Partitioning vs Sharding.md",
+                "file": "IT/SQL/PostgreSQL/Explicit locking.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/SQL/Partitioning vs Sharding.md",
+                "file": "IT/SQL/PostgreSQL/Explicit locking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/SQL/Partitioning vs Sharding.md",
+                "file": "IT/SQL/PostgreSQL/Explicit locking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/SQL/Partitioning vs Sharding.md"
+                "file": "IT/SQL/PostgreSQL/Explicit locking.md"
               }
             }
           },
@@ -133,8 +134,9 @@
   },
   "active": "20012966f0b68495",
   "lastOpenFiles": [
-    "IT/SQL/Greenplum/Analyze.md",
     "IT/SQL/Partitioning vs Sharding.md",
+    "IT/SQL/PostgreSQL/Explicit locking.md",
+    "IT/SQL/Greenplum/Analyze.md",
     "IT/SQL/PostgreSQL/Vacuum.md",
     "IT/SQL/Greenplum",
     "IT/Work/Terms.md",
@@ -170,7 +172,6 @@
     "Pasted image 20231110190311.png",
     "Pasted image 20231110135620.png",
     "Pasted image 20231106235015.png",
-    "Philosophy/Philosophy of Language/Direct Reference Theory/Direct Reference Theory.md",
     "IT/Virtualization/Vm Virtual Box",
     "IT/Virtualization",
     "IT/Ansible/Examples",
