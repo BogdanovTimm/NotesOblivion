@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/SQL/PostgreSQL/Explicit locking.md",
+                "file": "IT/Work/SAS Errors/Rename of temporary member for.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/SQL/PostgreSQL/Explicit locking.md",
+                "file": "IT/Work/SAS Errors/Rename of temporary member for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/SQL/PostgreSQL/Explicit locking.md",
+                "file": "IT/Work/SAS Errors/Rename of temporary member for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/SQL/PostgreSQL/Explicit locking.md"
+                "file": "IT/Work/SAS Errors/Rename of temporary member for.md"
               }
             }
           },
@@ -134,8 +133,9 @@
   },
   "active": "20012966f0b68495",
   "lastOpenFiles": [
-    "IT/SQL/Partitioning vs Sharding.md",
+    "IT/LSF/Jobs.md",
     "IT/SQL/PostgreSQL/Explicit locking.md",
+    "IT/SQL/Partitioning vs Sharding.md",
     "IT/SQL/Greenplum/Analyze.md",
     "IT/SQL/PostgreSQL/Vacuum.md",
     "IT/SQL/Greenplum",
@@ -166,7 +166,6 @@
     "IT/Ansible/Installing new.md",
     "IT/Linux/RAM/Swap.md",
     "Untitled-2023-11-10-1121.png",
-    "edge.md",
     "Pasted image 20231228210704.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
