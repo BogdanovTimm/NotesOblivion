@@ -1,6 +1,6 @@
 # Definition
 
-Semantically morals are false (just like in [[Philosophy/Ethics/Metaethics/Cognitivism/Error Theory/Error Theory|Error Theory]]), but pragmatically they just like in coginitism.
+Semantically morals are false (just like in [[📖 Philosophy/Ethics/Metaethics/Cognitivism/Error Theory/Error Theory|Error Theory]]), but pragmatically they just like in coginitism.
 
 # Assumptions
 

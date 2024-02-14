@@ -13,7 +13,7 @@ Arguments for Error theory presented in 2 variants:
 
 See:
 - [[Mackie]]
-- [[Philosophy/Ethics/Metaethics/Cognitivism/Error Theory/Sharon Street]]
+- [[📖 Philosophy/Ethics/Metaethics/Cognitivism/Error Theory/Sharon Street]]
 # Assumptions
 
 They are cognitivists:
