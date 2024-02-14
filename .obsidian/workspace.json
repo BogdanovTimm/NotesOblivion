@@ -10,16 +10,45 @@
           {
             "id": "20012966f0b68495",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Gitlab/Gitlab Runner/Gitlab Runner.md",
+                "file": "IT/Gitlab/How it works.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f1df8617aca6a752",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Gitlab/CI/Templates/gitlab-ci taml.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a111146e93e034ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Gitlab/CI/Homework.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
+    "width": 216.5,
     "collapsed": true
   },
   "right": {
@@ -78,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Gitlab/Gitlab Runner/Gitlab Runner.md",
+                "file": "IT/Gitlab/CI/Templates/gitlab-ci taml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Gitlab/Gitlab Runner/Gitlab Runner.md",
+                "file": "IT/Gitlab/CI/Templates/gitlab-ci taml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Gitlab/Gitlab Runner/Gitlab Runner.md"
+                "file": "IT/Gitlab/CI/Templates/gitlab-ci taml.md"
               }
             }
           },
@@ -132,25 +161,30 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "20012966f0b68495",
+  "active": "f1df8617aca6a752",
   "lastOpenFiles": [
-    "IT/Gitlab/Hidden jobs.md",
+    "IT/Gitlab/CI/Homework.md",
+    "IT/Gitlab/CI/Templates/gitlab-ci taml.md",
+    "IT/Gitlab/How it works.md",
     "IT/Gitlab/Gitlab Runner/Gitlab Runner.md",
+    "IT/Gitlab/Gitlab Runner/Templates/template tom;l.md",
+    "IT/Gitlab/Git_strategy.md",
+    "IT/Gitlab/Include.md",
+    "IT/Gitlab/reference.md",
+    "IT/Gitlab/See full yaml.md",
+    "IT/Gitlab/CI/Templates",
+    "IT/Gitlab/CI",
+    "IT/Gitlab/Gitlab Runner/Configuration.md",
+    "IT/Gitlab/Gitlab Runner/Tags.md",
+    "IT/Gitlab/Hidden jobs.md",
     "IT/Gitlab/CD/deploy template.md",
     "IT/Gitlab/CD/CD.md",
-    "IT/Gitlab/Gitlab Runner/Tags.md",
     "IT/Gitlab/CD",
-    "IT/Gitlab/Gitlab Runner/Templates/template tom;l.md",
-    "IT/Gitlab/Gitlab Runner/Configuration.md",
     "IT/Gitlab/Gitlab Runner/Templates",
     "IT/Theory/DevOps/CI CD.md",
     "IT/Gitlab/Gitlab Runner",
-    "IT/Gitlab/See full yaml.md",
     "IT/Theory/DevOps",
-    "IT/Gitlab/reference.md",
     "IT/YAML/Anchors.md",
-    "IT/Gitlab/Git_strategy.md",
-    "IT/Gitlab/Include.md",
     "IT/Gitlab",
     "IT/Work/SAS Errors/Rename of temporary member for.md",
     "IT/YAML",
@@ -164,12 +198,7 @@
     "IT/Ansible/Playbooks/Import tasks.md",
     "IT/SSH/Create keys.md",
     "IT/Ansible/Examples/Playbook.yaml Example.md",
-    "IT/Ansible/Examples/hosts.yaml Example.md",
-    "IT/Ansible/Examples/ansible.cfg Example.md",
-    "IT/Ansible/Examples/External Task Example.md",
     "IT/SSH/Create private and public key",
-    "IT/SSH",
-    "IT/Ansible/Roles",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231228210704.png",
     "Pasted image 20231110210358.png",
