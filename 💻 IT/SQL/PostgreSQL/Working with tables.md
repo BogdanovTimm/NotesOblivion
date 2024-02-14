@@ -53,7 +53,7 @@ ALTER TABLE %table_name% ADD FOREIGN KEY (%table_name_other_table_id%) REFERENCE
 
 ## Chane an existing one
 
-As in Mysql's [[IT/SQL/MySQL/Working with tables|Working with tables]], you can only delete an old one and create a new one.
+As in Mysql's [[💻 IT/SQL/MySQL/Working with tables|Working with tables]], you can only delete an old one and create a new one.
 
 ## Delete constraint
 
