@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Gitlab/Hidden jobs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b097c45114ac4f95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Gitlab/Gitlab Runner/Tags.md",
+                "file": "IT/Gitlab/Gitlab Runner/Gitlab Runner.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Gitlab/Gitlab Runner/Tags.md",
+                "file": "IT/Gitlab/Gitlab Runner/Gitlab Runner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Gitlab/Gitlab Runner/Tags.md",
+                "file": "IT/Gitlab/Gitlab Runner/Gitlab Runner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Gitlab/Gitlab Runner/Tags.md"
+                "file": "IT/Gitlab/Gitlab Runner/Gitlab Runner.md"
               }
             }
           },
@@ -145,10 +132,15 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "b097c45114ac4f95",
+  "active": "20012966f0b68495",
   "lastOpenFiles": [
-    "IT/Gitlab/Gitlab Runner/Templates/template tom;l.md",
+    "IT/Gitlab/Hidden jobs.md",
+    "IT/Gitlab/Gitlab Runner/Gitlab Runner.md",
+    "IT/Gitlab/CD/deploy template.md",
+    "IT/Gitlab/CD/CD.md",
     "IT/Gitlab/Gitlab Runner/Tags.md",
+    "IT/Gitlab/CD",
+    "IT/Gitlab/Gitlab Runner/Templates/template tom;l.md",
     "IT/Gitlab/Gitlab Runner/Configuration.md",
     "IT/Gitlab/Gitlab Runner/Templates",
     "IT/Theory/DevOps/CI CD.md",
@@ -159,7 +151,6 @@
     "IT/YAML/Anchors.md",
     "IT/Gitlab/Git_strategy.md",
     "IT/Gitlab/Include.md",
-    "IT/Gitlab/Hidden jobs.md",
     "IT/Gitlab",
     "IT/Work/SAS Errors/Rename of temporary member for.md",
     "IT/YAML",
@@ -176,13 +167,9 @@
     "IT/Ansible/Examples/hosts.yaml Example.md",
     "IT/Ansible/Examples/ansible.cfg Example.md",
     "IT/Ansible/Examples/External Task Example.md",
-    "IT/Virtualization/Vm Virtual Box/Internal Network.md",
     "IT/SSH/Create private and public key",
     "IT/SSH",
-    "IT/Docker/Uninstall.md",
-    "IT/Ansible/Playbooks/Instlall or Delete Programs.md",
     "IT/Ansible/Roles",
-    "IT/Ansible/Playbooks",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231228210704.png",
     "Pasted image 20231110210358.png",
