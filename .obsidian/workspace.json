@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7d8ac10fad8e4cdc",
+        "id": "6d164540a6d40975",
         "type": "tabs",
         "children": [
           {
-            "id": "c00711d2b6f6d33f",
+            "id": "20012966f0b68495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology PhD course/Philosophy/Работа.md",
+                "file": "IT/Work/SAS Errors/Rename of temporary member for.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 379.5
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology PhD course/Philosophy/Работа.md",
+                "file": "IT/Work/SAS Errors/Rename of temporary member for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychology PhD course/Philosophy/Работа.md",
+                "file": "IT/Work/SAS Errors/Rename of temporary member for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychology PhD course/Philosophy/Работа.md"
+                "file": "IT/Work/SAS Errors/Rename of temporary member for.md"
               }
             }
           },
@@ -132,50 +131,50 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "c00711d2b6f6d33f",
+  "active": "20012966f0b68495",
   "lastOpenFiles": [
-    "Psychology PhD course/Philosophy/Книги.md",
-    "Music/Jazz/Charlie Parker/Albums.md",
-    "Moral Psychology/Ethics Position Theory.md",
-    "IT/SAS/Working with variables.md",
-    "IT/SAS/Working with tables.md",
-    "IT/SAS/Working with statistics.md",
-    "IT/SAS/Working with rows.md",
-    "IT/SAS/Working with output.md",
-    "IT/SAS/Working with input.md",
-    "IT/SAS/Working with formats.md",
-    "IT/SAS/Working with columns.md",
-    "IT/SAS/Working with characters.md",
-    "IT/SAS/Working with Schemas.md",
-    "IT/SAS/Working with SQL.md",
-    "IT/SAS/Speed.md",
-    "IT/SAS/Programs/Sasha's answer.sas",
-    "IT/SAS/Programs/Check date in a file.sas",
-    "IT/SAS/Programs/Check Date 2.sas",
-    "IT/SAS/Programs",
-    "IT/SAS/Previous version of a table.md",
-    "IT/SAS/Miscellaneous.md",
-    "IT/SAS/Logic.md",
-    "IT/SAS/Grouping data.md",
-    "IT/SAS/Global variables.md",
-    "IT/SAS/Function.md",
-    "IT/SAS/Environment variables.md",
-    "IT/SAS/Datatypes.md",
-    "IT/SAS/CLI.md",
-    "IT/Linux/Environmental Variables/Enviromental Variables.md",
-    "IT/Linux/Environmental Variables",
-    "IT/Bash/LSF/Restart Job.md",
-    "IT/Bash/LSF",
-    "IT/SAS",
-    "Psychology PhD course/Dissertation/Psychology/Mediadiscourse and Moral",
-    "Psychology PhD course/Dissertation/Psychology/Медиадискурс",
-    "Psychology PhD course/Dissertation/Tests/Неоконченные предложения",
-    "Pasted image 20231228210704.png",
+    "IT/LSF/Jobs.md",
+    "IT/SQL/PostgreSQL/Explicit locking.md",
+    "IT/SQL/Partitioning vs Sharding.md",
+    "IT/SQL/Greenplum/Analyze.md",
+    "IT/SQL/PostgreSQL/Vacuum.md",
+    "IT/SQL/Greenplum",
+    "IT/Work/Terms.md",
+    "IT/Ansible/Playbooks/Import tasks.md",
+    "IT/SSH/Create keys.md",
+    "IT/Ansible/Examples/Playbook.yaml Example.md",
+    "IT/Ansible/Examples/hosts.yaml Example.md",
+    "IT/Ansible/Examples/ansible.cfg Example.md",
+    "IT/Ansible/Examples/External Task Example.md",
+    "IT/Virtualization/Vm Virtual Box/Internal Network.md",
+    "IT/SSH/Create private and public key",
+    "IT/SSH",
+    "IT/Docker/Uninstall.md",
+    "IT/Ansible/Playbooks/Instlall or Delete Programs.md",
+    "IT/Ansible/Roles/Role.md",
+    "IT/Ansible/Playbooks/Do something after everything.md",
+    "IT/Ansible/Playbooks/Encrypt.md",
+    "IT/Ansible/Playbooks/Wait.md",
+    "IT/Ansible/Roles",
+    "IT/Ansible/Playbooks/Variables.md",
+    "IT/Ansible/Playbooks/Loops.md",
+    "IT/Ansible/Playbooks/Copying from master PC to Slave ones.md",
+    "IT/Ansible/Playbooks",
+    "IT/Work/Scripts/morning.md",
+    "IT/Work/Scripts",
+    "IT/Ansible/Installation.md",
+    "IT/Ansible/Installing new.md",
+    "IT/Linux/RAM/Swap.md",
     "Untitled-2023-11-10-1121.png",
+    "Pasted image 20231228210704.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
     "Pasted image 20231110135620.png",
-    "Pasted image 20231110133406.png",
-    "Pasted image 20231106235015.png"
+    "Pasted image 20231106235015.png",
+    "IT/Virtualization/Vm Virtual Box",
+    "IT/Virtualization",
+    "IT/Ansible/Examples",
+    "IT/Ansible",
+    "Pasted image 20231110133406.png"
   ]
 }
