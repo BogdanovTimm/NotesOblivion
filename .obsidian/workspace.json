@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Work/SAS Errors/Rename of temporary member for.md",
+                "file": "IT/Gitlab/Hidden jobs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b097c45114ac4f95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Gitlab/Gitlab Runner/Tags.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "right": {
     "id": "01c44d9d44bab086",
@@ -77,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Work/SAS Errors/Rename of temporary member for.md",
+                "file": "IT/Gitlab/Gitlab Runner/Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Work/SAS Errors/Rename of temporary member for.md",
+                "file": "IT/Gitlab/Gitlab Runner/Tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Work/SAS Errors/Rename of temporary member for.md"
+                "file": "IT/Gitlab/Gitlab Runner/Tags.md"
               }
             }
           },
@@ -131,8 +145,24 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "20012966f0b68495",
+  "active": "b097c45114ac4f95",
   "lastOpenFiles": [
+    "IT/Gitlab/Gitlab Runner/Templates/template tom;l.md",
+    "IT/Gitlab/Gitlab Runner/Tags.md",
+    "IT/Gitlab/Gitlab Runner/Configuration.md",
+    "IT/Gitlab/Gitlab Runner/Templates",
+    "IT/Theory/DevOps/CI CD.md",
+    "IT/Gitlab/Gitlab Runner",
+    "IT/Gitlab/See full yaml.md",
+    "IT/Theory/DevOps",
+    "IT/Gitlab/reference.md",
+    "IT/YAML/Anchors.md",
+    "IT/Gitlab/Git_strategy.md",
+    "IT/Gitlab/Include.md",
+    "IT/Gitlab/Hidden jobs.md",
+    "IT/Gitlab",
+    "IT/Work/SAS Errors/Rename of temporary member for.md",
+    "IT/YAML",
     "IT/LSF/Jobs.md",
     "IT/SQL/PostgreSQL/Explicit locking.md",
     "IT/SQL/Partitioning vs Sharding.md",
@@ -151,30 +181,14 @@
     "IT/SSH",
     "IT/Docker/Uninstall.md",
     "IT/Ansible/Playbooks/Instlall or Delete Programs.md",
-    "IT/Ansible/Roles/Role.md",
-    "IT/Ansible/Playbooks/Do something after everything.md",
-    "IT/Ansible/Playbooks/Encrypt.md",
-    "IT/Ansible/Playbooks/Wait.md",
     "IT/Ansible/Roles",
-    "IT/Ansible/Playbooks/Variables.md",
-    "IT/Ansible/Playbooks/Loops.md",
-    "IT/Ansible/Playbooks/Copying from master PC to Slave ones.md",
     "IT/Ansible/Playbooks",
-    "IT/Work/Scripts/morning.md",
-    "IT/Work/Scripts",
-    "IT/Ansible/Installation.md",
-    "IT/Ansible/Installing new.md",
-    "IT/Linux/RAM/Swap.md",
     "Untitled-2023-11-10-1121.png",
     "Pasted image 20231228210704.png",
     "Pasted image 20231110210358.png",
     "Pasted image 20231110190311.png",
     "Pasted image 20231110135620.png",
     "Pasted image 20231106235015.png",
-    "IT/Virtualization/Vm Virtual Box",
-    "IT/Virtualization",
-    "IT/Ansible/Examples",
-    "IT/Ansible",
     "Pasted image 20231110133406.png"
   ]
 }
