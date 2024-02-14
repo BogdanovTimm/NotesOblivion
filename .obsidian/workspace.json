@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Psychology PhD course/Philosophy/2023 11 23.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Psychology PhD course/Philosophy/2023 11 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Psychology PhD course/Philosophy/2023 11 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Psychology PhD course/Philosophy/2023 11 23.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   },
   "active": "d511c745a41bbdf6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "IT/YAML/Anchors.md",
     "IT/YAML",
     "IT/Theory/DevOps/CI CD.md",
@@ -171,7 +172,6 @@
     "IT/Gitlab/CD",
     "IT/Gitlab",
     "Psychology PhD course/Philosophy/Работа.md",
-    "conflict-files-obsidian-git.md",
     "IT/Work/Scripts/morning.md",
     "IT/Work/SAS Errors/Rename of temporary member for.md",
     "IT/Work/Terms.md",
