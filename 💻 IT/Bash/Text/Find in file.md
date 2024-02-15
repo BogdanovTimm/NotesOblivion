@@ -33,7 +33,7 @@ awk '{print("2nd word from the end is: ", $(NF-2))}' fileName.txt
 Use ':'  as a dilimeter instead of a standard whitespace:
 
 ```bash
-awk -F": '/text/ {print($0)}' fileName.txt
+awk -F ":" '{print($2)}' fileName.txt
 ```
 
 

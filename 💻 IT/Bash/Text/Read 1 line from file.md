@@ -1,0 +1,1 @@
+`first_line_from_file=$(read -r first_line < ./filename.txt; echo $first_line) #? '-r' means that '/' will not be interpreted as a special character`
