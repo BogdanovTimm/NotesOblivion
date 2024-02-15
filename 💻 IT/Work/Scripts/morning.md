@@ -6,7 +6,25 @@
 
 
 
+#                  Where it is stored?
+
+`/sas/utils/morning.sh`
+
+
+
+
+
+
+
+
+
+
 # /asa/dwh/mr${mrid}/logs/ofus_cdtl_idp-* 
+
+
+
+
+
 
 
 
