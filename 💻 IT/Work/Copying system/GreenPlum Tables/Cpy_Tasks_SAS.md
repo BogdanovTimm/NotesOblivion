@@ -10,6 +10,16 @@ GreenPlum table that keepds tasks of tables that are copied fromm SAS to GreenPl
 
 
 
+
+#                  Used by
+
+- `add_copy_tasks_gp.sh`
+- `transport_worker_mpp`
+- `move_stg_to_prod.sas`
+
+
+
+
 #                  Columns
 
 - copy_task_id - just an id
