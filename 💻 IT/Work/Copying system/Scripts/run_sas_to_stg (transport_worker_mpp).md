@@ -36,7 +36,7 @@ Copies from SAS to `UAT_T_STG` GreenPlum Scheme
 2. `./incoming/transport_worker_mpp.sas`:
 	1. Runs SAS function `%mEtlGetCpyTaskId` that changes task's status from `TRN_RUN` to `ADDED` if tasks is in `TRN_RUN` for 12 hours or it is not in list of active sessions
 	2. Gets tasks from `CPY_TASTS_SAS`
-	3. Deletes tasks with status `ADDED` if for these table there are already tasks with status `TRN_RUN` 
+	3. Deletes tasks with status `ADDED` if for these table there are already tasks with status `TRN_RUN`
 	4. Check if task's status = `ADDED`
 	5. Change task's status to `TRN_RUN`
 	6. If there is another task with same tablename with status = `ADDED`, then change status to `SKIPPED`
@@ -53,7 +53,7 @@ Copies from SAS to `UAT_T_STG` GreenPlum Scheme
 				1. If DSR_NTWK_MMDD_n_MR - then changes to NTWK_ACTV
 				2. Deletes tables from `UAT_T_STG.^sas_tablename^` and `UAT_T_STG.^EXT_sas_tablename^`
 				3. Creates empty table with `LIKE` for new table in GreenPlum
-				4. Gets columns for renaming from `DDL_Rename_Columns` 
+				4. Gets columns for renaming from `DDL_Rename_Columns`
 				5. Go to server where SAS table is with `rsubmit`
 				6. Run `Proc append` through `gpfdist`
 				7. 3 Port numbers are get from Gpfdist_Ports (Port_name + MP). 3 Ports needs for 3 tries to copy table.

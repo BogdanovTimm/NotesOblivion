@@ -1,3 +1,4 @@
+/* Gets all tasks that are later than 1 day */
 select
     task_copy_started_dt,
     task_copy_finished_dt,
