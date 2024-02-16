@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"4afee12b6cc02519","type":"text","text":"Server : miscopy1","x":-298,"y":-380,"width":738,"height":800,"color":"4"},
+		{"id":"71ca3724ed1eb9d2","type":"text","text":"add_copy_tasks_gp.sas","x":-240,"y":-320,"width":620,"height":680,"color":"1"},
+		{"id":"20bdeffbc3ac9bf0","type":"text","text":"1. Creates a list of libraries to copy","x":-180,"y":-240,"width":382,"height":54},
+		{"id":"9467a93cebdb313d","type":"text","text":"2. Gets Meta-Data of SAS tables","x":-180,"y":-140,"width":382,"height":54},
+		{"id":"b3bd4d5d0d568b0e","type":"text","text":"3. Adds new tasks to GreenPlum","x":-180,"y":-34,"width":382,"height":54},
+		{"id":"58937a6f50f13de4","type":"text","text":"Server : sasusers","x":520,"y":-380,"width":738,"height":800,"color":"4"}
+	],
+	"edges":[
+		{"id":"a779e22907d07de8","fromNode":"20bdeffbc3ac9bf0","fromSide":"bottom","toNode":"9467a93cebdb313d","toSide":"top"},
+		{"id":"c4e6497d9ceb006d","fromNode":"20bdeffbc3ac9bf0","fromSide":"bottom","toNode":"9467a93cebdb313d","toSide":"top"},
+		{"id":"703a1a9c67e61a00","fromNode":"20bdeffbc3ac9bf0","fromSide":"bottom","toNode":"9467a93cebdb313d","toSide":"top"},
+		{"id":"f9b9596ca16d35d7","fromNode":"20bdeffbc3ac9bf0","fromSide":"bottom","toNode":"71ca3724ed1eb9d2","toSide":"top"}
+	]
+}
