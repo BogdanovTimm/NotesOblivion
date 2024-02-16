@@ -18,8 +18,8 @@ Copies from SAS to `UAT_T_STG` GreenPlum Scheme
 - `DDLSasTables`
 - `UAT_T_STG.^sas_tablename^`
 - `UAT_T_STG.EXT_^sas_tablename^`
-- `DDL_Rebaned_columns`
-- `Grpdist_Ports`
+- `DDL_Renamed_columns`
+- `Gpfdist_Ports`
 - `Gpfdist_Transform`
 
 
