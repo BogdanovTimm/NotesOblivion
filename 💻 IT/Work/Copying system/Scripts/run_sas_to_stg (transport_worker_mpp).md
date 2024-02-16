@@ -1,6 +1,6 @@
 #                  What it is?
 
-Copies from SAS to STG GreenPlum scheme
+Copies from SAS to `UAT_T_STG` GreenPlum Scheme
 
 
 
@@ -15,10 +15,11 @@ Copies from SAS to STG GreenPlum scheme
 
 - `CPY_TASKS_SAS`
 - `DDLTables`
-- `DDLSASTABLES`
-- `UAT_T_STG.^tablename^`
-- `UAT_T_STG.^tablename^`
-- `DDL_Rename_Columns`
+- `DDLSasTables`
+- `UAT_T_STG.^sas_tablename^`
+- `UAT_T_STG.EXT_^sas_tablename^`
+- `DDL_Rebaned_columns`
+- `Grpdist_Ports`
 - `Gpfdist_Transform`
 
 
@@ -44,7 +45,7 @@ Copies from SAS to STG GreenPlum scheme
 		2. Runs SAS function `%mCachedConnectToServ` connects to server where SAS table is
 		3. Use mask from SAS table. If this is BOPOS then skip
 		4. Changes date and load_id in tablename from SAS to symbols. Deletes MP numbers. Changes DSR_NTWK_MMDD_n_MR to NTWK_ACTV
-		7. Use this name to find a row in `DDLTables`. Is it there?
+		5. Use this name to find a row in `DDLTables`. Is it there?
 			- No:  If it is not here, then check maybe SAS table name will work with mask from column `FULLNAME_MASK` from `DDLTables`. Is it there?
 				- No - goes to next
 				- Yes - Changes tablename from `FULLNAME_MASK` to `replace_mask`. Deletes numbers from new tablename
