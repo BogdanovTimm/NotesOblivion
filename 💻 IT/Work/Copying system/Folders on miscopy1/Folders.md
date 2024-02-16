@@ -1,0 +1,18 @@
+- **/pids** - **ID**s of a current processes:
+  - **unix_sas_stg_ro_prd**  - IDs of the last processes of copying data from **uat_t_stg** into **uat_t_base** from script `./incoming/move_stg_to_prod.sas`
+  - **unix_sas_trn.pid** - IDs of the last transport processes from script `./incoming/transport_worker_mpp.sas`
+- **/sql** - contains sql scripts:
+  - `cpy_lists_sas_20221122.sql` - содержит данные для мета таблицы CPY_LISTS_SAS
+  - `ddl_renamed_columns_20221122.sql` - содержит данные для мета таблицы DDL_RENAMED_COLUMNS
+  - `ddl_uat_etl_meta.sql` - содержит ddl таблиц из схемы uat_etl_meta
+  - `ddl_uat_t_base.sql` - содержит ddl таблиц из схемы uat_t_base. кроме таблиц форматов sas_fmt_*
+  - `ddl_uat_v_base.sql` - содержит ddl вьюшек из схемы uat_v_base
+  - `ddl_uat_v_base_sec.sql` - содержит ddl вьюшек из схемы uat_v_base_sec
+  - `ddl_uat_v_cmptbl.sql` - содержит ddl вьюшек из схемы uat_v_cmptbl
+  - `ddllookups_20221122.sql` - содержит данные для мета таблицы DDLLOOKUPS
+  - `ddltables_20221122.sql` - содержит данные для мета таблицы DDLTABLES
+  - `etl_sas_libnames_20221122.sql` - содержит данные для мета таблицы ETL_SAS_LIBNAMES
+  - `sas_fmt_meta_20221122.sql` - содержит данные для мета таблицы SAS_FMT_META
+  - `sasviewsfmt_20221122.sql` - содержит данные для мета таблицы SasViewsFmt
+- **/logs** - logs. Logs older than 7 days go into logs/old
+- **/incoming** - SAS scripts
