@@ -115,7 +115,7 @@ RUN;
 
 #                  Text into everything
 
-```SAS
+
 ###                  Text into numeric
 
 ```SAS
@@ -134,7 +134,7 @@ DATA output_table;
             BY numeric_column; 
 RUN;
 ```
-```
+
 
 
 #                    Read table from existing table

@@ -1,6 +1,6 @@
 /* Gets all copying tasks that are longer than 1 day */
 
-select
+SELECT
     task_copy_started_dt                         AS start_date,
     task_copy_finished_dt                        AS finish_date,
     task_copy_finished_dt - task_copy_started_dt AS time_of_copying,
@@ -12,7 +12,7 @@ select
 FROM uat_etl_meta.CPY_TASKS_SAS
 WHERE
     task_status IN (/*'ADDED',*/ 'TRN_RUN')
-        AND (task_copy_started_dt > current_date -  interval '1 day'
+        AND (DATE(task_copy_started_dt) > current_date -  interval '1 day'
              OR 
              task_copy_started_dt IS NULL
             )
