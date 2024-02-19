@@ -1,4 +1,4 @@
-1. Use Linus, or it will not work
+1. Use Linux or it will not work
 2. Install Docker
 3. `sudo mkdir -p /srv/gitlab`
 4. `sudo vim /etc/ssh/sshd_config` and add: `Port 55522` - now you can connect to your server via SSH on port 55522
