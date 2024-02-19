@@ -7,8 +7,8 @@
 ```BASH
 sudo docker run                                                          \
   --detach                                                               \
-  --hostname 176.123.168.2                                               \
-  --env GITLAB_OMNIBUS_CONFIG="external_url 'http://176.123.168.2'"      \
+  --hostname 192.168.0.102                                               \
+  --env GITLAB_OMNIBUS_CONFIG="external_url 'http://192.168.0.102'"      \
   --publish 443:443                                                      \
   --publish 80:80                                                        \
   --publish 22:22                                                        \
