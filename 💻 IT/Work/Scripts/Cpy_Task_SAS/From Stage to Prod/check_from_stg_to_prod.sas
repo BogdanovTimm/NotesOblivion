@@ -2,7 +2,7 @@ LIBNAME gpscheme
     GREENPLM
     SERVER = 'gp-mis-dwh.pv.mts.ru' 
     PORT = 5432 
-    USER ='tabogdanov' 
+    USER = 'tabogdanov' 
     PASSWORD = 'yssw"i"#ZnJ0' 
     DATABASE = 'dwh' 
     SCHEMA = 'uat_etl_meta' 
