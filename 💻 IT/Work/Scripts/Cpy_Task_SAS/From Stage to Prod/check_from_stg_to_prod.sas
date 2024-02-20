@@ -11,21 +11,23 @@ LIBNAME gpscheme
 
 PROC SQL;
     CREATE TABLE work.from_stg_to_prod AS
-		SELECT
+		SELECT DISTINCT
             status,
 			DATEPART(task_copy_started_dt)
                 FORMAT = YYMMDD10.          AS start_date,
-		    source_database                 AS from_database,
-			source_table                    AS from_table,
-			target_database                 AS to_database,
-			target_table                    AS to_table
+			source_table                    AS table_in_uat_t_stg,
+			target_table                    AS table_in_uat_t_base,
+            COUNT(table_in_uat_t_stg)       AS number_of_tasks
 		FROM gpscheme.DDLControlTable
 		WHERE
 			status IN ('RUNNING', 'PENDING')
-				AND (DATEPART(task_copy_started_dt) <= TODAY() -1 )
-		ORDER BY
+				AND (DATEPART(task_copy_started_dt) <= TODAY() - 1 )
+        GROUP BY
+		    table_in_uat_t_stg
+        ORDER BY
 			status DESC,
-			start_date DESC
+			start_date DESC,
+            table_in_uat_t_stg
 	;
 QUIT;
 
