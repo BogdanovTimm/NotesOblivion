@@ -10,22 +10,22 @@ LIBNAME gpscheme
 ;
 
 PROC SQL;
-    CREATE TABLE work.long_runners2 AS
+    CREATE TABLE work.from_stg_to_prod AS
 		SELECT
-			task_copy_started_dt  AS start_date,
-			task_copy_finished_dt AS finish_date,
-		    source_database       AS from_database,
-			source_table          AS from_table,
-			target_database       AS to_database
-			target_table          AS to_table,
-			status
+            status,
+			DATEPART(task_copy_started_dt)
+                FORMAT = YYMMDD10.          AS start_date,
+		    source_database                 AS from_database,
+			source_table                    AS from_table,
+			target_database                 AS to_database,
+			target_table                    AS to_table
 		FROM gpscheme.DDLControlTable
 		WHERE
-			task_status IN ('RUNNING', 'PENDING')
+			status IN ('RUNNING', 'PENDING')
 				AND (DATEPART(task_copy_started_dt) <= TODAY() -1 )
 		ORDER BY
 			status DESC,
-			start_date
+			start_date DESC
 	;
 QUIT;
 
@@ -35,11 +35,11 @@ OPTIONS
     NOCENTER 
     NOLABEL
     NONUMBER 
-    NODATA
+    NODATE
 ;
 
 PROC PRINT
-    DATA = work.long_runners2 
+    DATA = work.from_stg_to_prod 
     NOOBS
     WIDTH = MIN;
 RUN;

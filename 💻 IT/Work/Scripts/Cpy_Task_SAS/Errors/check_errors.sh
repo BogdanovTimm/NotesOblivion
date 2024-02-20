@@ -12,9 +12,9 @@ color_default=$(tput sgr0)
     -v color_green=$color_green  \
     -v color_yellow=$color_yellow \
     '
-        $1 != "task_copy_started_dt" {
-            if ( $4 == "TRN_RUN" ) color=color_yellow;
-            else if ( $4 == "ADDED") color=color_yellow;
-            printf("%s%s%s\n",color,$0,color_default);
+        NR > 1 {
+            if ( NR < 5 ) color=color_default;
+            else color=color_red;
+            printf("%s%s%s\n", color, $0, color_default);
         }
     '

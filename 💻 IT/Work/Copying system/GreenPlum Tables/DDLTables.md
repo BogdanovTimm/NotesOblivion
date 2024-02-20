@@ -1,6 +1,7 @@
 #                  What it is?
 
-Containts target table names and their schemas in GreenPlum.
+Containts tasks for copying from Stage Greenplum server (**UAT_T_STG**) to Production GreenPlum server (**UAT_T_BASE**).
+
 
 
 
