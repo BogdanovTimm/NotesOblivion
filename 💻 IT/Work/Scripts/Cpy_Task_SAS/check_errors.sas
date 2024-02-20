@@ -1,44 +1,69 @@
-libname gpscheme
-    greenplm 
-    server='gp-mis-dwh.pv.mts.ru' 
-    port=5432 
-    user='tabogdanov' 
-    password='yssw"i"#ZnJ0' 
-    database='dwh' 
-    schema='uat_etl_meta' 
-    connection=global
+LIBNAME gpscheme
+    GREENPLM
+    SERVER = 'gp-mis-dwh.pv.mts.ru'
+    PORT = 5432
+    USER ='tabogdanov'
+    PASSWORD = 'yssw"i"#ZnJ0'
+    DATABASE = 'dwh'
+    SCHEMA = 'uat_etl_meta'
+    CONNECTION = global
 ;
 
-PROC sql;
-	SELECT
-		task_copy_started_dt                         AS start_date,
-		task_copy_finished_dt                        AS finish_date,
-		task_copy_finished_dt - task_copy_started_dt
-            FORMAT=time.                             AS time_of_copying,
-		/*task_add_dt                                  AS creating_of_task_date,*/
-		task_status                                  AS status_of_copying,
-		error_details                                AS log,
-		source_host_user || '@' || source_host       AS user_host_sas,
-		source_libname || '.' || target_memname      AS libname_table_sas,
-		'-->'                                        AS direction_of_copying,
-		remote_user || '@' || remote_host            AS user_host_greenplum,
-		remote_path || '.' || target_memname         AS scheme_table_greenplum
-	FROM gpscheme.CPY_TASKS_SAS
-	WHERE
-		task_status IN ('TRN_SYS_ERROR')
-			AND (DATEPART(task_copy_started_dt) >= TODAY() - 1
-                 OR DATEPART(task_copy_finished_dt) >= TODAY() - 1
-                 /*OR task_copy_started_dt IS NULL*/
-		        )
-		/*
-		source_libname  like '%A_APP%'
-		target_memname like '%SRVP_MR%' 
-		*/
-	ORDER BY
-		task_status DESC,
-		table_priority,
-		source_host,
-		source_host_user,
-		copy_task_id DESC
+PROC SQL;
+    CREATE TABLE work.copying_errors2 AS
+		SELECT
+			/*
+			DATEPART(task_copy_started_dt)
+				FORMAT = YYMMDD10.                       AS start_date,
+			TIMEPART(task_copy_started_dt)
+				FORMAT = TIME.                           AS start_time,
+			DATEPART(task_copy_finished_dt)
+				FORMAT = YYMMDD10.                       AS finish_date,
+			TIMEPART(task_copy_finished_dt)
+				FORMAT = TIME.                           AS finish_time,
+			task_status                                  AS status_of_copying,
+			*/
+			error_details                                AS log,
+			source_host_user                             AS from_user,
+			source_host                                  AS from_host,
+			source_libname                               AS from_library,
+			remote_user                                  AS to_user,
+			remote_host                                  AS to_host,
+			remote_path                                  AS to_scheme,
+			target_memname                               AS table_to_copy
+		FROM gpscheme.cpy_tasks_sas
+		WHERE
+			task_status IN ('TRN_SYS_ERROR')
+				AND (DATEPART(task_copy_started_dt) >= TODAY() - 2
+					OR
+					DATEPART(task_copy_finished_dt) >= TODAY() - 2
+					)
+		ORDER BY
+			/*
+			status_of_copying DESC,
+			start_date,
+			start_time,
+			*/
+			from_host,
+			to_host
+			/*
+			finish_date,
+			finish_time
+			*/
 	;
 QUIT;
+
+OPTIONS
+    LINESIZE = MAX 
+    PAGESIZE = MAX
+    NOCENTER 
+    NOLABEL
+    NONUMBER 
+    NODATE
+;
+
+PROC PRINT
+    DATA = work.copying_errors2 
+    NOOBS
+    WIDTH = MIN;
+RUN;
