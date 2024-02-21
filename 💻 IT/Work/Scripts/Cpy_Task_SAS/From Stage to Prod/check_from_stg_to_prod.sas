@@ -12,12 +12,12 @@ LIBNAME gpscheme
 PROC SQL;
     CREATE TABLE work.from_stg_to_prod AS
 		SELECT DISTINCT
-            status,
-			DATEPART(task_copy_started_dt)
-                FORMAT = YYMMDD10.          AS start_date,
-			source_table                    AS table_in_uat_t_stg,
-			target_table                    AS table_in_uat_t_base,
-            COUNT(table_in_uat_t_stg)       AS number_of_tasks
+            MAX(status)                         AS status,
+			MAX(DATEPART(task_copy_started_dt))
+                FORMAT = YYMMDD10.              AS last_start_date,
+			source_table                        AS table_in_uat_t_stg,
+			target_table                        AS table_in_uat_t_base,
+            COUNT(table_in_uat_t_stg) -1        AS number_of_duplicates
 		FROM gpscheme.DDLControlTable
 		WHERE
 			status IN ('RUNNING', 'PENDING')
@@ -26,7 +26,7 @@ PROC SQL;
 		    table_in_uat_t_stg
         ORDER BY
 			status DESC,
-			start_date DESC,
+			last_start_date DESC,
             table_in_uat_t_stg
 	;
 QUIT;

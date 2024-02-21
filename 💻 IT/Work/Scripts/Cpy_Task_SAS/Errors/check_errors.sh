@@ -15,6 +15,6 @@ color_default=$(tput sgr0)
         NR > 1 {
             if ( NR < 5 ) color=color_default;
             else color=color_red;
-            printf("%s%s%s\n", color, $0, color_default);
+            printf("%s%s\n", color, $0);
         }
     '

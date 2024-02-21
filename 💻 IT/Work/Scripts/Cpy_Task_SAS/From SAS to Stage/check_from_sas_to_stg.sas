@@ -11,34 +11,29 @@ LIBNAME gpscheme
 
 PROC SQL;
     CREATE TABLE work.from_sas_to_stg AS
-		SELECT
-			DATEPART(task_copy_started_dt)
-				FORMAT = YYMMDD10.                       AS start_date,
-            /*
-			TIMEPART(task_copy_started_dt)
-				FORMAT = TIME.                           AS start_time,
-            */
-			task_status                                  AS status_of_copying,
-			source_host_user                             AS from_user,
-			source_host                                  AS from_host,
-			source_libname                               AS from_library,
-		    /* 
-            remote_user                                  AS to_user,
-		    remote_host                                  AS to_host,
-            */
-			remote_path                                  AS to_scheme,
-			target_memname                               AS table_to_copy
+		SELECT DISTINCT
+			MAX(DATEPART(task_copy_started_dt))
+				FORMAT = YYMMDD10.                                   AS last_start_date,
+			MAX(task_status)                                         AS status,
+            source_host_user                                         AS from_user,
+			source_host                                              AS from_host,
+			source_libname                                           AS from_library,
+			target_memname                                           AS table_to_copy,
+            COUNT(table_to_copy) -1                                  AS number_of_duplicates
 		FROM gpscheme.cpy_tasks_sas
 		WHERE
 			task_status IN ('ADDED', 'TRN_RUN')
-				AND (DATEPART(task_copy_started_dt) <= TODAY() - 1)
-        
+				AND (
+                    (DATEPART(task_copy_started_dt) <= TODAY() - 1)
+                    OR
+                    (DATEPART(task_add_dt) <= TODAY() - 1)
+                )
+
+        GROUP BY
+            table_to_copy
         ORDER BY
-            start_date DESC,
-            /*
-            start_time,
-            */
-			status_of_copying DESC,
+            last_start_date DESC,
+			status DESC,
 			from_library,
 			table_to_copy
 	;
