@@ -36,11 +36,7 @@ PROC SQL;
 		FROM gpscheme.cpy_tasks_sas
 		WHERE
 			task_status IN ('TRN_SYS_ERROR')
-				AND (
-                    DATEPART(task_copy_started_dt) >= TODAY() - 2
-					OR
-					DATEPART(task_copy_finished_dt) >= TODAY() - 2
-				)
+				AND DATEPART(task_copy_finished_dt) == TODAY()
 		ORDER BY
 		    from_host
 			/*

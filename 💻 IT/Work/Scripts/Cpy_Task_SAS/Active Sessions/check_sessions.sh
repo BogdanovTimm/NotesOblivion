@@ -12,7 +12,6 @@ color_default=$(tput sgr0)
         -v color_green=$color_green        \
         -v color_yellow=$color_yellow      \
         -v current_date=$(date '%Y-%m-%d') \
-        -v current_time=$(date '%H:%M:%S') \
         '
             NR > 1 {
                 if ( NR < 5 ) color=color_default;
