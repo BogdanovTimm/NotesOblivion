@@ -6,11 +6,11 @@ color_yellow=$(tput setaf 3)
 color_default=$(tput sgr0)
 
 /sas/bin/sas94/SASFoundation/9.4/sas -nolog -stdio `dirname $0`/check_sessions2.sas | \
-    gawk                                   \
-        -v color_default=$color_default    \
-        -v color_red=$color_red            \
-        -v color_green=$color_green        \
-        -v color_yellow=$color_yellow      \
+    gawk                                    \
+        -v color_default=$color_default     \
+        -v color_red=$color_red             \
+        -v color_green=$color_green         \
+        -v color_yellow=$color_yellow       \
         -v current_date=$(date '+%Y-%m-%d') \
         '
             NR > 1 {

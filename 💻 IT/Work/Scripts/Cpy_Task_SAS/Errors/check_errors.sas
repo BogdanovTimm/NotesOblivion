@@ -1,4 +1,4 @@
-LIBNAME gpscheme
+LIBNAME uat_meta
     GREENPLM
     SERVER = 'gp-mis-dwh.pv.mts.ru'
     PORT = 5432
@@ -9,46 +9,36 @@ LIBNAME gpscheme
     CONNECTION = global
 ;
 
-PROC SQL;
+PROC sql;
     CREATE TABLE work.copying_errors2 AS
 		SELECT
+			datepart(task_copy_finished_dt)
+				FORMAT = YYMMDD10.          AS error_date,
+			/*source_host_user                             AS from_user,*/
+			source_host                     AS from_host,
+			count(*)                        AS number_of_errors
 			/*
-			DATEPART(task_copy_started_dt)
-				FORMAT = YYMMDD10.                       AS start_date,
-			TIMEPART(task_copy_started_dt)
-				FORMAT = TIME.                           AS start_time,
-			DATEPART(task_copy_finished_dt)
-				FORMAT = YYMMDD10.                       AS finish_date,
-			TIMEPART(task_copy_finished_dt)
-				FORMAT = TIME.                           AS finish_time,
-			task_status                                  AS status_of_copying,
-			*/
-			error_details                                AS log,
-			source_host_user                             AS from_user,
-			source_host                                  AS from_host,
 			source_libname                               AS from_library,
-			/*
 			remote_user                                  AS to_user,
 			remote_host                                  AS to_host,
 			remote_path                                  AS to_scheme,
-			*/
 			target_memname                               AS table_to_copy
-		FROM gpscheme.cpy_tasks_sas
+			*/
+		FROM uat_meta.CPY_TASKS_SAS
 		WHERE
 			task_status IN ('TRN_SYS_ERROR')
-				AND DATEPART(task_copy_finished_dt) == TODAY()
+				AND datepart(task_copy_finished_dt) > DATE() - 2
+		GROUP BY
+			from_host,
+			error_date
 		ORDER BY
-		    from_host
+			error_date DESC
 			/*
-			status_of_copying DESC,
-			start_date,
-			start_time,
 			to_host
-			finish_date,
-			finish_time
 			*/
-	;
+    ;
 QUIT;
+
 
 OPTIONS
     LINESIZE = MAX 
