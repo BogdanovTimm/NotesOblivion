@@ -22,30 +22,30 @@ PROC SQL;
                 WHEN status = 'RUNNING'
                     AND INTCK('HOUR', task_copy_started_dt, DATETIME()) > 24 
                 THEN 
-                    'RUNNING 24+ HOURS'
+                    'RUNNING_24+_HOURS'
 
                 WHEN status = 'RUNNING'
                     AND INTCK('HOUR', task_copy_started_dt, DATETIME()) > 10
                 THEN 
-                    'RUNNING 10-24 HOURS'
+                    'RUNNING_10-24_HOURS'
                 
                 WHEN status = 'RUNNING'  
                 THEN 
-                    'RUNNING 0-10 HOURS'
+                    'RUNNING_0-10_HOURS'
 
                 WHEN status = 'PENDING'
                     AND INTCK('HOUR', createddt, DATETIME()) > 24 
                 THEN 
-                    'PENDING 24+ HOURS'
+                    'PENDING_24+_HOURS'
 
                 WHEN status = 'PENDING 0-10 HOURS'
                     AND INTCK('HOUR', createddt, DATETIME()) > 10 
                 THEN 
-                    'PENDING 10-24 HOURS'
+                    'PENDING_10-24_HOURS'
                 
                 WHEN status = 'PENDING'
                 THEN 
-                    'PENDING 0-10 HOURS'
+                    'PENDING_0-10_HOURS'
                 
                 ELSE
                     '???'
