@@ -12,6 +12,7 @@ LIBNAME gpadmin
 PROC SQL;
     CREATE TABLE work.active_sessions AS
 		SELECT
+            waiting,
             SUBSTR(state_change, 1, 10) AS query_start_date,
             SUBSTR(state_change, 12, 8) AS query_start_time,
             state,
@@ -22,7 +23,6 @@ PROC SQL;
             */
             rsgname,
             /*rsgqueueduration,*/
-            waiting,
             waiting_reason
             
         FROM

@@ -14,9 +14,10 @@ color_default=$(tput sgr0)
         -v current_date=$(date '%Y-%m-%d') \
         '
             NR > 1 {
-                if ( NR < 5 ) color=color_default;
-                else if ( $1 < $current_date ) color=color_red
-                else color=color_green;
+                if ( NR < 6 ) color = color_default;
+                else if ( $2 < $current_date ) color = color_red
+                else if ( #1 == 1 ) color = color_yellow
+                else color = color_green;
                 printf("%s%s%s\n", color, $0, color_default);
             }
         '
