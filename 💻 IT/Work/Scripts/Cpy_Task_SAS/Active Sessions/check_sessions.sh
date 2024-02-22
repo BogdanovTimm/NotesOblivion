@@ -17,6 +17,6 @@ color_default=$(tput sgr0)
                 if ( NR < 5 ) color=color_default;
                 else if ( $1 < $current_date ) color=color_red
                 else color=color_green;
-                printf("%s%s\n", color, $0);
+                printf("%s%s%s\n", color, $0, color_default);
             }
         '

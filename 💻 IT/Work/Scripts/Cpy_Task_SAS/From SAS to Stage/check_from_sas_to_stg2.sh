@@ -18,6 +18,6 @@ color_default=$(tput sgr0)
                 else if ( $1 == "RUNNING 0-10 HOURS" || $1 == "WAITING 0-10 HOURS" ) color=color_green
                 else if ( $1 == "RUNNING 10-24 HOURS" || $1 == "WAITING 10-24 HOURS" ) color=color_yellow
                 else if ( $1 == "RUNNING 24+ HOURS" || $1 == "WAITING 24+ HOURS" ) color=color_red
-                printf("%s%s\n", color, $0);
+                printf("%s%s%s\n", color, $0, color_default);
             }
         '
