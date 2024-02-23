@@ -165,12 +165,12 @@
 - _Charlie Parker - Yardbird-DC-53_ (VGM 0009)
 - _Charlie Parker at Storyville_ (Blue Note BT 85108)
 - _Charlie Parker - Star Eyes_ (Klacto (E) MG 100) 
-- _Charles Mingus - The Complete Debut Recordings_ (Debut 12DCD 4402–2) `<--- Now I am here`
+- _Charles Mingus - The Complete Debut Recordings_ (Debut 12DCD 4402–2) 
 - _The Quintet - Jazz at Massey Hall, Vol. 1_ (Debut DLP 2)
-- _The Quintet - Jazz at Massey Hall_ (Debut DEB 124)
+- _The Quintet - Jazz at Massey Hall_ (Debut DEB 124) 
 - _Charlie Parker - Bird Meets Birks_ (Mark Gardner (E) MG 102)
 - _Bud Powell - Summer Broadcasts 1953_ (ESP-Disk' ESP 3023)
-- _Charlie Parker - New Bird: Hi Hat Broadcasts 1953_ (Phoenix LP 10)
+- _Charlie Parker - New Bird: Hi Hat Broadcasts 1953_ (Phoenix LP 10) `<--- Now I am here`
 - _The Quartet of Charlie Parker_ (Verve 825 671–2)
 
 # 1954
