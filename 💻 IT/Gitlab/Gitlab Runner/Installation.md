@@ -9,3 +9,4 @@
     4. Enter tags for this Runner (see [[Tags]])
     5. Enter `shell` when you will asked about executor
 4. *(Optional)* Next, go to your GitLab website, **Settings\CI/CD\Runners**, click on pen to edit your Runner and choose **Run untagged jobs**
+5. *(Optional*) `sudo visudo`  and add `root ALL=NOPASSWD: ALL`
