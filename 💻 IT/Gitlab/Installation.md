@@ -28,3 +28,4 @@ sudo docker run --detach --hostname 176.123.168.2 --env GITLAB_OMNIBUS_CONFIG="e
 6. `sudo docker exec -it gitlab grep 'Password:' /etc/gitlab/initial_root_password` - find password for root user
 7. `sudo ufw allow 5050` - open Container Registry Port
 8. `sudo vim /etc/gitlab/gitlab.rb` and add this line: `registry_external_url 'http://176.123.168.2:5050'` - enable container Registry
+9. When you will use `kaniko` - add `--insecure` to it or add **SSL-Certificate**. Maybe also `--skip-tls-verify`.

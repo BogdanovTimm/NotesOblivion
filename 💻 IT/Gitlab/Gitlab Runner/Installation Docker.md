@@ -1,4 +1,4 @@
-#             Installation
+#             Installation: Docker
 
 1. `docker volume create gitlab-runner-config` - create new docker volume to keep configuration
 2. `docker run -d --name gitlab-runner --restart always -v /var/run/docker.sock:/var/run/docker.sock -v gitlab-runner-config:/etc/gitlab-runner gitlab/gitlab-runner:latest` - run GitLab Runner container
