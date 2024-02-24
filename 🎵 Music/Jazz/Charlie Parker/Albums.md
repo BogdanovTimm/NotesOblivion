@@ -170,16 +170,16 @@
 - _The Quintet - Jazz at Massey Hall_ (Debut DEB 124) 
 - _Charlie Parker - Bird Meets Birks_ (Mark Gardner (E) MG 102)
 - _Bud Powell - Summer Broadcasts 1953_ (ESP-Disk' ESP 3023)
-- _Charlie Parker - New Bird: Hi Hat Broadcasts 1953_ (Phoenix LP 10) `<--- Now I am here`
+- _Charlie Parker - New Bird: Hi Hat Broadcasts 1953_ (Phoenix LP 10) 
 - _The Quartet of Charlie Parker_ (Verve 825 671–2)
 
 # 1954
 
-- _The Genius of Charlie Parker, #5 - Charlie Parker Plays Cole Porter_ (released posthumously)
+- _The Genius of Charlie Parker, #5 - Charlie Parker Plays Cole Porter_ (released posthumously) 
 - _Hi-Hat All Stars, Guest Artists, Charlie Parker_ (Fresh Sound (Sp) FSR 303)
-- _Charlie Parker - Kenton and Bird_ (Jazz Supreme JS 703)
+- Charlie Parker - Kenton and Bird (Jazz Supreme JS 703)
 - _The Genius of Charlie Parker, #5 - Charlie Parker Plays Cole Porter_ (Verve MGV 8007)
-- _Charlie Parker - Miles Davis - Lee Konitz_ (Ozone 2)
+- Charlie Parker - Miles Davis - Lee Konitz (Ozone 2) `<--- Now I am here`
 - _V.A. - Echoes of an Era: The Birdland All Stars Live at Carnegie Hall_ (Roulette RE 127)
 
 # 1957
