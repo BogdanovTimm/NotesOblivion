@@ -20,5 +20,9 @@ sudo docker run                                                          \
   --shm-size 256m                                                        \
   gitlab/gitlab-ee:latest
 ```
+And here is this command as a one-liner:
+```BASH
+sudo docker run --detach --hostname 176.123.168.2 --env GITLAB_OMNIBUS_CONFIG="external_url 'http://176.123.168.2'" --publish 443:443 --publish 80:80 --publish 22:22 --name gitlab --restart always --volume /srv/gitlab/config:/etc/gitlab --volume /srv/gitlab/logs:/var/log/gitlab --volume /srv/gitlab/data:/var/opt/gitlab --shm-size 256m gitlab/gitlab-ee:latest
+```
 5. `sudo docker logs -f gitlab` - check progress
 6. `sudo docker exec -it gitlab grep 'Password:' /etc/gitlab/initial_root_password` - find password for root user
