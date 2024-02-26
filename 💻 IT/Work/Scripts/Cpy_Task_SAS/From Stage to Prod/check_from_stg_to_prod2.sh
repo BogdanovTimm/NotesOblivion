@@ -26,4 +26,3 @@ color_default=$(tput sgr0)
                 printf("%s%s%s\n", color, $0, color_default);
             }
         '
-
