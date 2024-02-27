@@ -44,13 +44,23 @@ PROC SQL;
                 WHEN task_status = 'ADDED' 
                 THEN 
                     'PENDING_0-10_HOURS'
+                WHEN task_status = 'TRN_SYS_ERROR'
+                THEN
+                    'ERRORs_TODAY'
                 ELSE
                     '???'
             END AS current_status,
             COUNT(*) AS current_number
         FROM uat_meta.cpy_tasks_sas
-        WHERE task_status = 'TRN_RUN'
-            OR task_status = 'ADDED'
+        WHERE
+            task_status = 'TRN_RUN'
+            OR 
+            task_status = 'ADDED'
+            OR (
+            task_status = 'TRN_SYS_ERROR'
+                AND INTCK('HOUR', task_add_dt, DATETIME()) <= 24
+            )
+
         GROUP BY current_status
         ORDER BY current_status DESC
     ;

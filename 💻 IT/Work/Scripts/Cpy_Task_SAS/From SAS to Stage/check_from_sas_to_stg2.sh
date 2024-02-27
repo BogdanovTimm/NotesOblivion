@@ -14,9 +14,16 @@ color_default=$(tput sgr0)
         '
             NR > 1 {
                 if ( NR < 3 ) color=color_default;
-                else if ( $1 == "RUNNING_0-10_HOURS" || $1 == "WAITING_0-10_HOURS" ) color=color_green
-                else if ( $1 == "RUNNING_10-24_HOURS" || $1 == "WAITING_10-24_HOURS" ) color=color_yellow
-                else if ( $1 == "RUNNING_24+_HOURS" || $1 == "WAITING_24+_HOURS" ) color=color_red
+                else if ( $1 == "RUNNING_0-10_HOURS" || 
+                          $1 == "WAITING_0-10_HOURS" ) 
+                    color=color_green
+                else if ( $1 == "RUNNING_10-24_HOURS" ||
+                          $1 == "WAITING_10-24_HOURS" ) 
+                    color=color_yellow
+                else if ( $1 == "RUNNING_24+_HOURS" || 
+                          $1 == "WAITING_24+_HOURS" ||
+                          $1 == "ERRORs_TODAY") 
+                    color=color_red
                 printf("%s%s%s\n", color, $0, color_default);
             }
         '
