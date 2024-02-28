@@ -10,7 +10,7 @@ services:
         # restart: unless-stopped
         #? 127.0.0.1 means that this container may be reached only from this host. First port  is port in which you need to do curl. Second port is port within docker container
         ports:
-            - 127.0.0.1:3000:3000
+            - 444:333
         #expose:
         #    - 3000
         #networks:
