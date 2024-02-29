@@ -24,14 +24,33 @@ Roles is a little parts of a Playbookname.yaml. Different from [[Import tasks]],
 #                  Structure of role repository
 
 ```
-./defaults/  - default values for variables
-./files/     - configurations and other files that is needed
-./handlers/  - handlers
-./library/   - modules, for example python ones
-./meta/      - metadata about author and dependencies
-./tasks/     - tasks to run. 'main.yaml' is the starting one.
-./templates/ - templates for Jinja2
-./vars/      - values for variables
+/
+'
++- inventory/
+'          '
+'          '- hosts.yml               #? IPv4 of machines on which to run Ansible scripts
+'          '
+'          +- folder_with_variables/
+'
++- roles/
+       '
+       +- rolename/
+                 '
+                 +- defaults/         #? Default values for variables
+                 '
+                 +- files/            #? Configurations and other files that is needed
+                 '
+                 +- handlers/         #? Handlers
+                 '
+                 +- library/          #? Modules, for example python ones
+                 '
+                 +- meta/             #? Metadata about author and dependencies
+                 '
+                 +- tasks/            #? Tasks to run. 'main.yaml' is the starting one.    <-- Start here
+                 '
+                 +- templates/        #? Templates for Jinja2
+                 '
+                 +- vars/             #? Values for variables
 ```
 
 
