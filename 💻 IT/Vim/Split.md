@@ -34,11 +34,14 @@ Maximum Height:
 ##                 Working with Width (< and >)
 
 Increase Width:
-- `:vertical resize +15`
+1. `Ctrl + w`
+2. `15`
+3. `Shift + .`
 
 Decrease Width:
-- `:vertical resize -15`
-
+1. `Ctrl + w`
+2. `15`
+3. `Shift + ,`
 
 - Maximum Width:
 1. `Ctrl + w`

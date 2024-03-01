@@ -1,0 +1,52 @@
+#                  Within 1 file
+
+##                 Copy inside file
+
+1. `v` - Enter mode for selecting text and select text
+2. `Ctrl + y`
+
+##                 Delete inside a file
+
+1. `v` - Enter mode for selecting text and select text
+2. `Delete`
+
+##                 Cut from a file
+
+1. `v` - Enter mode for selecting text and select text
+2. `Ctrl + x`
+
+##                Paste inside a file
+
+1. `v` - Enter mode for selecting text and select text
+2. `Ctrl + p`
+
+
+
+
+
+
+
+
+
+#                  Between systems
+
+#                  Copy
+
+1. `v` - Enter mode for selecting text and select text
+2. `Shift + '`
+3. `Shift + =`
+4. `y`
+
+#                  Cut
+
+1. `v` - Enter mode for selecting text and select text
+2. `Shift + '`
+3. `Shift + =`
+4. `x`
+
+#                  Paste
+
+1. `v` - Enter mode for selecting text and select text
+2. `Shift + '`
+3. `Shift + =`
+4. `gp`
