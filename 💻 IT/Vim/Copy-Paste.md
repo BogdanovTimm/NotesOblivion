@@ -20,6 +20,10 @@
 1. `v` - Enter mode for selecting text and select text
 2. `Ctrl + p`
 
+###                Paste previously copied
+
+1. `Shift + '`
+2. `^2^` - pre-previously copyed text
 
 
 

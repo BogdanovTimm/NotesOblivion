@@ -1,7 +1,13 @@
-#                  Open search promt
+#                  Open search
 
-- Choose how to search:
-    - `/` - opens search promt to search forward
-- Write your text to match:
-    - `text to search\c` - case insensitive
-- `n` - go to the next one or `shift + n` to go backward
+Case-sensitive:
+`/` - opens search promt to search forward
+
+Case-insensitive:
+1. `/`
+2. `text_to_find\c`
+
+#                  Replace
+
+1. `Shift + ;`
+2. `%s/Text to find/Text to replace/gc`
