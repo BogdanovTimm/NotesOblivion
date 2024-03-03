@@ -50,7 +50,6 @@
 
 #                  Paste
 
-1. `v` - Enter mode for selecting text and select text
-2. `Shift + '`
-3. `Shift + =`
-4. `gp`
+1. `Shift + '`
+2. `Shift + =`
+3. `gp` - where `g` means 'go to last incerted character' and `p` means 'paste'
