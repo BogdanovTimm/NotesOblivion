@@ -27,7 +27,7 @@ You may get your last search RegExp pattern with:
 
 
 
-#                Vim's RegExp:
+#                Vim's RegExp
 
 Vim's RegExp is slight different from a standard one. For example, you need to use `\(\)` instead of `()` to create a group of characters.
 Also, to usu logical OR, you need to use `\|` instead of standard `|`.
