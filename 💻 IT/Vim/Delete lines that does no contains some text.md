@@ -9,3 +9,9 @@
 1. *Optinal* `v` - Select lines you want to examine
 2. `Shift + ;`
 3. `g/pattern to match/d`
+
+##                 Delete lines containing only whitespaces
+
+1. *Optinal* `v` - Select lines you want to examine
+2. `Shift + ;`
+3. `:g/^\s*$/d`

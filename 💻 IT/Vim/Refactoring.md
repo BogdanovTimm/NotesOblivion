@@ -1,0 +1,1 @@
+`find . -name "*.java" | xargs sed -i -e 's/\bold_name\b/new_name/g'`
