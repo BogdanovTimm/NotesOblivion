@@ -9,7 +9,9 @@ There is an invalid XML file
 3. Find line and column of an error. Also, copy `^/path/to/log^.log`
 4. `vim ^/path/to/log^.log` - find `^/path/to/xml^.xml`
 5. Open `^/path/to/xml^.xml` file
-6. Fix errors
+6. Find errors using:
+    1. `Shift +;`
+    2. `^\s\+[a-z,A-Z]*>`
 7. `vim /sas/dwh/other/mnp/incoming/mnp_get_port_msgs.sas`
 8. Comment:
    ```SAS
