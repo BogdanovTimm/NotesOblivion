@@ -16,7 +16,7 @@
                         4. `ps -ef | grep ^letters_from_the_right_of_the_ERR^` - check whether process started
 3. View `<<< JOBS SASETL1 >>>`  and `<<< JOBS SASETL1 >>>`:
     - If there is a red lines:
-        1. Remember 1st number
+        1. Remember 1st number on the most upper process from specific user
         2. `ssh tabogdanov@sasetls^1^.pv.mts.ru`
         3. `bjdepinfo -l ^1st_number^ | gawk '$3 != "DONE" {print $0}'` - remember `PARENT` of it
         4. `bjobs -w ^PARENT^` - Remember `JOB_NAME` of it

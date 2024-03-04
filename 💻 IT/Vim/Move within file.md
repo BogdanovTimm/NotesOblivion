@@ -1,6 +1,12 @@
 #                  Go to a line
 
-1. `:228G`
+1. `Shift + ;`
+2. `228` - number of a line
+
+#                  Go to a column (character)
+
+1. `228` - number of column
+2. `Shift + \`
 
 #                  Go to 1st non-whitespace cahracter of current line
 
