@@ -7,3 +7,7 @@
 #                  Find X is there is Y (including Y)
 
 `(dog )*cat` - finds `cat` only if line starts with a `dog` (not including `dog`)
+
+#               Everything till X
+
+`^[^X]+`
