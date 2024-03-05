@@ -10,12 +10,11 @@
 
 #                  Go to 1st non-whitespace cahracter of current line
 
-1. `Shift + 4`
+1. `Shift + 6`
 
 #                  Go to end of the current line
 
-1. `g`
-2. `Shift + -`
+1. `Shift + 4`
 
 #                  Go to next word
 

@@ -13,4 +13,6 @@
 
 #                  What it is
 
-It is a default error that occurs when SAS is working with big tables. It cannot be cured. The only way to dealth with it is to rerun process again.
+It is a default error that occurs when SAS is working with big tables. 
+It cannot be fixed.
+The only way to dealth with it is to rerun process again.
