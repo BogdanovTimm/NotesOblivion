@@ -92,6 +92,10 @@
 `brequeue -r ^job_id^` - use it!
 
 
+##                 Run without dependencies
+
+`bmod -wn ^job_ib^`
+
 
 
 
