@@ -1,4 +1,4 @@
-#                  How to find it:
+#                  How to find it
 
 1. Run `/sas/utils/morning.sh`
 2. `<<<< REGIONS >>>>` has `ERR`
