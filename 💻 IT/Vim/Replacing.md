@@ -11,7 +11,7 @@
 1. `/`
 2. Enter you search pattern and check that it finds what you want
 3. `Shift + ;`
-4. `%s//Replacing text` - `%` means that you will do it for every occurrence, not only for hte 1st one
+4. `%s//Replacing text/g` - `%` means that you will do it for every occurrence, not only for hte 1st one
 
 ###                Get last search RegExp
 
