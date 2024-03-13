@@ -1,3 +1,5 @@
 - Reciprocity of the virtues - each virtue requires each of the others
 - Virtues not only necessary for happiness, but also are sufficient for happiness
 - Excercizing Wisdom = Happiness (Wisdom is not an only Instrumental Good)
+- Rational Control is non-instrumentally good
+- Virtue = Rational Control => Virtue is non-Instrumentally Good.
