@@ -1,3 +1,3 @@
 - Reciprocity of the virtues - each virtue requires each of the others
 - Virtues not only necessary for happiness, but also are sufficient for happiness
-- Excersizing Wisdom = Happiness
+- Excersizing Wisdom = Happiness (Wisdom is not an only Instrumental Good)
