@@ -12,6 +12,7 @@
 - We **can't be wrong about** **number** and **types** of **virtues**
 - It is the **fact** about human **psychology**, that people **know what is pleasant** for them
 - It is the **fact** about human **psychology**, that people **evaluate long-term pleasant as good**
+- **Happiness** = when your **pleasure** are distinct **high** for the **most of your life**
 
 
 
