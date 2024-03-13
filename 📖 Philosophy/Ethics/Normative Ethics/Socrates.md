@@ -5,7 +5,7 @@
 - The **virtues** are **sufficient for happiness**
 - **Long-term pleasantness** = **Good**
 - **Virtues** = **knowledge of** what brings **long-term pleasantness**
-- **Virtues** have **instrumental value** (not an ultimate one)
+- **Virtues** have only **instrumental value** (not an ultimate one)
 - We **can't be wrong about** which **actions** are **virtuous**
 - We **can't be wrong about** **number** and **types** of **virtues**
 
