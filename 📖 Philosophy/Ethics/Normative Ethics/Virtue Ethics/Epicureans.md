@@ -1,3 +1,3 @@
 - Virtues not only necessary for happiness, but also are sufficient for happiness
 - Wisdom is only Instrumental Good
-- One's long-term Pleasure requires Virtues (ones who don't see that are miscalculated)
+- One's long-term Pleasure requires Virtues (ones who don't see that fact are just miscalculated long-term Pleasures and long-term Pains)
