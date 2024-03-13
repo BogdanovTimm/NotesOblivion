@@ -22,6 +22,18 @@
 
 
 
+#                  Weaknesses
+
+- If remembering and anticipating pleasure is good - then, rational agency is better then pleasure => we can't be hedonists anymore
+
+
+
+
+
+
+
+
+
 #                  Virtues
 
 Socrates mentions:
