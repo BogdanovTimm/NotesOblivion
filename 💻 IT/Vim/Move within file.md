@@ -1,7 +1,7 @@
 #                  Go to a line
 
-1. `Shift + ;`
-2. `228` - number of a line
+1. `228` - number of a line
+2. `Shift + g`
 
 #                  Go to a column (character)
 
@@ -30,7 +30,8 @@
 
 #                  Go to 1st line in a file
 
-`gg`
+1. `1`
+2. `Shift +g`
 
 #                  Go to last line in a file
 

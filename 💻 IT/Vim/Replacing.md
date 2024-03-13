@@ -29,6 +29,8 @@ You may get your last search RegExp pattern with:
 
 #                Vim's RegExp
 
+You don't need it if you add `\v` at the start of the search query
+
 Vim's RegExp is slight different from a standard one. For example, you need to use `\(\)` instead of `()` to create a group of characters.
 Also, to usu logical OR, you need to use `\|` instead of standard `|`.
 

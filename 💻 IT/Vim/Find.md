@@ -1,6 +1,6 @@
 #                  Enter search
 
-`/`
+`/\v` - allows you to use standard RegExp (instead of special for vim when you use simple `/`)
 
 ##                 Find selected
 
