@@ -10,6 +10,8 @@
 - **Unity of the virtues** - the **supposedly distinct virtues** constitute **one** and the same **virtue** (knowledge of long-term pleasantness)
 - We **can't be wrong about** which **actions** are **virtuous**
 - We **can't be wrong about** **number** and **types** of **virtues**
+- It is the fact about human psychology, that people know what is pleasant for them
+- It is the fact about human psychology, that people evaluate long-term pleasant as good
 
 
 
