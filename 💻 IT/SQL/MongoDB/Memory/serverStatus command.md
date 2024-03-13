@@ -20,11 +20,11 @@
         aggressive_memory_decommit      :            0 // status of aggressive memory de-commit mode
         pageheap_committed_bytes        : 235124137984 //
         pageheap_scavenge_count         :       549283 //
-        pageheap_commit_count           :      1526600 //
-        pageheap_total_commit_bytes     :   2033719296 //
+        pageheap_commit_count           :      1526600 // committed RAM
+        pageheap_total_commit_bytes     :   2033719296 // total committed RAM
         pageheap_decommit_count         :       549283 //
-        pageheap_total_decommit_bytes   : 266909581312 //
-        pageheap_reserve_count          :       207019 //
+        pageheap_total_decommit_bytes   : 266909581312 // 
+        pageheap_reserve_count          :       207019 // reserved RAM
         pageheap_total_reserve_bytes    : 253539381248 // same as [generic.heap_size]
         spinlock_total_delay_ns         : 399357867312 // spinlock delay time in Nano Seconds
         release_rate: 1,
