@@ -1,3 +1,2 @@
-If:
-- `locate %scriptname%.sas` - script does not have any prefix
-- `locate %scriptname%.sh` - script has prefix `sh`
+- `locate /sas/*%scriptname%.sas | vim -` - script does not have any prefix
+- `locate /sas/*%scriptname%.sh | vim -` - script has prefix `sh`

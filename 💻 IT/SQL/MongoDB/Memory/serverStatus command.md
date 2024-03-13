@@ -15,13 +15,13 @@
         current_total_thread_cache_bytes:     17590992 // RAM reserved by all per-thread Heaps
         thread_cache_free_bytes         :     17590992 // free RAM in thread Heap
         total_free_bytes                :   2114618808 // sum of free RAM in central Heap and in per-threaded ones, reserved by TCMalloc
-        central_cache_free_bytes        :   2096949480 // free RAM in central Heap (see TCMalloc docs)
+        central_cache_free_bytes        :   2096949480 // free RAM in central Heap
         transfer_cache_free_bytes       :        78336 // RAM that are waiting to be transferred between the central cache and a thread cache
         aggressive_memory_decommit      :            0 // status of aggressive memory de-commit mode
         pageheap_committed_bytes        : 235124137984 //
         pageheap_scavenge_count         :       549283 //
         pageheap_commit_count           :      1526600 //
-        pageheap_total_commit_bytes     :  02033719296 //
+        pageheap_total_commit_bytes     :   2033719296 //
         pageheap_decommit_count         :       549283 //
         pageheap_total_decommit_bytes   : 266909581312 //
         pageheap_reserve_count          :       207019 //
