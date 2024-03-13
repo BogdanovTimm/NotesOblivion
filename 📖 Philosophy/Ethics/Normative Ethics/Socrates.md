@@ -12,7 +12,7 @@
 - We **can't be wrong about** **number** and **types** of **virtues**
 - It is the **fact** about human **psychology**, that people **know what is pleasant** for them
 - It is the **fact** about human **psychology**, that people **evaluate long-term pleasant as good**
-- **Happiness** = when you satisfices most of your desires at the distant run and both this satisfaction is both **remembered** and **anticipated** (so, you need to tune yor desires to be easy satisfied)
+- He does not defines Happiness
 
 
 
