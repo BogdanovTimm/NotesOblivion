@@ -1,2 +1,3 @@
 - Reciprocity of the virtues - each virtue requires each of the others
 - Virtues not only necessary for happiness, but also are sufficient for happiness
+- Exversizing Wisdom = Happiness
