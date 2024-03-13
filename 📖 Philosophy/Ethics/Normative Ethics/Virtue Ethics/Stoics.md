@@ -3,3 +3,4 @@
 - Excercizing Wisdom (Rational Control) = Happiness
 - Rational Control is non-Instrumentally Good
 - Virtue = Rational Control => Virtue is non-Instrumentally Good.
+- Knowledge is sufficient for acting
