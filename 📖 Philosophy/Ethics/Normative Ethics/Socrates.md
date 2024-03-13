@@ -6,6 +6,8 @@
 - **Long-term pleasantness** = **Good**
 - **Virtues** = **knowledge of** what brings **long-term pleasantness**
 - **Virtues** have only **instrumental value** (not an ultimate one)
+- **Reciprocity of the virtues** - each virtue requires each of the others
+- **Unity of the virtues** - the **supposedly distinct virtues** constitute **one** and the same **virtue** (knowledge of long-term pleasantness)
 - We **can't be wrong about** which **actions** are **virtuous**
 - We **can't be wrong about** **number** and **types** of **virtues**
 
