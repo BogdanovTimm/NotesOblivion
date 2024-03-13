@@ -12,7 +12,7 @@
 - We **can't be wrong about** **number** and **types** of **virtues**
 - It is the **fact** about human **psychology**, that people **know what is pleasant** for them
 - It is the **fact** about human **psychology**, that people **evaluate long-term pleasant as good**
-- He does not defines Happiness
+- He does not defines **Happiness**
 
 
 
