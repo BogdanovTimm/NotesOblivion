@@ -3,3 +3,4 @@
 - One's long-term Pleasure requires Virtues (ones who don't see that fact are just miscalculated long-term Pleasures and long-term Pains)
 - You can tune up your desires
 - Virtuous people are happy precisely because they adapt themselves to smaller or larger external resources; they neither refuse to enjoy abundance nor regret scarcity.
+- undisturbed condition is the end
