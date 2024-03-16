@@ -1,1 +1,2 @@
 - Hedonism is true
+- Momentary pleasure is a non-instrumental value
