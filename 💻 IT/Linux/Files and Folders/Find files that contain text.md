@@ -1,0 +1,1 @@
+`grep -Rnw '/path/where/to/start' -e 'text to find'`
