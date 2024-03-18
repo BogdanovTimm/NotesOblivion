@@ -7,5 +7,5 @@
 7. The subject of this work is 'the process of developing critical thinking'
 8. The main idea of this part is that different educational strategies have different effects on academic motivation and, in the effect, on the development of critical thinkiong. Authors note that previous studies considered only extrinsic and intrinsic motivation, not caring about the other types of motivation that were developed in the theory of self-determnitaion of  E.L Desi and R.M. Rayan. Authors claim that only types of intrinsic motivation positively assiciated with critical thinking and that the constructivist style of teaching has the most effectiveness in relation to the development of a given construct.
 9. To support their claims, Koreshnqikova dnd Avdeeva give next arguments:
-- ???
+    - ???
 10. Conclusion (importance, how useful) - To draw a conclusion, I would like to say that despite the authors’ attempts to identify additional types of academic motivation positively associated with CT within the subscale of extrinsic motivation, it was proved that only types of intrinsic motivation were positively associated with the construct under study.
