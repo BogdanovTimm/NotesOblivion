@@ -2,3 +2,4 @@
 - One pleasure is not different from another, nor is one at all pleasanter than another. 
 - One affection is welcome, and the other repellent, to all animals
 - bodily pleasure that they take to be the end is not the static pleasure following on the removal of pains — a sort of undisturbed condition, which Epicurus accepts and takes to be the end
+- They reject eudamonism
