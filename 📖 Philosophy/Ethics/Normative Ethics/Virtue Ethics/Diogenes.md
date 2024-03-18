@@ -7,3 +7,4 @@
 # Weaknesses
 
 - Virtues are only means to the freedom of unfulfilled desires
+- Because virtue is sufficient for happiness, we don't know why to be virtuous
