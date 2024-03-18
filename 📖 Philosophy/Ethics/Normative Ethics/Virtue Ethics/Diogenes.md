@@ -1,4 +1,5 @@
 - Virtue is sufficient for Happiness
+- Virtue is a non-instrumental good
 - Hedonism is false
 - Happiness = a freedom from unfulfilled desires (just like in Epicurean ethics)
 - Virtues = integrity to ones own desires
