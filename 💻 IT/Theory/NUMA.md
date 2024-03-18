@@ -1,0 +1,2 @@
+Because (in UMA) if you add more CPU Cores, you increase the chanse of one of CPU Cores locking the other when they try to work with RAM - you may create a NUMA.
+NUMA is when you have 2 different CPUs and RAMs which are seen by the OS as the 1 CPU and 1 RAM
