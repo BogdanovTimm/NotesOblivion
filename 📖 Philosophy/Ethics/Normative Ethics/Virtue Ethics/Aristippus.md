@@ -1,2 +1,5 @@
 - Hedonism is true
 - Momentary pleasure is a non-instrumental value
+- Happinness = long-term pleasures
+- Hapinness are not final good
+- Current pleasure is the final good
