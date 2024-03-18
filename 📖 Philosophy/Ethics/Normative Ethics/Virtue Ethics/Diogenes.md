@@ -9,3 +9,4 @@
 
 - Virtues are only means to the freedom of unfulfilled desires
 - Because virtue is sufficient for happiness, we don't know why to be virtuous
+- Virtues as non-instrumental good and happiness as freedom from unfulfilled pleasures are not fit
