@@ -13,7 +13,9 @@
 - It is the **fact** about human **psychology**, that people **know what is pleasant** for them
 - It is the **fact** about human **psychology**, that people **evaluate long-term pleasant as good**
 - He does not defines **Happiness**
-- Tried to find how we may reduce moral properties to non-moral terms
+- Tried to find :
+    - how we may reduce moral properties to non-moral terms (epistemological condition). E.g.: justice is an Aethean Law
+    - which property makes all X be X (explanatory demand). E.g.: justice is not an Aethian Law, because if Aethian Law changes - justice will not change
 
 
 
