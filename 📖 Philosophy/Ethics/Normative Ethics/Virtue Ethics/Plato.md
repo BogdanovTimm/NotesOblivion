@@ -4,4 +4,4 @@
 - Virtue is to be chosen for its own sake 
 - Virtue is not the only good.
 - People may make mistajes because of non-ratiinal psrts of the soul
-- Disagrees with both Cynics and Cirenaic
+- Disagrees with both Cynics and Cyrenaics
