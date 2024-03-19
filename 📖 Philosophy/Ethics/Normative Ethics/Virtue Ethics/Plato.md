@@ -20,6 +20,6 @@
         - rational desires - desires that rest on reasoning. But not every reasoning, but of reasoning about the good for all other parts of the soul   
         - spirited desires - desires that display anger, pride, pity, self-esteem and  love of honour. But actually they displays desires that are based on some conceptions of Good and Evil, but not on Gooand and Evil for the whole soul. For example, even if I know this is not a good time to be angry, or that what you did is not important enough to be angry about, I may still be angry.
         - appetitive desires - desires that are just impulses towards certain satisfactions
-- Different parts of soul has its own goals and (and hence they are agents)
+- Different parts of soul has its own goals and comceptions of themselves in relation to ration part (and hence they are agents)
  - If we assume something like Humean position: that the only mean of rational part of the siul is to choose best way to fulfill desires from non-rational part, then we make a mistake. And this explains incontinencs of a knowledge and action. So, Plato claims that the rational planing has a non-instrumental value.
 - Rational part of the soul think about the good for all other parts, so, it is the best leader and ration
