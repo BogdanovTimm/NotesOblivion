@@ -15,7 +15,7 @@
 - He does not defines **Happiness**
 - Tried to find :
     - how we may reduce moral properties to non-moral terms (epistemological condition). E.g.: justice is an Aethean Law
-    - which property makes all X be X (explanatory demand). E.g.: justice is not an Aethian Law, because if Aethian Law changes - justice will not change
+    - which property makes all X be X (explanatory demand). E.g.: justice is not an Aethian Law, because if Aethian Law changes - justice may stays same
 
 
 
