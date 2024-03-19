@@ -15,6 +15,6 @@
 - Moral Realist, Moral non-naturalist, non-reductive doctrine of the nature of moral properties
 - Virtues are nit only about knowledge, but also abiut training non-rational parts of tge souk
 - Structure of non-rational parts:
-    - spirited - desires that rest on reasoning    
+    - rational - desires that rest on reasoning    
     - appetitive - desires that are just impulses towards certain satisfactions    
-    - desires that display anger
+    - spirited - desires that display anger
