@@ -12,4 +12,4 @@
     - Justice consists in each part (of the soul) doing its own work under the control of the wisdom in the rational part
     - Wisdom - knowledge of the Good
 - Virtuous acts are virtuous because they are appropriately related to good order in the soul
-- Moral terms can't be reduced to non-moral ones
+- Moral Realist, Moral non-naturalist, non-reductive doctrine of the nature of moral properties
