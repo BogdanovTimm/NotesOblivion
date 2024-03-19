@@ -17,4 +17,4 @@
 - Structure of non-rational parts:
     - rational - desires that rest on reasoning    
     - appetitive - desires that are just impulses towards certain satisfactions    
-    - spirited - desires that display anger
+    - spirited - desires that display anger and love of honour
