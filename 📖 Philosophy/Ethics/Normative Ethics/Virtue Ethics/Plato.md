@@ -5,4 +5,3 @@
 - Virtue is not the only good.
 - People may make mistajes because of non-ratiinal psrts of the soul
 - Disagrees with both Cynics and Cyrenaics
-- Virtues are 
