@@ -1,0 +1,1 @@
+- Moral terms can't be reduced to non-moral ones
