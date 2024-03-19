@@ -3,3 +3,5 @@
 - Wisdom is not an only Instrumental Good, but it is not Happiness
 - Virtue is to be chosen for its own sake 
 - Virtue is not the only good.
+- People may make mistajes because of non-ratiinal psrts of the soul
+- 
