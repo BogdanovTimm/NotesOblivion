@@ -14,7 +14,9 @@
 - Virtuous acts are virtuous because they are appropriately related to good order in the soul
 - Moral Realist, Moral non-naturalist, non-reductive doctrine of the nature of moral properties
 - Virtues are nit only about knowledge, but also abiut training non-rational parts of tge souk
-- Structure of non-rational parts:
-    - rational - desires that rest on reasoning    
-    - appetitive - desires that are just impulses towards certain satisfactions    
-    - spirited - desires that display anger and love of honour
+- Structure of 
+    - rational
+    - non-rational parts:
+        - rational desires - desires that rest on reasoning. But not every reasoning, but of reasoning abiut the good to all other parts of the soul
+        - appetitive desires - desires that are just impulses towards certain satisfactions    
+        - spirited desires - desires that display anger and love of honour
