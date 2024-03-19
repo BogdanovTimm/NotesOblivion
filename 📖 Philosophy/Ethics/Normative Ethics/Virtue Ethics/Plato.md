@@ -1,4 +1,4 @@
-- Reciprocity of the virtues - each virtue requires each of the others 
+- Reciprocity of the virtues - each virtue requires each of the others (but, unlike in Socrayes, there are more than 1 virtue)
 - Virtues are necessary for happiness (but not sufficient)
 - Wisdom is not a one and only Instrumental Good, but it is not Happiness
 - Virtue is non-instrumental good
