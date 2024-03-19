@@ -1,0 +1,2 @@
+- Role of a rational part of the soul is only an instrumental one
+- It is no better to suck a cock than to destroy the world (e.g. rational planning is not matters)
