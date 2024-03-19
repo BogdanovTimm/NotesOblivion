@@ -6,3 +6,10 @@
 - People may make mistajes because of non-ratiinal psrts of the soul
 - Disagrees with both Cynics and Cyrenaics
 - Says that Socrates' explanatory definitions and epistemological ones cant both be true at the same time, so, we must vhoose only one of them. He chooses explanatory one.
+- Dedinitions of virtues:
+    - Bravery is described as preservation of right belief under the control of the wisdom in the rational part; 
+    - Temperance is concord between the parts under the control of the wisdom in the rational part.
+    - Justice consists in each part (of the soul) doing its own work under the control of the wisdom in the rational part
+    - Wisdom - knowledge of the Good
+- Virtuous acts are virtuous because they are appropriately related to good order in the soul
+- Moral terms can't be reduced to non-moral ones
