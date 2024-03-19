@@ -1,3 +1,3 @@
-#                  Use database
+#                  Use/Create database
 
 `use ^database_name^`
