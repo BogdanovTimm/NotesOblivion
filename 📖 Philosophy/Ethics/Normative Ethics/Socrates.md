@@ -20,7 +20,7 @@
     - Bravery is described as preservation of right belief under the control of the wisdom in the rational part; 
     - Temperance is concord between the parts under the control of the wisdom in the rational part.
 - Virtuous acts are virtuous because they are appropriately related to good order in the soul
-
+- Wisdom - knowledge of the Good
 
 
 
