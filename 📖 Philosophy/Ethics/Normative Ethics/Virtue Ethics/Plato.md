@@ -5,3 +5,4 @@
 - Virtue is not the only good.
 - People may make mistajes because of non-ratiinal psrts of the soul
 - Disagrees with both Cynics and Cyrenaics
+- Says that Socrates' explanatory definitions and epistemological ones cant both be true at the same time, so, we must vhoose only one of them. He chooses explanatory one.
