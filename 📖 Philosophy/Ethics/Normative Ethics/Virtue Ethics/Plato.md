@@ -19,4 +19,4 @@
     - non-rational parts:
         - rational desires - desires that rest on reasoning. But not every reasoning, but of reasoning abiut the good to all other parts of the soul
         - appetitive desires - desires that are just impulses towards certain satisfactions    
-        - spirited desires - desires that display anger and love of honour
+        - spirited desires - desires that display anger and love of honour. But actually they displays desires that are based on some conceptions of Good and Evil, but not on Gooand and Evil for the whole soul
