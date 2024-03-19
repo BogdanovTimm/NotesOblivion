@@ -1,7 +1,7 @@
 - Reciprocity of the virtues - each virtue requires each of the others 
 - Virtues are necessary for happiness (but not sufficient)
 - Wisdom is not a one and only Instrumental Good, but it is not Happiness
-- Virtue is to be chosen for its own sake
+- Virtue is non-instrumental good
 - Virtue is not the only good.
 - People may make mistajes because of non-ratiinal psrts of the soul
 - Disagrees with both Cynics and Cyrenaics
