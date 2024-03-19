@@ -16,7 +16,7 @@
 - Tried to find :
     - how we may reduce moral properties to non-moral terms (epistemological condition). E.g.: justice is an Aethean Law
     - which property makes all X be X (explanatory demand). E.g.: justice is not an Aethian Law, because if Aethian Law changes - justice may stays same
--Dedinitions of virtues:
+- Dedinitions of virtues:
     - Bravery is described as preservation of right belief under the control of the wisdom in the rational part; 
     - Temperance is concord between the parts under the control of the wisdom in the rational part.
     - Justice consists in each part (of the soul) doing its own work under the control of the wisdom in the rational part
