@@ -13,6 +13,7 @@
 - It is the **fact** about human **psychology**, that people **know what is pleasant** for them
 - It is the **fact** about human **psychology**, that people **evaluate long-term pleasant as good**
 - He does not defines **Happiness**
+- Tried to find how we may reduce moral properties to non-moral terms
 
 
 
