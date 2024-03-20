@@ -28,3 +28,4 @@
 - Justice is needed for being happy
 - Happiness is complete (includes all goods) and includes both virtues and exrernal goods
 - Freedom from disturbance is not the good
+- We have been given a good reason for being just if and only if we have been shown how justice promotes our happiness; he does not even consider the suggestion that we have overriding reason to be just even if justice does not promote our happiness
