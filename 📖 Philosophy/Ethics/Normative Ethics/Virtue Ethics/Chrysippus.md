@@ -1,1 +1,1 @@
-- Virtue is both  sufficient for happiness
+- Virtue is both necessary and sufficient for happiness
