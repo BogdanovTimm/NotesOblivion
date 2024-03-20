@@ -27,3 +27,4 @@
 - Justice must be chosen because of itself, not because it brings good consequencs
 - Justice is needed for being happy
 - Happiness includes virtues and exrernal goods
+- Freedom from disturbance is not the good
