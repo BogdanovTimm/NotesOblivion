@@ -1,2 +1,2 @@
 - Hedonism is true
-- Self-awareness does not matter
+- Self-awareness does not have any non-instrumental value
