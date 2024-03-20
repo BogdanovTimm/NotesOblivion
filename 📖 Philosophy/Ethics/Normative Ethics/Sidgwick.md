@@ -1,0 +1,2 @@
+- Hedonism is true
+- Self-awareness does not matter
