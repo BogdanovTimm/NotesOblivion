@@ -3,4 +3,5 @@
 - One affection is welcome, and the other repellent, to all animals
 - bodily pleasure that they take to be the end is not the static pleasure following on the removal of pains — a sort of undisturbed condition, which Epicurus accepts and takes to be the end
 - They reject eudaemonism (that happiness is the final good), because happiness as the collection of pleasures does not exist (or, at least it existense is on doubt)
-- They are sceptics abiut external world because of conflicting facts: I think the taste if this drink is bitter, you think the taste is sweet - then, the taste of the drink cannit be either bitter or sweet.
+- They are sceptics abiut external world because of conflicting facts: I think the taste if this drink is bitter, you think the taste is sweet - then, the taste of the drink cannit be either bitter or sweet
+- Only current pleasure is a non-instrumental good
