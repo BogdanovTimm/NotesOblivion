@@ -26,3 +26,4 @@
 - To be virtuous = to choose right ends (happiness through rational planning) and strive to that end
 - Justice must be chosen because of itself, not because it brings good consequencs
 - Justice is needed for being happy
+- Happiness includes virtues and exrernal goods
