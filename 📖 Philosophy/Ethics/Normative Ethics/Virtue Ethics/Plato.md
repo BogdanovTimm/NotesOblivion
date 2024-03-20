@@ -24,3 +24,4 @@
  - If we assume something like Humean position: that the only mean of rational part of the siul is to choose best way to fulfill desires from non-rational part, then we make a mistake. And this explains incontinencs of a knowledge and action. So, Plato claims that the rational planing has a non-instrumental value.
 - Rational part of the soul think about the good for all other parts, so, it is the best leader and ration
 - To be virtuous = to choose right ends (happiness through rational planning) and strive to that end
+- Justice must be chosen because of itself, not because it brings good consequencs
