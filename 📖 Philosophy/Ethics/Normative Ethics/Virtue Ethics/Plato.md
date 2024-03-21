@@ -33,3 +33,4 @@
 - Philosopher will not want to rule the city, but we must compell them to do it. It may mean 2 either of 2 things:
     - The city compels the philosophers to have a less happy life than they would otherwise have, but it does not treat them unjustly
     - The city does not treat them unjustly and does not compel them to have a less happy life than they would otherwise have. Plato’s position is diff i cult to settle, because it is diff i cult to see which of these two answers he gives.
+- Platonic love = when A shapes B to be virtues. Since A is concerned for B as a way of propagating A, and since A cares about A’s own interest for A’s own sake, A will also care about B for B’s own sake, not instrumentally to some further end.
