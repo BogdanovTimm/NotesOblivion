@@ -1,3 +1,4 @@
 - Hedonism is true
 - Self-awareness does not have any non-instrumental value
 - Self-interest conflicts with interest of others
+- Tries to find why we have our moral beliefs
