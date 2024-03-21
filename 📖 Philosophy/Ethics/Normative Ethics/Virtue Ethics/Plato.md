@@ -30,4 +30,6 @@
 - Freedom from disturbance is not the good
 - We have been given a good reason for being just if and only if we have been shown how justice promotes our happiness; he does not even consider the suggestion that we have overriding reason to be just even if justice does not promote our happiness
 - Happiness consists in using practical reason to control the direction of one’s life.
-- Philosopher will not want to rule the city, but we must compell them to do it
+- Philosopher will not want to rule the city, but we must compell them to do it. It may mean 2 either of 2 things:
+    - The city compels the philosophers to have a less happy life than they would otherwise have, but it does not treat them unjustly
+    - The city does not treat them unjustly and does not compel them to have a less happy life than they would otherwise have. Plato’s position is diff i cult to settle, because it is diff i cult to see which of these two answers he gives.
