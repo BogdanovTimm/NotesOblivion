@@ -9,3 +9,4 @@
 - The best life is also the pleasantest life
 - if we have one virtue we have all the virtues
 - Plato's division of the soul is true
+- Happiness = highest good
