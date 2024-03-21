@@ -1,2 +1,3 @@
 - Role of a rational part of the soul is only an instrumental one
 - It is not rational to plan the better way of fullfilling the desire
+- Rejects the supremacy of reasons based on one’s own good for being moral
