@@ -18,3 +18,4 @@
 - A virtue of character is ‘a state that decides’. 
 - Decision is the product of wish and deliberation. It is a central feature of responsible action and of virtue. In requiring the right decision, Aristotle seeks to describe the rational element in virtue. 
 - we decide on actions as promoting ends, not as ends themselves, but he also insists that the virtuous person decides on the virtuous action for its own sake. This paradox dissolves, and the coherence of Aristotle’s position becomes clear, once we apply the distinction between production and activity to Aristotle’s claims about decision:  The virtuous person decides on virtuous actions as activities that in themselves, not simply through their consequences, partly achieve the end.
+- He uses dialectical method: he tries to resolve conflicts in commom knowledge about ethics
