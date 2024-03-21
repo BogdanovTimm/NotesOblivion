@@ -34,5 +34,5 @@
     - The city compels the philosophers to have a less happy life than they would otherwise have, but it does not treat them unjustly
     - The city does not treat them unjustly and does not compel them to have a less happy life than they would otherwise have. Plato’s position is diff i cult to settle, because it is diff i cult to see which of these two answers he gives.
 - Platonic love = when A shapes B to be virtues. Since A is concerned for B as a way of propagating A, and since A cares about A’s own interest for A’s own sake, A will also care about B for B’s own sake, not instrumentally to some further end.
-- One's own interests are not inconflict with others interests: Hence we have reason to want to produce the cardinal virtues in other people too. But the cardinal virtues are the dominant element in everyone’s good. Hence virtuous agents—those who value the cardinal virtues in themselves—also achieve the good of others.
+- One's own interest is not not inconflict with others' interest: Hence we have reason to want to produce the cardinal virtues in other people too. But the cardinal virtues are the dominant element in everyone’s good. Hence virtuous agents—those who value the cardinal virtues in themselves—also achieve the good of others.
 - Psychic justice = when non-rational parts of the soul are guided by tge rational one
