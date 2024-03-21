@@ -4,3 +4,4 @@
 - You can tune up your desires
 - Virtuous people are happy precisely because they adapt themselves to smaller or larger external resources; they neither refuse to enjoy abundance nor regret scarcity.
 - undisturbed condition is the end
+- Virtues has only non-instrumental value
