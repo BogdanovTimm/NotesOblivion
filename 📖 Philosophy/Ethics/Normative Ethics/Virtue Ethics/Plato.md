@@ -39,3 +39,4 @@
 - Virtue promotes happiness
 - The best life is also the pleasantest life
 - If we have one virtue we have all the virtues
+- Virtue always promotes happiness more than vice does
