@@ -10,7 +10,11 @@
 - if we have one virtue we have all the virtues
 - Plato's division of the soul is true
 - Happiness = highest good
+- Happiness is composite
 - According to one reasonable interpretation, he argues that happiness is a composite good, and that the virtues are dominant parts of it.
 - Aristotle, however, distinguishes two sorts of goal-directed actions: 
     - production (poiˆ esis) aims at some end other than the production itself, 
     - ‘action’ or ‘activity’ (praxis) ‘good action itself is the end’
+- A virtue of character is ‘a state that decides’. 
+- Decision is the product of wish and deliberation. It is a central feature of responsible action and of virtue. In requiring the right decision, Aristotle seeks to describe the rational element in virtue. 
+- we decide on actions as promoting ends, not as ends themselves, but he also insists that the virtuous person decides on the virtuous action for its own sake. This paradox dissolves, and the coherence of Aristotle’s position becomes clear, once we apply the distinction between production and activity to Aristotle’s claims about decision:  The virtuous person decides on virtuous actions as activities that in themselves, not simply through their consequences, partly achieve the end.
