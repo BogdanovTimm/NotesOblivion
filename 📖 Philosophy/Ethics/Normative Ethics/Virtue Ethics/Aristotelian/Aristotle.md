@@ -10,3 +10,4 @@
 - if we have one virtue we have all the virtues
 - Plato's division of the soul is true
 - Happiness = highest good
+- According to one reasonable interpretation, he argues that happiness is a composite good, and that the virtues are dominant parts of it.
