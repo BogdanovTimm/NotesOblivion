@@ -21,3 +21,4 @@
 - He uses dialectical method: he tries to resolve conflicts in commom knowledge about ethics
 - ... [it is the same] Cognitive state as prudence (phronesis), which deliberates about what promotes happiness as a whole
 - Political science is a sort of an practical science where we tries to find the highest end and so we cannot appeal to any higher end to give us a definite conception of our end
+-Ethics is a Political Science
