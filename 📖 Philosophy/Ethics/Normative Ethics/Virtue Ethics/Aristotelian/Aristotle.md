@@ -20,5 +20,5 @@
 - we decide on actions as promoting ends, not as ends themselves, but he also insists that the virtuous person decides on the virtuous action for its own sake. This paradox dissolves, and the coherence of Aristotle’s position becomes clear, once we apply the distinction between production and activity to Aristotle’s claims about decision:  The virtuous person decides on virtuous actions as activities that in themselves, not simply through their consequences, partly achieve the end.
 - He uses dialectical method: he tries to resolve conflicts in commom knowledge about ethics
 - ... [it is the same] Cognitive state as prudence (phronesis), which deliberates about what promotes happiness as a whole
-- Political science is a sort of an practical science where we tries to find the highest end and so we cannot appeal to any higher end to give us a definite conception of our end
+- Political science is a sort of an practical science where we tries to find the highest end and so we cannot appeal to any higher end to give us a definite conception of our end. It uses a dialectical inquery for that
 -Ethics is a Political Science
