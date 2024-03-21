@@ -36,3 +36,6 @@
 - Platonic love = when A shapes B to be virtues. Since A is concerned for B as a way of propagating A, and since A cares about A’s own interest for A’s own sake, A will also care about B for B’s own sake, not instrumentally to some further end.
 - One's own interest is not not inconflict with others' interest: Hence we have reason to want to produce the cardinal virtues in other people too. But the cardinal virtues are the dominant element in everyone’s good. Hence virtuous agents—those who value the cardinal virtues in themselves—also achieve the good of others.
 - Psychic justice = when non-rational parts of the soul are guided by tge rational one
+- Virtue promotes happiness
+- The best life is also the pleasantest life
+- If we have one virtue we have all the virtues
