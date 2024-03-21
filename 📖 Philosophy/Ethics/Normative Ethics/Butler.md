@@ -1,1 +1,2 @@
 - Self-interest conflicts with interest of others
+- Rejects the supremacy of reasons based on one’s own good for being moral
