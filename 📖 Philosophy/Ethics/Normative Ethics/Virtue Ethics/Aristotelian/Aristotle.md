@@ -24,3 +24,4 @@
 - Action is itself the end that we aim at, not a mere means to some end external to it. If we are trying to f i nd the appropriate form of non-instrumental action, we cannot simply consider its causal consequences for the production of some external end; we need to see how it can non-instrumentally realize an end that it partly constitutes.
 - There is 1 final end  that is human goodness of tge rational agents (opposed to a non-rational desires)
 - General justice - other regarding virtue
+- Descision = rational desire
