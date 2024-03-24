@@ -22,3 +22,5 @@
 - ... [it is the same] Cognitive state as prudence (phronesis), which deliberates about what promotes happiness as a whole
 - Political science is a sort of an practical science where we tries to find the highest end and so we cannot appeal to any higher end to give us a definite conception of our end. It uses a dialectical inquery for that.  Political science is practical rather than productive, because it is concerned with ‘action’ (praxis) and not simply with ‘production’ or ‘making’ (poiesis). 
 - Action is itself the end that we aim at, not a mere means to some end external to it. If we are trying to f i nd the appropriate form of non-instrumental action, we cannot simply consider its causal consequences for the production of some external end; we need to see how it can non-instrumentally realize an end that it partly constitutes.
+- There is 1 final end  that is human goodness
+- General justice - other regarding virtue
