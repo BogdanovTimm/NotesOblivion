@@ -25,4 +25,4 @@
 - There is 1 final end  that is human goodness of the rational agents (opposed to a non-rational desires) aka happiness
 - General justice - other regarding virtue
 - Descision = rational desire
-- Happiness is an agent's own happiness
+- Psychological egoism is true (every person pursue hers own happiness)
