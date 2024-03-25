@@ -35,5 +35,5 @@
 - Function = goal-directed motion or state. A motion or state is goal-directed when it has a final cause aka ‘end’. A final cause is the real or apparent good whose presence explains the occurrence of the motion or state in question.
 - The function of a whole organism is what Aristotle describes as a life
 - The Function Argument does not show, and is not intended to show, that happiness consists in performing the activity that is most distinctive of human beings in relation to other organisms. It connects a human being’s good with the characteristic and distinctive features of a rational agent’s life as opposed to the life of other agents.
-
+- Human functionconsists in rational choice of actions valued for their own sakes. A life devoted to the pursuit of ends that do not result from rational choice of ends does not fulfil the human function, even if the agent exercises reason in deliberation about instrumental means to those ends.
 - Plato's conception of the soul is true
