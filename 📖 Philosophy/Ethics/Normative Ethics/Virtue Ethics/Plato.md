@@ -40,4 +40,4 @@
 - The best life is also the pleasantest life
 - If we have one virtue we have all the virtues
 - Virtue always promotes happiness more than vice does
-- When people mistakes that do this because they take their ends from the non-rational parts of the soul
+- When people mistakes that do this because they take their ends from the non-rational parts of the soul. So, mere thinking of finding the most effective way to achieve ones desirea are not virtuous
