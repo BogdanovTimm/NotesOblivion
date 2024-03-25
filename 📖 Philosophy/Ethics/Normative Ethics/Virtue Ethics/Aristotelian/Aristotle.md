@@ -32,5 +32,6 @@
 - the wellfare of my friends, family and fellow-citizens are the parts of my own wellfare (not becase it may affect my wellfare)
 - A human being’s function is activity of the rational soul; hence a human being’s good is activity of the rational soul in accordance with complete virtue
 - Functions of X = essence of X
+- Function = goal-directed motion or state. A motion or state is goal-directed when it has a final cause aka ‘end’. A final cause is the real or apparent good whose presence explains the occurrence of the motion or state in question.
 - The Function Argument does not show, and is not intended to show, that happiness consists in performing the activity that is most distinctive of human beings in relation to other organisms. It connects a human being’s good with the characteristic and distinctive features of a rational agent’s life as opposed to the life of other agents.
 - Plato's conception of the soul is true
