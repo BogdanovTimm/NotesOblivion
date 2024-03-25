@@ -41,3 +41,4 @@
 - Human function consists in rational choice of actions valued for their own sakes. A life devoted to the pursuit of ends that do not result from rational choice of ends does not fulfil the human function, even if the agent exercises reason in deliberation about instrumental means to those ends.
 - Plato's conception of the soul is true
 - different moral virtues are different ways in which we fulf i l our nature as rational agents in a life guided by non-instrumental practical reasoning.
+- virtuous people do not achieve happiness simply because they attach supreme value to virtuous action; they achieve it only in so far as virtuous action actually meets the appropriate conditions for happiness. These conditions include completeness, self-suff i ciency, and realization of a human being’s practical rationality
