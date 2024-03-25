@@ -31,3 +31,4 @@
 - We choose non-instrumental goods for the sake of happiness, but may choose for they own sake if we can't pursue all of them at once
 - the wellfare of my friends, family and fellow-citizens are the parts of my own wellfare (not becase it may affect my wellfare)
 - A human being’s function is activity of the rational soul; hence a human being’s good is activity of the rational soul in accordance with complete virtue
+- Functions of X = essence of X
