@@ -45,3 +45,4 @@
 - Virtues are the different ways in which the non-rational part accepts the guidance of the rational part.
 - Happiness consists in part in theoretical ‘study’ or ‘contemplation’ (theˆ oria), grasping the ultimate universal truths about the universe
 - According to the Function Argument, the different virtues should be forms of control by the rational part in the choice of ends
+- We fulf i l our function by acting in accordance with both prudence and virtue of characte
