@@ -1,0 +1,1 @@
+- He thought that Aristotle's happiness consists only in theoretical thinking
