@@ -26,4 +26,4 @@
 - General justice - other regarding virtue
 - Descision = rational desire
 - Psychological egoism is true (every person pursue hers own happiness)
-- the virtuous person’s life is also the pleasantest life, because pleasure makes live happier, but pleasure is not only thing that makes live happier
+- the virtuous person’s life is also the pleasantest life, because pleasure makes live happier, but pleasure is not only thing that makes live happier. Also, virtues makes virtues people less depenfend on external circumstances (but, not independent of them, which is impossible)
