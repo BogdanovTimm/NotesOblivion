@@ -2,7 +2,7 @@
 
 - Reciprocity of the virtues - each virtue requires each of the others
 - Virtues are necessary for happiness (but not sufficient)
-- Virtue is a state in which one performs one’s function well
+- Virtue is a state in which one performs one’s function well. Hence a virtue is a state in which one makes the correct rational choice of ends, and chooses correctly the actions that are to be chosen for their own sakes.
 - Wisdom is not an only Instrumental Good, but it is not Happiness
 - Feiendship = type of love for persons as non-instrumental concern for the good of others
 - The supremacy of reasons based on one’s own good for being moral both psychologically and rationally.
