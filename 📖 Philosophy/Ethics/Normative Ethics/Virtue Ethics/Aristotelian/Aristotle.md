@@ -26,3 +26,4 @@
 - General justice - other regarding virtue
 - Descision = rational desire
 - Psychological egoism is true (every person pursue hers own happiness)
+- the virtuous person’s life is also the pleasantest life
