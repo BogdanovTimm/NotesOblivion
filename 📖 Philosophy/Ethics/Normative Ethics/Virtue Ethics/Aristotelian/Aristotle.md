@@ -43,3 +43,4 @@
 - different moral virtues are different ways in which we fulf i l our nature as rational agents in a life guided by non-instrumental practical reasoning.
 - virtuous people do not achieve happiness simply because they attach supreme value to virtuous action; they achieve it only in so far as virtuous action actually meets the appropriate conditions for happiness. These conditions include completeness, self-suff i ciency, and realization of a human being’s practical rationality
 - Virtues are the different ways in which the non-rational part accepts the guidance of the rational part.
+- Happiness consists in theoretical ‘study’ or ‘contemplation’ (theˆ oria), grasping the ultimate universal truths about the universe
