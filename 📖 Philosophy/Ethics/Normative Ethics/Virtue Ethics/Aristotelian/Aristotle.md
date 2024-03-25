@@ -27,4 +27,4 @@
 - Descision = rational desire
 - Psychological egoism is true (every person pursue hers own happiness)
 - the virtuous person’s life is also the pleasantest life, because pleasure makes live happier, but pleasure is not only thing that makes live happier. Also, virtues makes virtues people less depenfend on external circumstances (but, not independent of them, which is impossible)
-- He recognizes pleasure, honour, and virtue as non-instrumental goods (1097b2–4). If he accepts a comprehensive conception of happiness, he regards these goods as components of happiness.
+- He recognizes pleasure, honour, understanding and virtue as non-instrumental goods (1097b2–4). If he accepts a comprehensive conception of happiness, he regards these goods as components of happiness.
