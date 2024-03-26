@@ -52,3 +52,4 @@
     2. Suppression, as far as possible.
     3. Control, as far as possible.
     4. Harmony and agreement with the rational part. It is the best option. It means that if you have some justified inclination for anger, but you understand that it is not the best time for it, you will feel inclination, but it will be small. And it is better than not to feel it. Also, in some situations, I must feel regret for my doibgs
+- a life of action (praxis) of the rational part
