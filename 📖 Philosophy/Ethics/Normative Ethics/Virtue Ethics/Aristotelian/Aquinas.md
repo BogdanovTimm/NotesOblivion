@@ -1,1 +1,3 @@
 - Mistakely thinks that Aristotle thought that only virtue of character is a real virtue
+- Reciprocity of the virtues - each virtue requires each of the others
+- The Naturalism is true
