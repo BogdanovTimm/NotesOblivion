@@ -46,9 +46,9 @@
 - Happiness consists in part in theoretical ‘study’ or ‘contemplation’ (theˆ oria), grasping the ultimate universal truths about the universe
 - According to the Function Argument, the different virtues should be forms of control by the rational part in the choice of ends
 - We fulf i l our function by acting in accordance with both prudence and virtue of characte
-- mere agreement between rational and non-rational parts of the soul are not sufficient to be virtuous, because vicious person also has this agreement
+- Mere agreement between rational and non-rational parts of the soul are not sufficient to be virtuous, because vicious person also has this agreement
 - For a normal and natural human emotion such as anger, four possibilities are open: 
     1. Indulgence, leaving it completely unchecked. 
     2. Suppression, as far as possible.
     3. Control, as far as possible.
-    4. Harmony and agreement with the rational part.
+    4. Harmony and agreement with the rational part. It is the best option. It means that if you have some justified inclination for anger, but you understand that it is not the best time for it, you will feel inclination, but it will be small. And it is better than not to feel it
