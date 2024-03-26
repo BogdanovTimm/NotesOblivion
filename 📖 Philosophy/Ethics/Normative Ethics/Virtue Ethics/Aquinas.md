@@ -1,2 +1,0 @@
-- Reciprocity of the virtues - each virtue requires each of the others
-- The Naturalism is true
