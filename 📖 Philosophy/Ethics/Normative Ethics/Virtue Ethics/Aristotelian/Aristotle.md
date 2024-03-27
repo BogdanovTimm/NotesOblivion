@@ -60,4 +60,4 @@
 - Pleasure has a non-instrumental value, but its non-instrumental value depends on the activity by which it was taken
 - Temperance is an abstention from wrong pleasures
 - Vicious action for the sake of pleasures
-- Virtuous person acts for the sake of good actions themselves
+- Virtuous person acts for the sake of good actions themselves,based on evaluative belief
