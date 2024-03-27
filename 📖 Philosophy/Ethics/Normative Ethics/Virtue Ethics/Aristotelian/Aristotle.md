@@ -59,3 +59,5 @@
 - Virtue is a state (hexis) rather than a feeling, because virtue is praiseworthy (1105b31), whereas simply having a certain kind of feeling is not praiseworthy. Aristotle seems to suggest that simply having a feeling concentrated on the right object is not suff i cient for being praiseworthy. Virtue of character is a state that elects, consisting in a mean determined by reason, and by the reason by which the prudent person would determine it.
 - Pleasure has a non-instrumental value, but its non-instrumental value depends on the activity by which it was taken
 - Temperance is an abstention from wrong pleasures
+- Vicious action for the sake of pleasures
+- Virtuous person acts for the sake of good actions themselves
