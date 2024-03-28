@@ -1,0 +1,1 @@
+- For the scholastics, the will is precisely a rational desire, in the sense that it is an activity of the rational soul, which possesses in itself a desiring faculty distinct from the irrational desiring faculty—an idea totally foreign to Aristotle’
