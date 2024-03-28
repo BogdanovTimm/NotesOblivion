@@ -1,0 +1,1 @@
+- Rationalism (virtue = to be guided by praxtical reason) is true
