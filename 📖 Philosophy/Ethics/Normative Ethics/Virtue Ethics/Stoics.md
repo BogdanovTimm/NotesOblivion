@@ -5,3 +5,4 @@
 - Virtue = Rational Control => Virtue is non-Instrumentally Good.
 - Knowledge is sufficient for acting
 - The Naturalism is true. Human functionis to be guided by practical reason
+- Concept of assent
