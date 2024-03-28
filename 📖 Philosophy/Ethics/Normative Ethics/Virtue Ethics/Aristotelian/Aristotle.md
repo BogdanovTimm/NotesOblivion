@@ -61,4 +61,5 @@
 - Temperance is an abstention from wrong pleasures
 - Vicious action for the sake of pleasures
 - Virtuous person acts for the sake of good actions themselves,based on evaluative judgement
+- happiness is not only comprehensive (includes every non-instrumental good), but also composite (including these various goods as its parts)
 - In that case the claim that we choose justice for its own sake does not conf l ict with the claim that we choose it for the sake of happiness; on the contrary, each claim partly explains the other
