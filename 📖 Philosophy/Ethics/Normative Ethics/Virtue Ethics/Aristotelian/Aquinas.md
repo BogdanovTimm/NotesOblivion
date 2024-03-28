@@ -2,3 +2,4 @@
 - Reciprocity of the virtues - each virtue requires each of the others
 - The Naturalism is true. Human functionis to be guided by practical reason
 - Aquinas marks three aspects of natural law, corresponding to three elements of human nature
+- concept of consent
