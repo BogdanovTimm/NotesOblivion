@@ -63,3 +63,4 @@
 - Virtuous person acts for the sake of good actions themselves,based on evaluative judgement
 - happiness is not only comprehensive (includes every non-instrumental good), but also composite (including these various goods as its parts)
 - In that case the claim that we choose justice for its own sake does not conf l ict with the claim that we choose it for the sake of happiness; on the contrary, each claim partly explains the other. For choosing justice as a means to happibess may be a way of choosing justice as an end in itself, not as purely instrumental to happiness, because happiness is a sum of all non-instrumented goods
+- Praxis = non-instrumental action chosen for its own sake.
