@@ -63,4 +63,5 @@
 - Virtuous person acts for the sake of good actions themselves,based on evaluative judgement
 - happiness is not only comprehensive (includes every non-instrumental good), but also composite (including these various goods as its parts)
 - In that case the claim that we choose justice for its own sake does not conf l ict with the claim that we choose it for the sake of happiness; on the contrary, each claim partly explains the other. For choosing justice as a means to happibess may be a way of choosing justice as an end in itself, not as purely instrumental to happiness, because happiness is a sum of all non-instrumented goods
-- Praxis = non-instrumental action chosen for its own sake.
+- Praxis = non-instrumental action chosen for its own sake
+- Deliberation is not about ends, in so far as it must begin with some end in view; the means that deliberation f i nds to promote that f i rst end is an end in itself, if deliberation f i nds that it is a component of the f i rst end. Moral deliberation begins with some conception of happiness, and deliberates until we f i nd the states of character that are components of happiness. If we deliberate correctly, we f i nd the moral virtues, and we elect these for their own sakes.
