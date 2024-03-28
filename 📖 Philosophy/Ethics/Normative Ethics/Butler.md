@@ -2,3 +2,4 @@
 - Rejects the supremacy of reasons based on one’s own good for being moral
 - argument Butler urges against Hobbes: the claim that we do everything as a means to our own satisfaction does not explain why we find our satisfaction where we do; contrary to the egoist view, our finding satisfaction in getting x presupposes a desire for x itself, which explains why we get the satisfaction in x rather than y.
 - Holistic Naturalism (Human nature os a system of some tendencies of people. But not all tendencies are part of human nature) is true
+- The Naturalism is true. Human functionis to be guided by practical reason
