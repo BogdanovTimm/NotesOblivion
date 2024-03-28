@@ -1,0 +1,1 @@
+- ignorance and inattention normally regarded as culpable actually result from one’s appearance of the good; since we cannot control this appearance, we cannot be held responsible for the results of acting on it
