@@ -1,1 +1,2 @@
 - Moral terms can't be reduced to non-moral ones
+- Rationalism (virtue = to be guided by praxtical reason) is true
