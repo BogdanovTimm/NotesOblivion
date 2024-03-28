@@ -4,4 +4,4 @@
 - Rational Control is non-Instrumentally Good
 - Virtue = Rational Control => Virtue is non-Instrumentally Good.
 - Knowledge is sufficient for acting
-- Naturalism is true
+- The Naturalism is true. Human functionis to be guided by practical reason
