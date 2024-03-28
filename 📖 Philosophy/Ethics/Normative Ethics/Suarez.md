@@ -1,1 +1,1 @@
-- The Naturalism is true
+- The Naturalism is true. Human functionis to be guided by practical reason
