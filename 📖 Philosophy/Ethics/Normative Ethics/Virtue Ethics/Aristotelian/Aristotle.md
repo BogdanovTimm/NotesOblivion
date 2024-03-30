@@ -80,3 +80,4 @@ Wish = desire that is not formed under the stimulus of some immediate pain, need
 - But my preference for F expresses my values (principles) if it is false that equal satisfaction of my preference for G would by itself make the replacement unobjectionable to me.
 - The vicious person regards advantage as the only concern of practical reason, since he believes that his inclinations are beyond rational criticism, so that practical reason can only serve his inclinations.
 - To elect is to choose on the basis of one’s conception of happiness; to elect something because it is f i ne is to choose it for itself because of its value apart from one’s own inclinations.
+- Vicious man does not have a self-love (actually, self-satisfaction), for his previous actions can't give him satisfaction, because they are only instrumentally valued (for bringing pleasure). In constrast, virtious people may satisfy himself, because his ptevious actions was good.
