@@ -3,3 +3,4 @@
 - Rejects the supremacy of reasons based on one’s own good for being moral
 - Holistic Naturalism (Human nature os a system of some tendencies of people. But not all tendencies are part of human nature) is false. Hume does not believe that all claims about human nature must be excluded from moral philosophy, but he rejects the naturalist position that we have outlined. Everything whar people do is a human's nature
 - Hume anticipates many of Nietzsche’s alleged ‘insights’; he attacks emphasis on ‘morality’ and responsibility without even knowing about Kant, who is a primary target of Nietzsche, MacIntyre, and Williams.
+- Virtues of character are sufficient to be virtuous
