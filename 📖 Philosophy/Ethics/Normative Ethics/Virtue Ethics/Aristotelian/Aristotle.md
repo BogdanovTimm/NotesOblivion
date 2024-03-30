@@ -84,4 +84,6 @@ Wish = desire that is not formed under the stimulus of some immediate pain, need
 - Vice expresses the incorrect election that embodies the agreement of the rational and non-rational parts under the local control of the rational part, but the global control of the non-rational part.
 - the agent’s being virtuous explains the act’s being right, and the reverse is not true.
 - the action may be temperate, just and so on, even if the agent is not virtuous
-- virtues: bravery, temperance, justice, generosity, magnif i cence, and wit.
+- virtues: bravery, temperance, justice, generosity, magnificence, and wit.
+- Moreover, he insists that we cannot find fixed and exceptionless rules that always allow us to identify virtuous actions in particular situations; we have to be content with things that are usually true
+- Good is whar virtuous person thinks is good
