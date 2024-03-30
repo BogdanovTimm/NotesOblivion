@@ -1,1 +1,2 @@
 - Holistic Naturalism (Human nature os a system of some tendencies of people. But not all tendencies are part of human nature) is false. Hobbes does not believe that all claims about human nature must be excluded from moral philosophy, but he rejects the naturalist position that we have outlined. Everything what people do is a human's nature
+- Virtues of character is sufficient to be virtuous
