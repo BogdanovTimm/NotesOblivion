@@ -87,3 +87,5 @@ Wish = desire that is not formed under the stimulus of some immediate pain, need
 - virtues: bravery, temperance, justice, generosity, magnificence, and wit.
 - Moreover, he insists that we cannot find fixed and exceptionless rules that always allow us to identify virtuous actions in particular situations; we have to be content with things that are usually true
 - Good is whar virtuous person thinks is good
+- He believes that the value of achieving the common good contributes to explaining why the virtuous person wants to promote it,but the value of trying to achieve it is not exhausted by the instrumental value of the tendency of virtue to achieve it.
+To support this claim, Aristotle argues: (1) The appropriate form of rational activity fulf i ls the agent’s function and so promotes the agent’s own happiness. (2) Active concern for the common good is this appropriate form of rational activity. (3) Having this active concern for the common good is having the virtues of character. (4) Hence having the virtues of character promotes the agent’s happiness.
