@@ -81,3 +81,4 @@ Wish = desire that is not formed under the stimulus of some immediate pain, need
 - The vicious person regards advantage as the only concern of practical reason, since he believes that his inclinations are beyond rational criticism, so that practical reason can only serve his inclinations.
 - To elect is to choose on the basis of one’s conception of happiness; to elect something because it is f i ne is to choose it for itself because of its value apart from one’s own inclinations.
 - Vicious man does not have a self-love (actually, self-satisfaction), for his previous actions can't give him satisfaction, because they are only instrumentally valued (for bringing pleasure). In constrast, virtious people may satisfy himself, because his ptevious actions was good.
+- Vice expresses the incorrect election that embodies the agreement of the rational and non-rational parts under the local control of the rational part, but the global control of the non-rational part.
