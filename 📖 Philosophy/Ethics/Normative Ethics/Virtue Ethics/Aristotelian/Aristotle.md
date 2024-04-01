@@ -93,3 +93,4 @@ To support this claim, Aristotle argues: (1) The appropriate form of rational ac
 - general justice completes virtue because we show that we have virtue by using it in our relations to others;
 many people can manage to behave virtuously in what concerns themselves, but fail in their relations to others
 - Aristotle rejects the possibility of a conflict between virtuoues
+- prudence grasps the content of happiness
