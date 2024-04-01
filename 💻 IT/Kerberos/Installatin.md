@@ -39,7 +39,7 @@
      }
     ```
 5. `sudo /usr/sbin/kdb5_util create -s -r ADS-KAFKA.LOCAL -P your_password` - Create **Database** for ADS-KAFKA.LOCAL
-6. `sudo kadmin.local -q "add_principal -pw your_password admin/admin"` - create admin principal
+6. `sudo kadmin.local -q "add_principal -pw your_password username/admin"` - create admin principal
 7. `sudo systemctl restart krb5kdc`
 8. `sudo systemctl restart kadmin`
 9. `sudo systemctl status krb5kdc`

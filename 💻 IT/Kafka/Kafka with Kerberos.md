@@ -18,7 +18,7 @@
     };
     ```
     Make sure the keytabs configured in the JAAS file are readable by the operating system user who is starting the Kafka broker.
-3. Create a properties file `/etc/kafka/kafka.properties` with the following contents on each `Kafka_Broker`:
+3. Create a properties file `/etc/kafka/server.properties` with the following contents on each `Kafka_Broker`:
     ```conf
     security.protocol=SASL_SSL                                                      # For interbroker communication. Or SASL_PLAINTEXT if you use http://website.com
     sasl.kerberos.service.name=kafka                                                # [name] from [kafka]/kafka1.hostname.com@REALM.COM from jaas.conf
@@ -33,8 +33,8 @@
     # ssl.truststore.password=password                                              # If [security.protocol] = 'SASL_SSL'
     ```
 4. `export KAFKA_OPTS="-Djava.security.auth.login.config=/etc/kafka/jaas.conf"`
-5. `kafka-topics.sh --topic ^topic_name^ --from-beginning --bootstrap-server ^broker_name^:9092 --consumer.config /etc/kafka/kafka.properties` OR
-    `kafka-topics.sh etc/kafka/server.properties`
+5. `kafka-start-server.sh --topic ^topic_name^ --from-beginning --bootstrap-server ^broker_name^:9092 --consumer.config /etc/kafka/kafka.properties` OR
+    `kafka-start-server.sh etc/kafka/server.properties`
 
 ##                 Zookeeper
 
