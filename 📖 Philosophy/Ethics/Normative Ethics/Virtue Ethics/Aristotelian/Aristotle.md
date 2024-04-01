@@ -94,3 +94,4 @@ To support this claim, Aristotle argues: (1) The appropriate form of rational ac
 many people can manage to behave virtuously in what concerns themselves, but fail in their relations to others
 - Aristotle rejects the possibility of a conflict between virtuoues
 - prudence grasps the content of happiness
+- To claim that an action is just is to claim that it promotes happiness for the political community. To claim that it is f i ne is to claim that it is intrinsically good and praiseworthy. The basis for both these claims is the claim that the action promotes the common good.
