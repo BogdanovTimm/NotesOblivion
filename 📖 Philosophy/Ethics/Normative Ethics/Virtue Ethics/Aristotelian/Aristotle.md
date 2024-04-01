@@ -95,4 +95,5 @@ many people can manage to behave virtuously in what concerns themselves, but fai
 - Aristotle rejects the possibility of a conflict between virtuoues
 - prudence grasps the content of happiness
 - To claim that an action is just is to claim that it promotes happiness for the political community. To claim that it is f i ne is to claim that it is intrinsically good and praiseworthy. The basis for both these claims is the claim that the action promotes the common good.
-- The appropriate regulation of these appetites does not consist simply in preventing them from harming oneself. Aristotle believes that we have reached the mean that constitutes temperance only if we have adjusted our own appetites and pleasures to the interests of others as well as ourselves.
+- Temperance - the appropriate regulation of these appetites does not consist simply in preventing them from harming oneself. Aristotle believes that we have reached the mean that constitutes temperance only if we have adjusted our own appetites and pleasures to the interests of others as well as ourselves.
+- Generocity is a virtue
