@@ -117,3 +117,4 @@ If, then, we are concerned for the other as the person he is, we must try to sat
 - Friendship not only increases situations for practical deliberation, it also increases its complexity and, therefore, makes our lifes even more ruled by reason with friendship
 - Friendness is a virtue. It is when you deliberate about common good. And also when you see that some ends of non-virtuous fellow-citizens aims at the same ends as you
 - If we regard another person’s views about the f i ne and good as worth considering in their own right, we regard that other person as being—to that extent—another self, and we are concerned about him for his own sake.
+- Aristotle's doctrine fits good with the doctrine of a natural law, though he can't know about it
