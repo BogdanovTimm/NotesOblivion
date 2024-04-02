@@ -3,3 +3,4 @@
 - argument Butler urges against Hobbes: the claim that we do everything as a means to our own satisfaction does not explain why we find our satisfaction where we do; contrary to the egoist view, our finding satisfaction in getting x presupposes a desire for x itself, which explains why we get the satisfaction in x rather than y.
 - Holistic Naturalism (Human nature os a system of some tendencies of people. But not all tendencies are part of human nature) is true
 - The Naturalism is true. Human functionis to be guided by practical reason
+- In unself i sh concern A wants to do x for B, simply because B wants x done or because it would be better for B, not because A gains any further benef i t from doing x. A shows this concern for B if A moves to one side to avoid walking over B’s gouty toes, when A has nothing else to gain by doing this. This is the unself i sh sentiment whose reality Butler defend against the psychological egoism of Hobbes
