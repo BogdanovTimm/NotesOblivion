@@ -105,3 +105,4 @@ many people can manage to behave virtuously in what concerns themselves, but fai
 - The references to a common good, to general justice, and to a community suggest that we should attend to Aristotle’s account of friendship, since this is the virtue appropriate to communities, and itself includes the perfection of justice (1155a22–8; 1159b25–1160a8).
 - Aristotle certainly agrees that the happy life must include friendship; and we might expect his defence of friendship to supply a defence of justice and of the moral component of the virtues.
 - If virtue is to be justif i ed by reference to happiness, it must be itself a component of happiness, not merely advantageous as a means to it.
+- Aristotle, however, recognizes three main types of friendship. One aims at pleasure, one at advantage. The third involves goodwill to the other in his own right, and concern for the other for the other’s own sake
