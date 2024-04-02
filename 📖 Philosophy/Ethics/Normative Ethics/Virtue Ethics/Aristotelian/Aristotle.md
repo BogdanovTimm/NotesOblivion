@@ -115,3 +115,4 @@ If, then, we are concerned for the other as the person he is, we must try to sat
 - He denies that we achieve our happiness by f i tting our desires to the opportunities available for fulf i lment; such an attitude is incompatible with his treatment of the virtues concerned with external goods.
 - ¹ A friend is a further source of the sorts of actions that we enjoy and value when they are our own actions. What we f i nd pleasant and valuable in our own actions is the causal relation of our deliberation and choice to them. We enjoy our friend’s actions in the same way, because we have the same sort of causal relation to them. The other self extends our characteristically rational activities.
 - Friendship not only increases situations for practical deliberation, it also increases its complexity and, therefore, makes our lifes even more ruled by reason with friendship
+- Friendness is a virtue. It is when you value non-friends for their own sake
