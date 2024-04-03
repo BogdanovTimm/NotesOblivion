@@ -122,4 +122,5 @@ If, then, we are concerned for the other as the person he is, we must try to sat
 - My argument: friendship is mutual advantageous, because, if you gift your frirnd something instead of buing this for yourself, you both gain some good (e.g. +10 to yout friend and +5 to you), where in second variant only you gain some good (+10 to you)
 - My argument: Atostotle's friendship is non-instrumentally good, because find what ix good is non-instrumentally good, and concern for others conceptions of tge happiness alows you to change your conception of the good
 - Aristotle's approach rejects the completely impartial outlook of both Kantian and utilitarian principles
+- Because we enjoy and value our actions because we participated in them, when we value anothers as another selves and participate in the development of their character, we can enjoy and value their actions as ours 
 - Slavery is OK because of rejecting of impartiality, hooray!
