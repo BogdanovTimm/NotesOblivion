@@ -1,0 +1,4 @@
+- Sceptic
+- Every manaims at tranquillity
+- Because every oosition is equally true - we must suspend from judgement
+- Suspension of judgement = tranquillity
