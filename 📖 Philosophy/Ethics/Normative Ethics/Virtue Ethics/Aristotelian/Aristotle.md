@@ -124,3 +124,4 @@ If, then, we are concerned for the other as the person he is, we must try to sat
 - Aristotle's approach rejects the completely impartial outlook of both Kantian and utilitarian principles
 - Because we enjoy and value our actions because we participated in them, when we value anothers as another selves and participate in the development of their character, we can enjoy and value their actions as ours 
 - Slavery is OK because of rejecting of impartiality, hooray!
+- argue against the inference from variation to the rejection of objective goodness and rightness
