@@ -41,3 +41,4 @@
 - If we have one virtue we have all the virtues
 - Virtue always promotes happiness more than vice does
 - When people mistakes that do this because they take their ends from the non-rational parts of the soul. So, mere thinking of finding the most effective way to achieve ones desirea are not virtuous
+- argue against the inference from variation to the rejection of objective goodness and rightness
