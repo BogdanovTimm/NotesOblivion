@@ -1,0 +1,1 @@
+- The mas is the measure of all things - everything (including ethics) is relational
