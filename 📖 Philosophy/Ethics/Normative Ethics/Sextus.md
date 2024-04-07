@@ -3,3 +3,4 @@
 - Because every oosition is equally true - we must suspend from judgement
 - Suspension of judgement = tranquillity
 - Sextus tries to induce the appearance of equipollence by pointing out conf l icting appearances about questions of conduct (P i 145). If he succeeds, we cannot say what property a given subject has in its nature, but only what property it appears to have in relation to a given way of life, or practice, or law (163). This is one of the ‘tropes’ (or ‘modes’) of argument that lead us to suspend judgment about ‘the nature of external subjects’
+- Sextus does not claim that Sceptics are completely free of disturbance. They are liable to desires and passions that do not depend on the belief that something is good or bad.
