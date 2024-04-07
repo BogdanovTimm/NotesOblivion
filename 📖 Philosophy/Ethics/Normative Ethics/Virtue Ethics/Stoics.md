@@ -7,3 +7,4 @@
 - The Naturalism is true. Human functionis to be guided by practical reason
 - Concept of assent
 - We will accept some priority in justif i cation if we take virtuous actions to be justif i ed primarily as the product of virtues, and do not take virtues to be justif i ed primarily as the source of virtuous actions. But this claim about priority seems to be open to objection. If we have no independent reason to care about the actions resulting from the virtues, but we claim that the virtues are organized for the production of these actions, what reason have we to value the virtues? Critics of the Stoics often raise this objection
+- Pain is not bad at all
