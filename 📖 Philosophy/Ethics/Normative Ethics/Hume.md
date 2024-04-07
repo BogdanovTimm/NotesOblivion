@@ -5,3 +5,4 @@
 - Hume anticipates many of Nietzsche’s alleged ‘insights’; he attacks emphasis on ‘morality’ and responsibility without even knowing about Kant, who is a primary target of Nietzsche, MacIntyre, and Williams.
 - Virtues of character are sufficient to be virtuous
 - In unself i sh concern A wants to do x for B, simply because B wants x done or because it would be better for B, not because A gains any further benef i t from doing x. A shows this concern for B if A moves to one side to avoid walking over B’s gouty toes, when A has nothing else to gain by doing this. This is the unself i sh sentiment whose reality Hume (e.g.) defend against the psychological egoism of Hobbes
+- In his view, the difference between simply entertaining a proposition and believing it consists in the degree of vividness with which you entertain it; it is an introspectible property of the idea itself.
