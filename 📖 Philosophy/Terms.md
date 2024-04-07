@@ -1,0 +1,3 @@
+- Intrinsic = non-relational.
+- Relational - properties that changes relative to something. That does not mean that they are not objective!
+- Objective - properties that object real has
