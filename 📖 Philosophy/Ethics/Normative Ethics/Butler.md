@@ -4,3 +4,4 @@
 - Holistic Naturalism (Human nature os a system of some tendencies of people. But not all tendencies are part of human nature) is true
 - The Naturalism is true. Human functionis to be guided by practical reason
 - In unself i sh concern A wants to do x for B, simply because B wants x done or because it would be better for B, not because A gains any further benef i t from doing x. A shows this concern for B if A moves to one side to avoid walking over B’s gouty toes, when A has nothing else to gain by doing this. This is the unself i sh sentiment whose reality Butler defend against the psychological egoism of Hobbes
+- Butler distinguishes the respect in which illness and health are equally natural from the respect in which health is more natural than illness.
