@@ -1,1 +1,2 @@
 - Perhaps Lucretius appeals to our experience of not being compelled when we make up our minds and act that argues for free will
+- Developes Epicurus' argument about fear of death: Lucretius suggests that because we do not know the cause of the weight on our minds, we try to relieve it with ineffective remedies. We try to escape ourselves and we hate ourselves, because we do not know what is the matter with us. Even though we form and act on unnecessary appetites, they do not remove the weight on our minds, because they cannot remove our underlying fear of death
