@@ -1,8 +1,9 @@
-- Tgere are 2 affections: pain (a rough motion) and pleasure (a smooth motion)
+- There are 2 affections: pain (a rough motion) and pleasure (a smooth motion)
 - One pleasure is not different from another, nor is one at all pleasanter than another. 
 - One affection is welcome, and the other repellent, to all animals
 - bodily pleasure that they take to be the end is not the static pleasure following on the removal of pains — a sort of undisturbed condition, which Epicurus accepts and takes to be the end
 - They reject eudaemonism (that happiness is the final good), because happiness as the collection of pleasures does not exist (or, at least it existense is on doubt)
-- They are sceptics abiut external world because of conflicting facts: I think the taste if this drink is bitter, you think the taste is sweet - then, the taste of the drink cannit be either bitter or sweet
+- They are sceptics about external world because of conflicting facts: I think the taste if this drink is bitter, you think the taste is sweet - then, the taste of the drink cannit be either bitter or sweet
 - Only current pleasure is a non-instrumental good
 - Eudaemonism is false
+- The Cyrenaics agree with this scepticism about the senses, but deny that rational argument independent of the senses can justify a non-sceptical conclusion; hence they remain sceptics
