@@ -31,6 +31,7 @@
     - Static:
         - freedom from pain
         - tranquillity
+- Desires that are neither natural nor necessary are entirely the product of empty belief; we believe we need something that corresponds not at all to our natural needs, but is simply the product of conventional and mistaken views about goods. These desires include the desire for honour and reputation. We don't need them
 
 # Weaknesses
 
