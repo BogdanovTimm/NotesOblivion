@@ -11,3 +11,4 @@
 - He denies the Cyrenaic view that a defence of hedonism conflicts with ordinary beliefs about the value of happiness and the rationality of the moral virtues.
 - Epicurus agrees with Cynics' view that happiness depends on adapting one’s desires to circumstances rather than in the accumulation of the most intense sensations of pleasure. Epicurean sages, no less than Cynic sages, are independent of external conditions and can find their happiness in conditions that are in their power.
 - Arguments for the version of determinism that excludes freedom (‘hard’ determinism) are unsound
+- Empiricism is true
