@@ -1,0 +1,1 @@
+- Perhaps Lucretius appeals to our experience of not being compelled when we make up our minds and act that argues for free will
