@@ -1,0 +1,1 @@
+- Alexander defends an indeterminist account of Aristotle without appeal to any swerve; he accepts Epicurean arguments against determinism, believing that Aristotle’s arguments against the compatibility of universal necessity and responsibility also demonstrate the incompatibility of determinism with responsibility.
