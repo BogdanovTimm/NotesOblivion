@@ -1,0 +1,1 @@
+- Plutarch attacks Colotes the Epicurean for attacking Cyrenaic doctrines to which the Epicureans are also committed.³ Though Epicurus thinks he can accept the veracity of the senses without having to fall into Cyrenaic sceptical extremes, he concedes the crucial points (according to Plutarch) to the Cyrenaics.
