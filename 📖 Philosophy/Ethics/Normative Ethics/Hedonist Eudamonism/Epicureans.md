@@ -21,4 +21,6 @@
 - Common beliefes exclude Hedonism
 - Common beliefes can't be our starting point in the ethical inquery
 - It is up to us to live as we choose and that we can affect our lives by deliberate decision and action
-- Determinism excludes free will
+-Free will = when originof my action starts in me
+- Compatibilism is false, because if some external past events are sufficient to my actions - they are necesseey for my actions and since I am not free
+- We muat reject incompatibilism, because
