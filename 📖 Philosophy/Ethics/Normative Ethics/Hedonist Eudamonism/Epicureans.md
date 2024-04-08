@@ -34,6 +34,8 @@
 - Desires that are neither natural nor necessary are entirely the product of empty belief; we believe we need something that corresponds not at all to our natural needs, but is simply the product of conventional and mistaken views about goods. These desires include the desire for honour and reputation. We don't need them
 - Epicurus believes it is useful to distinguish these types of desires and the corresponding pleasures, in order to show that a hedonist need not pursue Calliclean pleasures, which result in ever-expanding appetites and demand ever-expanding resources
 - With appropriate training we can make our natural and necessary desires moderate and easy to satisfy
+- There are no life after death
+- Unless we know that we do not exist after death, we cannot enjoy pleasures unmixed with pain, since they will always be mixed with anxiety about death.
 
 # Weaknesses
 
