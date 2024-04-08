@@ -12,3 +12,4 @@
 - Criticise Skeptics: When they say that the Sceptic will be inactive, they do not mean that he will be immobile, or that he will lack goal-directed behaviour. They mean that his goal-directed behaviour will not be rational action.
 - Determinism is true. In one of the Stoics’ examples, the action of felling the oak on Mount Pelion is suff i cient, in a deterministic universe, for Medea’s killing of her children.
 - They are compatibilist aka soft determinists - determinism is compatible with free will
+- They criticise Epicurus' argument against determinism by claiming that causes are more complex
