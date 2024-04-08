@@ -9,3 +9,4 @@
 - Atomist view of the world, with its denial of life after death, secures peace of mind and freedom from anxiety, and so ought to be adopted on hedonist grounds.
 - Epicurus believes that reliance on the senses justif i es a non-sceptical conclusion about the external world and acceptance of the atomic theory; we do not need to abandon empiricism for rationalism in order to accept atomism.
 - He denies the Cyrenaic view that a defence of hedonism conflicts with ordinary beliefs about the value of happiness and the rationality of the moral virtues.
+- Epicurus agrees with Cynics' view that happiness depends on adapting one’s desires to circumstances rather than in the accumulation of the most intense sensations of pleasure. Epicurean sages, no less than Cynic sages, are independent of external conditions and can find their happiness in conditions that are in their power.
