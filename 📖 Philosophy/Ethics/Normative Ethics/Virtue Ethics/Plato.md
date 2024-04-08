@@ -44,3 +44,4 @@
 - argue against the inference from variation to the rejection of objective goodness and rightness
 - Moral judgements are objective
 - Hedonism and moral virtues are incompatible
+- Hedonism is false
