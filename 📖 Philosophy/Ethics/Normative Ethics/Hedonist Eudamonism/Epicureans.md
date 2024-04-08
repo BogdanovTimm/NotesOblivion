@@ -40,3 +40,4 @@
 # Weaknesses
 
 - The introduction of uncaused changes seems to imply that my character and my previous choices have no regular and reliable casual connexions to my current deliberation and choice.
+- We might regard this as an objection to his theory, if it implies that death is not bad; for surely (we might reply) death is manifestly bad, and a theory that denies this has gone wrong somewhere
