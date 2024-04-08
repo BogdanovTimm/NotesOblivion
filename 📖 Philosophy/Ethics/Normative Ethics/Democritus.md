@@ -1,2 +1,3 @@
 - Hedonism is true
 - Atomistic theory is true
+- Democritus defends atomism by taking a sceptical attitude to the capacity of the senses to tell us about an external world; so, rationalism is true (empiricism is false)
