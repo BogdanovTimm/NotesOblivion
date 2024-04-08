@@ -30,3 +30,13 @@ If you want for program to look for your formats first, then write:
 ```SAS
 OPTIONS FMTSEARCH = (user_defined_formats_schema work library);
 ```
+
+#                  Check SAS DATE
+
+```SAS
+DATA _NULL_;
+    date = 23467;          /* SAS date format                 */
+	FORMAT date YYMMDD10.; /* Human-readable format           */
+	PUT date;              /* It will be written on a line 38 */
+RUN;
+```
