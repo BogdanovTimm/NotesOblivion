@@ -9,3 +9,4 @@
 - The Cyrenaics agree with this scepticism about the senses, but deny that rational argument independent of the senses can justify a non-sceptical conclusion; hence they remain sceptics
 - Aristippus was Cyrenaics
 - Hedonism and moral virtues are incompatible
+- Skepticism about external objects
