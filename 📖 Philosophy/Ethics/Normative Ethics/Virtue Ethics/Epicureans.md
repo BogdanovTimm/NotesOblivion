@@ -4,4 +4,5 @@
 - You can tune up your desires
 - Virtuous people are happy precisely because they adapt themselves to smaller or larger external resources; they neither refuse to enjoy abundance nor regret scarcity.
 - undisturbed condition is the end
-- Virtues has only non-instrumental value
+- Virtues has only non-instrumental valu
+- atomist view of the world, with its denial of life after death, secures peace of mind and freedom from anxiety, and so ought to be adopted on hedonist grounds.
