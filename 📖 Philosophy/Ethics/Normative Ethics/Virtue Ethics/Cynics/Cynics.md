@@ -2,3 +2,4 @@
 - sort of existentialist who refuses to make moral values responsive to objective facts.bBut it is not simply a modern picture of Socrates. The Cynics may have understood him in the same way, by taking integrity and consistency to extremes.⁴¹ According to this view, the virtuous person is not the one who has grasped all the relevant reason-giving facts about ends, but the one who sticks consistently to his choice of ends in his choice of actions. Ordinary people fall short of virtue because they are inconsistent, half-hearted, compromising, and vacillating in their choices and decisions.
 - Pain is not bad at all; pleasure is not good at all
 - Hedonism and moral virtues are incompatible
+- It is up to us to live as we choose and that we can affect our lives by deliberate decision and action
