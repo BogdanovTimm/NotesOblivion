@@ -25,3 +25,4 @@
 - Compatibilism is false, because if some external past events are sufficient to my actions - they are necesseey for my actions and since I am not free
 - Incompatibilism is false, because if some external past events determine our beliefs - then we hold our beliefs not because they true, but because we are forced by external power. So, incompatibilism may be true, but there is no good reason to belief in it
 - Indeterminism is teue
+- He secures the falsity of determinism by arguing that our atoms swerve indeterministically, and that therefore our choice and action are undetermined. Since the swerve breaks the deterministic sequence, the origin of my action is in me and nowhere else
