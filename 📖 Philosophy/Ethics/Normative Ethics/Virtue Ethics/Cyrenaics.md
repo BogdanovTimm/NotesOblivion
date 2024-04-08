@@ -7,3 +7,4 @@
 - Only current pleasure is a non-instrumental good
 - Eudaemonism is false
 - The Cyrenaics agree with this scepticism about the senses, but deny that rational argument independent of the senses can justify a non-sceptical conclusion; hence they remain sceptics
+- Aristippus was Cyrenaics
