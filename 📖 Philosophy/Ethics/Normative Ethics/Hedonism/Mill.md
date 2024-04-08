@@ -1,0 +1,2 @@
+- Hedonism compatible with commo beliefs
+- Hedonism explains common beliefs
