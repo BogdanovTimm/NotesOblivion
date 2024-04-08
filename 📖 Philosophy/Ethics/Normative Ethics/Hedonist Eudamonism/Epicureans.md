@@ -21,6 +21,7 @@
 - Common beliefes exclude Hedonism
 - Common beliefes can't be our starting point in the ethical inquery
 - It is up to us to live as we choose and that we can affect our lives by deliberate decision and action
--Free will = when originof my action starts in me
+-Free will = when origin of my action starts in me
 - Compatibilism is false, because if some external past events are sufficient to my actions - they are necesseey for my actions and since I am not free
 - Incompatibilism is false, because if some external past events determine our beliefs - then we hold our beliefs not because they true, but because we are forced by external power. So, incompatibilism may be true, but there is no good reason to belief in it
+- Indeterminism is teue
