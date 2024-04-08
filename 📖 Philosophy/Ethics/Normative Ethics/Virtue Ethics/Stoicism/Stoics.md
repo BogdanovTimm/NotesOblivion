@@ -10,4 +10,4 @@
 - Pain is not bad at all
 - Stoics, like Skeptics, value tranquillity, but while Skeptics say that every tranquillity is happiness, stoics think that only proper tranquillity, achieved by a proper way, is the happiness
 - Criticise Skeptics: When they say that the Sceptic will be inactive, they do not mean that he will be immobile, or that he will lack goal-directed behaviour. They mean that his goal-directed behaviour will not be rational action.
-- Determinism is true
+- Determinism is true. In one of the Stoics’ examples, the action of felling the oak on Mount Pelion is suff i cient, in a deterministic universe, for Medea’s killing of her children.
