@@ -1,2 +1,3 @@
-- Hedonism compatible with commo beliefs
+- Hedonism compatible with common beliefs
 - Hedonism explains common beliefs
+- If virtuous people will be punishedbin afteelife, we would face a conflict between morality and self-interest. Mill claims that in the face of such a conflict, he would choose morality and face eternal punishment for it
