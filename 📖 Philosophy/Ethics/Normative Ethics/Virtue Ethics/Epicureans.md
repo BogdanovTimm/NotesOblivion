@@ -7,3 +7,4 @@
 - Virtues has only non-instrumental valu
 - Hedonism is true
 - Atomist view of the world, with its denial of life after death, secures peace of mind and freedom from anxiety, and so ought to be adopted on hedonist grounds.
+- Epicurus believes that reliance on the senses justif i es a non-sceptical conclusion about the external world and acceptance of the atomic theory; we do not need to abandon empiricism for rationalism in order to accept atomism.
