@@ -4,3 +4,4 @@
 - Hedonism and moral virtues are incompatible
 - It is up to us to live as we choose and that we can affect our lives by deliberate decision and action
 - They do not clearly siatinguish whether virtues themselves are happiness (non-instrumental) or they are best instrumental good for happiness
+- Their defence of virtue as the only thing that matters depends on an adaptive conception of happiness and on their claim that virtue secures the appropriate adaptation.
