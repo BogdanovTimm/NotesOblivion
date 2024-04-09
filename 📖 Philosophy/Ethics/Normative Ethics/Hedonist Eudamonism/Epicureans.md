@@ -43,7 +43,8 @@
 - he does not suggest that we ought to reject the pleasures that result from greater material resources (as Cynics do). On the contrary, he argues that if we fit our desires to the circumstances, we can enjoy greater resources and still avoid disappointment if we find ourselves with smaller resources. In all circumstances we have desires that are adapted so as to ensure their satisfaction.
 - he claims that the ultimate end is bodily health and psychic tranquillity, and that we do everything for the sake of these. 
 - Epicurus attacks those, including Aristotle, who claim that the virtues and the f i ne are goods in themselves independently of whether or not they are sources of pleasure
-- Justice is simply the result of an agreement to avoid mutual aggression, ‘to
+- Justice is simply the result of an agreement to avoid mutual aggression
+- As Epicurus says, self-suff i ciency and adaptation do not require us to make do with little if we can have more without danger.
 
 # Weaknesses
 
