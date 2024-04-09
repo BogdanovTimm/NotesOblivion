@@ -29,3 +29,9 @@ Hedonism:
 ## Virtues
 
 ## Moral
+
+# Starting point
+
+- Empiricism - our senses:
+    - our senses of pleasure
+- Dialectic - common beliefs
