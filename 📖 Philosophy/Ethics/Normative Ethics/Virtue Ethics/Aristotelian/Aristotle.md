@@ -131,3 +131,4 @@ Hence we do not show that wealth is not a good if we f i nd that it harms some p
 - But if Aristotle admits all this, does he make the idea of natural justice practically irrelevant for most people in most circumstances? This conclusion does not follow. Even if we cannot adopt a just constitution overnight, we should prefer changes that bring us closer to suitable conditions for the just constitution over changes that take us further away from these conditions. Similarly, an unhealthy or unjust person should prefer changes that bring him closer to being healthy or just, so that he can benef i t from things that are naturally good for human beings.
 - Aristotle insists that some actions that people choose to do are so bad that no plea of compulsion could excuse us
 - Hedonism is false
+- Aristotle differs between bad and good pleasures
