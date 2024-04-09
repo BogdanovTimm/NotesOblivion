@@ -16,3 +16,4 @@
 - The growth of non-instrumental concern for practical reason is a result of the instrumental use of practical reason
 - The three major Stoics are Zeno, Cleanthes, and Chrysippus
 - Still, even though health is not good and illness is not bad, we have good reason to try to be healthy rather than ill. That is why health is a ‘preferred’ indifferent, and illness is a ‘non-preferred’ indifferent.
+- The Stoics recognize an ultimate end for rational action, and they follow Aristotle in identifying the end with happiness.¹¹ They also agree with Aristotle in taking happiness to include all and only genuine goods; for they take their claim that ‘only the f i ne is good’ to be equivalent to the claim that virtue is self-suff i cient for happiness
