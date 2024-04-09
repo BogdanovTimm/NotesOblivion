@@ -11,11 +11,11 @@
 ## Happiness
 
 Happiness (eudamonia) - set of all goods:
-    - Adaptive Conception of Happiness - only non-instrumental goods are fullfilled desires
-    - Hedonistic Eudamonism:
-        - set of goods consists of maximum sum of pleasures
-        - set of goods consists of freedom from pain
-    - Aristotelian - life in accordance with human nature
+- Adaptive Conception of Happiness - only non-instrumental goods are fullfilled desires
+- Hedonistic Eudamonism:
+    - set of goods consists of maximum sum of pleasures
+    - set of goods consists of freedom from pain
+- Aristotelian - life in accordance with human nature
 
 ## Pleasure
 
