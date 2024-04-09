@@ -1,3 +1,4 @@
 - Hedonism compatible with common beliefs
 - Hedonism explains common beliefs
 - If virtuous people will be punishedbin afteelife, we would face a conflict between morality and self-interest. Mill claims that in the face of such a conflict, he would choose morality and face eternal punishment for it
+- non-instrumental concern is compatible with hedonism. The previous association between a place or an activity or a person and instrumental benef i t leading to pleasure causes us to form a non-instrumental preference. This is how Mill explains the outlook of a miser who comes to care about money for its own sake, or the music-lover who comes to care about music for its own sake after having cared about it only for the sake of instrumental benefits
