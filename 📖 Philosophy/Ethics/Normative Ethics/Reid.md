@@ -1,0 +1,1 @@
+- Non-instrumental and overriding value of morality are true
