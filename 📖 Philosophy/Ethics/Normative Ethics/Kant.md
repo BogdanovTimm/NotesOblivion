@@ -1,2 +1,3 @@
 - Kant uses a counterfactual argument somewhat similar to Plato’s to argue that agents lack a good will and that their actions lack moral worth if they choose to do what duty requires for the sake of its good consequences. He concludes that we have a good will only if we choose ‘duty for duty’s sake’, so that we choose what is morally required precisely because it is morally required and not because of some further aspect of it that is not essential to its being morally required
 - Rejects the supremacy of reasons based on one’s own good for being moral
+- Non-eudamonism moralism is true: happiness is not needed for a sufficient justification of virtue.
