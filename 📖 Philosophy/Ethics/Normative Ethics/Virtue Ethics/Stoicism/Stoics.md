@@ -15,3 +15,4 @@
 - They criticise Epicurus' argument against determinism by claiming that causes are more complex
 - The growth of non-instrumental concern for practical reason is a result of the instrumental use of practical reason
 - The three major Stoics are Zeno, Cleanthes, and Chrysippus
+- Still, even though health is not good and illness is not bad, we have good reason to try to be healthy rather than ill. That is why health is a ‘preferred’ indifferent, and illness is a ‘non-preferred’ indifferent.
