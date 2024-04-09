@@ -45,6 +45,7 @@
 - Epicurus attacks those, including Aristotle, who claim that the virtues and the f i ne are goods in themselves independently of whether or not they are sources of pleasure
 - Justice is simply the result of an agreement to avoid mutual aggression
 - As Epicurus says, self-suff i ciency and adaptation do not require us to make do with little if we can have more without danger.
+- denies that in Epicurean friendship we come to care about the good of the other for the other’s own sake. To form this concern we would have to believe that the good of the other is non-instrumentally good. But since that would be a non-instrumental good other than pleasure, it is not open to a consistent Epicurean. The Epicurean enjoys the company of his friend because it yields pleasures that he values independently of caring about the interests of the friend. This view, then, admits that Epicurus cannot accept the best kind of Aristotelian friendship, but argues that this is no loss. In valuing concern for the other for the other’s own sake, we are victims of empty belief, because we do not recognize the essential aspects of friendship on a hedonist basis (F i 66). To gain the security that we value in friendship, we must love our friends equally with ourselves.⁶⁸ That is why we are pleased by the pleasures of our friends, just as we are by our own, and suffer in their sufferings. But this equality does not imply that we are concerned non-instrumentally for our friends.
 
 # Weaknesses
 
