@@ -132,3 +132,4 @@ Hence we do not show that wealth is not a good if we f i nd that it harms some p
 - Aristotle insists that some actions that people choose to do are so bad that no plea of compulsion could excuse us
 - Hedonism is false
 - Aristotle differs between bad and good pleasures
+- Aristotle regard external, non-moral goods (health, physical safety, freedom from pain, etc.) as components of happiness that are not infallibly secured by virtue
