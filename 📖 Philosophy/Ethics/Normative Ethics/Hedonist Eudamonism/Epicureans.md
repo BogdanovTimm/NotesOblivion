@@ -38,6 +38,7 @@
 - Unless we know that we do not exist after death, we cannot enjoy pleasures unmixed with pain, since they will always be mixed with anxiety about death.
 - tranquillity is our ultimate end. Epicurus seems to argue that we pursue kinetic pleasure as a result of the appetite and pain that we remove by the pleasure, and in order to remove that appetite and pain. If, then, we could be free of the appetite and pain, and were conscious of this freedom, we would already have reached the state that we try to reach through our pursuit of kinetic pleasure. Moreover, we are better off if we are free of appetite and pain in the f i rst place than if we remove them through kinetic pleasure; for in the f i rst case we never suffer the pain that we suffer in the second case; we have the positive state of freedom from pain without having to go through pain and appetite to reach it.
 - adaptive conception of happiness is true
+- he does not suggest that we ought to reject the pleasures that result from greater material resources (as Cynics do). On the contrary, he argues that if we fit our desires to the circumstances, we can enjoy greater resources and still avoid disappointment if we find ourselves with smaller resources. In all circumstances we have desires that are adapted so as to ensure their satisfaction.
 
 # Weaknesses
 
