@@ -13,3 +13,4 @@
 - Determinism is true. In one of the Stoics’ examples, the action of felling the oak on Mount Pelion is suff i cient, in a deterministic universe, for Medea’s killing of her children.
 - They are compatibilist aka soft determinists - determinism is compatible with free will
 - They criticise Epicurus' argument against determinism by claiming that causes are more complex
+- The growth of non-instrumental concern for practical reason is a result of the instrumental use of practical reason
