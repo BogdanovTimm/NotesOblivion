@@ -42,6 +42,7 @@
     - An alternative view makes hedonism subordinate to an adaptive conception. Pleasure is worth pursuing because we have natural appetites that are satisf i ed by pleasures that remove our pains. The goodness of the pleasure, however, consists not in the fact that it is pleasure, but in the fact that it satisf i es our desires. The satisfaction of desire is the ultimate good, and the adaptive strategy secures that. It also secures a moderate quantity of pleasure, but that ref l ects the fact that our desires aim at pleasure, not an essential element of the good.
 - he does not suggest that we ought to reject the pleasures that result from greater material resources (as Cynics do). On the contrary, he argues that if we fit our desires to the circumstances, we can enjoy greater resources and still avoid disappointment if we find ourselves with smaller resources. In all circumstances we have desires that are adapted so as to ensure their satisfaction.
 - he claims that the ultimate end is bodily health and psychic tranquillity, and that we do everything for the sake of these. 
+- Epicurus attacks those, including Aristotle, who claim that the virtues and the f i ne are goods in themselves independently of whether or not they are sources of pleasure
 
 # Weaknesses
 
