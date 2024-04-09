@@ -1,3 +1,3 @@
 - Naturalism is false
 - Rationalism (virtue = to be guided by praxtical reason) is true
-- Non-eudamonism moralism is true
+- Non-eudamonism moralism is true: happiness is not needed for a sufficient justification of virtue.
