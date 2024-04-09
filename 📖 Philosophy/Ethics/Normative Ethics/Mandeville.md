@@ -1,1 +1,2 @@
 - Tries to find why we have our moral beliefs
+- Anti-eudaemonism: we value virtue appropriately only if we do not regard it as a part of, or a means to, our happiness
