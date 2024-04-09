@@ -20,7 +20,7 @@ Happiness (eudamonia) - set of all goods:
 ## Pleasure
 
 Hedonism:
-    - current pleasures
+- current pleasures
 
 ## Virtues
 
