@@ -17,9 +17,13 @@ Happiness (eudamonia) - set of all goods:
     - set of goods consists of freedom from pain
 - Aristotelian - life in accordance with human nature
 
+## Virtues, being moral and happiness
+
+Eudamonism - we have reason to value virtue and virtuous action as non-instrumentally good if and only if we regard them as a part of happiness.
+
 Non-eudamonist - happiness may support being moral, though this certainly is not main reason to be moral.
 
-Anti-eudamonist - virtues MUST not be neans to happiness.
+Anti-eudamonist - virtues MUST not be viewed as means to happiness.
 
 ## Pleasure
 
