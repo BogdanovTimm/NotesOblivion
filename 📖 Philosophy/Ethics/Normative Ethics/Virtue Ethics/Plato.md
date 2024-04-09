@@ -46,3 +46,4 @@
 - Hedonism and moral virtues are incompatible
 - Common believes exclude hedonism
 - Hedonism is false
+- Plato regard external, non-moral goods (health, physical safety, freedom from pain, etc.) as components of happiness that are not infallibly secured by virtue.
