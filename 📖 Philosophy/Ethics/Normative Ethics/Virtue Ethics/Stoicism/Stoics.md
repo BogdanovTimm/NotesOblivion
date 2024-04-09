@@ -14,3 +14,4 @@
 - They are compatibilist aka soft determinists - determinism is compatible with free will
 - They criticise Epicurus' argument against determinism by claiming that causes are more complex
 - The growth of non-instrumental concern for practical reason is a result of the instrumental use of practical reason
+- The three major Stoics are Zeno, Cleanthes, and Chrysippus
