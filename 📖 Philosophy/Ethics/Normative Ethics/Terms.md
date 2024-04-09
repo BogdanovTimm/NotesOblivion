@@ -17,8 +17,8 @@ Happiness (eudamonia) - set of all goods:
     - set of goods consists of freedom from pain
 - Aristotelian - life in accordance with human nature
 
-Non-eudamonist - virtues are parallel to happiness
-Anti-eudamonist - virtues requires no happiness
+Non-eudamonist - virtues may be (in second turn) justified as means to happiness
+Anti-eudamonist - virtues MUST not be neans to happiness
 
 ## Pleasure
 
