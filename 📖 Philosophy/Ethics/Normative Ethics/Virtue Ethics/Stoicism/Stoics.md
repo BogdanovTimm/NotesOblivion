@@ -20,3 +20,4 @@
 - They do not endorse the extreme moralist view that the requirements of moral virtue and of rightness require agents to act against their happiness or to act without regard to their happiness
 - They emphasize the coherence and connexion in their philosophy as a whole
 - Prwffered indifferences = external goods
+- The Stoics believe that the universe is governed by a divine providential intelligence, aiming at the good of the whole and of each part.
