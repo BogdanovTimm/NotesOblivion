@@ -6,7 +6,7 @@
     - Internal - in our control
     - External - out of our control
 
-# Goals
+# Final Good
 
 ## Happiness
 
