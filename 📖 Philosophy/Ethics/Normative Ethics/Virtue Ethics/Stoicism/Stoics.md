@@ -21,3 +21,4 @@
 - They emphasize the coherence and connexion in their philosophy as a whole
 - Prwffered indifferences = external goods
 - The Stoics believe that the universe is governed by a divine providential intelligence, aiming at the good of the whole and of each part.
+- The Stoics believe that in promoting the good of the whole we promote our own good
