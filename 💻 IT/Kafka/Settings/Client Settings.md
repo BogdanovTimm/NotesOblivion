@@ -32,3 +32,10 @@
 - `sasl.mechanism=GSSAPI` - for **Kerberos** to work
 - `security.protocol=SASL_PLAINTEXT` - Configure 'SASL_SSL' if TLS/SSL (https) encryption is enabled, otherwise configure 'SASL_PLAINTEXT'
 - `sasl.kerberos.service.name=kafka` - [kafka] from kafka/server.broker.com@KERBEROS.REALM
+
+###                SSL
+
+- `security.protocol=SASL_SSL`
+- `sasl.kerberos.service.name=kafka`
+- `ssl.truststore.location=/path/to/client.truststore.jks`
+- `ssl.truststore.password=password_for_client.truststore.jks`
