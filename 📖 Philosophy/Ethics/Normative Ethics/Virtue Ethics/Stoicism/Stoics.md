@@ -24,3 +24,4 @@
 - The Stoics believe that in promoting the good of the whole we promote our own good
 - My thought: for Stoics, only actions that are in your controll are the one that matters
 - Nothing can harm virtuous man
+- Even before agents are guided by explicit preconceptions, their desires are more than a collection of impulses aimed at unconnected satisfactions. They are linked by a common concern for the agent as a whole, conceived as a continuing self. Though the Stoics agree that agents without explicit reason have no explicit conception of themselves as continuing agents, a non-explicit conception of themselves explains the system and co-ordination in their desires. Once we see this system, we cannot suppose that the pleasure of satisfying particular desires is all that they care about for its own sake.
