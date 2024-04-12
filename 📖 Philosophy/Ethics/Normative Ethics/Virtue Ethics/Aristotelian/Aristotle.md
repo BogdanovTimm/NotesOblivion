@@ -133,3 +133,4 @@ Hence we do not show that wealth is not a good if we f i nd that it harms some p
 - Hedonism is false
 - Aristotle differs between bad and good pleasures
 - Aristotle regard external, non-moral goods (health, physical safety, freedom from pain, etc.) as components of happiness that are not infallibly secured by virtue
+- Aristotle’s account of responsibility is closer to the Stoic position than to Alexander’s.
