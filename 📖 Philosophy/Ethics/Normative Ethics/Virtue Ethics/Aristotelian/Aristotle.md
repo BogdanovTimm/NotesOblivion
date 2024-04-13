@@ -134,3 +134,4 @@ Hence we do not show that wealth is not a good if we f i nd that it harms some p
 - Aristotle differs between bad and good pleasures
 - Aristotle regard external, non-moral goods (health, physical safety, freedom from pain, etc.) as components of happiness that are not infallibly secured by virtue
 - Aristotle’s account of responsibility is closer to the Stoic position than to Alexander’s.
+- Aristotle agrees with the Stoics that external success should not be the aim of someone practising the stochastic crafts of rhetoric, dialectic, and medicine
