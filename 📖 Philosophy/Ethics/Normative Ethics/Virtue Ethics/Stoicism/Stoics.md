@@ -51,3 +51,4 @@ In these cases, my assent to the appearance rests on a judgment about its relati
 - If craftsmen tried to adapt their practice to fit all possible external hazards, they would guess wrongly and come out worse than they would have if they had just aimed at the appropriate exercise of skill in the craft. 
 - The features of the product determine what counts as skill in the craft. The expert’s deliberation requires thought about the objective of the craft; this thought about the objective forms our conception of the end, which is the action that constitutes the best exercise of the craft.
 - The content of the virtues is determined by the natural advantages that they try to secure.
+- In this case as in others, I discover that I value x for itself by f i nding that I prefer x and y together over y without x. If I valued x only as a means to y, I would be satisf i ed if I got y by means of z rather than x (if z is an equally eff i cient means to y).
