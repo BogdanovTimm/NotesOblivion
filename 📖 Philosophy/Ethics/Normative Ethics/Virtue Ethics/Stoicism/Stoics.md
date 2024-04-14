@@ -61,6 +61,7 @@ In these cases, my assent to the appearance rests on a judgment about its relati
 - They insist that the different recognized virtues are possible only for someone who thinks virtue suff i cient for happiness.
 - The good requires living in agreement with nature; virtuous people do this because they live in agreement with reason, which they have naturally come to value most.
 - A second argument maintains that our life is happy if and only if we can be proud of it, and that this is true only if we live finely (iii 28).
+- The Stoics admit that we pursue some of external goods for their own sakes, and they recognize that this pursuit is the natural and reasonable result of conciliation.
 
 # Difficulties
 
