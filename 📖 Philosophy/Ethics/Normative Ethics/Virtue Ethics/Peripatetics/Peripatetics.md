@@ -1,1 +1,2 @@
 - They agree about the place of fine in the virtues
+- They, as well as Greek see a connexion between the fine and the beautiful. We recognize the fine through our conception of beauty, loveliness, fittingness or appropriateness (convenientia), constancy, and order (Cic. Off. i 14).²⁶ We grasp the f i ne by analogy with beauty, recognizing due proportion (summetria) of parts and whole in both cases (Stob. ii 63.1–5). But we do not appreciate the fine in exactly the way we appreciate the beautiful;
