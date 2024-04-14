@@ -51,20 +51,20 @@ In these cases, my assent to the appearance rests on a judgment about its relati
 - Stoics agree with Aristotle in believing that virtuous action is its own end. Though virtue is a stochastic craft, the objective (output) that it pursues is not its end; the end, as Aristotle believes, is virtuous action itself. Virtuous action is the realization of practical reason, and it consists in doing what we reasonably can to secure the natural advantages (external goods that are in accordance with virtuoues):
     ```python
     Non-Stochastic Craft:
-    Good excercise --> Objective
+    Good_excercise --> Objective
     
     
     Stochastic Craft:
-    Good excercise ----v
+    Good_excercise ----v
                       Objective
     Fortune -----------^
     
     
     Virtue as Stochastic craft:
-         .--.
-         |  v
-    Good excercise ----v
-                      Natural advantages
+           .--.
+           |  v
+    Good_excercise ----v
+                      Natural_advantages
     Fortune -----------^
     ```
 - If craftsmen tried to adapt their practice to fit all possible external hazards, they would guess wrongly and come out worse than they would have if they had just aimed at the appropriate exercise of skill in the craft. 
