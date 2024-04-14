@@ -1,0 +1,1 @@
+- Agrees with stoics about that only what is in our control matters
