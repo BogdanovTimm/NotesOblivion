@@ -57,3 +57,4 @@ In these cases, my assent to the appearance rests on a judgment about its relati
 - Since the Stoics are eudaemonists, they believe that if virtue has non-instrumental value, the final good includes virtue as a component.
 - If we take the final good to be unconnected with virtue, and so measure it by our own advantage, and not by f i neness, we cannot consistently cultivate friendship, justice, generosity, or bravery.
 - Any conception of the final good that leaves out f i neness demotes the virtues to a purely instrumental status that conf l icts with the outlook of the virtuous person (Cic. F. ii 35).
+- This belief about the virtues is reasonable because the virtues are manifestations of practical reason.
