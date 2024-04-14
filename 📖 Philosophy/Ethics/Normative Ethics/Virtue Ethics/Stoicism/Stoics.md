@@ -62,6 +62,9 @@ In these cases, my assent to the appearance rests on a judgment about its relati
 - The good requires living in agreement with nature; virtuous people do this because they live in agreement with reason, which they have naturally come to value most.
 - A second argument maintains that our life is happy if and only if we can be proud of it, and that this is true only if we live finely (iii 28).
 - The Stoics admit that we pursue some of external goods for their own sakes, and they recognize that this pursuit is the natural and reasonable result of conciliation.
+- They recognize different sorts of indifferents (external goods):
+    - Pure indifferents give us no reason from any point of view to prefer them. 
+    - The natural advantages that are the initial objects of a creature’s desire are not pure indifferents. Both they and their contraries are indifferent in relation to happiness, since they are neither parts of happiness nor instrumental means
 
 # Difficulties
 
