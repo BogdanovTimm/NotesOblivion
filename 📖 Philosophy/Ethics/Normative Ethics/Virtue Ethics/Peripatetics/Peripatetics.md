@@ -1,1 +1,1 @@
-- They agree about the place of fine in the virtuoues
+- They agree about the place of fine in the virtues
