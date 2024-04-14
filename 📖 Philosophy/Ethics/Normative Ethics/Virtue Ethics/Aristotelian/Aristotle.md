@@ -136,3 +136,4 @@ Hence we do not show that wealth is not a good if we f i nd that it harms some p
 - Aristotle’s account of responsibility is closer to the Stoic position than to Alexander’s.
 - Aristotle agrees with the Stoics that external success should not be the aim of someone practising the stochastic crafts of rhetoric, dialectic, and medicine
 - If craftsmen tried to adapt their practice to fit all possible external hazards, they would guess wrongly and come out worse than they would have if they had just aimed at the appropriate exercise of skill in the craft. 
+- According to Aristotle, craft involves productive reason aiming at ‘production’ (poiˆ esis) that has an end distinct from it; prudence, on the contrary, involves purely practical reason, aiming at ‘action’ (praxis) that has an internal end. For prudence ‘acting well’ (eupraxia) is the end; the wise person sees that the value of the activity does not depend on any end beyond the activity itself.
