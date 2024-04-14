@@ -59,3 +59,4 @@ In these cases, my assent to the appearance rests on a judgment about its relati
 - Any conception of the final good that leaves out f i neness demotes the virtues to a purely instrumental status that conf l icts with the outlook of the virtuous person (Cic. F. ii 35).
 - This belief about the virtues is reasonable because the virtues are manifestations of practical reason.
 - They insist that the different recognized virtues are possible only for someone who thinks virtue suff i cient for happiness.
+- The good requires living in agreement with nature; virtuous people do this because they live in agreement with reason, which they have naturally come to value most.
