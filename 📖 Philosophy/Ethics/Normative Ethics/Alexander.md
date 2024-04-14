@@ -3,3 +3,4 @@
 - the voluntary and the up to us are not the same. For what comes to be from an unforced assent is voluntary;
 but up to us is what comes to be with assent that is according to reason and judgment. Hence if something is up to us it is voluntary, but not everything voluntary is up to us. For non-rational animals too do voluntarily what they do according to the impulse and assent in them; but it is peculiar to a human being that some of the things coming to be from him are up to him. For his being rational is this—his having in him reason that is judge and discoverer of the appearances that fall on him and in general of things to be done and not to be done.
 - Alexander assumes that I am free and sovereign over my action only if my reason is also in my control. And it is incompatible with both soft and hard determinism
+- He argues that one ought to choose pleasure for the sake of the f i ne, not the other way round
