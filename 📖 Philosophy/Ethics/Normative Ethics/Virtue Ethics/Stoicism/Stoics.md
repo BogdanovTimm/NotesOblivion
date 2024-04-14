@@ -63,7 +63,7 @@ In these cases, my assent to the appearance rests on a judgment about its relati
     Virtue as Stochastic craft:
            .--.
            |  v
-    Good_excercise ----v
+    Virtuous_Action ---v
                       Natural_advantages
     Fortune -----------^
     ```
