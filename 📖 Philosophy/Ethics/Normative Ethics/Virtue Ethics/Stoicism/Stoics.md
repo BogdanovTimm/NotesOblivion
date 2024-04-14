@@ -60,3 +60,4 @@ In these cases, my assent to the appearance rests on a judgment about its relati
 - This belief about the virtues is reasonable because the virtues are manifestations of practical reason.
 - They insist that the different recognized virtues are possible only for someone who thinks virtue suff i cient for happiness.
 - The good requires living in agreement with nature; virtuous people do this because they live in agreement with reason, which they have naturally come to value most.
+- A second argument maintains that our life is happy if and only if we can be proud of it, and that this is true only if we live finely (iii 28).
