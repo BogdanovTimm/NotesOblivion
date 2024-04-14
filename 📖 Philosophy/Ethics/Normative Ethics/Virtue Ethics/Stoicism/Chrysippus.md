@@ -1,1 +1,2 @@
 - Virtue is both necessary and sufficient for happiness
+- Since they call this action a ‘success’ (katorthˆ oma),⁵³ we might suppose that virtuous people succeed more often than other people do in, say, relieving suffering, or defending their community from danger. But this is not the sort of success that the Stoics have in mind. Chrysippus contrasts the sage with a non-sage who does all the appropriate actions that the sage does, but not for the sage’s reasons. He insists that this non-sage is not yet virtuous
