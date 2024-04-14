@@ -61,3 +61,7 @@ In these cases, my assent to the appearance rests on a judgment about its relati
 - They insist that the different recognized virtues are possible only for someone who thinks virtue suff i cient for happiness.
 - The good requires living in agreement with nature; virtuous people do this because they live in agreement with reason, which they have naturally come to value most.
 - A second argument maintains that our life is happy if and only if we can be proud of it, and that this is true only if we live finely (iii 28).
+
+# Difficulties
+
+- When we discover practical reason, we discover that they are not the only goods, and that practical reason is an overriding good. But we seem to have no good reason to abandon our previous belief that the natural advantages are also goods. If our belief in the goodness of some natural advantages is a f i rm preconception, the Stoics violate their own method.
