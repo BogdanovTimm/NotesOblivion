@@ -64,7 +64,7 @@ In these cases, my assent to the appearance rests on a judgment about its relati
 - The Stoics admit that we pursue some of external goods for their own sakes, and they recognize that this pursuit is the natural and reasonable result of conciliation.
 - They recognize different sorts of indifferents (external goods):
     - Pure indifferents give us no reason from any point of view to prefer them. 
-    - The natural advantages that are the initial objects of a creature’s desire are not pure indifferents. Both they and their contraries are indifferent in relation to happiness, since they are neither parts of happiness nor instrumental means to it. We have reason to prefer the natural advantages because they promote a life in accord with nature; though they are indifferent towards happiness, they are not indifferent towards life in accord with nature.
+    - The natural advantages that are the initial objects of a creature’s desire are not pure indifferents. Both they and their contraries are indifferent in relation to happiness, since they are neither parts of happiness nor instrumental means to it. We have reason to prefer the natural advantages because they promote a life in accord with nature; though they are indifferent towards happiness, they are not indifferent towards life in accord with nature. We have reason to select health rather than illness, when these are the options we face, and this is a complete description of the practically relevant features of the situation.⁵⁰ They are not choiceworthy, because we are not justif i ed in choosing them without qualif i cation; this unqualified choice, in all situations and irrespective of the price to be paid in natural disadvantages, is reasonable only for virtue.
 
 # Difficulties
 
