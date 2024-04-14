@@ -142,4 +142,6 @@ Hence we do not show that wealth is not a good if we f i nd that it harms some p
     Practical Reason --> Action -.
                               ^  |
                               `--'
+    Craft:
+    Production Reason --> Production --> Other End
     ```
