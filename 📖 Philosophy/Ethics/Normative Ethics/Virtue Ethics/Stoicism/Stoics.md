@@ -49,14 +49,16 @@ In these cases, my assent to the appearance rests on a judgment about its relati
     - Non-stochastic craft, such as arithmetic, the achievement of the end of the craft (which is the faultless exercise of the craft), is sufficient for achieving the objective. If we add or subtract, but get the wrong answer, we must have made a mistake in the exercise of the craft and failed to achieve its end
     - Stochastic - we can achieve the end without achieving the objective. Even if our exercise of the craft is faultless, we may still miss the target; perhaps the wind blew it over or someone moved it. A virtue is similar to a stochastic craft, in so far as it has an objective (achieving the natural advantages) and an end (doing all we can to achieve the natural advantages), and achieving the end is not sufficient for achieving the objective. Virtuous action, therefore, is not sufficient for achieving the life according to nature, which includes the natural advantages.
 - Stoics agree with Aristotle in believing that virtuous action is its own end. Though virtue is a stochastic craft, the objective (output) that it pursues is not its end; the end, as Aristotle believes, is virtuous action itself. Virtuous action is the realization of practical reason, and it consists in doing what we reasonably can to secure the natural advantages (external goods that are in accordance with virtuoues):
-    ```
+    ```ruby
     Non-Stochastic Craft:
     Good excercise --> Objective
+    
     
     Stochastic Craft:
     Good excercise ----v
                       Objective
     Fortune -----------^
+    
     
     Virtue as Stochastic craft:
          .--.
