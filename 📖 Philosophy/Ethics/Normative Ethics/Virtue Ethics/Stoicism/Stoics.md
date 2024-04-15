@@ -96,6 +96,7 @@ In these cases, my assent to the appearance rests on a judgment about its relati
 - Properly understood, this account implies that virtuous people are rationally concerned to achieve preferred indifferents, not that they take them to be unimportant.
 - Since she is not being praised for the trivially easy action, but for the assent that extends to all appropriate occasions, she is to be praised no less for the right assent when she does trivially easy actions than when the appropriate action is more diff i cult.
 - This difference between the assent and the preferable results explains what the Stoics mean in claiming that all successes and all errors are equal (DL vii 120).⁷⁹ he virtuous person assents to the appropriate, rationally defensible action, because it is rationally defensible.
+- If one is virtuous, it is preferable to exercise virtue in actions that promote the objective of living in accord with nature; and if one is vicious, it is preferable if one’s vicious actions do not seriously impede this objective. Hence we have good reason to encourage some virtuous actions more vigorously than others; but that does not make them more praiseworthy.
 
 # Difficulties
 
