@@ -1,3 +1,11 @@
+# Terms
+
+- Selective value = we need to choose it
+- Good = selective value + our control
+- Happiness = set of all goods
+
+# Positions
+
 - Reciprocity of the virtues - each virtue requires each of the others
 - Virtues not only necessary for happiness, but also are sufficient for happiness
 - Excercizing Wisdom (Rational Control) = Happiness
