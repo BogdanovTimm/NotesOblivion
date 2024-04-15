@@ -95,6 +95,7 @@ In these cases, my assent to the appearance rests on a judgment about its relati
 - succesfull action = perfectly appropriate action. This may seemcontradictionaey. But Stoics has an answer: Since virtuous people act successfully, they always make appropriate and reasonable attempts to secure preferred indifferents. We can never face a choice, therefore, between a fully virtuous action (i.e., an action done virtuously, as the virtuous person does it) and an action that tries to secure the appro-priate preferred indifferents; for the virtuous course of action necessarily tries to secure appropriate preferred indifferents.
 - Properly understood, this account implies that virtuous people are rationally concerned to achieve preferred indifferents, not that they take them to be unimportant.
 - Since she is not being praised for the trivially easy action, but for the assent that extends to all appropriate occasions, she is to be praised no less for the right assent when she does trivially easy actions than when the appropriate action is more diff i cult.
+- This difference between the assent and the preferable results explains what the Stoics mean in claiming that all successes and all errors are equal (DL vii 120).⁷⁹ he virtuous person assents to the appropriate, rationally defensible action, because it is rationally defensible.
 
 # Difficulties
 
