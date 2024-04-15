@@ -93,6 +93,7 @@ In these cases, my assent to the appearance rests on a judgment about its relati
 - They claim: (1) Virtue has selective value. (2) Preferred indifferents have selective value. (3) Virtue is not suff i cient for getting the preferred indifferents, since the ‘success’ of a virtuous action consists in its complete appropriateness (perfectum off i cium), not in the external success of achieving the objective of getting preferred indifferents (Cic. F. iii 59 = LS 59F). (4) Virtue together with preferred indifferents has no greater selective value than virtue alone (iii 45; cf. iv 29 = LS 64K; v 71;
 90). (5) Virtue with preferred indifferents is preferable to virtue alone
 - succesfull action = perfectly appropriate action. This may seemcontradictionaey. But Stoics has an answer: Since virtuous people act successfully, they always make appropriate and reasonable attempts to secure preferred indifferents. We can never face a choice, therefore, between a fully virtuous action (i.e., an action done virtuously, as the virtuous person does it) and an action that tries to secure the appro-priate preferred indifferents; for the virtuous course of action necessarily tries to secure appropriate preferred indifferents.
+- Properly understood, this account implies that virtuous people are rationally concerned to achieve preferred indifferents, not that they take them to be unimportant.
 
 # Difficulties
 
