@@ -7,4 +7,3 @@
     - Magnanimity is the knowledge or state making someone superior to the things that happen to good and bad people alike. 
     - Continence is a disposition never overcome in what is according to correct reason, or a state invincible by pleasures. 
     - Endurance is the knowledge or the state of what is to be persevered in, not persevered in, or neither.
-- Stoic view, an action in accordance with one virtue is also in accordance with all the other virtues, but the virtuous person is not always exercising his bravery or temperance.
