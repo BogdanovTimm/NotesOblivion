@@ -5,7 +5,7 @@
 - Happiness = set of all goods
 - Virtue is good
 - External goods havd selective value
-- Virtue = deliberate about which ways off gaining external goods
+- Virtue = deliberate about which ways of maximizing external goods are benefit for community
 
 # Positions
 
