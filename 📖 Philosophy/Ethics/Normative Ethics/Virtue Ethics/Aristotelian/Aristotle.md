@@ -145,3 +145,4 @@ Hence we do not show that wealth is not a good if we f i nd that it harms some p
     Craft:
     Production Reason --> Production --> Other End
     ```
+- As Aristotle says, it is impossible or diff i cult to do f i ne actions without external resources
