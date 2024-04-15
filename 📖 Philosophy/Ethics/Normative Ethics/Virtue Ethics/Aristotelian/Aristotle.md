@@ -147,3 +147,4 @@ Hence we do not show that wealth is not a good if we find that it harms some peo
     ```
 - As Aristotle says, it is impossible or diff i cult to do fine actions without external resources
 - If, as Alexander suggests, our action is less fine in adverse circumstances, it seems to be less praiseworthy, and hence acting virtuously does not seem to be up to us. Aristotle rejects this conclusion; he maintains that virtuous people remain virtuous in misfortune, because they make the finest use of the materials available to them, as skilled craftsmen do
+- If my being virtuous somehow def i nes me, other things cannot be good for me unless I am virtuous; if I were to cease to be virtuous, these other things would not still be good for me.
