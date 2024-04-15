@@ -6,6 +6,10 @@
     - Internal - in our control
     - External - out of our control
 
+# Values
+
+Selective value - what we need to choose
+
 # Final Good
 
 ## Happiness
