@@ -3,6 +3,9 @@
 - Selective value = we need to choose it
 - Good = selective value + our control
 - Happiness = set of all goods
+- Virtue is good
+- External goods havd selective value
+- Virtue = deliberate about which ways off gaining external goods
 
 # Positions
 
