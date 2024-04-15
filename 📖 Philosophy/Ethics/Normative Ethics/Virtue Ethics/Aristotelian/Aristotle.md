@@ -146,3 +146,4 @@ Hence we do not show that wealth is not a good if we f i nd that it harms some p
     Production Reason --> Production --> Other End
     ```
 - As Aristotle says, it is impossible or diff i cult to do f i ne actions without external resources
+- If, as Alexander suggests, our action is less f i ne in adverse circumstances, it seems to be less praiseworthy, and hence acting virtuously does not seem to be up to us. Aristotle rejects this conclusion; he maintains that virtuous people remain virtuous in misfortune, because they make the f i nest use of the materials available to them, as skilled craftsmen do
