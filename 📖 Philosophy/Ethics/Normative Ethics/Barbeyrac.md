@@ -1,0 +1,1 @@
+- Barbeyrac especially condemns Aristotle’s willingness to permit abortion in some circumstances (Politics 1335b19–26).
