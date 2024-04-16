@@ -114,6 +114,7 @@ In these cases, my assent to the appearance rests on a judgment about its relati
 - The virtues are states of character formed by ref l exion on suitable objectives, but the virtuous person is not moved primarily by direct ref l exion on the objectives of virtuous actions
 - that the sage has no passions, but is ‘unaffected’ or ‘passionless’ (apathˆ es). The Stoics defend this doctrine in opposition to the Peripatetic doctrine of ‘moderate affection’ (metriopatheia), arguing that the Peripatetic position rests on a confused analysis of passions.
 Since a passion is an immediate assent to an indifferent as good or evil, the sage who knows that no indifferent is good or evil, gets rid of passions and does not merely control or temper them
+- The Stoics apply the names of some apparent passions to the sage who is free from passion. They deny him pleasure, fear, and appetite, but allow him joy, caution, and wish.
 
 # Difficulties
 
