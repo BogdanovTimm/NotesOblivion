@@ -1,3 +1,4 @@
 - Mistakely thinks that Aristotle thought that only virtue of character is a real virtue
 - Only virtue of character is a real virtue
 - The Naturalism is true. But human function consists not in being guided by practical reason
+- Sentimentalism is true: the extent to which we are capable of sympathy defines the extent of concern.
