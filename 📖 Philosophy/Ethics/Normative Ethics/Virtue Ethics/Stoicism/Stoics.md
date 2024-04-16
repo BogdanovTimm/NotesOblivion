@@ -121,7 +121,7 @@ Since a passion is an immediate assent to an indifferent as good or evil, the sa
 - Though sages may be moved to tears by an affecting scene in a play, they do not believe that impoverishment and bereavement, however affecting, are bad.
 - we do not claim that no preferred indifferent matters at all. We are right to have the appearance of having lost something highly preferable if a child or a friend dies, and we are right to have a more strongly suggestive and disturbing appearance in this case than if we had lost a cup. Sages have appearances that make them vividly aware of preferred and non-preferred indifferents. But this aspect of passions is separable from mistaken assent to the appearance suggesting that something good or evil is involved; that is why sages have no passions, even though they have suggestive appearances.
 - Virtuous people should not retain other people’s irrational and excessive reactions to external successes and failures. Their reactions should be proportionate to the value of the situations they react to, and these reactions should never threaten our recognition of the supreme value of virtue. These are the proportionate reactions that the Stoics try to describe more clearly; though sages have no passions, they might claim to react in the ways that Aristotle recommends.
-- Appearancea may start reactions in us even without the assent (crying, for example), bur it is ok
+- Appearancea may start reactions in us even without the assent (crying, for example), bur it is ok. But thisia not the emotions
 
 # Difficulties
 
