@@ -1,1 +1,2 @@
 - Anti-eudaemonism: we value virtue appropriately only if we do not regard it as a part of, or a means to, our happiness
+- Stoics and Peripatetics differs only verbally in the question of no passions vs moderate passions
