@@ -118,6 +118,7 @@ Since a passion is an immediate assent to an indifferent as good or evil, the sa
 - They do not suggest that appearances are totally plastic,¹⁰⁰ or that we can expect them to conform completely to correct assents. Though we eliminate passions, because we can eliminate the weak and rash assents, we do not eliminate the appearances that make the suggestions that we tend to assent to.
 - The element of a passion that may persist in someone who has eliminated the mistaken assent is the suggestive appearance that encourages the assent.
 - Though sages may be moved to tears by an affecting scene in a play, they do not believe that impoverishment and bereavement, however affecting, are bad.
+- we do not claim that no preferred indifferent matters at all. We are right to have the appearance of having lost something highly preferable if a child or a friend dies, and we are right to have a more strongly suggestive and disturbing appearance in this case than if we had lost a cup. Sages have appearances that make them vividly aware of preferred and non-preferred indifferents. But this aspect of passions is separable from mistaken assent to the appearance suggesting that something good or evil is involved; that is why sages have no passions, even though they have suggestive appearances.
 
 # Difficulties
 
