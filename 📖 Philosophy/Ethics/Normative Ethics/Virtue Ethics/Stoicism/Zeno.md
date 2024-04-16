@@ -1,0 +1,2 @@
+- He is said to lay down in the Republic that women are to be held in common, and (at line 200) that people should build neither temples nor courthouses nor gymnasia in the cities
+- Ordinary education is useless
