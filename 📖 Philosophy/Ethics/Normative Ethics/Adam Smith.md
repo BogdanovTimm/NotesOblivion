@@ -1,4 +1,5 @@
 - Ascribe to the Stoics the view that gaining external goods is a game of skill of reasoning for virtuous people. On this basis Adam Smith ascribes an adaptive conception of happiness to the Stoics.
+- Sentimentalism is true: the extent to which we are capable of sympathy defines the extent of concern.
 
 # Difficulties
 
