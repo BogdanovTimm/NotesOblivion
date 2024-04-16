@@ -7,7 +7,7 @@
 - External goods havd selective value
 - Virtue = deliberate about which ways of maximizing external goods are benefit for community
 - Appearances - rush assent that something is a Good
-- Friendship - when one man influens other man's rational deliberation
+- Friendship - when one man influences other man's rational deliberation
 
 # Positions
 
