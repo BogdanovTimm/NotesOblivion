@@ -123,6 +123,7 @@ Since a passion is an immediate assent to an indifferent as good or evil, the sa
 - Virtuous people should not retain other people’s irrational and excessive reactions to external successes and failures. Their reactions should be proportionate to the value of the situations they react to, and these reactions should never threaten our recognition of the supreme value of virtue. These are the proportionate reactions that the Stoics try to describe more clearly; though sages have no passions, they might claim to react in the ways that Aristotle recommends.
 - Appearancea may start reactions in us even without the assent (crying, for example), bur it is ok. But this is not the emotions, because emotions requires assent
 - Perhaps our best method for detecting preferred and non-preferred indifferents essentially involves selective and critical reliance on suggestive appearances. It would be a mistake to suppress the suggestion that it is bad to be tortured or impoverished, if this is the best way to turn our attention to these non-preferred indifferents.
+- they claim that all human beings form a community that gives them obligations to one another.
 
 # Difficulties
 
