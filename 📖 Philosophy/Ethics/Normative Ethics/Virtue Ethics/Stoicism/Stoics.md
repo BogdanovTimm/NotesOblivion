@@ -6,6 +6,7 @@
 - Virtue is good
 - External goods havd selective value
 - Virtue = deliberate about which ways of maximizing external goods are benefit for community
+- Appearances - rush assent that somwthing is a Good
 
 # Positions
 
