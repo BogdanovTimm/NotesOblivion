@@ -112,6 +112,8 @@ In these cases, my assent to the appearance rests on a judgment about its relati
 - Virtue itself is the standard by which other things have to be weighed, because it is essential to the self for whom different things must be good, and is not one of the goods to be weighed. Its status in happiness cannot be the status of a mere component.
 - Their doctrine seeks to mark a clear division between the end that I ought to have in mind as a guide to my deliberation, and the objective that I ought to have in mind in forming my end, but not as a guide to deliberation
 - The virtues are states of character formed by ref l exion on suitable objectives, but the virtuous person is not moved primarily by direct ref l exion on the objectives of virtuous actions
+- that the sage has no passions, but is ‘unaffected’ or ‘passionless’ (apathˆ es). The Stoics defend this doctrine in opposition to the Peripatetic doctrine of ‘moderate affection’ (metriopatheia), arguing that the Peripatetic position rests on a confused analysis of passions.
+Since a passion is an immediate assent to an indifferent as good or evil, the sage who knows that no indifferent is good or evil, gets rid of passions and does not merely control or temper them
 
 # Difficulties
 
