@@ -1,0 +1,1 @@
+- Christianuty conflicts with Greek ethics
