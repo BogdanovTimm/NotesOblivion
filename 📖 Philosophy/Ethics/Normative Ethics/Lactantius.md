@@ -1,0 +1,1 @@
+- He affirms that the natural law described by the Stoics is also the moral law set out in the Scriptures.
