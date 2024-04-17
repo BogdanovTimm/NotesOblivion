@@ -1,0 +1,1 @@
+- Clement explains Jesus’ advice to the rich man to sell all he has as advice to get rid of disruptive passions and desires.
