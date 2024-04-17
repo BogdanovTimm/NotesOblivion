@@ -21,6 +21,11 @@ Happiness (eudamonia) - set of all goods:
     - set of goods consists of freedom from pain
 - Aristotelian - life in accordance with human nature
 
+### Properties of Happiness
+
+- Comprehensive - includes all non-instrumental Goods
+- Composite - includes more than 1 non-instrumental Good
+
 ## Virtues, being moral and happiness
 
 Eudamonism - we have reason to value virtue and virtuous action as non-instrumentally good if and only if we regard them as a part of happiness.
