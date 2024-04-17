@@ -1,1 +1,2 @@
+- Clement to find a parallel in the Old Testament for the Stoic view that virtue is to be chosen for its own sake and is sufficient for happiness.
 - Clement explains Jesus’ advice to the rich man to sell all he has as advice to get rid of disruptive passions and desires.
