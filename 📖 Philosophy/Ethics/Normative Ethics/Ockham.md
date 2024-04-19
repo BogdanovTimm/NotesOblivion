@@ -1,1 +1,2 @@
-- Christianuty conflicts with Greek ethics
+- Christianity conflicts with Greek ethics
+- An indeterminist doctrine of responsibility fits the doctrine of Christian predestination
