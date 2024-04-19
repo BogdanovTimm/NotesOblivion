@@ -1,0 +1,1 @@
+- An indeterminist doctrine of responsibility fits the doctrine of Christian predestination
