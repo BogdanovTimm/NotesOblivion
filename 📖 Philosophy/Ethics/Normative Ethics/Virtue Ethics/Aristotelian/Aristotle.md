@@ -150,3 +150,7 @@ Hence we do not show that wealth is not a good if we find that it harms some peo
 - If my being virtuous somehow def i nes me, other things cannot be good for me unless I am virtuous; if I were to cease to be virtuous, these other things would not still be good for me.
 - Hence we cannot compare virtue with other goods to see how good each of them is: virtue carries out the comparison, since it is essential to the self for whom these other goods are good.
 - Perhaps it is implicit in Aristotle’s account of self-love; virtuous people love themselves as virtuous because they recognize their rational agency as themselves. Doubts about whether virtue is a component of happiness may also be Aristotelian; for the EN does not speak as explicitly of parts of happiness as the other ethical works do.
+
+# Difficulties
+
+- Though he is sympathetic to compatibilism, he has no theory of determinism/indeterminism
