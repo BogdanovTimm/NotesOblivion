@@ -131,6 +131,7 @@ Since a passion is an immediate assent to an indifferent as good or evil, the sa
 - But of all the bonds of fellowship, there is none nobler, none more powerful than when good men of congenial character are joined in intimate friendship
 - Zeno’s judgment may be in danger of being distorted because he is forming his views in Athens, or among the people he knows best, or because he is thinking about his particular situation as a slave or a slave-owner. To f i nd the point of view of a sage, he needs to separate himself from the distorting inf l uences of these specif i c features of his own situation. He might do this if he takes the point of view of a sage like Confucius, who lacks the appearances that encourage Zeno to draw one conclusion rather than another.
 But Confucius’ point of view is a source of good advice for Zeno only if Zeno thinks of Confucius without the particular biases of Confucius’ environment.
+- According to the Aristotelian and Stoic conception, 'boulesis' is essentially rational desire, focussed on the final good.
 
 # Difficulties
 
