@@ -1,3 +1,5 @@
 - Anti-eudaemonism: we value virtue appropriately only if we do not regard it as a part of, or a means to, our happiness
 - Stoics and Peripatetics differs only verbally in the question of no passions vs moderate passions
 - Augustine enthusiastically insists on the pervasiveness and inevitability of sin, and so he might reasonably be expected to reject the assumptions that underlie Socratic moral psychology.
+- Augustine explains st. Pauline moral psychology by reference to Stoic doctrine, as he understands it
+- Augustine’s interpretation of the Stoic view tends to assimilate it to an Aristotelian view.
