@@ -3,3 +3,4 @@
 - Augustine enthusiastically insists on the pervasiveness and inevitability of sin, and so he might reasonably be expected to reject the assumptions that underlie Socratic moral psychology.
 - Augustine explains st. Pauline moral psychology by reference to Stoic doctrine, as he understands it
 - Augustine’s interpretation of the Stoic view tends to assimilate it to an Aristotelian view.
+- Augustine acknowledges that Platonists reject Manichean cosmic dualism, but, in his view, they do not entirely free themselves from Manichean error; for they believe that the body is the source of sin by being the source of non-rational desire (CD xiv 5b).
