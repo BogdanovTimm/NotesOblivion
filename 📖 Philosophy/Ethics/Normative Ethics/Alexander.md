@@ -7,3 +7,7 @@ but up to us is what comes to be with assent that is according to reason and jud
 - In Alexander’s view, each craft has two sorts of exercise—its exercise in preferable and in non-preferable conditions (160.31–161.1); a craft, for instance, exercises itself both in playing good f l utes and in playing bad f l utes. In that case, ‘just as in the other crafts the end is in the exercises about wished-for things and in preferable conditions,⁸¹ the same will be true in the case of virtue, if it is a craft’ (161.1–3). While recognizing that virtue is exercised in bad external conditions, Alexander suggests that this is not really the proper exercise of virtue, because it achieves its end only in preferable conditions. Since the end of virtuous action is happiness, as the Stoics agree, virtue turns out to be insuff i cient for happiness, by being insuff i cient for the achievement of its end.
 - Indeed, we might argue, as Alexander does, that the division between ends and objectives makes it clear that the Stoics are wrong to identify virtue with happiness. We should regard virtue as a stochastic craft of which virtuous action is the end, and happiness is the objective.
 - Alexander suggests that Aristotle’s position, expressed in Stoic terms, makes happiness the objective, because it includes preferred indifferents that are not in our control.
+
+# Difficulties
+
+- Alexander is mistaken in arguing that Aristotle either affirrms or is committed to an indeterminist account of freedom
