@@ -7,3 +7,4 @@
 - Christian morality is not only consistent with moral philosophy, as understood by the Greek philosophers, but actually brings out the best in it. He argues that we can see, from the point of view of Greek moral philosophy itself, the moral excellence of the Christian moral outlook, so that this is actually a point in favour of Christianity
 - Aquinas explains Paul through his Aristotelian moral psychology.
 - Aquinas’ interpretation of Aristotle influenced by Augustine’s version of Stoicism
+- Describes the Christian virtues within an explicitly Aristotelian framework
