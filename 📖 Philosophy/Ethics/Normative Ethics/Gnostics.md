@@ -1,0 +1,1 @@
+- Gnostic doctrine used the opposition between flesh and spirit to support the view that some elements in the cosmos are independent of and hostile to the benevolent God
