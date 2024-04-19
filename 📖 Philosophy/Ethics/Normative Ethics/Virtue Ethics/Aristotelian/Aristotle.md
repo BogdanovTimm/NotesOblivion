@@ -1,5 +1,6 @@
 # Thesesis
 
+- Aristotelian doctrine of the mean that allows the virtuous person to retain anger, sexual desire, hatred, and fear to an appropriate degree
 - Reciprocity of the virtues - each virtue requires each of the others
 - Virtues are necessary for happiness (but not sufficient)
 - Virtue is a state in which one performs one’s function well. Hence a virtue is a state in which one makes the correct rational choice of ends, and chooses correctly the actions that are to be chosen for their own sakes. 
