@@ -3,3 +3,4 @@
 - Self-interest conflicts with interest of others
 - Tries to find why we have our moral beliefs
 - Critisizes Aristotle for being estethical intuitionist rather than moral philosopher
+- Christianity cannot be understood in Greek ethic's terms
