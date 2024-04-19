@@ -1,1 +1,2 @@
 - The Naturalism is true. Human functionis to be guided by practical reason
+- An indeterminist doctrine of responsibility fits the doctrine of Christian predestination
