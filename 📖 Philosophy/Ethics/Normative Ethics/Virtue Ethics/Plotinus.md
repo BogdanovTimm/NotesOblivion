@@ -1,1 +1,2 @@
 - He thought that Aristotle's happiness consists only in theoretical thinking
+- Plotinus accuses the Gnostics of misunderstanding Plato, and in ii 9.16 he argues that the genuine Platonist will admire, rather than denigrate, the created world
