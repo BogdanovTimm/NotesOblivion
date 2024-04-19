@@ -1,3 +1,4 @@
 - He thought that Aristotle's happiness consists only in theoretical thinking
 - Plotinus accuses the Gnostics of misunderstanding Plato, and in ii 9.16 he argues that the genuine Platonist will admire, rather than denigrate, the created world
 - Plotinus rejects the cosmological dualism of the Gnostics
+- according to Plotinus, true virtue frees us from concerns that attach us to the body and to the material world, and turns us to the proper concerns of the soul
