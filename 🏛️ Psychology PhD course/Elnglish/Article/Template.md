@@ -3,9 +3,9 @@
 3. The author Donelson R Forsyth
 4. It was written in 2020 and published by the Routledge.
 5. This work is relevant in a 2 main aspects: it tries to construct psychological investigation based on philosophical theory and connect it with practice. Forsynth not only sums up up-to-date approaches of studying peoples' moral positions, but develops his own, called 'Ethic position theory', together with 'Ethic Potition Questionnaire'.
-6. Purpose (part) - the purpose of this part of the work is to show that ethic has his own place in human psychology.
-7. Subject of the material - the subject of this work is identical to its name - 'the process of making moral judgements'
-8. Main idea - the main idea of this part is that ethics not only the concern of a few people - philosopher, but that everybody tries to find the answer for the questions of ethics. Forsyth claims that he has found 2 core clusters of the Moral Judgements-making: whether or not some action hurt somebody or whether or not the action breaks some common rules.
+6. Purpose (part) - the purpose of this text is to show that ethic has his own place in human psychology.
+7. Subject of the material - the subject of this material is identical to its name - 'the process of making moral judgements'
+8. Main idea - the main idea of this text is that ethics not only the concern of a few people - philosopher, but that everybody tries to find the answer for the questions of ethics. Forsyth claims that he has found 2 core clusters of the Moral Judgements-making: whether or not some action hurt somebody or whether or not the action breaks some common rules.
 9. To support his claim he gives next arguments:
 	- By asking volunteers about Milgram's experiment (that have been criticised for being unethical in the science world), he has found, that their answers falls into either of these 2 categories. This was confirmed by factor analysis.
 	- Modern moral philosophy is divided onto 2 main positions: utilitarianism and deontology. The first says that action is moral if it has good consequences while the second one objects that good or mad consequences are not relevant, we should concern only about following rules.
