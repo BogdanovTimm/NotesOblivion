@@ -152,6 +152,7 @@ Hence we do not show that wealth is not a good if we find that it harms some peo
 - Hence we cannot compare virtue with other goods to see how good each of them is: virtue carries out the comparison, since it is essential to the self for whom these other goods are good.
 - Perhaps it is implicit in Aristotle’s account of self-love; virtuous people love themselves as virtuous because they recognize their rational agency as themselves. Doubts about whether virtue is a component of happiness may also be Aristotelian; for the EN does not speak as explicitly of parts of happiness as the other ethical works do.
 - According to the Aristotelian and Stoic conception, 'boulesis' is essentially rational desire, focussed on the final good.
+- For Aristotle claims that the passions, in contrast to the will (boulean or later concept of Augustine), are not focussed on the overall good
 
 # Difficulties
 
