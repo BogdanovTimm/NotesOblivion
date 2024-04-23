@@ -17,3 +17,4 @@
 - Augustine clarifies his dispute with the Stoics by distinguishing two ways of being without passions:
     - a life without passions ‘that occur contrary to reason and disturb the mind’ - impossible due to our sin nature
     - a life in which passions cannot occur to the mind at all - morally bad, because sorrow, for example, is a nature reaction to the bad things
+- This defence of Augustine’s claim that the Stoics disagree only verbally with him depends on his identifying a passion with a non-rational state that precedes any assent.
