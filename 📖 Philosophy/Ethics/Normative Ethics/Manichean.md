@@ -1,2 +1,2 @@
-- Manichean doctrine used the opposition between flesh and spirit to support the view that some elements in the cosmos are independent of and hostile to the benevolent God
-- They treat the conf l ict between rational and irrational motives as a conf l ict between forces that recognize no common considerations and that are not themselves subject to the choice of the will.
+- Manichean doctrine used the opposition between flesh (desires) and spirit (mind) to support the view that some elements in the cosmos are independent of and hostile to the benevolent God
+- They treat the conflict between rational and irrational motives as a conflict between forces that recognize no common considerations and that are not themselves subject to the choice of the will. They may overcome each other only using force.
