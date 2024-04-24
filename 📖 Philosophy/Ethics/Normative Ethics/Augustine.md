@@ -22,3 +22,4 @@
 - Augustine assumes that we always seek happiness.
 - Augustine rejects the Stoic view of the passions, but retains the Stoic view that we act freely and responsibly in so far as we assent. Our assent depends on our belief about what promotes our happiness, and hence it presupposes the basic desire for happiness. Though Augustine insists on the potentially misleading inf l uence of the passions, he does not suggest that they mislead us by moving us independently of the will.
 - Will is not free to pursue something other than happiness, and the source of error and sin is a false belief about the sources of happiness. It is an intellectualism and eudaemonism. Hence he concludes that the will, rather than any external inf l uence or internal force, is the cause of the mind’s being subject to sin.
+- He accepts eudaemonism
