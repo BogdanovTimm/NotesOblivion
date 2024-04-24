@@ -5,3 +5,4 @@
 - An indeterminist doctrine of responsibility fits the doctrine of Christian predestination
 - Christian doctrine to require the decisive rejection of an Aristotelian framework
 - Scotus quotes Augustine at crucial places to defend departures from Aquinas’ Aristotelian position
+- Virtues are in the will as opposed to the passions
