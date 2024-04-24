@@ -19,3 +19,5 @@
     - a life in which passions cannot occur to the mind at all - morally bad, because sorrow, for example, is a nature reaction to the bad things
 - This defence of Augustine’s claim that the Stoics disagree only verbally with him depends on his identifying a passion with a non-rational state that precedes any assent (whereas Stoic think that there are appearances and appearances with assent (passions)). Though sometimes he says that good will make passions good and bad will do the opposite
 - Augustine agrees with the Stoic view that motivation by passion requires assent. So, while Stoics claim that passions = pre-passion + assent to them, Augustine claims that passion = pre-passion (in Stoics term)
+- Augustine assumes that we always seek happiness.
+- 
