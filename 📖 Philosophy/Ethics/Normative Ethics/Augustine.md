@@ -20,4 +20,4 @@
 - This defence of Augustine’s claim that the Stoics disagree only verbally with him depends on his identifying a passion with a non-rational state that precedes any assent (whereas Stoic think that there are appearances and appearances with assent (passions)). Though sometimes he says that good will make passions good and bad will do the opposite
 - Augustine agrees with the Stoic view that motivation by passion requires assent. So, while Stoics claim that passions = pre-passion + assent to them, Augustine claims that passion = pre-passion (in Stoics term)
 - Augustine assumes that we always seek happiness.
-- 
+- Augustine rejects the Stoic view of the passions, but retains the Stoic view that we act freely and responsibly in so far as we assent. Our assent depends on our belief about what promotes our happiness, and hence it presupposes the basic desire for happiness. Though Augustine insists on the potentially misleading inf l uence of the passions, he does not suggest that they mislead us by moving us independently of the will.
