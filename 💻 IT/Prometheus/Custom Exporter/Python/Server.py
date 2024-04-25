@@ -14,4 +14,5 @@ if __name__ == '__main__':
     start_http_server(55551)
     while True:
         time.sleep(5) # How often to gather metrics
-        prometheusGauge.labels(label1='label1_value', label2='label2_value').inc(1)
+        prometheusGauge.labels(label1='label1_value', 
+                               label2='label2_value').inc(1)
