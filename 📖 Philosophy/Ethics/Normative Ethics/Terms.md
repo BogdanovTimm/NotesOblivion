@@ -52,4 +52,4 @@ Hedonism:
 # Moral Psychology
 
 - Intellectualism - we always choose the apparently greater good
-- 
+- Voluntarism - we may choose bad things though we know that they are bad
