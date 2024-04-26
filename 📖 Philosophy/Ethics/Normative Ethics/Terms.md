@@ -41,7 +41,7 @@ Hedonism:
 
 ## Virtues
 
-- Rationalism - rational part is a primary part for virtues
+- Rationalism - rational part is a primary part for virtues (though non-rational may also participate in virtues)
 - Anti-rationalist - good desires is sufficient for virtues; reason plays instrumental role
 
 ## Moral
