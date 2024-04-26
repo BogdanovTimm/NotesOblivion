@@ -38,3 +38,4 @@
 - We are closer to happiness if we have the right aims and find them frustrated than if we have the wrong aims and fulfil them.
 - This discussion of Augustine’s views on the pagan moralists suggests that a simple division between the right action and the right end is too simple. He needs to say that the pagan virtues embody a conception of the end that is morally correct — since the elements of happiness that it recognizes are genuine elements of it — but also incorrect — since it fails to recognize other genuine elements of happiness.
 - The same arrogance that produced the sin of Adam and Eve against God encourages us to believe in our own unaided success; that is why arrogance is the beginning of all sin.
+- The love of God requires only the contempt of self that recognizes our own inability to achieve virtue completely, and recognizes our need of the help of God to achieve the degree of virtue that we achieve.¹³⁴
