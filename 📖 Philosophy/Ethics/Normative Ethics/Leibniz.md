@@ -1,0 +1,1 @@
+- Argues against Augustinian claim that virtues of a pagans are actually sins
