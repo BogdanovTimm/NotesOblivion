@@ -44,6 +44,9 @@ Hedonism:
 - Rationalism - rational part is a primary part for virtues (though non-rational may also participate in virtues)
 - Anti-rationalist - good desires is sufficient for virtues; reason plays instrumental role
 
+- prudence teaches us not to consent to bad inclinations
+- temperance causes us not to consent to bad inclination
+
 ## Moral
 
 # Starting point
@@ -56,3 +59,5 @@ Hedonism:
 
 - Intellectualism - we always choose the apparently greater good
 - Voluntarism - we may choose bad things though we know that they are bad
+
+# 
