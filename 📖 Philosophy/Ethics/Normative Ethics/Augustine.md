@@ -28,4 +28,4 @@
 - Compatibilism is true
 - Will - rational desire; Freewill - free deliberation
 - Happiness is complete and self-sufficient
-- Stoics are wrong about happibess, since they include external goods in it. Then, complete happiness are not open to us in this world.
+- Stoics are wrong about happibess, since they include external goods in it. Then, complete happiness are not open to us in this world. Also, virtues can't free us from sin where sin = bad inclibations (for we will not be choose them, but we will still have them)
