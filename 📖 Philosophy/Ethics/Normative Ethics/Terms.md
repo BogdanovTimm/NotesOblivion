@@ -48,3 +48,8 @@ Hedonism:
 - Empiricism - our senses:
     - our senses of pleasure
 - Dialectic - common beliefs
+
+# Moral Psychology
+
+- Intellectualism - we always choose the apparently greater good
+- 
