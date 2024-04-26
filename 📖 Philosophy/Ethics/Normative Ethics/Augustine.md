@@ -35,4 +35,5 @@
 - Christianity gives us a hope in achieving stable and complete happiness, which greek ethics cannot guve to us
 - Without fate and Christianity there can be no true virtues, and so he infers that all alleged virtues without true religion are really vices.⁸⁵ He therefore seems to repudiate all pagan conceptions of virtue. It is so called 'Augustinian' view on virtues. But we don't know whether he actually think in that way. Maybe he thought that greeks may do good actions, without being virtuoues
 - Virtue requires good motives. Good actions without good motives are not so good
-- We are closer to happiness if we have the right aims and f i nd them frustrated than if we have the wrong aims and fulf i l them.
+- We are closer to happiness if we have the right aims and find them frustrated than if we have the wrong aims and fulfil them.
+- This discussion of Augustine’s views on the pagan moralists suggests that a simple division between the right action and the right end is too simple. He needs to say that the pagan virtues embody a conception of the end that is morally correct — since the elements of happiness that it recognizes are genuine elements of it — but also incorrect — since it fails to recognize other genuine elements of happiness.
