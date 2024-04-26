@@ -41,6 +41,9 @@ Hedonism:
 
 ## Virtues
 
+- Rationalism - rational part is a primary part for virtues
+- Anti-rationalist - right character and desires are primary cause of virtues
+
 ## Moral
 
 # Starting point
