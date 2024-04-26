@@ -1,1 +1,2 @@
 - He affirms that the natural law described by the Stoics is also the moral law set out in the Scriptures.
+- He partially agrees with Augustine that greek authors have corrupted virtues. Apart from Augystine, he does not claim that tgey do not have virtues at all, only that they are corrupted
