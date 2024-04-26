@@ -25,3 +25,4 @@
 - He accepts eudaemonism: We do not fall into sin because we pursue our own happiness as opposed to some other ultimate end that we ought to pursue instead.
 - We have no reason, therefore, to attribute voluntarism to Augustine. He emphasizes the role of the will in free and responsible action because he believes that non-rational desires can move us to free action only with our consent; he does not claim that the will moves us independently of the greater apparent good. He accepts Stoic intellectualism and avoids voluntarism.
 - The will is free in relation to the passions in so far as it is capable of consenting or not consenting to the actions suggested by the passions. The will is not similarly free in relation to the apparent good, but Augustine does not suggest that this lack of freedom involves any lack of the freedom relevant to responsibility.
+- Compatibilism is true
