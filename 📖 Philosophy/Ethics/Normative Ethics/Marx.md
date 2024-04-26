@@ -1,0 +1,1 @@
+- Some ayuthors claim that communism will be without justice. Bit this is a one-sieed view on Marxism
