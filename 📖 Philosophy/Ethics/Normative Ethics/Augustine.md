@@ -27,3 +27,5 @@
 - The will is free in relation to the passions in so far as it is capable of consenting or not consenting to the actions suggested by the passions. The will is not similarly free in relation to the apparent good, but Augustine does not suggest that this lack of freedom involves any lack of the freedom relevant to responsibility.
 - Compatibilism is true
 - Will - rational desire; Freewill - free deliberation
+- Happiness is complete and self-sufficient
+- Stoics are wrong about happibess, since they include external goods in it. Then, complete happiness are not open to us in this world.
