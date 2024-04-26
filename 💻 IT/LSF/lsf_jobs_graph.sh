@@ -46,27 +46,59 @@ checkPending() {
 
 echo "" > ./lsf_jobs.txt
 
-listOfErrors="
-1 3
-2 4
-1 5
-2 8
-"
+never_started_bjobs=$(bjobs -wp -u all | grep -B 1 never | grep sasetl)
+number_of_never_started_bjobs=$(echo "$never_started_bjobs" | gawk 'END {print NR}')
+echo "$never_started_bjobs"
+echo "Number of never starting jobs: $number_of_never_started_bjobs"
+
+# Find all EXIT jobs
+
+#listOfErrors="
+#1 3
+#2 4
+#1 5
+#2 8
+#"
+
+for (( iterator=0; iterator <= $number_of_never_started_bjobs; iterator++ ))
+do
+    current_job_id=$(echo "$never_started_bjobs" | gawk -v iterator=$iterator 'NR == iterator {print $1}')
+    echo "                    Current Iterator = "$iterator" Current Job Id = $current_job_id"
+    #parent_info=$(bjdepinfo -l "$job_id" | gawk -v job_id="$job_id" '{if ($3 == "PEND" || $3 == "EXIT") print $0 }')
+    current_exit=$(bjdepinfo -l "$current_job_id" | gawk -v job_id="$current_job_id" '{if ($3 == "EXIT") print $2, $1}')
+    listOfErrors="$listOfErrors"\n"$current_exit"
+    echo "$current_exit"
+    echo ""
+done
 listOfErrors=$(echo "$listOfErrors" | grep -v ^$ | sort --numeric)
 numberOfErrors=$(echo "$listOfErrors" | grep -v ^$ -c)
-
-listOfPending="
-3 5
-5 7
-3 7
-4 8
-4 6
-"
-listOfPending=$(echo "$listOfPending" | grep -v ^$ | sort --numeric)
-numberOfPending=$(echo "$listOfPending" | grep -v ^$ -c)
-
 echo "$listOfErrors"
 echo "Number of Exit Jobs: $numberOfErrors"
+
+# Find all PENDING jobs
+
+#listOfPending="
+#3 5
+#5 7
+#3 7
+#4 8
+#4 6
+#"
+
+for (( iterator=1; iterator <= $number_of_never_started_bjobs; iterator++ ))
+do
+    current_job_id=$(echo "$never_started_bjobs" | gawk -v iterator=$iterator 'NR == iterator {print $1}')
+    echo "                    Current Iterator = "$iterator" Current Job Id = $current_job_id"
+    #parent_info=$(bjdepinfo -l "$job_id" | gawk -v job_id="$job_id" '{if ($3 == "PEND" || $3 == "EXIT") print $0 }')
+    current_pending=$(bjdepinfo -l "$current_job_id" | gawk -v job_id="$current_job_id" '{if ($3 == "PEND") print $2, $1}')
+    listOfPending="$listOfPending"\n"$current_pending"
+    echo "$parent_info"
+    echo ""
+done
+
+
+listOfPending=$(echo "$listOfPending" | grep -v ^$ | sort --numeric)
+numberOfPending=$(echo "$listOfPending" | grep -v ^$ -c)
 echo "$listOfPending"
 echo "Number of Pending Jobs: $numberOfPending"
 
@@ -87,3 +119,5 @@ for (( exitIterator=1; exitIterator <= "$numberOfErrors"; exitIterator++ )) ; do
     echo "Current Pending ID to find dependencies: $pendingId"
     checkPending "$pendingId" 1 "$output"
 done
+
+cat ./lsf_jobs.txt
