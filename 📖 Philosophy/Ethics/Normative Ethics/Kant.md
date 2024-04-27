@@ -3,3 +3,4 @@
 - Non-eudamonism moralism is true: happiness is not needed for a sufficient justification of virtue.
 - Against sentimrntalism, Kant argues that rational agents deserve respect from others, irrespective of anyone’s sympathies.
 - We might even agree that virtue requires the choice of the right action for the right reason, looking to the very fact that makes the action right. This demand might be understood, as Kant understands it, non-teleologically, so that it does not refer to any connexion between virtuous action and one’s ultimate end.
+- Apart from our moral beliefs, we have no reason to attribute freedom to human beings
