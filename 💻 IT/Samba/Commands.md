@@ -4,7 +4,7 @@
 smbclient \
     -U Xusername_on_remote_pcX%XpasswordX \
     -W XDOMAIN_NAMEX \
-    -I Xserver.ruX //Xserver.ru/somethigX/  \
+    -I Xserver.ruX //Xserver.ruX/Xshared_folderX/  \
     -c '
         cd
             "Xfolder/on/remote/pcX/"
