@@ -10,3 +10,4 @@
 - Describes the Christian virtues within an explicitly Aristotelian framework
 - The passions are the subject of the moral virtues
 - Argues against the ‘Augustinian’ position, arguing that Augustine does not hold that greeks did not have virtues at all. Aquinas also say that Christian moral philosophy and theology do not require it.⁹⁰
+- Freewill = choice
