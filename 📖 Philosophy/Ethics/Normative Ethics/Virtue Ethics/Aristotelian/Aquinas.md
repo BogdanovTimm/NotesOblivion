@@ -12,3 +12,4 @@
 - Argues against the ‘Augustinian’ position, arguing that Augustine does not hold that greeks did not have virtues at all. Aquinas also say that Christian moral philosophy and theology do not require it.⁹⁰
 - Freewill = choice
 - The moral philosopher studies sin as a violation of reason, whereas the theologian studies it as a violation of the divine law.
+- Freedom, moral and responsibility reduce to facts about rational agency
