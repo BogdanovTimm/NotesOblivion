@@ -35,3 +35,4 @@
 - He distinguishes sadness ‘in accordance with a complete passion’ (secundum passionem perfectam) from sadness ‘in accordance with a pre-passion’, and attributes only the latter to Christ. By ‘complete passion’ he seems to mean the sort of passion that is capable of carrying away reason by securing consent:
 ‘sometimes in us <ordinary human beings> movements of this sort do not stop in sensory desire, but draw reason <with them>’. Christ did not have this sort of passion. In using ‘pre-passion’, Aquinas gives the misleading impression that he agrees with the Stoics in regarding such a state as only a precursor of a genuine passion; but his explanation counteracts this impression.
 - He agrees with Augustine that Stoics are wrong that there is no non-rational passions
+- Aquinas believes, however, that the passions do not characteristically move us to action by themselves; they require the co-operation of will, which essentially pursues the f i nal good.
