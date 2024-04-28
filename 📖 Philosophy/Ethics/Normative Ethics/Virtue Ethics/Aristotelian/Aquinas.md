@@ -17,3 +17,4 @@
 - Virtues require the perfection of the passions as well as the will.
 - We always pursue happiness
 - defends a reduction of the voluntary and of freewill to the exercise of will in rational choice
+- Human beings also seem to act on passions, not always on deliberated will; and when we act on passions, we act for the sake of an end. But Aquinas seems to exclude these from properly human actions; his treatment of the nature of human action distinguishes properly human actions from the actions common to human and other animals, which are actions on passion.
