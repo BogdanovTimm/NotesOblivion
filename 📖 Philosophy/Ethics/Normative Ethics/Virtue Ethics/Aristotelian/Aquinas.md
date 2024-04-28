@@ -45,3 +45,4 @@
 - Our pursuit of an ultimate end is necessary for freedom, not a restriction on freedom.
 - He derived his account of freedom from his account of an action
 - But since actions on passion also seem to be properly human acts, in contrast to the thoughtless scratching of one’s beard, we may wonder how they are related to Aquinas’ account of properly human acts.
+- If we necessarily willed the ultimate end as having some highly determinate content specifying a particular action, we would not be rational agents, since we would not act on rational comparison of different possible objects of pursuit.
