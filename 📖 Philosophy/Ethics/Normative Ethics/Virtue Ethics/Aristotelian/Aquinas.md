@@ -54,4 +54,5 @@
 - Mental states leading from will to action:
     1. Aiming at the end
     2. Deliberation - finding means for achieving an end. Deliberation includes questions about what an end consists in.
-    3. Election - 
+    3. Consent
+    4. Election - 
