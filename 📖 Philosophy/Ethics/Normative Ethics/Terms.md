@@ -63,3 +63,10 @@ Hedonism:
 # Random
 
 Kant (according to some readers) appeals to a priori truths about the abstract form of practical reason and rational agency, in abstraction from facts about actual human beings, whereas Aristotle recognizes the relevance of psychological and social facts of the sort that Kant rejects as ‘mere’ anthropology. Aristotle (on this view) is a naturalist and Kant rejects naturalism.
+
+# Soul
+
+- Rational Part - will aka boulesis
+- Non-Rational Part:
+    - appetites aka concupiscent
+    - spirit aka irascible
