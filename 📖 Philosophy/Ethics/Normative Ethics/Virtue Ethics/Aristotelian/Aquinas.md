@@ -43,3 +43,4 @@
 - Even if we do not think about the ultimate end (q1 a6 obj3), we may act for its sake. Travellers on a journey from London to Glasgow try to go from Preston to Carlisle because of their decision to go to Glasgow. They may only be thinking now about how to get from Preston to Carlisle, not about how to get to Glasgow; but they would not be thinking now about getting to Carlisle if they had not decided to go to Glasgow. Their aim is directed ultimately towards the ultimate end, but immediately towards some more proximate end.⁷⁵
 - Ultimate end = happiness
 - Our pursuit of an ultimate end is necessary for freedom, not a restriction on freedom.
+- He derived his account of freedom from his account of an action
