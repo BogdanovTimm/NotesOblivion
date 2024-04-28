@@ -1,0 +1,2 @@
+- Animals do not have mastery over their inclination, so that they do not act, but rather are acted on
+- Damascene argues that the difference between being led by nature and leading it lies in whether or not we can oppose a natural desire. Our capacity to oppose it is the basis of our being subject to praise and blame.
