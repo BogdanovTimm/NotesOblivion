@@ -21,5 +21,9 @@
 - Aquinas marks this contrast between rational and non-rational agency by distinguishing determination to a particular good from determination to a universal good. Since the object of the will is the universal good, creatures that lack reason cannot have a will because they cannot grasp a universal good, but are determined to some particular good (1-2 q1 a2 ad3).³⁵ This is why they lack election. Rational agent have a will, that turns them towards universal good, whereas non-rational desires turns only towards particular objects. Non-rational agents make judgements, but only about 1 partucalar thing - hence, their actions also goal-directed, but not rational and free.
 - I direct my own action, instead of simply being moved by features of external objects, in so far as I assess my initial value judgments about external objects in the light of my other value judgments.
 - Soul consists from :
-    - will - rational desire
-    - sensory desire - non-rational desire
+    - Will - Rational Desire
+    - Passions aka Sensory Desire - Non-rational Desire
+- Some passions has ther intellectual twins:
+    - Love
+    - Joy
+    - others
