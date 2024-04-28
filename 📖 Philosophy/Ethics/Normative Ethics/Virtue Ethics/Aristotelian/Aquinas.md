@@ -27,4 +27,4 @@
     - Love
     - Joy
     - others
-- Passions are passive, because they pushes a man to behave independently of his other inclibations
+- Passions are passive, because they pushes a man to behave independently of one's whole nature
