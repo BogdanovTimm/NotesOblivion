@@ -30,3 +30,4 @@
     - Joy
     - others
 - Passions are passive, because they pushes a man to behave independently of one's whole nature
+- Sensory desire is moved by the estimative capacity (aestimativa virtus), so that when a sheep takes a wolf to be an enemy, it is afraid (1a q78 a4).⁶¹ This capacity requires imagination and memory; for the information it conveys (that the wolf is an enemy) is not immediately available to the senses.⁶² In a human being the estimative capacity is the cognitive capacity, or ‘particular reason’, which in turn is moved by universal reason
