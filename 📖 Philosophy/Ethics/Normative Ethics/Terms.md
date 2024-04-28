@@ -66,7 +66,8 @@ Kant (according to some readers) appeals to a priori truths about the abstract f
 
 # Soul
 
-- Rational Part - will aka boulesis
+- Rational Part - will
 - Non-Rational Part:
+    - rational desires aka boulesis
     - appetites aka concupiscent
     - spirit aka irascible
