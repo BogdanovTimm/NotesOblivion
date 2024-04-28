@@ -52,6 +52,6 @@
 - From the fact that deliberating reason is related to opposites it results that the will is capable of going in both directions
 - Aiming, as opposed to merely wishing, requires us to look for means to our end.
 - Mental states leading from will to action:
-    - Aiming at the end
-    - Deliberation - finding means for achieving an end
-    - Election - 
+    1. Aiming at the end
+    2. Deliberation - finding means for achieving an end
+    3. Election - 
