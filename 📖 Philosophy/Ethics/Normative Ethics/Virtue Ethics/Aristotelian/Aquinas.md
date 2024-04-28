@@ -16,3 +16,4 @@
 - Freedom, moral and responsibility reduce to facts about rational agency
 - Virtues require the perfection of the passions as well as the will.
 - We always pursue happiness
+- defends a reduction of the voluntary and of freewill to the exercise of will in rational choice
