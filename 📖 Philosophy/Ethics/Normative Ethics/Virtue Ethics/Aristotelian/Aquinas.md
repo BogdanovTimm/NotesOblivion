@@ -13,3 +13,5 @@
 - Freewill = choice
 - The moral philosopher studies sin as a violation of reason, whereas the theologian studies it as a violation of the divine law.
 - Freedom, moral and responsibility reduce to facts about rational agency
+- Virtues require the perfection of the passions as well as the will.
+- We always pursue happiness
