@@ -54,5 +54,5 @@
 - Mental states leading from will to action:
     1. Aiming at the end
     2. Deliberation - finding means for achieving an end. Deliberation includes questions about what an end consists in.
-    3. Consent
+    3. Consent - Before we can act, we have to engage our capacities to move ourselves; and this ‘engaging’ or ‘application’ of our motive capacities is what Aquinas calls consent.
     4. Election - 
