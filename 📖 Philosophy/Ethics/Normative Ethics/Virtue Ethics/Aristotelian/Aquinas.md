@@ -22,7 +22,9 @@
 - I direct my own action, instead of simply being moved by features of external objects, in so far as I assess my initial value judgments about external objects in the light of my other value judgments.
 - Soul consists from :
     - Will - Rational Desire
-    - Passions aka Sensory Desire - Non-rational Desire
+    - Passions aka Sensory Desires aka Non-Eational desires:
+    - appetites
+    - spiritual part
 - Some passions has ther intellectual twins:
     - Love
     - Joy
