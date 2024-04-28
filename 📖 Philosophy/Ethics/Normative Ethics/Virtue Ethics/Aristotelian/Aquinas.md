@@ -54,6 +54,6 @@
 - Mental states leading from will to action:
     1. Aiming at the end
     2. Deliberation - finding means for achieving an end. Deliberation includes questions about what an end consists in.
-    3. Consent - Before we can act, we have to engage our capacities to move ourselves; and this ‘engaging’ or ‘application’ of our motive capacities is what Aquinas calls consent.
-    4. Election - Consent recognizes something as satisfactory; from this preliminary recognition election picks out one of the satisfactory things as better than another. If we recognize only one thing as satisfactory, the same action is both consent and election; in this case they differ only in definition (ratione tantum). If we recognize several things as satisfactory, we elect one over the others.
+    3. Consent - Before we can act, we have to engage our capacities to move ourselves; and this ‘engaging’ or ‘application’ of our motive capacities is what Aquinas calls consent. This stages check whether a means is possible
+    4. Election - Consent recognizes something as satisfactory; from this preliminary recognition election picks out one of the satisfactory things as better than another. If we recognize only one thing as satisfactory, the same action is both consent and election; in this case they differ only in definition (ratione tantum). If we recognize several things as satisfactory, we elect one over the others. This stage finds one mean as the best all things considered
 - Aquinas' election are not Stoics' assent - because election needs alternatives while assent doesn't
