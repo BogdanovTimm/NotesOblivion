@@ -53,5 +53,5 @@
 - Aiming, as opposed to merely wishing, requires us to look for means to our end.
 - Mental states leading from will to action:
     1. Aiming at the end
-    2. Deliberation - finding means for achieving an end
+    2. Deliberation - finding means for achieving an end. Deliberation includes questions about what an end consists in.
     3. Election - 
