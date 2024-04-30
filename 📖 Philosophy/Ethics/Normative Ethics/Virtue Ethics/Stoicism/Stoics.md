@@ -135,6 +135,7 @@ But Confucius’ point of view is a source of good advice for Zeno only if Zeno 
 - The Stoics disagree with Aristotle about whether passions are not aimedat the good, in so far as they deny the existence of any desires in rational agents that are not focussed on overall good; the passions are misguided rational desires.
 - They agree with Socrates that the source of bad actions is a rational miscalculations of goods
 - We are not free to reject the apparently greater good (Intellectualism)
+- Passions (or pre-passions) makes it that we think that particular action is good on the whole
 
 # Difficulties
 
