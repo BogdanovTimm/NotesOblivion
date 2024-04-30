@@ -58,3 +58,8 @@
     4. Election - Consent recognizes something as satisfactory; from this preliminary recognition election picks out one of the satisfactory things as better than another. If we recognize only one thing as satisfactory, the same action is both consent and election; in this case they differ only in definition (ratione tantum). If we recognize several things as satisfactory, we elect one over the others. This stage finds one mean as the best all things considered
 - Aquinas' election are not Stoics' assent - because election needs alternatives while assent doesn't
 - Our will follows our conception of the overall good, which rests on our comparative estimate of various specif i c goods. Passions inf l uence this comparative estimate by bringing particular goods to our attention and presenting them in a favourable light that alters our estimate of how good they are.
+- The will can influence passions by:
+    - Force:
+        - Restraining
+        - Arousing new passions
+    - ...
