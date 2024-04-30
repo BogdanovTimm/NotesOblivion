@@ -63,3 +63,4 @@
         - Restraining
         - Arousing new passions
     - ...
+- a passion inclines us to value judgments that we would not otherwise have formed (1-2 q9 a2). Under its inf l uence we form particular value judgments (‘it would be good to retaliate for this insult’) whose generalizations (‘it is good to retaliate for insults’) we would not accept if we considered them (q9 a2 ad2). When we are inf l uenced by passions, we do not judge on the basis that we would normally endorse. A passion makes some particular course of action appear more attractive than it would appear otherwise.
