@@ -62,5 +62,6 @@
     - Force:
         - Restraining
         - Arousing new passions
-    - ...
+    - Permission to act on the passions
 - He argues against Stoics' view that passions give us false appearance of a universal goodnes of an action: he thinks that passions give us appearances only of a particular goods: a passion inclines us to value judgments that we would not otherwise have formed (1-2 q9 a2). Under its inf l uence we form particular value judgments (‘it would be good to retaliate for this insult’) whose generalizations (‘it is good to retaliate for insults’) we would not accept if we considered them (q9 a2 ad2). When we are inf l uenced by passions, we do not judge on the basis that we would normally endorse. A passion makes some particular course of action appear more attractive than it would appear otherwise.
+- If the will permits and regulates, we can act on passions without deliberation.³⁷ If the action was wrong, the will made an error by omission; the error depends on a cause or occasion of omission that is subject to the will.³⁸ What I do now without an election on this occasion results from previous election, if I have elected to allow myself to be affected by certain sorts of desires, or if I have declined the opportunity to avoid them.
