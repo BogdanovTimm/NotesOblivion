@@ -71,3 +71,17 @@ Kant (according to some readers) appeals to a priori truths about the abstract f
     - rational desires aka boulesis
     - appetites aka concupiscent
     - spirit aka irascible
+
+# Rationalism  vs Anti-Rationalism
+
+Is the will determined by the strongest passion, as an animal’s choice is determined? 
+
+To answer No is to be a rationalist. 
+To answer Yes is to be an anti-rationalist.
+
+# Intellectualism vs Voluntarism
+
+Is the will determined by the greater good as presented by reason? 
+
+To answer Yes is to be an intellectualist.
+To answer No is to be a voluntarist.
