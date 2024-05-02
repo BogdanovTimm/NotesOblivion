@@ -1,2 +1,3 @@
 - Virtue Rationalism (virtue = to be guided by practical reason) is true
 - Extreme Will-Intellect-Passion Rationalism (thought without desire motivates) is true
+- In this respect Clarke’s extreme intellectualism f i ts his foundationalist and intuitionist epistemology.
