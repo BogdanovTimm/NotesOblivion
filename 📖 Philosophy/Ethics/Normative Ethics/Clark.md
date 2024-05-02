@@ -1,2 +1,2 @@
-- Rationalism (virtue = to be guided by praxtical reason) is true
+- Virtue Rationalism (virtue = to be guided by practical reason) is true
 - Extreme Rationalism (thought without desire motivates) is true
