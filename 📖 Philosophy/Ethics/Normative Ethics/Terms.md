@@ -87,3 +87,8 @@ Is the will determined by the greater good as presented by reason?
 To answer Yes is to be an intellectualist.
 
 To answer No is to be a voluntarist.
+
+# Reasons
+
+- Internal - depend on agent's desires
+- External - do not depend on agent's desires
