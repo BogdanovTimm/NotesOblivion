@@ -79,3 +79,4 @@ and in presenting this end it also gives the will the relevant form (being the w
 - There are both External and Internal reasons
 - insisting on a basic desire for the ultimate good, Aquinas implies that we can grasp external reasons only in relation to each other and to their common end. He is therefore a rationalist about will and passion, since he does not believe that the rational merits of a given action are determined by an antecedent desire with some determinate content. He believes that our desires are directed towards action on the recognition of the rational merits of a course of action.
 - Aquinas believes that his conception of the will and the passions and of their relations allows us to understand the distinction (i) between voluntary and involuntary actions, and (ii) between free and unfree actions.
+- Aquinas cannot reasonably deny that actions on non-rational desires are voluntary; for he agrees with Aristotle that they are open to praise and blame.
