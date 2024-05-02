@@ -153,6 +153,7 @@ Hence we do not show that wealth is not a good if we find that it harms some peo
 - Perhaps it is implicit in Aristotle’s account of self-love; virtuous people love themselves as virtuous because they recognize their rational agency as themselves. Doubts about whether virtue is a component of happiness may also be Aristotelian; for the EN does not speak as explicitly of parts of happiness as the other ethical works do.
 - According to the Aristotelian and Stoic conception, 'boulesis' is essentially rational desire, focussed on the final good.
 - For Aristotle claims that the passions, in contrast to the will (boulean or later concept of Augustine), are not focussed on the overall good
+- Rejects an Extreme Will-Intellect-Passion Rationalism (thought without desire motivates)
 
 # Difficulties
 
