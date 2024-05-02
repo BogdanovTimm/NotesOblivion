@@ -3,3 +3,4 @@
 - The Naturalism is true. But human function consists not in being guided by practical reason
 - Sentimentalism is true: the extent to which we are capable of sympathy defines the extent of concern.
 - Extreme Will-Intellect-Passion Sentimentalism (thought can't motivate without desire) is true. In his view, reason moves us only in so far as it presents means to some independently-desired end; the fact that we desire a certain sort of object explains why other objects are worth choosing.
+- Thought that Aristotle's and the Scholastics' rejection of an Extreme Will-Desire Intellectualism supports his (Hutcheson's) Extreme Will-Intellect-Passion Sentimentalism
