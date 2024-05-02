@@ -80,6 +80,8 @@ To answer Yes is to be an anti-rationalist.
 
 To answer No is to be a rationalist. 
 
+External reasons support Rationalism
+
 # Intellectualism vs Voluntarism
 
 Is the will determined by the greater good as presented by reason? 
