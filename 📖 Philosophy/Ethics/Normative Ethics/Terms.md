@@ -76,9 +76,9 @@ Kant (according to some readers) appeals to a priori truths about the abstract f
 
 Is the will determined by the strongest passion, as an animal’s choice is determined? 
 
-To answer No is to be a rationalist. 
-
 To answer Yes is to be an anti-rationalist.
+
+To answer No is to be a rationalist. 
 
 # Intellectualism vs Voluntarism
 
