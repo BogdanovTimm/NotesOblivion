@@ -72,7 +72,7 @@ Kant (according to some readers) appeals to a priori truths about the abstract f
     - appetites aka concupiscent
     - spirit aka irascible
 
-# Rationalism  vs Anti-Rationalism
+# Rationalism  vs Swntimentalism aka Anti-Rationalism
 
 Is the will determined by the strongest passion, as an animal’s choice is determined? 
 
