@@ -83,3 +83,4 @@ and in presenting this end it also gives the will the relevant form (being the w
 - A morally bad action results when the will breaks out towards action (in actionem prorumpit) either (i) on an apprehension belonging to sense, or (ii) on an apprehension of reason presenting some good different from one’s proper good (10 §1949).
 - Since Aquinas presents his account of the voluntary as an account of the basis of justif i ed praise and blame, he believes that if we are voluntary agents, we also have freewill.
 - My freedom in making the choice depends on whether I freely make the judgment underlying the choice (1a q83 a2 obj1). If freewill is a potentiality, it must be identif i ed with the potentiality that ensures freedom in our judgments
+- To show that freewill is the same as will, Aquinas considers reasons for believing they are different.²⁹
