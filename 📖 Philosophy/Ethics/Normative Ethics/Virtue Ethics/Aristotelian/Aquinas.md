@@ -81,3 +81,4 @@ and in presenting this end it also gives the will the relevant form (being the w
 - Aquinas believes that his conception of the will and the passions and of their relations allows us to understand the distinction (i) between voluntary and involuntary actions, and (ii) between free and unfree actions.
 - Aquinas cannot reasonably deny that actions on non-rational desires are voluntary; for he agrees with Aristotle that they are open to praise and blame.
 - A morally bad action results when the will breaks out towards action (in actionem prorumpit) either (i) on an apprehension belonging to sense, or (ii) on an apprehension of reason presenting some good different from one’s proper good (10 §1949).
+- Since Aquinas presents his account of the voluntary as an account of the basis of justif i ed praise and blame, he believes that if we are voluntary agents, we also have freewill.
