@@ -102,3 +102,4 @@ Aquinas’ description of an ultimate end offers a partial def i nition of a wil
 - Necessary acceptance of Principle of Non-Contradiction aka PNC makes someone a rational subject of belief and knowledge; necessary pursuit of the ultimate good makes someone a rational agent.
 - Following Plato and Aristotle, he believes that a distinct type of desire belongs to each part of the tripartite soul.
 - The desires of the non-rational parts aim at things that we recognize as actual objects of our desires (or means to achieving these objects). The desire of the rational part is directed to things whose properties merit their being desired, not to things that are already desired.
+- Ultimate end is not simply an ordered collection of objects of our basic preferences. We also treat it as including external reasons in support of our basic preferences.
