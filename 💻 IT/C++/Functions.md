@@ -1,3 +1,15 @@
+#                  Public and Private
+
+```cpp
+void publicFunction() {
+    std::cout << "It is a public function";
+}
+
+static void privateFunction() {
+    std::cout << "It is a private function";
+}
+```
+
 #                  Parameters
 
 ##                 Copy vs Original
