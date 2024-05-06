@@ -1,3 +1,7 @@
+#                  What it is?
+
+Struct is a type of a class
+
 ```cpp
 int main() {
     typedef char LongString[100]; // class LongString {char[] variable1 = char[100]}

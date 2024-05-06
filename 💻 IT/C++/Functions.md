@@ -1,3 +1,14 @@
+#                  Const
+
+- Can't change variables of a class
+- Can call only other funcitons with `const`
+
+```cpp
+void getFunction() const {
+    return constVariable;
+}
+```
+
 #                  Public and Private
 
 ```cpp
