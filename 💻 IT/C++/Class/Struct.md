@@ -1,6 +1,6 @@
 #                  What it is?
 
-Struct is a type of a class
+Class with a default private modifiers, lol.
 
 ```cpp
 int main() {
