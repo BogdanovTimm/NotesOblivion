@@ -103,3 +103,4 @@ Aquinas’ description of an ultimate end offers a partial def i nition of a wil
 - Following Plato and Aristotle, he believes that a distinct type of desire belongs to each part of the tripartite soul.
 - The desires of the non-rational parts aim at things that we recognize as actual objects of our desires (or means to achieving these objects). The desire of the rational part is directed to things whose properties merit their being desired, not to things that are already desired.
 - Ultimate end is not simply an ordered collection of objects of our basic preferences. We also treat it as including external reasons in support of our basic preferences.
+- If this feature of the will implies that we desire goods that are good independently of our desiring them, so that our desiring them does not constitute their goodness, our conception of the ultimate end appeals to a standard of perfection beyond mere comprehensiveness.
