@@ -1,0 +1,1 @@
+- Anselm argues that a genuine concern for moral rightness in itself requires us to transcend our natural desire for happines
