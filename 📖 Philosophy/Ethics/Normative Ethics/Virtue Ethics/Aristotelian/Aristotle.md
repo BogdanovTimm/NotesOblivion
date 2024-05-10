@@ -155,6 +155,7 @@ Hence we do not show that wealth is not a good if we find that it harms some peo
 - For Aristotle claims that the passions, in contrast to the will (boulean or later concept of Augustine), are not focussed on the overall good
 - Rejects an Extreme Will-Intellect-Passion Rationalism (thought without desire motivates)
 - According to Aristotle, we may be responsible for falling ill, by ‘living incontinently and not following the advice of the doctors’; in that case he is voluntarily ill (1114a15–16).
+- Aristotle says tha tthe theoretical sudies are the best way to attain different goods that happiness consists of, but he does not argues that theoretical study completely satisfies them all: it needs to be our main activity, but there are many other.
 
 # Difficulties
 
