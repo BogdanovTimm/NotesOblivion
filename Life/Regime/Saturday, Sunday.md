@@ -9,5 +9,5 @@
 - 18:00 - 19:00 - PskovSU stuff/ETHICS
 - 19:00 - 19:30 - Eating
 - 19:30 - 22:00 - ETHICS
-- 22:00 - 23:00 - Bath/Memes
+- 22:00 - 23:00 - Bath/ETHICS
 - 23:00 - 07:30 - Zzz Zzz Zzz
