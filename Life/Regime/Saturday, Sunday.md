@@ -3,10 +3,12 @@
 - 10:00 - 11:00 - Memes
 - 11:00 - 13:00 - PskovGU stuff
 - 13:00 - 13:30 - Eating
-- 13:30 - 14:30 - Walking
-- 14:30 - 16:00 - PskovGU stuff
-- 16:00 - 16:30 - Memes
-- 16:30 - 18:00 - PskovGU stuff
-- 18:00 - 18:30 - Eating
-- 18:30 - 23:00 - E T H I C S
+- 13:30 - 15:30 - Walking
+- 15:30 - 17:00 - PskovGU stuff
+- 17:00 - 18:00 - Memes
+- 18:00 - 19:00 - PskovGU stuff/ETHICS
+- 19:00 - 19:30 - Eating
+- 19:30 - 22:00 - E T H I C S
+- 22:00 - 22:30 - Bath/Memes
+- 
 - 23:00 - 07:30 - Zzz Zzz Zzz
