@@ -1,14 +1,13 @@
 - 07:30 - 08:30 - Pooping, cooking, eating, brushing teeth
-- 08:30 - 10:00 - PskovGU stuff
+- 08:30 - 10:00 - PskovSU stuff
 - 10:00 - 11:00 - Memes
-- 11:00 - 13:00 - PskovGU stuff
+- 11:00 - 13:00 - PskovSU stuff
 - 13:00 - 13:30 - Eating
 - 13:30 - 15:30 - Walking
-- 15:30 - 17:00 - PskovGU stuff
+- 15:30 - 17:00 - PskovSU stuff
 - 17:00 - 18:00 - Memes
-- 18:00 - 19:00 - PskovGU stuff/ETHICS
+- 18:00 - 19:00 - PskovSU stuff/ETHICS
 - 19:00 - 19:30 - Eating
-- 19:30 - 22:00 - E T H I C S
-- 22:00 - 22:30 - Bath/Memes
-- 
+- 19:30 - 22:00 - ETHICS
+- 22:00 - 23:00 - Bath/Memes
 - 23:00 - 07:30 - Zzz Zzz Zzz
