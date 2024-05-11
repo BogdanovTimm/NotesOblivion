@@ -4,7 +4,7 @@
 - 11:00 - 13:00 - PskovSU stuff
 - 13:00 - 13:30 - Eating
 - 13:30 - 15:30 - Walking
-- 15:30 - 17:00 - PskovSU stuff
+- 15:30 - 17:00 - PskovSU stuff/ETHICS
 - 17:00 - 18:00 - Memes
 - 18:00 - 19:00 - PskovSU stuff/ETHICS
 - 19:00 - 19:30 - Eating
