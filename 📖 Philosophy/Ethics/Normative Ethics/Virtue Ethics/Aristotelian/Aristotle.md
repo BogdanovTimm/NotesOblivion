@@ -156,6 +156,7 @@ Hence we do not show that wealth is not a good if we find that it harms some peo
 - Rejects an Extreme Will-Intellect-Passion Rationalism (thought without desire motivates)
 - According to Aristotle, we may be responsible for falling ill, by ‘living incontinently and not following the advice of the doctors’; in that case he is voluntarily ill (1114a15–16).
 - Aristotle says tha tthe theoretical sudies are the best way to attain different goods that happiness consists of, but he does not argues that theoretical study completely satisfies them all: it needs to be our main activity, but there are many other.
+- Aristotle insists that the right election requires a virtuous state of character (1139a33–5; 1144a20–2), and that the right end appears only to the virtuous person (1144a29–b1; 1145a4–6).
 
 # Difficulties
 
