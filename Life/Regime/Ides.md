@@ -1,0 +1,2 @@
+- Make Monday-Thursday same, but Friday-Sunday different, so your life appears full and intresting to you (while sleep and eating are always at the same time)
+- 
