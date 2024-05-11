@@ -113,3 +113,4 @@ Aquinas’ description of an ultimate end offers a partial def i nition of a wil
 - Prudence is concernef with the means to the ends
 - Practical Reason discovers the right ends
 - Passions help or mislead us by focusing us on the particular nuances of a situation
+- People who ho brave actions for honour must be praised, though not that much as the ones, that do brave actions whethrr or not they are praised
