@@ -1,15 +1,15 @@
 - 07:30 - 08:20 - Pooping, cooking, eating, brushing teeths
 - 08:20 - 09:00 - Driving to work in silence
-- 09:00 - 10:00 - PskovGU stuff
+- 09:00 - 10:00 - PskovGU stuff/Whatever
 - 10:00 - 12:00 - Job
-- 12:00 - 13:00 - PskovGU stuff
+- 12:00 - 13:00 - PskovGU stuff/Whatever
 - 13:00 - 13:15 - Eating
-- 13:15 - 14:00 - Walking with music or in silence
+- 13:15 - 14:00 - Walking
 - 14:00 - 17:00 - Job
-- 17:00 - 18:10 - Listening to Master Degree lessons
-- 18:10 - 18:30 - Driving home + Listening to Master Degree lessons
-- 18:30 - 20:00 - Listening to Master Degree lessons + Eating
-- 20:00 - 21:00 - PskovGU stuff/ETHICS
-- 21:00 - 22:00 - Memes
+- 17:00 - 18:10 - Listening to Master Degree lessons/Whatever
+- 18:10 - 18:30 - Driving home + Listening to Master Degree lessons/Whatever
+- 18:30 - 20:00 - Listening to Master Degree lessons/PskovGU stuff/Whatever + Eating
+- 20:00 - 21:00 - PskovGU stuff/Whatever
+- 21:00 - 22:00 - Whatever
 - 22:00 - 23:00 - Bath/ETHICS
 - 23:00 - 07:30 - Zzz Zzz Zzz
