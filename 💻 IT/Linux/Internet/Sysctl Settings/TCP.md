@@ -1,4 +1,4 @@
-1. `net.core.netdev_max_backlog`  - size of a 1st queue of a TCP-Requests - `Receive Queue`     - request for starting of a handshake
+1. `net.core.netdev_max_backlog`  - size of a 1st queue of a TCP-Requests - `Receive Queue` aka Backlog - request for starting of a handshake. You can see counter of packets that was dropped because of this value by watching the 2nd value in `/proc/net/softnet_stat`. Changing this parameter will afftect something only if RPS is enabled.
 2. `net.ipv4.tcp_max_syn_backlog` - size of a 2nd queue of a TCP-Requests - `SYN-Backlog-Queue` - for a connections in which `SYN+ACK` mesasge was send to a client from a server. This connections characterised as `SYN_RECV`. `netstat -an | grep SYN_RECV | wc -l` - must be less than `net.ipv4.tcp_max_syn_backlog`. Если в состоянии "SYN_RECV" находятся много соединений, то можно также подстроить продолжительность нахождения SYN-пакета в этой очереди by `net.ipv4.tcp_fin_timeout`.
 3. `net.core.somaxconn`           - size of a 3d queue of a TCP-Requests - `Accept Queue`       - queue for a client
 4. `net.ipv4.tcp_syncookies` - Если SYN cookie отключены, то клиент просто повторяет отправку SYN-пакета. Если включены (net.ipv4.tcp_syncookies), то соединение не создается и не помещается в SYN backlog, но клиенту отправляется SYN+ACK так, как если бы это было сделано на самом деле. SYN cookie могут быть полезны при нормальной нагрузке, но при всплесках трафика некоторая информация о соединении может быть потеряна и клиент столкнется с проблемами, когда соединение будет установлено. 
@@ -17,9 +17,10 @@
 17. Buffers for network connections:
 ```
 net.core.wmem_max
-net.core.rmem_max
-net.core.rmem_default
+net.core.rmem_max - (network level) socket's backlog length
+net.core.rmem_default - (network level)
 net.core.wmem_default
+net.core.netdev_budget - Budget per CPU. You can see counter of packets that was dropped because of this values by watching the 3d value in `/proc/net/softet_stat`
 net.ipv4.tcp_rmem
 net.ipv4.tcp_wmem 
 ```
