@@ -10,8 +10,8 @@ media discourse
 3. **Where do you live:** I live in Pskov.
 4. **When did you graduate from the University:** I graduated from Education and social sciences department of Pskov State University in 2022.
 5. **What were you especially interested in when a student:** When I was a student, I was especially interested in psychoanalysis and philosophy.
-6. **What conferences did you take part in:** I take part in psychological conference in Pskov State University for students. Also, I take part in a conference about philosophy in Pskov State University. Recently I take a part in a 
-7. **Have you got any publications:** Soon should be publicated my article 'Value-Meaning and action components of the worldview of student youth'.
+6. **What conferences did you take part in:** I took part in psychological conference in Pskov State University for students. Also, I take part in a conference about philosophy in Pskov State University. Recently've taken part in a 
+7. **Have you got any publications:** Soon my article Value-Meaning and action components of the worldview of student youth' should be published 'Value-Meaning and action components of the worldview of student youth'.
 8. **What was the theme of your graduation paper:** The theme of my graduation paper was "Personal conditioning of behavioral styles in conflict situations".
 9. **Who is your scientific advisor (guide):** My scientific advisor is Parfenova Nadezhda Borisovna, PhD in Psychology, assistant professor of `Институт образования и социальных наук, Кафедра психологии и сопровождения развития ребенка` Pskov State University.
 10. **What is the theme of your thesis (dissertation):** The theme of my dissertation is "Adolescent student worldview attitudes under the conditions of involvement in media discourse".
