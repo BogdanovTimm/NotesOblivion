@@ -15,7 +15,7 @@ media discourse
 8. **What was the theme of your graduation paper:** The theme of my graduation paper was "Personal conditioning of behavioral styles in conflict situations".
 9. **Who is your scientific advisor (guide):** My scientific advisor is Parfenova Nadezhda Borisovna, PhD in Psychology, assistant professor of `Институт образования и социальных наук, Кафедра психологии и сопровождения развития ребенка` Pskov State University.
 10. **What is the theme of your thesis (dissertation):** The theme of my dissertation is "Adolescent student worldview attitudes under the conditions of involvement in media discourse".
-11. **Where do you work:** currently I have no job.
+11. **Where do you work:** currently I have no job. No
 12. **Are you a post-graduate student:** I am a postgraduate student of the Chair of `??? Psychology and ???`.
 13. **What have you managed to accomplish in your investigation already:** I put forward a hypothesis, found appropriate psychological tests and defined dissertation's structure. Also, I've developed a methodic for finding students' values and meanings.
 14. **How far are you on it**: actually it is same question as previous one
