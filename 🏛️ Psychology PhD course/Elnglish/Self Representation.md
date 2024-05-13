@@ -6,7 +6,7 @@ media discourse
 # Self-representation
 
 1. **Introduce yourself:** My name is Timofey. 
-2. **When did you leave school:** I left school in 2017.
+2. **When did you leave school:** I graduated school in 2017.
 3. **Where do you live:** I live in Pskov.
 4. **When did you graduate from the University:** I graduated from Education and social sciences department of Pskov State University in 2022.
 5. **What were you especially interested in when a student:** When I was a student, I was especially interested in psychoanalysis and philosophy.
