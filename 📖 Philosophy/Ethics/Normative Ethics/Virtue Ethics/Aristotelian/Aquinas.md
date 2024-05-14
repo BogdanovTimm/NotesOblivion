@@ -122,3 +122,4 @@ Incontinents are mistaken because they listen to the wrong sort of passion. We a
 - In sins from passion and in sins from deliberate fault, deliberation is prematurely halted and diverted. In sins from passion this is because of the suddenness of the passion. In sins from deliberate fault, deliberation stops too soon because it is warped even when we are not subject to a sudden passion. In both cases, we do not complete deliberation as we should. 
 - Aquinas believes that sin from deliberate fault is compatible with the absence of vice.
 - Incontinent person sees value of virtues, but also sees that external goods are equally important. Vicious person doesn't value virtues at all. 
+- Aquinas says that virtuous man can sin
