@@ -123,3 +123,5 @@ Incontinents are mistaken because they listen to the wrong sort of passion. We a
 - Aquinas believes that sin from deliberate fault is compatible with the absence of vice.
 - Incontinent person sees value of virtues, but also sees that external goods are equally important. Vicious person doesn't value virtues at all. 
 - Aquinas says that virtuous man can sin
+- He didn't thought that morality needs a ligislator. We see morality using reason
+-He tends to use ‘ought’ (debere) to cover the broad area of moral requirements in general, and to use ‘oblige’ when he is thinking of a duty as imposed by law.
