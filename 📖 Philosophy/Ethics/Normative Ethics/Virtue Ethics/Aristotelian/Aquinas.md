@@ -125,3 +125,4 @@ Incontinents are mistaken because they listen to the wrong sort of passion. We a
 - Aquinas says that virtuous man can sin
 - He didn't thought that morality needs a ligislator. We see morality using reason
 -He tends to use ‘ought’ (debere) to cover the broad area of moral requirements in general, and to use ‘oblige’ when he is thinking of a duty as imposed by law.
+- God does not owe grace or glory to us, except on the assumption that he has ordered things this way; but he owes it to himself to fulf i ll his own ordering
