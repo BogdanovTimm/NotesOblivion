@@ -8,3 +8,4 @@
 - In his view, the difference between simply entertaining a proposition and believing it consists in the degree of vividness with which you entertain it; it is an introspectible property of the idea itself.
 - He argues that the attempt to f i nd a rational basis for moral beliefs is a philosophical undertaking whose failure makes no difference to the ordinary way we hold our beliefs. Just as our belief that the sun will rise tomorrow is undisturbed even when we see that it lacks rational justif i cation, our moral sentiments are unaffected even when we see that they lack rational foundation.
 - Sentimentalism is true: the extent to which we are capable of sympathy defines the extent of concern.
+- The anti-rationalist position of Hutcheson claims that the different specific ends people pursue reflect their different desires, inclinations, and attitudes, and must ultimately be explained by these, rather than by their different rational beliefs about anything. 
