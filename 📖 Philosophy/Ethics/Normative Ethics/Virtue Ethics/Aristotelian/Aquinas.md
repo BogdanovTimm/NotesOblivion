@@ -142,4 +142,5 @@ With these qualif i cations and reservations, Aquinas takes the three aspects of
 - Aquinas claims that natural inclination leads us not only to the f i rst principle, that good is to be pursued and evil avoided, but also to some more def i nite principles. He divides these secondary principles into four groups: (1) The highest precepts.
 (2) Precepts (such as those in the Decalogue) easily reached from the highest precepts.
 (3) Subordinate precepts requiring more ref l exion, derived as conclusions from premisses.
-(4) Precepts derived as determinations rather than conclusions. 
+(4) Precepts derived as determinations rather than conclusions.
+- Rational agents has duties for themselves 
