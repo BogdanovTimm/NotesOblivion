@@ -143,4 +143,5 @@ With these qualif i cations and reservations, Aquinas takes the three aspects of
 (2) Precepts (such as those in the Decalogue) easily reached from the highest precepts.
 (3) Subordinate precepts requiring more ref l exion, derived as conclusions from premisses.
 (4) Precepts derived as determinations rather than conclusions.
-- Rational agents has duties for themselves 
+- Rational agents has duties for themselves
+- Aquinas remarks, for instance, that self-regarding precepts are more diff i cult to recognize as duties, but our awareness of them is less dimmed by sin than is the awareness of other-regarding precepts. We more readily recognize them as the source of virtues if we are arguing from the ultimate end to the virtuous character. 
