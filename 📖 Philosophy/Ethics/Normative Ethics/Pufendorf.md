@@ -1,1 +1,2 @@
 - He is natural law moralist
+- Pufendorf attacks on appeals to natural desire for sociability 
