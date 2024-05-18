@@ -168,3 +168,5 @@ Aquinas believes that some specif i c legal precepts can be defended by appeal t
     - Viscious - recognizes good universal principles, but thinks that he found an exception to them, not because of a good inquery, but because of ignorance of these universal principles, caused by his desires
 - Basic principles lack the sort of moral content that would allow us to say that we grasp them by intuition and deduction. 
 - Our tendency to draw mistaken conclusions from the most common principles is the reason why God revealed the Decalogue to us
+- Temperance - you should not deviate from reason because of appetites
+- Bravery - you should not deviate from the correct judgment of reason because of fear or rashness
