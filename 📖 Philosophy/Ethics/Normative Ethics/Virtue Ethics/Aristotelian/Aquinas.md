@@ -166,3 +166,4 @@ Aquinas believes that some specif i c legal precepts can be defended by appeal t
 - Types of bad people:
     - Incontinence - pursues good aims, but fails to acquire them in practise, because of his desires
     - Viscious - recognizes good universal principles, but thinks that he found an exception to them, not because of a good inquery, but because of ignorance of these universal principles, caused by his desires
+- Basic principles lack the sort of moral content that would allow us to say that we grasp them by intuition and deduction. 
