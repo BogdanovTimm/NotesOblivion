@@ -151,5 +151,5 @@ Aquinas believes that some specif i c legal precepts can be defended by appeal t
 - It would be just about possible to interpret Aquinas as a sort of anti-rationalist, if we focussed exclusively on his claims about our grasp of the ultimate end; for he agrees that we do not have any choice about whether to prescribe the pursuit of this to the will. 
 - Types of reson:
     - Practical Reasons:
-        - Synderesis aka Universal Conscience — The correct ends for human life are fixed, and are the objects of our natural inclination, but grasped by practical reason. Deals with universal principles. 
+        - Synderesis aka Universal Conscience — The correct ends for human life are fixed, and are the objects of our natural inclination, but grasped by practical reason. Deals with universal principles. Always correct, even in bad people. 
         - Particular Conscience — practical reason that follows the desire for the end and finds means to that end. This sort of practical reason belongs to prudence. Deals with particular principles.
