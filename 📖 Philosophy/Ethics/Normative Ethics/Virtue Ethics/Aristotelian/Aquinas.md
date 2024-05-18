@@ -165,4 +165,4 @@ Aquinas believes that some specif i c legal precepts can be defended by appeal t
 - Nobody thinks that rational agents should simply be treated either as mere resources for securing his ends or as mere obstacles in his way. But somebody may thinks that they are allowed to make an exception to this general attitude. 
 - Types of bad people:
     - Incontinence - pursues good aims, but fails to acquire them in practise, because of his desires
-    - Viscious - recognizes good universal principles, but thinks that he found an exception to them
+    - Viscious - recognizes good universal principles, but thinks that he found an exception to them, not because of a good inquery, but because of ignorance of these universal principles, caused by his desires
