@@ -170,3 +170,4 @@ Aquinas believes that some specif i c legal precepts can be defended by appeal t
 - Our tendency to draw mistaken conclusions from the most common principles is the reason why God revealed the Decalogue to us
 - Temperance - you should not deviate from reason because of appetites
 - Bravery - you should not deviate from the correct judgment of reason because of fear or rashness
+- Since the natural law includes specif i c principles that are not within the scope of universal conscience, we need the intellectual virtue that grasps them.
