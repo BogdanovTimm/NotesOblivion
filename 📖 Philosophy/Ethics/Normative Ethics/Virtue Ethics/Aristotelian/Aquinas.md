@@ -171,3 +171,4 @@ Aquinas believes that some specif i c legal precepts can be defended by appeal t
 - Temperance - you should not deviate from reason because of appetites
 - Bravery - you should not deviate from the correct judgment of reason because of fear or rashness
 - Since the natural law includes specif i c principles that are not within the scope of universal conscience, we need the intellectual virtue that grasps them.
+- It is reasonable to impose whatever control over appetite is needed for action in accordance with reason
