@@ -172,3 +172,5 @@ Aquinas believes that some specif i c legal precepts can be defended by appeal t
 - Bravery - you should not deviate from the correct judgment of reason because of fear or rashness
 - Since the natural law includes specif i c principles that are not within the scope of universal conscience, we need the intellectual virtue that grasps them.
 - It is reasonable to impose whatever control over appetite is needed for action in accordance with reason
+- Prudence ensures the right motive for the action; for the prudent person’s deliberation about happiness results in the right determinate conception of happiness, and this conception forms the end of the virtuous person’s actions. Aquinas follows Aristotle not only in claiming that prudence requires the moral virtues (1-2 q57 a4;
+q58 a3; a5), but also in claiming that they require prudence. His reason for the second claim is Aristotelian. Moral virtue requires not only the right action, but also the right way of doing it. The right way of doing it must proceed from reason, not only from impulse or passion;⁴⁶ to proceed from reason it must proceed from correct election. 
