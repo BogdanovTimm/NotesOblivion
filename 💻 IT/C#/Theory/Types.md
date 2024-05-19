@@ -1,0 +1,27 @@
+- `void`
+- Pointers
+- References:
+    - `Class`
+    - `Interface`
+    - `Delegate`
+    - Arrays
+- Values:
+    - `Enum`
+    - Structs:
+        - `bool` - 1 bit
+        - User defined
+        - Numeric:
+            - Decimal
+            - Reals:
+                - `float` - 4 bytes
+                - `Double` - 8 bytes
+            - Integral:
+                - `Sbyte`
+                - `byte` - 1 byte
+                - `Char` - 2 bytes
+                - `Short` - 2 bytes
+                - `ushort` - 2 bytes
+                - `int` - 4 bytes
+                - `uint` - 4 bytes
+                - `long` - 8 bytes
+                - `ulong` - 8 bytes
