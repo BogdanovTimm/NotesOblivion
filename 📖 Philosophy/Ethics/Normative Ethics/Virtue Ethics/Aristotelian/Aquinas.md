@@ -178,3 +178,4 @@ q58 a3; a5), but also in claiming that they require prudence. His reason for the
 - Universal conscience can't grasp the ends of the virtues. We need prudence for it. Hence, we are free to be virtuous or viscous
 - Universal conscience recognizes that good is to be done and evil avoided, and that we achieve the good in acting in accordance with reason
 - We do not aim at the best satisfaction of our desires. We aim at perfection
+- Deliberation shows that the moral precepts of the Decalogue are required by the virtues, and that we have reason to care about the interests of other people for their own sakes. 
