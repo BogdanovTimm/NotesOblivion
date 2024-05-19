@@ -176,4 +176,5 @@ Aquinas believes that some specif i c legal precepts can be defended by appeal t
 q58 a3; a5), but also in claiming that they require prudence. His reason for the second claim is Aristotelian. Moral virtue requires not only the right action, but also the right way of doing it. The right way of doing it must proceed from reason, not only from impulse or passion;⁴⁶ to proceed from reason it must proceed from correct election. 
 - Those who do the generous action from the right motive are not generous because they believe that the generous action will have precisely this effect on the other person, but because they act on their settled conviction about the value of this sort of action. Their conviction expresses the agent’s conception of the ends worth pursuing, not simply her views about the most effective way to reach the ends she has set herself
 - Universal conscience can't grasp the ends of the virtues. We need prudence for it. Hence, we are free to be virtuous or viscous
-- Universal conscience recognizes that good is to be done and evil avoided, and that we achieve the good in acting in accordance with reason 
+- Universal conscience recognizes that good is to be done and evil avoided, and that we achieve the good in acting in accordance with reason
+- We do not aim at the best satisfaction of our desires. We aim at perfection 
