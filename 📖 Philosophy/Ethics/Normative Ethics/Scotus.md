@@ -6,3 +6,4 @@
 - Christian doctrine to require the decisive rejection of an Aristotelian framework
 - Scotus quotes Augustine at crucial places to defend departures from Aquinas’ Aristotelian position
 - Virtues are in the will as opposed to the passions
+- Rejects Reciprocity of virtues 
