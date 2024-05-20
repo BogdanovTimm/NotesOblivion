@@ -182,4 +182,5 @@ q58 a3; a5), but also in claiming that they require prudence. His reason for the
 - All other virtues besides the cardinal ones, are parts of the cardinal ones
 - By organizing the virtues around the cardinal virtues, Aquinas argues that the virtues do not conf l ict, and especially that recognized ‘pagan’ virtues do not conf l ict with ‘Christian’ virtues. 
 - Magnanimity strengthens us in the pursuit of appropriately great actions
-- Humility restrains us from the distractions that would result from illusions about our own importance; 
+- Humility restrains us from the distractions that would result from illusions about our own importance;
+- If we object to magnanimity because it includes contempt for others, Aquinas answers that this contempt is contempt for the evil aims of others. 
