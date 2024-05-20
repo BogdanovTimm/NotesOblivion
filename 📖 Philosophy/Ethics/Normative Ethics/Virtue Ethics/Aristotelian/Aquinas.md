@@ -181,3 +181,5 @@ q58 a3; a5), but also in claiming that they require prudence. His reason for the
 - Deliberation shows that the moral precepts of the Decalogue are required by the virtues, and that we have reason to care about the interests of other people for their own sakes. 
 - All other virtues besides the cardinal ones, are parts of the cardinal ones
 - By organizing the virtues around the cardinal virtues, Aquinas argues that the virtues do not conf l ict, and especially that recognized ‘pagan’ virtues do not conf l ict with ‘Christian’ virtues. 
+- Magnanimity strengthens us in the pursuit of appropriately great actions
+- Humility restrains us from the distractions that would result from illusions about our own importance; 
