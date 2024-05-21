@@ -185,3 +185,4 @@ q58 a3; a5), but also in claiming that they require prudence. His reason for the
 - Humility restrains us from the distractions that would result from illusions about our own importance;
 - If we object to magnanimity because it includes contempt for others, Aquinas answers that this contempt is contempt for the evil aims of others. 
 - Cardinal virtues are always same. Others may change over time
+- temperate person does what is f i tting for a human being, as opposed to a non-rational creature 
