@@ -5,6 +5,8 @@
     - Non-instrumental - needed for themselves
     - Internal - in our control
     - External - out of our control
+    - Qualified - it's good only within some circumstances 
+    - Unqualified - it's good in all circumstances 
 
 # Values
 
