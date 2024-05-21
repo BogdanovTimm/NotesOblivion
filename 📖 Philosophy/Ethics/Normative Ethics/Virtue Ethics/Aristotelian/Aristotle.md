@@ -163,3 +163,4 @@ Hence we do not show that wealth is not a good if we find that it harms some peo
 # Difficulties
 
 - Though he is sympathetic to compatibilism, he has no theory of determinism/indeterminism
+- Aristotle fails to explain fully why the other-regarding virtue of justice must be included among the virtues that are necessary for an agent’s happiness
