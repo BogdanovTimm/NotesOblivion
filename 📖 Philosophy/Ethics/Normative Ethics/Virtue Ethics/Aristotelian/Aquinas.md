@@ -186,3 +186,4 @@ q58 a3; a5), but also in claiming that they require prudence. His reason for the
 - If we object to magnanimity because it includes contempt for others, Aquinas answers that this contempt is contempt for the evil aims of others. 
 - Cardinal virtues are always same. Others may change over time
 - temperate person does what is f i tting for a human being, as opposed to a non-rational creature 
+- He rejects the Stoic doctrine that the honestum is the only good. He agrees that it is the principal human good, because it belongs to reason, which is principal in a human being; but since it is not the only human good, sorrow can reasonably be directed to the loss of non-moral goods 
