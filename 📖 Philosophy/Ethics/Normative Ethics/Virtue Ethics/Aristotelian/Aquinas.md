@@ -190,3 +190,7 @@ q58 a3; a5), but also in claiming that they require prudence. His reason for the
 - Aquinas, therefore, treats honestas (also translated as fine, as opposite to the pleasant and utility) as moral goodness, a good that is discovered by reason, specifying what f i ts rational nature, and not only good for the individual, but also meritorious because of its contribution to the common good maintained by justice. 
 - As we will see, he recognizes the cumulative importance of Aquinas’ scattered remarks, and presents a connected account of moral rightness (honestas) as fitness to rational nature.
 - Once we see that he is committed to an account of moral virtue that gives this central place to the impartial, rational outlook concerned with the common good, we can ask more precise questions about his description of prudence and its relation to the moral virtues. 
+
+# Difficulties
+
+-  Aquinas does not describe the inclination in much detail.⁸⁰ In particular, he does not make it clear how a bare inclination towards society supports a demand to treat others on some basis of equality. This lack of detail in Aquinas corresponds to a similar gap in Aristotle, who also fails to explain fully why the other-regarding virtue of justice must be included among the virtues that are necessary for an agent’s happiness.⁸¹ 
