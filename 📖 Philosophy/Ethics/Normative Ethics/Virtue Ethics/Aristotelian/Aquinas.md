@@ -195,6 +195,7 @@ q58 a3; a5), but also in claiming that they require prudence. His reason for the
     - Special - he don't agrees with Aristotle that it is concerned only with external goods 
     - General 
 - He takes it for granted that general justice considers the good of individuals mediately (2-2 q58 a7 ad1), and he does not suggest that the common good might conflict with the good of this or that particular individual. 
+- Prudence arranges actions to aim at the ultimate end, but brave people do not focus directly on this end in particular actions; they aim to act appropriately for their state of character.
 
 # Difficulties
 
