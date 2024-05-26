@@ -190,6 +190,7 @@ q58 a3; a5), but also in claiming that they require prudence. His reason for the
 - Aquinas, therefore, treats honestas (also translated as fine, as opposite to the pleasant and utility) as moral goodness, a good that is discovered by reason, specifying what f i ts rational nature, and not only good for the individual, but also meritorious because of its contribution to the common good maintained by justice. 
 - As we will see, he recognizes the cumulative importance of Aquinas’ scattered remarks, and presents a connected account of moral rightness (honestas) as fitness to rational nature.
 - Once we see that he is committed to an account of moral virtue that gives this central place to the impartial, rational outlook concerned with the common good, we can ask more precise questions about his description of prudence and its relation to the moral virtues. 
+- While both types of justice are concerned with our relations to other people, general justice is properly concerned with directing different people’s actions towards a common good, whereas special justice is concerned with the relations of one individual to another.
 
 # Difficulties
 
