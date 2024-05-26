@@ -196,6 +196,7 @@ q58 a3; a5), but also in claiming that they require prudence. His reason for the
     - General 
 - He takes it for granted that general justice considers the good of individuals mediately (2-2 q58 a7 ad1), and he does not suggest that the common good might conflict with the good of this or that particular individual. 
 - Prudence arranges actions to aim at the ultimate end, but brave people do not focus directly on this end in particular actions; they aim to act appropriately for their state of character.
+- Eudaemonist deliberation justifies the cultivation of bravery as a virtue, but it does not replace the normal reflexions of the brave person facing a particular choice. 
 
 # Difficulties
 
