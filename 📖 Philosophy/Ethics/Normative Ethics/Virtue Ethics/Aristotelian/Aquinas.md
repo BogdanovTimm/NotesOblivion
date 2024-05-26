@@ -191,6 +191,9 @@ q58 a3; a5), but also in claiming that they require prudence. His reason for the
 - As we will see, he recognizes the cumulative importance of Aquinas’ scattered remarks, and presents a connected account of moral rightness (honestas) as fitness to rational nature.
 - Once we see that he is committed to an account of moral virtue that gives this central place to the impartial, rational outlook concerned with the common good, we can ask more precise questions about his description of prudence and its relation to the moral virtues. 
 - While both types of justice are concerned with our relations to other people, general justice is properly concerned with directing different people’s actions towards a common good, whereas special justice is concerned with the relations of one individual to another.
+- There is 2 type of justice :
+    - Special - he don't agrees with Aristotle that it is concerned only with external goods 
+    - General 
 
 # Difficulties
 
