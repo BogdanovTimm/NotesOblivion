@@ -205,6 +205,9 @@ q58 a3; a5), but also in claiming that they require prudence. His reason for the
 - God is a cause of that we sin statistically. But God isn't the cause of particular sin. 
 - Holy Spirit only goves to us best arguments. Arguments that we will choose by ourselves
 - One sort of happiness is proportionate to human nature, which human beings are capable of achieving through principles of their own nature. Another sort is a happiness exceeding human nature, which a human being can achieve only by divine power, by some sort of sharing in divinity. Aquinas believes, as Aristotle does, that ‘through a virtue a human being is perfected for the acts by which he is directed towards happiness’; and so, since there are two kinds of happiness, two kinds of virtues direct us towards them. Since the second kind of happiness is beyond human ability, the virtue that directs us towards it is also beyond our ability, and hence is infused in us by the grace of God (1-2 q62 a1). This kind of virtue supports Augustine’s claim that ‘the whole life of unbelievers is sin, and nothing is good without the highest good’ (q63 a2 obj1). Aquinas believes Augustine’s claim is false of the acquired virtues, but true of the infused virtues 
+- The three primary infused virtues are the theological virtues of faith, hope, and charity.
+They turn us towards supernatural happiness in so far as they turn us immediately to God.
+Since supernatural happiness is our complete and unqualified ultimate good, the virtues that are infused with charity are the only complete and unqualified virtues; for moral virtue requires prudence, and complete prudence has to be directed towards the right ultimate end, which is set by charit 
 
 # Difficulties
 
