@@ -208,6 +208,7 @@ q58 a3; a5), but also in claiming that they require prudence. His reason for the
 - The three primary infused virtues are the theological virtues of faith, hope, and charity.
 They turn us towards supernatural happiness in so far as they turn us immediately to God.
 Since supernatural happiness is our complete and unqualified ultimate good, the virtues that are infused with charity are the only complete and unqualified virtues; for moral virtue requires prudence, and complete prudence has to be directed towards the right ultimate end, which is set by charit 
+- The acquired and the infused virtues have the same matter. Temperance seeks the mean in the enjoyment of physical pleasures; as we discover further ends that are promoted by restraint in this enjoyment, we discover further reasons for restraint. If, for instance, an athlete needs to eat a lighter meal to stay in training or a scholar needs to eat a lighter meal to keep a clear head, they discover different applications for temperance. This is why the infused moral virtues are still called by the names of the acquired moral virtues, even though they differ in species, because of their different objects ( 
 
 # Difficulties
 
