@@ -42,3 +42,4 @@
 - No more certain path to the love of God should be believed possible than charity of a human being towards a human being
 - critique of pagan virtue appeals to standards that pagan moralists themselves must accept. A pagan moralist has to explain why people seem to fail in their attempts to live up to the standards set by pagan virtues. Augustine suggests that this pervasive failure is best understood by reference to an unavoidable tendency to sin, and that the more anxious we are about observing the standards of pagan virtues, the more we encourage the tendency to sin that undermines the virtues;
 - Augustine, however, does not take Paul this way; he claims, against the Stoics, that external goods are really part of the human good, and that they are worth pursuing, though they are secondary to the complete happiness of the afterlife.
+- Actions lacking charity are sinful because they lack charity
