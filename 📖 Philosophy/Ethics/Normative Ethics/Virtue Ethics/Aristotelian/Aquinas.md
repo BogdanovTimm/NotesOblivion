@@ -202,6 +202,7 @@ q58 a3; a5), but also in claiming that they require prudence. His reason for the
 - Often, people say tgat the God is a cause of sin, because he do not prevent sin. Aquinas answers that if dentist doesn't kidnapped me and heal my tooth - it doesn't mean that dentist is the cause of my teeth hurt. So, we must firstly find whether God must prevent us from sin. And though God can prevent us from sin with his grace, he doesn't do this. 
 - God is the cause of all our actions in the sense that he is the source of our ability to act good or bad; but he not the source of our bad or good actions as bad or as good. It is like our ability to move is a source of all of our walking. But our broken leg (not the ability to move) is the source of our particular limp walking. 
 - By achieving the proportionate good, we take a step towards achieving the good that is proper to human nature, but we cannot achieve that whole human good by our natural ability.
+- God is a cause of that we sin statistically. But God isn't the cause of particular sin. 
 
 # Difficulties
 
