@@ -1,4 +1,5 @@
 - Christianity conflicts with Greek ethics
 - An indeterminist doctrine of responsibility fits the doctrine of Christian predestination
 - Christian doctrine to require the decisive rejection of an Aristotelian framework
-- Rejects Reciprocity of virtues 
+- Rejects Reciprocity of virtues
+- argues that since Christians perform virtuous actions for the honour of God, their end in performing such actions is different from the end of a pagan who performs the same actions. Since different ends define different virtues, the virtues of pagans and of Christians differ specifically, not just numerically 
