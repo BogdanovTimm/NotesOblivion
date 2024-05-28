@@ -22,6 +22,7 @@
     - Metaphysical (libertarian): the eudaemonist position implies that the will is not free, because we are not free to reject happiness, or to choose contrary to what we believe to promote it.
 Though these arguments raise distinct issues, they are difficult to keep apart; in particular, Scotus’ views about rationality and freedom influence his objections to eudaemonism on psychological and moral grounds.
 - Pursue of one's own advantage is not a mark of a good action. The only good mark of the good action is a pursuiing of the justice. Also, he thinks that happiness consists only one of one's advantage. So, pursue of happiness is not a mark of a good action  
+- We can seek something besides our advantage because we will see that the thing besides our advantage is a more reasonable to pursue 
 
 # Difficulties
 
