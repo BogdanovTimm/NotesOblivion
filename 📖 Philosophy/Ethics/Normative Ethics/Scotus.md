@@ -12,3 +12,4 @@
 - Scotus formulates the anti-intellectualist objections clearly, and presents a voluntarist account of the will
 - He argues for both voluntarism and rationalism. On the one hand, he denies that the will is determined by intellect. On the other hand, he maintains a sharp division between the rational will and the non-rational passions. He maintains voluntarism to defend freedom, but maintains rationalism to maintain the primacy of reason over passion in determining virtuous action. 
 - To show that his voluntarism is consistent with his rationalism, Scotus needs to show that the will is rational even though it is not determined, as the intellectualist supposes, by reason. 
+- Some critics believe it is misleading or unhelpful to describe Scotus as a voluntarist, or even to be preoccupied with the question of whether he is a voluntarist: ‘Thanks to the serious research advanced by notable scholars, this question no longer preoccupies us 
