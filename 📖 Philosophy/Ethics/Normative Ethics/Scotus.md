@@ -14,3 +14,8 @@
 - To show that his voluntarism is consistent with his rationalism, Scotus needs to show that the will is rational even though it is not determined, as the intellectualist supposes, by reason. 
 - Some critics believe it is misleading or unhelpful to describe Scotus as a voluntarist, or even to be preoccupied with the question of whether he is a voluntarist: ‘Thanks to the serious research advanced by notable scholars, this question no longer preoccupies us
 - Scotus argues that the will is neither essentially nor necessarily rational. He maintains that unless we agree that the will does not necessarily follow intellect, we deny freewill. 
+- He has three main arguments against eudaemonism: 
+    - Psychological: facts of experience show that we sometimes fail to pursue what we believe to promote our happiness.
+    - Moral: the eudaemonist position conflicts with facts about the moral virtues and the motives of the virtuous person.
+    - Metaphysical (libertarian): the eudaemonist position implies that the will is not free, because we are not free to reject happiness, or to choose contrary to what we believe to promote it.
+Though these arguments raise distinct issues, they are difficult to keep apart; in particular, Scotus’ views about rationality and freedom influence his objections to eudaemonism on psychological and moral grounds.
