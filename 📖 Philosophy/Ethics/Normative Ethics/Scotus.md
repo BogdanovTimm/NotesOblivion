@@ -17,7 +17,7 @@
 - He has three main arguments against eudaemonism: 
     - Psychological: facts of experience show that we sometimes fail to pursue what we believe to promote our happiness:
         - Because we can suspend our action
-        - Because we don't think about happiness all the time 
+        - Because we don't think about happiness all the time: we can pursue particular end, without thinking about happiness. Or we may see that X not promotes happiness, while !X does and still we choose X. 
     - Moral: the eudaemonist position conflicts with facts about the moral virtues and the motives of the virtuous person.
     - Metaphysical (libertarian): the eudaemonist position implies that the will is not free, because we are not free to reject happiness, or to choose contrary to what we believe to promote it.
 Though these arguments raise distinct issues, they are difficult to keep apart; in particular, Scotus’ views about rationality and freedom influence his objections to eudaemonism on psychological and moral grounds.
