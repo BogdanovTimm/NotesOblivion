@@ -1,1 +1,5 @@
 - Anselm argues that a genuine concern for moral rightness in itself requires us to transcend our natural desire for happines
+- two primary affections that Anselm ascribes to the will: 
+    - the affection for advantage
+    - the affection for justice. 
+- If we had only the will to happiness, we could not be blamed for pursuing happiness through unjust means; for if we believed that these unjust means promoted happiness, we could not avoid pursuing them. In order to be open to praise and blame for acting justly and unjustly, we must have a will to justice that is independent of the will to happiness. The affection for justice causes us to will something that is not directed towards ourselves. It manifests freedom in the will, because an agent who is capable of choosing the just rather than the advantageous is not necessitated by nature to pursue only his own advantage
