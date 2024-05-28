@@ -9,3 +9,4 @@
 - Rejects Reciprocity of virtues
 - There is no supreme good of the sort that the old moral philosophers accepted. 
 - The principle of self-love is not supreme, but is subordinate to conscience 
+- Scotus formulates the anti-intellectualist objections clearly, and presents a voluntarist account of the will
