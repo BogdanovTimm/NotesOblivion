@@ -28,6 +28,7 @@ Though these arguments raise distinct issues, they are difficult to keep apart; 
     - acquired (which is called ‘‘moral’’)
     - innate (which is the very freedom of the will)’ (2Sent. d6 q2 = OO vi 1, 539 §8 = W 468). Scotus identifies the affection for justice with ‘the innate freedom of the will, in accordance with which it is capable of willing some good not directed towards itself
 - We have a natural tendency to pursue our own happiness (identified with our self-confined advantage); freedom not to follow this natural tendency is a necessary condition of having the affection for justice. 
+- free will is not bound in every way to will happiness, in the way in which it would will it if it were only an intellectual desire without freedom 
 
 # Difficulties
 
