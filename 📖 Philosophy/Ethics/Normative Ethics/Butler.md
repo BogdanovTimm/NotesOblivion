@@ -6,6 +6,6 @@
 - In unself i sh concern A wants to do x for B, simply because B wants x done or because it would be better for B, not because A gains any further benef i t from doing x. A shows this concern for B if A moves to one side to avoid walking over B’s gouty toes, when A has nothing else to gain by doing this. This is the unself i sh sentiment whose reality Butler defend against the psychological egoism of Hobbes
 - Butler distinguishes the respect in which illness and health are equally natural from the respect in which health is more natural than illness.
 - Non-eudamonism moralism is true: happiness is not needed for a sufficient justification of virtue.
-- Butler argues that the principle of self-love is not supreme, but is subordinate to conscience. 
-- Conscience is the supreme principle in a rational agent.
+- Butler argues that the principle of self-love is not supreme, but is subordinate to conscience. Self-love and conscience are distinct superior principles, but conscience is supreme. He therefore denies that they are equally ultimate principles
 - Rejects this primacy of self-love. 
+- 
