@@ -5,3 +5,4 @@
 - Critisizes Aristotle for being estethical intuitionist rather than moral philosopher
 - Christianity cannot be understood in Greek ethic's terms
 - Butler rejects this primacy of self-love. Sidgwick recognizes the importance of the question raised by Butler, and discusses it in his account of practical reason. Sidgwick also claims that Butler recognizes a ‘dualism’ of practical reason; not only are there two irreducible principles, but neither is subordinate to the other or to any third principle. 
+- The rational pursuit of happiness gives us the reason that impartial justice is even more rational that pursuit of happiness
