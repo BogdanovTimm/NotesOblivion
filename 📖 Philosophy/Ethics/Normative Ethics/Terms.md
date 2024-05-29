@@ -101,4 +101,9 @@ To answer No is to be a voluntarist.
 
 Self-love as:
 - Hedonistic - desire for pleasure. Can't be used to argue for continuity of Self-love and Conscience  
-- Abstract aka structural - abstract construct, that consists of the particular desires. May be used to argue for continuity of Self-love and Conscience 
+- Abstract aka structural - abstract construct, that consists of the particular desires. May be used to argue for continuity of Self-love and Conscience
+
+# Duality vs Dualism
+
+- Duality - There are 2 things (we don't know about their relations. Maybe 1 thing is better then the other)
+- Dualism - There a 2 things that are equally right
