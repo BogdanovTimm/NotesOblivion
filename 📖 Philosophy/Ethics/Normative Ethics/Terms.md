@@ -96,3 +96,9 @@ To answer No is to be a voluntarist.
 
 - Internal - depend on agent's desires
 - External - do not depend on agent's desires
+
+# Self-love vs Justice
+
+Self-love as:
+- Hedonistic - desire for pleasure
+- Abstract aka structural - abstract construct, that consists of the particular desires 
