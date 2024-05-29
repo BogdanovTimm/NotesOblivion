@@ -23,6 +23,7 @@
 Though these arguments raise distinct issues, they are difficult to keep apart; in particular, Scotus’ views about rationality and freedom influence his objections to eudaemonism on psychological and moral grounds.
 - Pursue of one's own advantage is not a mark of a good action. The only good mark of the good action is a pursuiing of the justice. Also, he thinks that happiness consists only one of one's advantage. So, pursue of happiness is not a mark of a good action  
 - We can seek something besides our advantage because we will see that the thing besides our advantage is a more reasonable to pursue 
+- Justice can be understood either as infused (which is called ‘‘gratuitous’’) or as acquired (which is called ‘‘moral’’) or as innate (which is the very freedom of the will)’ (2Sent. d6 q2 = OO vi 1, 539 §8 = W 468). Scotus identifies the affection for justice with ‘the innate freedom of the will, in accordance with which it is capable of willing some good not directed towards itself 
 
 # Difficulties
 
