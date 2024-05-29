@@ -31,6 +31,7 @@ Though these arguments raise distinct issues, they are difficult to keep apart; 
 - free will is not bound in every way to will happiness, in the way in which it would will it if it were only an intellectual desire without freedom 
 - There is a standard that shows us how far it is reasonable to pursue our own advantage and how far it is reasonable to pursue the other end. This standard estimates different ends by reference to some impartial conception of what deserves to be chosen. Attachment to this impartial standard is the affection for justice. Hence the affection for justice is not a natural affection that we freely chose to follow; it is the expression of freedom. 
 - Since the choice of happiness is sometimes blameworthy, it must be the free choice of evil; since the will is free to refuse it, the will cannot be determined to pursue happiness. 
+- Scotus’ attack on eudaemonism shows that he does not take the supremacy of self-interest for granted, and that he does not treat this as the only principle of practical reason. On this point, he rejects the main tradition of ancient and mediaeval ethics. His only predecessors are the Cyrenaics
 
 # Difficulties
 
