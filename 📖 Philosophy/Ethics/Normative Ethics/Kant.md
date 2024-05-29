@@ -9,3 +9,4 @@
 # Difficulties
 
 - Butler, Reid, and Sidgwick say that the rational pursuit of happiness gives us the reason that impartial justice is even more rational that pursuit of happiness. In trying to maintain the rationality of the affection for justice without allowing the rationality of the desire for happiness, Kant weakens his case for the supremacy of justice.
+- The non-eudaemonist intellectualist interpretationofScotusanticipatesaKantianargumentforconnectingfreedomwithpractical reason. This argument raises difficulties for Kant that are parallel to some of the difficulties that we have found in trying to make room for Scotus’ voluntarism. Both Scotus and Kant may be better off with a more intellectualist conception of freedom than the one that they tend to accept. 
