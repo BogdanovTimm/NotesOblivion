@@ -5,3 +5,7 @@
 - We might even agree that virtue requires the choice of the right action for the right reason, looking to the very fact that makes the action right. This demand might be understood, as Kant understands it, non-teleologically, so that it does not refer to any connexion between virtuous action and one’s ultimate end.
 - Apart from our moral beliefs, we have no reason to attribute freedom to human beings
 - Kant’s contrast between acting on duty and acting on other motives: The two people he contrasts with the person acting out of duty are the trader who does the honest thing for the sake of his business and the philanthropist who acts out of his generous sentiments. The action of the philanthropist lacks moral worth not because it is selfish, but because his reason for doing the generous action rests ultimately on his generous impulses; if he lacked them, he would have lost his reason for these actions. Kant is primarily concerned with the distinction that Aquinas draws in his account of intellectual love.
+
+# Difficulties
+
+- In trying to maintain the rationality of the affection for justice without allowing the rationality of the desire for happiness, he weakens his case for the supremacy of justice.
