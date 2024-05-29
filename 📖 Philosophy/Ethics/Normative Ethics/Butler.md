@@ -7,3 +7,4 @@
 - Butler distinguishes the respect in which illness and health are equally natural from the respect in which health is more natural than illness.
 - Non-eudamonism moralism is true: happiness is not needed for a sufficient justification of virtue.
 - Butler argues that the principle of self-love is not supreme, but is subordinate to conscience. 
+- Conscience is the supreme principle in a rational agent.
