@@ -1,1 +1,2 @@
 - Non-instrumental and overriding value of morality are true
+- The rational pursuit of happiness gives us the reason that impartial justice is even more rational that pursuit of happiness 
