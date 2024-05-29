@@ -100,5 +100,5 @@ To answer No is to be a voluntarist.
 # Self-love vs Justice aka Conscience 
 
 Self-love as:
-- Hedonistic - desire for pleasure
-- Abstract aka structural - abstract construct, that consists of the particular desires 
+- Hedonistic - desire for pleasure. Can't be used to argue for continuity of Self-love and Conscience  
+- Abstract aka structural - abstract construct, that consists of the particular desires. May be used to argue for continuity of Self-love and Conscience 
