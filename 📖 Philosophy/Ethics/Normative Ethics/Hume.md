@@ -10,3 +10,4 @@
 - Sentimentalism is true: the extent to which we are capable of sympathy defines the extent of concern.
 - The anti-rationalist position of Hutcheson claims that the different specific ends people pursue reflect their different desires, inclinations, and attitudes, and must ultimately be explained by these, rather than by their different rational beliefs about anything.
 - Hume accepts compatibilism, but does not believe that it removes objections to predestination. 
+- false judgments cannot be the source of immorality 
