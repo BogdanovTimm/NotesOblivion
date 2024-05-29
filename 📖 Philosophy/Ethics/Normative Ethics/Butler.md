@@ -8,3 +8,4 @@
 - Non-eudamonism moralism is true: happiness is not needed for a sufficient justification of virtue.
 - Butler argues that the principle of self-love is not supreme, but is subordinate to conscience. 
 - Conscience is the supreme principle in a rational agent.
+- Rejects this primacy of self-love. 
