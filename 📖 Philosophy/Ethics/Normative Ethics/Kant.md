@@ -8,4 +8,4 @@
 
 # Difficulties
 
-- In trying to maintain the rationality of the affection for justice without allowing the rationality of the desire for happiness, he weakens his case for the supremacy of justice.
+- Butler, Reid, and Sidgwick say that the rational pursuit of happiness gives us the reason that impartial justice is even more rational that pursuit of happiness. In trying to maintain the rationality of the affection for justice without allowing the rationality of the desire for happiness, Kant weakens his case for the supremacy of justice.
