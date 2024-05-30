@@ -3,3 +3,4 @@
 - Psychological egoism is true
 - In his view, the difference between simply entertaining a proposition and believing it consists in the degree of vividness with which you entertain it; it is an introspectible property of the idea itself.
 - Eudamonism is false
+- Defends both compatibilism and anti-intellectualism against Bramhall. 
