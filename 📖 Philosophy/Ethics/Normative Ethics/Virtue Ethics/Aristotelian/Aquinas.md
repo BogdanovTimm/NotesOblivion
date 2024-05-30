@@ -210,8 +210,17 @@ They turn us towards supernatural happiness in so far as they turn us immediatel
 Since supernatural happiness is our complete and unqualified ultimate good, the virtues that are infused with charity are the only complete and unqualified virtues; for moral virtue requires prudence, and complete prudence has to be directed towards the right ultimate end, which is set by charit 
 - The acquired and the infused virtues have the same matter. Temperance seeks the mean in the enjoyment of physical pleasures; as we discover further ends that are promoted by restraint in this enjoyment, we discover further reasons for restraint. If, for instance, an athlete needs to eat a lighter meal to stay in training or a scholar needs to eat a lighter meal to keep a clear head, they discover different applications for temperance. This is why the infused moral virtues are still called by the names of the acquired moral virtues, even though they differ in species, because of their different objects
 - We are free, because though we always choose the best option, we may turn our attention to some aspects of the X (that actually isn't the best option) that will make X seems the best option (of course, X should actually have them) 
+- Aquinas’ intellectualism, therefore, supports compatibilism 
+
+
+
+
 
 # Difficulties
+
+
+
+
 
 -  Aquinas does not describe the inclination in much detail.⁸⁰ In particular, he does not make it clear how a bare inclination towards society supports a demand to treat others on some basis of equality. This lack of detail in Aquinas corresponds to a similar gap in Aristotle, who also fails to explain fully why the other-regarding virtue of justice must be included among the virtues that are necessary for an agent’s happiness.⁸¹
 - Aquinas’ intellectualism makes compatibilism attractive. The determination of will by intellect is compatible with indeterminism about freewill; perhaps the will is determined by the intellect, but we act freely only if the conclusion of the intellect is not causally necessitated.⁸² This view, however, is unstable. Aquinas suggests that we have freewill because we deliberate about alternatives, and the result of our deliberation affects our choice and action.
