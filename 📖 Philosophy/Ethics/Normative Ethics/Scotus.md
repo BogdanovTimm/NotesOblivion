@@ -36,8 +36,16 @@ Though these arguments raise distinct issues, they are difficult to keep apart; 
 - Scotus argues that a will with the strong capacity for opposites (i.e., the capacity to actualize either one without external determination) is needed if our action is to be contingent 
 - Scotus maintains, against Aquinas’ intellectualism, that the belief that x is better than y does not determine the will to choose x rather than y. If anything external to the will determined the will, it would exclude freewill; for it would imply that the will itself is not a capacity for opposites, since something external to it would determine which opposite would be realized.
 This argument helps us to see how Scotus’ position goes beyond the simple rejection of intellectualism. If I freely choose between x and y, my choice (according to the anti-intellectualist) is not determined by my conception of the merits of x and y, since that would be determination by an appearance that lies outside the will; but my choice may still be determined by how the will is. If we attribute this sort of freedom to the will, we might still accept a determinist (or compatibilist) account of the formation of the will. Voluntarism, therefore, does not include incompatibilism, and so does not require indeterminism. 
+- His strong claim about the will as a rational capacity commits him to both voluntarism and indeterminism. 
+
+
+
 
 # Difficulties
+
+
+
+
 
 - Scotus argues not that some desires are independent of the desire for happiness, but that the will is independent of it. Will differs from passion in being rational desire, and hence in being responsive to critical evaluation of one’s desires and their objects. Aquinas claims that will is thoroughly rational desire because it responds to the global criticism that our conception of happiness applies to particular objects of desire. This conception of will underlies Cajetan’s objection to Scotus. Scotus does not explain why the agent who prefers a particular good over his conception of the ultimate good acts not on a passion, but on a rational desire that belongs to the will. Hence he does not refute eudaemonism.
 Scotus describes the will as ‘free desire’ (liber appetitus), and so denies that it is determined by the antecedent strength of one’s non-rational desire—in this case the desire for happiness.
