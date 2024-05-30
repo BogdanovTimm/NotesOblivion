@@ -34,6 +34,8 @@ Though these arguments raise distinct issues, they are difficult to keep apart; 
 - Scotus’ attack on eudaemonism shows that he does not take the supremacy of self-interest for granted, and that he does not treat this as the only principle of practical reason. On this point, he rejects the main tradition of ancient and mediaeval ethics. His only predecessors are the Cyrenaics
 - the will in a human being is called a rational capacity because it is capable of opposites 
 - Scotus argues that a will with the strong capacity for opposites (i.e., the capacity to actualize either one without external determination) is needed if our action is to be contingent 
+- Scotus maintains, against Aquinas’ intellectualism, that the belief that x is better than y does not determine the will to choose x rather than y. If anything external to the will determined the will, it would exclude freewill; for it would imply that the will itself is not a capacity for opposites, since something external to it would determine which opposite would be realized.
+This argument helps us to see how Scotus’ position goes beyond the simple rejection of intellectualism. If I freely choose between x and y, my choice (according to the anti-intellectualist) is not determined by my conception of the merits of x and y, since that would be determination by an appearance that lies outside the will; but my choice may still be determined by how the will is. If we attribute this sort of freedom to the will, we might still accept a determinist (or compatibilist) account of the formation of the will. Voluntarism, therefore, does not include incompatibilism, and so does not require indeterminism. 
 
 # Difficulties
 
