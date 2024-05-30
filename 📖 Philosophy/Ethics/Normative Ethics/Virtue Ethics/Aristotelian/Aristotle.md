@@ -163,7 +163,16 @@ Hence we do not show that wealth is not a good if we find that it harms some peo
     - Special Justice - concerned only with external goods
     - General Justice 
 
+
+
+
+
 # Difficulties
+
+
+
+
 
 - Though he is sympathetic to compatibilism, he has no theory of determinism/indeterminism
 - Aristotle fails to explain fully why the other-regarding virtue of justice must be included among the virtues that are necessary for an agent’s happiness
+- Aristotle’s explicit account does not reflect the importance of the will in virtue 
