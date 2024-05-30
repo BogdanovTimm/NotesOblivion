@@ -212,7 +212,7 @@ Since supernatural happiness is our complete and unqualified ultimate good, the 
 - We are free, because though we always choose the best option, we may turn our attention to some aspects of the X (that actually isn't the best option) that will make X seems the best option (of course, X should actually have them) 
 - Aquinas’ intellectualism, therefore, supports compatibilism 
 - Aquinas’ account of human freedom in relation to external causal influences depends heavily on his distinctions among types of causes. Provided that the proximate cause is in the will responding in the right way to the merits of the situation, the fact that the will’s response is itself the product of external causal influences does not seem to him to compromise human freedom; it simply has to be connected to human action by the right sort of causal chain. Aquinas relies on this distinction to argue that external causal influences such as the passions, human nature, external events, the Devil, and God do not threaten human freedom 
-
+- he denies that the will is the subject of bravery and temperance. He allows only that it is the subject of virtues aiming at some external good, directed towards God or one’s neighbour 
 
 
 
