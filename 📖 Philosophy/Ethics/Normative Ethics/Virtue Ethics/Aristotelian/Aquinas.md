@@ -213,4 +213,7 @@ Since supernatural happiness is our complete and unqualified ultimate good, the 
 
 # Difficulties
 
--  Aquinas does not describe the inclination in much detail.⁸⁰ In particular, he does not make it clear how a bare inclination towards society supports a demand to treat others on some basis of equality. This lack of detail in Aquinas corresponds to a similar gap in Aristotle, who also fails to explain fully why the other-regarding virtue of justice must be included among the virtues that are necessary for an agent’s happiness.⁸¹ 
+-  Aquinas does not describe the inclination in much detail.⁸⁰ In particular, he does not make it clear how a bare inclination towards society supports a demand to treat others on some basis of equality. This lack of detail in Aquinas corresponds to a similar gap in Aristotle, who also fails to explain fully why the other-regarding virtue of justice must be included among the virtues that are necessary for an agent’s happiness.⁸¹
+- Aquinas’ intellectualism makes compatibilism attractive. The determination of will by intellect is compatible with indeterminism about freewill; perhaps the will is determined by the intellect, but we act freely only if the conclusion of the intellect is not causally necessitated.⁸² This view, however, is unstable. Aquinas suggests that we have freewill because we deliberate about alternatives, and the result of our deliberation affects our choice and action.
+This is his explanation of the intuitions that suggest that freedom requires some ability to do otherwise. If his explanation is correct, these intuitions do not require incompatibilism;
+hence we undermine one argument to show that the ability to do otherwise must include an indeterministic process. 
