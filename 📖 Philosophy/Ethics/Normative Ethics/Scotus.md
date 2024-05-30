@@ -33,6 +33,7 @@ Though these arguments raise distinct issues, they are difficult to keep apart; 
 - Since the choice of happiness is sometimes blameworthy, it must be the free choice of evil; since the will is free to refuse it, the will cannot be determined to pursue happiness. 
 - Scotus’ attack on eudaemonism shows that he does not take the supremacy of self-interest for granted, and that he does not treat this as the only principle of practical reason. On this point, he rejects the main tradition of ancient and mediaeval ethics. His only predecessors are the Cyrenaics
 - the will in a human being is called a rational capacity because it is capable of opposites 
+- Scotus argues that a will with the strong capacity for opposites (i.e., the capacity to actualize either one without external determination) is needed if our action is to be contingent 
 
 # Difficulties
 
