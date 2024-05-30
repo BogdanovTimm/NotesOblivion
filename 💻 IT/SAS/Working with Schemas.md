@@ -1,7 +1,9 @@
-
-
 - `libname library_name` - already existing one
-- `libname library_name 'c:\path\to\schema'` - local one
+```SAS
+LIBNAME
+    LibName1 /* Max length must be 8 characters */
+    'c:\path\to\folder\with\tables.sas7bdat'
+```
 
 #                   Create a new one
 
