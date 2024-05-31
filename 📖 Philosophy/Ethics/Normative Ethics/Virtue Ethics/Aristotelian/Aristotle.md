@@ -162,7 +162,7 @@ Hence we do not show that wealth is not a good if we find that it harms some peo
 - There is:
     - Special Justice - concerned only with external goods
     - General Justice 
-
+- Neither Aristotle nor Aquinas treats the operations of prudence as simply theoretical reasoning that may or may not move the agent. Prudence includes a motivational aspect because it begins its deliberation from the agent’s desire for happiness, and discovers ways to fulfil that desire. From Aquinas’ point of view, someone who grasps all the precepts of prudence but does not act on them has failed to grasp clearly and steadily the connexion between these actions and his own happiness. 
 
 
 
