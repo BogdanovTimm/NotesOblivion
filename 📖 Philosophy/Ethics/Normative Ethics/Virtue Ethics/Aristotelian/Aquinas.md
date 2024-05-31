@@ -215,6 +215,11 @@ Since supernatural happiness is our complete and unqualified ultimate good, the 
 - he denies that the will is the subject of bravery and temperance. He allows only that it is the subject of virtues aiming at some external good, directed towards God or one’s neighbour 
 - Aquinas does not claim that knowledge is all that is needed for virtue. He argues that we must also be turned towards the right ends, and that therefore virtue requires a good state of the passions (1-2 q56 a4 ad4). Since the passions present some goods to us in an especially attractive way, we can be diverted from our conviction about what is best by the particular attractions offered by the passions. 
 - Neither Aristotle nor Aquinas treats the operations of prudence as simply theoretical reasoning that may or may not move the agent. Prudence includes a motivational aspect because it begins its deliberation from the agent’s desire for happiness, and discovers ways to fulfil that desire. From Aquinas’ point of view, someone who grasps all the precepts of prudence but does not act on them has failed to grasp clearly and steadily the connexion between these actions and his own happiness.
+- since both the virtuous and the vicious person aim at happiness, the difference between them reflects their different conceptions of happiness. 
+
+
+
+
 
 
 
