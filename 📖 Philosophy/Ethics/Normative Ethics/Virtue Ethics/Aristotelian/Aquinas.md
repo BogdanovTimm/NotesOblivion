@@ -214,14 +214,15 @@ Since supernatural happiness is our complete and unqualified ultimate good, the 
 - Aquinas’ account of human freedom in relation to external causal influences depends heavily on his distinctions among types of causes. Provided that the proximate cause is in the will responding in the right way to the merits of the situation, the fact that the will’s response is itself the product of external causal influences does not seem to him to compromise human freedom; it simply has to be connected to human action by the right sort of causal chain. Aquinas relies on this distinction to argue that external causal influences such as the passions, human nature, external events, the Devil, and God do not threaten human freedom 
 - he denies that the will is the subject of bravery and temperance. He allows only that it is the subject of virtues aiming at some external good, directed towards God or one’s neighbour 
 - Aquinas does not claim that knowledge is all that is needed for virtue. He argues that we must also be turned towards the right ends, and that therefore virtue requires a good state of the passions (1-2 q56 a4 ad4). Since the passions present some goods to us in an especially attractive way, we can be diverted from our conviction about what is best by the particular attractions offered by the passions. 
+- Neither Aristotle nor Aquinas treats the operations of prudence as simply theoretical reasoning that may or may not move the agent. Prudence includes a motivational aspect because it begins its deliberation from the agent’s desire for happiness, and discovers ways to fulfil that desire. From Aquinas’ point of view, someone who grasps all the precepts of prudence but does not act on them has failed to grasp clearly and steadily the connexion between these actions and his own happiness.
+
+
+
+
 
 
 
 # Difficulties
-
-
-
-
 
 -  Aquinas does not describe the inclination in much detail.⁸⁰ In particular, he does not make it clear how a bare inclination towards society supports a demand to treat others on some basis of equality. This lack of detail in Aquinas corresponds to a similar gap in Aristotle, who also fails to explain fully why the other-regarding virtue of justice must be included among the virtues that are necessary for an agent’s happiness.⁸¹
 - Aquinas’ intellectualism makes compatibilism attractive. The determination of will by intellect is compatible with indeterminism about freewill; perhaps the will is determined by the intellect, but we act freely only if the conclusion of the intellect is not causally necessitated.⁸² This view, however, is unstable. Aquinas suggests that we have freewill because we deliberate about alternatives, and the result of our deliberation affects our choice and action.
