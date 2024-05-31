@@ -41,7 +41,7 @@ This argument helps us to see how Scotus’ position goes beyond the simple reje
 - passion and ignorance are not sources of blameworthy error, and that only the will is fundamentally responsible. 
 - Intellect grasps the first principles of morality, but they do not necessarily move the will, since the will is free and is not necessarily moved in one or the other direction by what intellect discovers 
 - Scotus denies this link between prudence and motivation, whether prudence tells us about what is required for happiness or about what is required for justice. The information that it gives us must leave the will free to choose one way or another. 
-
+- If Scotus is right, the virtuous and the vicious person may have the same conception of happiness. 
 
 
 
