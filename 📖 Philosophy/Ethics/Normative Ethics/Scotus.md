@@ -43,7 +43,9 @@ This argument helps us to see how Scotus’ position goes beyond the simple reje
 - Scotus denies this link between prudence and motivation, whether prudence tells us about what is required for happiness or about what is required for justice. The information that it gives us must leave the will free to choose one way or another. 
 - If Scotus is right, the virtuous and the vicious person may have the same conception of happiness. 
 - Prudence is vertically unified because the prudence belonging to each virtue includes both universal and particular prudence; but it is horizontally divided among the different virtues and so he denies Reciprocity of the virtues 
-
+- In agreement with Aquinas, he recognizes a natural law that we grasp by natural reason, and he believes that God prescribes the observance of this natural law. But he differs from Aquinas about the extent of the natural law, and about its relation to the will of God. He is less opti-mistic about the practical guidance we can derive from the higher principles of natural law.
+According to Scotus, natural law is relevant to our moral knowledge in three ways:
+(1) We know that some moral principle is true from its terms, so that it is a first principle corresponding to a first principle of demonstration in theoretical science. (2) A principle follows evidently from a first principle. (3) A principle is said to belong to natural law by extension if it is a practical truth concordant (consonum) with the principles or conclusions of natural law, ‘in so far as it is immediately known to all to agree (convenire) with such a law' 
 
 
 
