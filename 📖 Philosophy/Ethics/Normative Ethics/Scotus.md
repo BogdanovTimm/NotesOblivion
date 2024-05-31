@@ -39,10 +39,21 @@ This argument helps us to see how Scotus’ position goes beyond the simple reje
 - His strong claim about the will as a rational capacity commits him to both voluntarism and indeterminism. 
 - He rejects not only passions but also intellect as the subject of the moral virtues. Also, he believes that if we place virtue in the intellect, we make vice a matter of ignorance, so that virtue and vice will not be open to praise and blame. He argues, therefore, against the view that virtue consists in correct reason.⁴ If this view were right, the will would be passive in relation to the intellect; hence (Scotus infers) we would not be blameworthy, since our errors could be traced back to cognitive mistake or ignorance.⁵ If a mistaken choice of the will results from ignorance of the good, the will did not choose freely, and therefore we cannot be blamed for the choice. Since we are praised and blamed for virtue and vice, virtue and vice must belong fundamentally to a will that does not necessarily follow practical reason. If the will necessarily followed practical reason, it would not warrant praise or blame, and so would not be the subject of virtue and vice. 
 - passion and ignorance are not sources of blameworthy error, and that only the will is fundamentally responsible. 
+- Intellect grasps the first principles of morality, but they do not necessarily move the will, since the will is free and is not necessarily moved in one or the other direction by what intellect discovers 
+
+
+
+
+
 
 
 
 # Difficulties
+
+
+
+
+
 
 
 
