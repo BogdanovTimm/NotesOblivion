@@ -40,6 +40,15 @@ This argument helps us to see how Scotus’ position goes beyond the simple reje
 - He rejects not only passions but also intellect as the subject of the moral virtues. Also, he believes that if we place virtue in the intellect, we make vice a matter of ignorance, so that virtue and vice will not be open to praise and blame. He argues, therefore, against the view that virtue consists in correct reason.⁴ If this view were right, the will would be passive in relation to the intellect; hence (Scotus infers) we would not be blameworthy, since our errors could be traced back to cognitive mistake or ignorance.⁵ If a mistaken choice of the will results from ignorance of the good, the will did not choose freely, and therefore we cannot be blamed for the choice. Since we are praised and blamed for virtue and vice, virtue and vice must belong fundamentally to a will that does not necessarily follow practical reason. If the will necessarily followed practical reason, it would not warrant praise or blame, and so would not be the subject of virtue and vice. 
 - passion and ignorance are not sources of blameworthy error, and that only the will is fundamentally responsible. 
 - Intellect grasps the first principles of morality, but they do not necessarily move the will, since the will is free and is not necessarily moved in one or the other direction by what intellect discovers 
+- Scotus denies this link between prudence and motivation, whether prudence tells us about what is required for happiness or about what is required for justice. The information that it gives us must leave the will free to choose one way or another. 
+
+
+
+
+
+
+
+
 
 
 
@@ -49,15 +58,6 @@ This argument helps us to see how Scotus’ position goes beyond the simple reje
 
 
 # Difficulties
-
-
-
-
-
-
-
-
-
 
 - Scotus argues not that some desires are independent of the desire for happiness, but that the will is independent of it. Will differs from passion in being rational desire, and hence in being responsive to critical evaluation of one’s desires and their objects. Aquinas claims that will is thoroughly rational desire because it responds to the global criticism that our conception of happiness applies to particular objects of desire. This conception of will underlies Cajetan’s objection to Scotus. Scotus does not explain why the agent who prefers a particular good over his conception of the ultimate good acts not on a passion, but on a rational desire that belongs to the will. Hence he does not refute eudaemonism.
 Scotus describes the will as ‘free desire’ (liber appetitus), and so denies that it is determined by the antecedent strength of one’s non-rational desire—in this case the desire for happiness.
