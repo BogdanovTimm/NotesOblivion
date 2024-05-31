@@ -42,7 +42,7 @@ This argument helps us to see how Scotus’ position goes beyond the simple reje
 - Intellect grasps the first principles of morality, but they do not necessarily move the will, since the will is free and is not necessarily moved in one or the other direction by what intellect discovers 
 - Scotus denies this link between prudence and motivation, whether prudence tells us about what is required for happiness or about what is required for justice. The information that it gives us must leave the will free to choose one way or another. 
 - If Scotus is right, the virtuous and the vicious person may have the same conception of happiness. 
-- Prudence is vertically unified because the prudence belonging to each virtue includes both universal and particular prudence; but it is horizontally divided among the different virtues. 
+- Prudence is vertically unified because the prudence belonging to each virtue includes both universal and particular prudence; but it is horizontally divided among the different virtues and so he denies Reciprocity of the virtues 
 
 
 
