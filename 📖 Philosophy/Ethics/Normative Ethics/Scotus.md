@@ -52,7 +52,7 @@ According to Scotus, natural law is relevant to our moral knowledge in three way
 - he agrees with Anselm’s claim that only what God wills is just and what God does not will is not just. But, he interprets Anselm’s claim so that it fits voluntarism. He treats justice as the result of God’s choice, undetermined by any knowledge of what is best.
 - According to Scotus, if God had chosen to treat human beings completely capriciously, without reference to their merits, their desert, or their nature, that treatment would have been just.
 - Some of the difficulties that Scotus raises are clearer if we distinguish different things that might or might not be subject to the will of God. Three claims deserve to be considered:
-    - Avoiding murder and theft is usually, though not always, good for creatures with our nature. 
+    - Avoiding murder and theft is usually, though not always, good for creatures with our nature. Scotus does not take God to have power over the first claim. He does not suggest that God’s free choice determines what is good for creatures with our nature
     - Avoiding murder and theft is usually, though not always, in accordance with natural law.
     - It is usually, though not always, right, to follow the natural law. 
 Different types of voluntarism result from giving God power over the truth or falsity of these three claims 
