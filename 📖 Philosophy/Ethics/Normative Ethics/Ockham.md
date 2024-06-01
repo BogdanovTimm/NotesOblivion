@@ -5,3 +5,4 @@
 - argues that since Christians perform virtuous actions for the honour of God, their end in performing such actions is different from the end of a pagan who performs the same actions. Since different ends define different virtues, the virtues of pagans and of Christians differ specifically, not just numerically
 - Voluntarism is true
 - He allows dispensations that would give permission to violate a precept without revoking it. 
+- Ockham has become notorious for holding views that, from a later philosophical perspective, have appeared to undermine the Aristotelian outlook that is expounded by Aquinas.
