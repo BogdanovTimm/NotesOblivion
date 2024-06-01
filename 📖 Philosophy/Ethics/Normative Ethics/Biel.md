@@ -1,1 +1,3 @@
-- Biel includes among things ‘naturally known’ as part of natural law both the necessary consequences of the principles and the non-necessary consequences that are ‘very consonant’
+- Biel includes among things ‘naturally known’ as part of natural law both:
+    - the necessary consequences of the principles
+    - non-necessary consequences that are ‘very consonant’
