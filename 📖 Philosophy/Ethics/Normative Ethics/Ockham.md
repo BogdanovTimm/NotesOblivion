@@ -7,3 +7,4 @@
 - He allows dispensations that would give permission to violate a precept without revoking it. 
 - Ockham has become notorious for holding views that, from a later philosophical perspective, have appeared to undermine the Aristotelian outlook that is expounded by Aquinas.
 - He believes, for instance, that Aristotle’s rejection of Platonic Forms supports the metaphysical priority of the particular, and that the views of Aquinas and Scotus on universals concede too much to an un-Aristotelian Platonic realism
+- Ockham agrees with Scotus’ view that Aquinas’ intellectualism and eudaemonism conflict with the freedom and contingency of human action. Since Aristotle insists on these features of human action, a plausible defence of Aristotle should, in Ockham’s view, reject Aquinas’ position. Similarly, Ockham gives Aristotelian reasons for rejecting Aquinas’ claims about virtue, practical reason, and prudence. 
