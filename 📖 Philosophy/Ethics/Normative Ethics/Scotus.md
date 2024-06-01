@@ -47,6 +47,7 @@ This argument helps us to see how Scotus’ position goes beyond the simple reje
 According to Scotus, natural law is relevant to our moral knowledge in three ways:
 (1) We know that some moral principle is true from its terms, so that it is a first principle corresponding to a first principle of demonstration in theoretical science. (2) A principle follows evidently from a first principle. (3) A principle is said to belong to natural law by extension if it is a practical truth concordant (consonum) with the principles or conclusions of natural law, ‘in so far as it is immediately known to all to agree (convenire) with such a law' 
 - political life is not justified by the natural law. 
+- Scotus, however, claims that the precepts of the second table of the Decalogue, containing duties towards our neighbour, belong to the third class of principles. Unlike principles in the second class, they do not follow evidently from the first principles. Though they ‘agree’ with the natural law, they are not required by it.²⁶ In opposition to the view of Aquinas that all the moral precepts of the Decalogue belong to the natural law, ²⁷ Scotus claims that the second table does not belong to it in the strictest sense. Its precepts are not necessary for achieving the end that is pursued in the natural law.²⁸ 
 
 
 
