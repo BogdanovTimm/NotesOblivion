@@ -56,6 +56,8 @@ According to Scotus, natural law is relevant to our moral knowledge in three way
     - Avoiding murder and theft is usually, though not always, in accordance with natural law.
     - It is usually, though not always, right, to follow the natural law. 
 Different types of voluntarism result from giving God power over the truth or falsity of these three claims 
+- Scotus argues that God’s freedom in relation to precepts of justice does not make God arbitrary or capricious; God’s goodwill is reliable even though it is not necessary. God’s generosity explains how God reliably benefits us even though God is free not to benefit us.
+When God created us, God freely undertook to follow natural law, which seems to express the same impartial norms as those that appeal to our affection for justice. 
 
 
 
