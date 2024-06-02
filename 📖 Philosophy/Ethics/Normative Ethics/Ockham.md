@@ -18,7 +18,7 @@
 - Ockham rejects the connexion that Scotus sees between freewill and the affection for justice, but he still connects freedom with reason. Though he rejects intellectualism, and even abandons the elements of intellectualism in Scotus’ position, he still (according to our previous distinctions) maintains rationalism rather than anti-rationalism, in so far as he distinguishes the rational will from the non-rational passions 
 - Though he rejects intellectualism, and even abandons the elements of intellectualism in Scotus’ position, he still (according to our previous distinctions) maintains rationalism rather than anti-rationalism, in so far as he distinguishes the rational will from the non-rational passions.
 - Since one’s will does not necessarily conform to one’s correct reason, correct reason itself cannot ensure virtue, but may be present in either a virtuous or a vicious agent.
-An agent who chooses to act for a bad end may have correct reason but freely choose to disregard it; hence correct reason is not the primary cause of virtuous action
+An agent who chooses to act for a bad end may have correct reason but freely choose to disregard it; hence correct reason is not the primary cause of virtuous action. Virtuous action needs both actual prudence and the activity of the will
 
 
 
