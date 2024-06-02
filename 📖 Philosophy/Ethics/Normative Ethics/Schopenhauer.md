@@ -1,1 +1,2 @@
 - Anti-eudaemonism: we value virtue appropriately only if we do not regard it as a part of, or a means to, our happiness
+- A thorough attempt to separate the freedom from the rationality of the will appears only in Schopenhauer and in existentialist views about radical freedom. 
