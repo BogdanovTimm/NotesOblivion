@@ -60,6 +60,7 @@ Different types of voluntarism result from giving God power over the truth or fa
 When God created us, God freely undertook to follow natural law, which seems to express the same impartial norms as those that appeal to our affection for justice. 
 - we do not necessarily will happiness 
 - Freedom is supposed to provide appropriate grounds for praise and blame; hence Scotus complains that an intellectualist account makes sin non-blameworthy by reducing it to cognitive error. 
+- He argues for both voluntarism and rationalism 
 
 
 
