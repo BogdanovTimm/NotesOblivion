@@ -20,4 +20,6 @@
 
 # Difficulties 
 
-- He argues, for instance, that in some circumstances we might believe we cannot achieve happiness, and therefore might cease to will to be happy. Similarly, if we will not to exist, we thereby also will not to be happy. Since it is possible in these ways not to will happiness, we do not necessarily will happiness. But even if we think that happiness can't be achieved fully, we may think that we can get closer to it 
+- In terms of rejecting that we always pursue happiness, he argues, that:
+    - in some circumstances we might believe we cannot achieve happiness, and therefore might cease to will to be happy. But even if we think that happiness can't be achieved fully, we may think that we can get closer to it      
+    - If we will not to exist, we thereby also will not to be happy. We may think that
