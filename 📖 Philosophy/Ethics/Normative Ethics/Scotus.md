@@ -59,6 +59,7 @@ Different types of voluntarism result from giving God power over the truth or fa
 - Scotus argues that God’s freedom in relation to precepts of justice does not make God arbitrary or capricious; God’s goodwill is reliable even though it is not necessary. God’s generosity explains how God reliably benefits us even though God is free not to benefit us.
 When God created us, God freely undertook to follow natural law, which seems to express the same impartial norms as those that appeal to our affection for justice. 
 - we do not necessarily will happiness 
+- Freedom is supposed to provide appropriate grounds for praise and blame; hence Scotus complains that an intellectualist account makes sin non-blameworthy by reducing it to cognitive error. 
 
 
 
