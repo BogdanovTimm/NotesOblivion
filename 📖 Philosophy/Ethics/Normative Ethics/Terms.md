@@ -78,19 +78,18 @@ Kant (according to some readers) appeals to a priori truths about the abstract f
 
 Is the will determined by the strongest passion, as an animal’s choice is determined? 
 
-To answer Yes is to be an anti-rationalist.
-
-To answer No is to be a rationalist. 
+- To answer Yes is to be an anti-rationalist.
+- To answer No is to be a rationalist. 
 
 External reasons support Rationalism
 
 # Intellectualism vs Voluntarism
 
 Is the will determined by the greater good as presented by reason? 
+- To answer Yes is to be an intellectualist.
+- To answer No is to be a voluntarist.
 
-To answer Yes is to be an intellectualist.
-
-To answer No is to be a voluntarist.
+Voluntarism opposes sentimentalism in asserting a sharp distinction between the passions and the will;
 
 # Reasons
 
