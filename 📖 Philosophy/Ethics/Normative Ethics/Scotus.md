@@ -63,6 +63,7 @@ When God created us, God freely undertook to follow natural law, which seems to 
 - He argues for both voluntarism and rationalism 
 - As we have understood Scotus, he holds an externalist view about the relation between the grasp of moral principles and motivation. 
 - As we have understood Scotus, he holds an externalist view about the relation between the grasp of moral principles and motivation. This raises a difficulty for his claim that prudence makes an action morally good. 
+- Ockham agrees that prudence accords with correct reason, so that prudence is a partial efficient cause of the virtuous action. It is not the whole efficient cause, however, because virtue requires an independent act of willing in accordance with the dictates of correct reason. 
 
 
 
