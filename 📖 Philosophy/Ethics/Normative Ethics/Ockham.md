@@ -9,6 +9,7 @@
 - He believes, for instance, that Aristotle’s rejection of Platonic Forms supports the metaphysical priority of the particular, and that the views of Aquinas and Scotus on universals concede too much to an un-Aristotelian Platonic realism
 - Ockham agrees with Scotus’ view that Aquinas’ intellectualism and eudaemonism conflict with the freedom and contingency of human action. Since Aristotle insists on these features of human action, a plausible defence of Aristotle should, in Ockham’s view, reject Aquinas’ position. Similarly, Ockham gives Aristotelian reasons for rejecting Aquinas’ claims about virtue, practical reason, and prudence. 
 - Ockham rejects eudaemonism, because he agrees with Scotus in believing that we do not necessarily will happiness
+- Ockham also argues against eudaemonism on the ground that the will is a free capacity and can therefore receive two contrary actualities. If the will is free, then, in Ockham’s view, it must be free to refuse happiness; hence we cannot will the ultimate end naturally, unless ‘naturally’ means simply that we most commonly do it. If the will is free, it can refuse happiness, both in general and in particular, because otherwise it would lose the indifference needed for freedom 
 
 
 
