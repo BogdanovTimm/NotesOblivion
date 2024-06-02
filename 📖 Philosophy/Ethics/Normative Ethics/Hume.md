@@ -10,4 +10,7 @@
 - Sentimentalism is true: the extent to which we are capable of sympathy defines the extent of concern.
 - The anti-rationalist position of Hutcheson claims that the different specific ends people pursue reflect their different desires, inclinations, and attitudes, and must ultimately be explained by these, rather than by their different rational beliefs about anything.
 - Hume accepts compatibilism, but does not believe that it removes objections to predestination. 
-- false judgments cannot be the source of immorality 
+- false judgments cannot be the source of immorality
+- freedom consists simply in internal determination; he sees no relevant distinction between the will and the ‘sentiments’ or ‘passions’ as sources of the internal determination.
+He rejects both an indeterminist and an intellectualist account of freedom.¹⁸ Though he accepts the voluntarist criticisms of intellectualism far enough to believe that determination by intellect is not freedom, he does not regard voluntarism as an adequate alternative.
+Against both intellectualists and voluntarists, he concludes that the will is a passion. 
