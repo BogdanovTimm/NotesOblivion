@@ -16,7 +16,8 @@
 - According to Ockham, Scotus’ claims about the self-determining character of the will conflict with the primacy that Scotus assigns to the affection for justice. Ockham asserts the independence of the will from reason and makes reason simply the servant of the will. 
 - Whereas external or internal stimuli determine the passions, nothing determines the will; even considerations presented by the intellect cannot determine it. 
 - Ockham rejects the connexion that Scotus sees between freewill and the affection for justice, but he still connects freedom with reason. Though he rejects intellectualism, and even abandons the elements of intellectualism in Scotus’ position, he still (according to our previous distinctions) maintains rationalism rather than anti-rationalism, in so far as he distinguishes the rational will from the non-rational passions 
-- Though he rejects intellectualism, and even abandons the elements of intellectualism in Scotus’ position, he still (according to our previous distinctions) maintains rationalism rather than anti-rationalism, in so far as he distinguishes the rational will from the non-rational passions.¹⁶ 
+- Though he rejects intellectualism, and even abandons the elements of intellectualism in Scotus’ position, he still (according to our previous distinctions) maintains rationalism rather than anti-rationalism, in so far as he distinguishes the rational will from the non-rational passions.
+- He rejects Aquinas’ view that virtue must belong to the sensory part because the sensory part has to be perfected (3Sent. q11 = OT vi 352). He agrees with Scotus in placing virtue in the will (354), because only a condition of the will is properly a virtue 
 
 
 
