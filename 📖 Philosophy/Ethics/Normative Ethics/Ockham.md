@@ -19,6 +19,7 @@
 - Though he rejects intellectualism, and even abandons the elements of intellectualism in Scotus’ position, he still (according to our previous distinctions) maintains rationalism rather than anti-rationalism, in so far as he distinguishes the rational will from the non-rational passions.
 - Since one’s will does not necessarily conform to one’s correct reason, correct reason itself cannot ensure virtue, but may be present in either a virtuous or a vicious agent.
 An agent who chooses to act for a bad end may have correct reason but freely choose to disregard it; hence correct reason is not the primary cause of virtuous action. Virtuous action needs both actual prudence and the activity of the will
+- Ockham agrees that prudence accords with correct reason, so that prudence is a partial efficient cause of the virtuous action. It is not the whole efficient cause, however, because virtue requires an independent act of willing in accordance with the dictates of correct reason. Since this is an act of a will that is free to reject any dictate of reason, it does not result from attention to a decisive practical consideration; for if there were such a consideration, its decisiveness would limit the freedom of the will. No consideration, therefore, moves the will reliably. 
 
 
 
