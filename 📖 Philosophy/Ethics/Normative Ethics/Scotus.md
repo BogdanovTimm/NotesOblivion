@@ -61,6 +61,7 @@ When God created us, God freely undertook to follow natural law, which seems to 
 - we do not necessarily will happiness 
 - Freedom is supposed to provide appropriate grounds for praise and blame; hence Scotus complains that an intellectualist account makes sin non-blameworthy by reducing it to cognitive error. 
 - He argues for both voluntarism and rationalism 
+- As we have understood Scotus, he holds an externalist view about the relation between the grasp of moral principles and motivation. 
 
 
 
