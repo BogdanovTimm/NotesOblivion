@@ -13,6 +13,7 @@
 - Control and power over one’s actions comes from freewill,⁸ which involves indifference and contingency.⁹ Hence it requires metaphysical indeterminism 
 - Scotus argues that the will is free to choose either of two opposite courses of action, and that therefore nothing outside the will determines our choice; hence the greater apparent good does not determine the wil 
 - Ockham does not follow Scotus in treating the will as essentially rational; nor does he connect freedom with the affection for justice. Instead, he emphasizes indifference, contingency, and self-determination. 
+- According to Ockham, Scotus’ claims about the self-determining character of the will conflict with the primacy that Scotus assigns to the affection for justice. Ockham asserts the independence of the will from reason and makes reason simply the servant of the will. 
 
 
 
