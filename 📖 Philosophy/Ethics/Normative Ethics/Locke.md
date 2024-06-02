@@ -1,1 +1,2 @@
 - He is natural law moralist
+- reason is and ought to be the slave of the passions 
