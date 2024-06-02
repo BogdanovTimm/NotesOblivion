@@ -4,3 +4,6 @@
 - In his view, the difference between simply entertaining a proposition and believing it consists in the degree of vividness with which you entertain it; it is an introspectible property of the idea itself.
 - Eudamonism is false
 - Defends both compatibilism and anti-intellectualism against Bramhall. 
+- freedom consists simply in internal determination; he sees no relevant distinction between the will and the ‘sentiments’ or ‘passions’ as sources of the internal determination.
+He rejects both an indeterminist and an intellectualist account of freedom.¹⁸ Though he accepts the voluntarist criticisms of intellectualism far enough to believe that determination by intellect is not freedom, he does not regard voluntarism as an adequate alternative.
+Against both intellectualists and voluntarists, he concludes that the will is a passion. 
