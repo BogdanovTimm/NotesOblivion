@@ -12,6 +12,7 @@
 - Ockham also argues against eudaemonism on the ground that the will is a free capacity and can therefore receive two contrary actualities. If the will is free, then, in Ockham’s view, it must be free to refuse happiness; hence we cannot will the ultimate end naturally, unless ‘naturally’ means simply that we most commonly do it. If the will is free, it can refuse happiness, both in general and in particular, because otherwise it would lose the indifference needed for freedom 
 - Control and power over one’s actions comes from freewill,⁸ which involves indifference and contingency.⁹ Hence it requires metaphysical indeterminism 
 - Scotus argues that the will is free to choose either of two opposite courses of action, and that therefore nothing outside the will determines our choice; hence the greater apparent good does not determine the wil 
+- Ockham does not follow Scotus in treating the will as essentially rational; nor does he connect freedom with the affection for justice. Instead, he emphasizes indifference, contingency, and self-determination. 
 
 
 
