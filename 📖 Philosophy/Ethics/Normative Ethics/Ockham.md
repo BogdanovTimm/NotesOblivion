@@ -22,4 +22,4 @@
 
 - In terms of rejecting that we always pursue happiness, he argues, that:
     - in some circumstances we might believe we cannot achieve happiness, and therefore might cease to will to be happy. But even if we think that happiness can't be achieved fully, we may think that we can get closer to it      
-    - If we will not to exist, we thereby also will not to be happy. We may think that
+    - If we will not to exist, we thereby also will not to be happy. We may think that to live in a shame is worse than to be alive
