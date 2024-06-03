@@ -69,5 +69,6 @@ data output_table;
     column1 = &new_global_date;
 	format
 	    column1 : ddmmyy8.;
-run;
+run
+;
 ```
