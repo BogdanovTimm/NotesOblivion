@@ -26,7 +26,8 @@ An agent who chooses to act for a bad end may have correct reason but freely cho
 - Once we admit these differences in the ends of different virtues, we have no reason to recognize prudence as a horizontally unified science of the good. Moreover, if the will is not determined by the conclusions of prudence, we lose one of Aquinas’ reasons for accepting the necessary connexion of the different virtues. Since the prescriptions of prudence belonging to the different virtues belong to distinct sciences, a will assenting to the conclusions of prudence for one virtue may not assent to its conclusions for another virtue.
 Ockham therefore claims that different virtues have independent desires and aims. Even if we are intemperate to some degree, we may still have the will (velle) to carry out the actions required by justice. Though Ockham takes prudence to be necessary for each virtuous action. 
 - Contrary to Scotus, however, the prudence that is needed for a given virtue does not include any universal prudence, and so prudence is not vertically unified. In Ockham’s view, only a loose and improper use of ‘prudence’ allows prudence to grasp universal principles reached through experience.³⁴ Prudence in the proper sense is confined to particulars; it is ‘immediate directive knowledge acquired only through experience with respect to something that can be done’ 
-
+- This is not an Ockham’s position: 
+We might take him to mean that though the requirements of correct reason are independent of God’s will, God is free to endorse or to reject them. If God were to reject them, and to demand that we act contrary to correct reason, virtue would not be in accord with correct reason. That is why — we might suppose — Ockham believes that the accord between virtue and correct reason holds only as long as the divine command (accepting the conclusions of correct reason) stands. 
 
 
 
