@@ -32,6 +32,8 @@ We might take him to mean that though the requirements of correct reason are ind
 - Disagrees with Aquinas that God is free if it can choose between more than 1 equally good things. God is free only if it can reject all good things. Ockham thinks there are 2 powers of God: 
     - Absolute aka Unqualified - using this one, he still may create a bad world
     - Directed aka Ordered - using this one, he do his choise unchangeble
+- Thoughthecontentofnon-positivemoralityknowntocorrectreasonisfixed,inrelationto God’s directed power, non-positive morality may still conflict with divine positive morality.
+For apparently God might freely choose to violate a precept of non-positive morality, or might instruct us to violate it. Scotus does not acknowledge this possibility; the only dispensations he mentions are dispensations from divine positive law. Ockham, however, acknowledges the possibility of a conflict. God’s unqualified power extends to everything that does not involve a contradiction, and (according to Ockham) it is not self-contradictory to deny that theft and adultery are sometimes right; hence God could (by his unqualified power) command us to commit adultery, so that adultery would be right.⁶⁷ In the extreme case, God could make it right to hate God.⁶⁸ 
 
 
 
