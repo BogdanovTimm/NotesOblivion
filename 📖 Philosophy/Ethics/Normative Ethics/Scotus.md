@@ -65,7 +65,8 @@ When God created us, God freely undertook to follow natural law, which seems to 
 - As we have understood Scotus, he holds an externalist view about the relation between the grasp of moral principles and motivation. This raises a difficulty for his claim that prudence makes an action morally good. 
 - Ockham agrees that prudence accords with correct reason, so that prudence is a partial efficient cause of the virtuous action. It is not the whole efficient cause, however, because virtue requires an independent act of willing in accordance with the dictates of correct reason. 
 - Scotus says that the *intellectualist position makes sin non-blameworthy, because they reduce it to the cognitive error
-
+- Neither Scotus nor Ockham is an unqualified voluntarist about morality and the divine will. The qualifications are especially clear in Scotus. He attributes to God an affection for justice that is the mark of divine freedom no less than of human freedom. This affection for justice ensures the truth of the Anselmian principle that necessarily God wills what is just.
+Moreover, not all the principles of morality are products of God’s choice, since the higher principles of natural law (including the first table of the Decalogue) are discoverable by natural reason as principles about natural suitability. The positive laws that God imposes on us (including the second table of the Decalogue) also manifest the affection for justice, since they are highly consonant with the higher principles of natural law. 
 
 
 
