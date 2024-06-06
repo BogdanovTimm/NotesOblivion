@@ -7,3 +7,6 @@
 - freedom consists simply in internal determination; he sees no relevant distinction between the will and the ‘sentiments’ or ‘passions’ as sources of the internal determination.
 He rejects both an indeterminist and an intellectualist account of freedom.¹⁸ Though he accepts the voluntarist criticisms of intellectualism far enough to believe that determination by intellect is not freedom, he does not regard voluntarism as an adequate alternative.
 Against both intellectualists and voluntarists, he concludes that the will is a passion. 
+- Ordinary legislators support their commands with sanctions. If God does this too, God can attach pleasure to the fulfilment of divine commands and pain to the violation of them. Since we naturally aim at pleasure and avoid pain, God can change the natural law without changing this aspect of our nature. If, then, we want to maintain the penal account of natural law, we are well advised to accept a hedonist account of the good. Hence Hobbes combines a penal account of natural law with hedonism. In his view, the laws of nature, apart from divine commands, are not really laws, but counsels of prudence prescribing means to our pleasure.
+As divine commands they are laws combined with sanctions appealing to pain and pleasure.
+The appropriate connexion with human nature relies on a hedonist conception of the good.⁷ 
