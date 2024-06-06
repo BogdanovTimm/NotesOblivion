@@ -219,6 +219,7 @@ Since supernatural happiness is our complete and unqualified ultimate good, the 
 - The principles of the natural law, according to Aquinas, support the precepts of justice, because they show that the precepts of justice are best all things considered; but, according to the voluntarist, God is free to reject what is best all things considered; hence God is free to violate the precepts of justice. 
 - He claims that universal prudence grasps the components of happiness, and thereby fixes (praestituere) the end for the moral virtues.²⁵ Given this conception of universal prudence, and given Aquinas’ conception of the will and its relation to the good, prudence is responsible for the distinctively virtuous condition of the will. Since the will aims necessarily at the ultimate good, and since prudence discovers the constitution of this good, the will of a prudent person necessarily pursues the distinctively virtuous end that prudence has discovered. We can distinguish the cognitive contribution of prudence from the motive contribution of the will;
 but, given Aquinas’ eudaemonism, the right direction of the will follows from the discovery of the constitution of the ultimate end. Since prudence is necessary and sufficient for virtue, the virtuous person differs cognitively from the incontinent, continent, and vicious person. 
+- God is free, because, although God can't do bad things, God sees more than 1 equally Good things, but acts only for the one of them.
 
 
 
