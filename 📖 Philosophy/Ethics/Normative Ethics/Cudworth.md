@@ -1,0 +1,2 @@
+- Cudworth defends eternal and immutable morality, as he conceives it, both against the positivism that he traces back to Protagoras and against the theological voluntarism that he attributes to Ockham, mediaeval theologians, ‘modern’ theologians, and Descartes. From Cudworth’s point of view, the mediaeval voluntarists abandon the view that morality has rational foundations.
+Cudworth does not invent this assessment of voluntarism; he relies on the critique of Ockham by Suarez, who cannot be accused of ignorance of Scholasticism or of raising anachronistic questions.
