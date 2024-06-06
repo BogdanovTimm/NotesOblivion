@@ -17,7 +17,7 @@ Selective value - what we need to choose
 ## Happiness
 
 Happiness (eudamonia) - set of all goods:
-- Adaptive Conception of Happiness - only non-instrumental goods are fullfilled desires
+- Adaptive Conception of Happiness - the only non-instrumental goods are the fullfilled desires
 - Hedonistic Eudamonism:
     - set of goods consists of maximum sum of pleasures
     - set of goods consists of freedom from pain
@@ -106,3 +106,12 @@ Self-love as:
 
 - Duality - There are 2 things (we don't know about their relations. Maybe 1 thing is better then the other)
 - Dualism - There a 2 things that are equally right
+
+#                  Praise and blame
+
+- Praise and Blame requires intellect
+
+#                  Positive vs Negative Law
+
+- Non-positive law - the law that exists on its own
+- Positive law - exists because of hte will of the legislator
