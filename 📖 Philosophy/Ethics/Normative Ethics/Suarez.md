@@ -1,3 +1,4 @@
 - The Naturalism is true. Human functionis to be guided by practical reason
 - An indeterminist doctrine of responsibility fits the doctrine of Christian predestination
-- natural law involves a divine command. 
+- natural law involves a divine command.
+- Suarez takes Ockham to hold that no action is bad except in so far as it is prohibited by God, and no action could not become good if it were prescribed by God, and conversely. 
