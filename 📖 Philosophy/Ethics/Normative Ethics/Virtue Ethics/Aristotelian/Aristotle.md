@@ -164,6 +164,10 @@ Hence we do not show that wealth is not a good if we find that it harms some peo
     - General Justice 
 - Aristotle doesn't treats the operations of prudence as simply theoretical reasoning that may or may not move the agent. Prudence includes a motivational aspect because it begins its deliberation from the agent’s desire for happiness, and discovers ways to fulfil that desire.
 - When Aristotle discusses equity, he suggests that exceptions to a generalization are to be justified by the principles underlying the generalization
+- There is a connection between:
+    - Human good
+    - Human nature
+    - Natural Law
 
 
 
