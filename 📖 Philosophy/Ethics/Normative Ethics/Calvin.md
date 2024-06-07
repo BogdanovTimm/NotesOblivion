@@ -1,1 +1,4 @@
 - Christianuty conflicts with Greek ethics
+- Natural Low can be find without the help of God
+- The Decalogue makes Natural Low clearer
+- Voluntarism about God's will is false: God can't will bad things

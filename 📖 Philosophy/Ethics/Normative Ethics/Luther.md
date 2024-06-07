@@ -3,3 +3,5 @@
 - Christian doctrine require the decisive rejection of an Aristotelian framework
 - Prudence of the flesh (particular prudence) is a self-love without qualification
 - Christianity requires new theoretical framework (apart from tge Aristotle’s one) 
+- Christian virtues are other-worldly and do not apply in our world
+- Voluntarism about God's will is true - God makes someting good by its will
