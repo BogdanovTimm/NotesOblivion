@@ -5,3 +5,16 @@
 - Christianity requires new theoretical framework (apart from tge Aristotle’s one) 
 - Christian virtues are other-worldly and do not apply in our world
 - Voluntarism about God's will is true - God makes someting good by its will
+- Eudaemonism is false: Luther rejects that we can aquire virtues if we start from the self-love. To acquire virtues we must start from the love of our neighbour. If we love ourselves, we can't love God
+- All virtues of pagans are really just vices
+- The desire for self-happiness is universal in all human beings
+- About freewill:
+    - Independence from external actions - we have it
+    - Independence from external causes - we don't have it
+- After receiving God's grace, people will want to perform good actions
+- Maybe, Luther sees 2 graces, given by God:
+    - Justifying grace  - forgives previoius sins
+    - Sanctifying grace - gives people the ability to perform good actions
+- There is no infused moral virtues
+- Good actions are nothing more than consequences of God's justification
+- Good actions can't give us God's mercy

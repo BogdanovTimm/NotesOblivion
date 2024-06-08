@@ -1,0 +1,7 @@
+- There is 3 types of freewill:
+    - Independence from external actions - we have it
+    - Independence from external causes - we don't have it (because God gives us the cause)
+    - Independence from passions - we don't have it
+- Division between will and passions are un-Biblical
+- Intellectualists account of freewill is false
+- We always follow our strongest passion

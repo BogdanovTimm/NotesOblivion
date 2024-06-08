@@ -2,3 +2,4 @@
 - An indeterminist doctrine of responsibility fits the doctrine of Christian predestination
 - natural law involves a divine command.
 - Suarez takes Ockham to hold that no action is bad except in so far as it is prohibited by God, and no action could not become good if it were prescribed by God, and conversely. 
+- We can keep the God's Low in the state of sin, because togethere with the love of God, there may be selfish motives for action

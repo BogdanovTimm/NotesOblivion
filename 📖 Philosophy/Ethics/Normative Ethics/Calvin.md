@@ -2,3 +2,6 @@
 - Natural Low can be find without the help of God
 - The Decalogue makes Natural Low clearer
 - Voluntarism about God's will is false: God can't will bad things
+- Pagans don't have right virtues becaues they do not love God
+- There is no infused moral virtues
+- Good actions are nothing more than consequences of God's justification
