@@ -111,10 +111,6 @@ Self-love as:
 
 - Praise and Blame requires intellect
 
-#                  Positive vs Negative Law
-
-- Non-positive law - the law that exists on its own
-- Positive law - exists because of hte will of the legislator
 
 #                  Obligations and Duties
 
@@ -122,3 +118,21 @@ Self-love as:
 - Obligations and duties are the same, obligations are imposed or incurred by voluntary action. Non-obligatory actions might create obligations or dutes - while people have no obligation to become parents, they incur obligations once they enter into these conditions
 - Obligation requires not mere imposition, but imposition by a superioe. If it is true, then God has duties, not obligations, toward us
 - Obligations and duties are the same, they both require imposition by a superior, but there are some right and wrnog actions that are independent of obligation and duty.
+
+#                   Laws
+
+Types of Laws:
+- Eternal Law - exists independently of God
+- Divine  Law - created by God's will
+- Natural Law - laws based on the nature of some creature
+
+##                  Natural Law
+
+- Naturalism  - Natural Law contains only moral facts (without prescriptions to do good)
+- Voluntarism - Natural Law contains only prescriptions
+- Both
+
+##                  Positive vs Negative Law
+
+- Non-positive law - the law that exists on its own
+- Positive law - exists because of hte will of the legislator

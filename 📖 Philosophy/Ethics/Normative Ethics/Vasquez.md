@@ -1,0 +1,3 @@
+- Natural Law is independent from the Devine Will
+- Decalogue embodies Natural Low
+- Decalogue do not allow dispensations

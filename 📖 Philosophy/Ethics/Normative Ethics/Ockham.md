@@ -44,6 +44,7 @@ Non-positive morality does not consist entirely of analytic truths that would be
 Ockham seems to be committed, therefore, to saying that it is logically possible for God to have made correct reason require cruelty, self-destruction, injustice, neglect of the future for the sake of the present, and so on. If this is indeed a consequence of his position, we might reasonably conclude that the appeal to correct reason has lost the sense that it has in Aquinas, and really amounts to nothing more than the claim that God has put some specific convictions into us.
 Ockham seems to imply that it is up to God to choose what the natural law will be. He thereby denies any necessary connexion between the nature of a creature, the good of that creature, and the natural law applying to that creature. If the creature’s nature fixes its good, but God is free to vary the natural law so that it does not conform to a creature’s nature, apparently God is free to prescribe laws that conflict with the creature’s good. Ockham does not claim that the principles of justice are unconnected with the good of human beings, or that God is free to impose new principles of justice that are unconnected with human good;
 but it is difficult to see how he can avoid such a claim, if he admits that the nature of human beings fixes their good. 
+- God can command people to do what is not appropriate for their nature
 
 
 

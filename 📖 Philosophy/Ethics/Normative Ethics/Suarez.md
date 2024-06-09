@@ -3,3 +3,8 @@
 - natural law involves a divine command.
 - Suarez takes Ockham to hold that no action is bad except in so far as it is prohibited by God, and no action could not become good if it were prescribed by God, and conversely. 
 - We can keep the God's Low in the state of sin, because togethere with the love of God, there may be selfish motives for action
+- Tries to stay with Aquinas
+- Natural Law contains both prescriptions and moral facts
+- There are 2 version of Naturalism:
+    - Objective Naturalism - someone's nature says what is good about someone. Suarez says that Vasquez holds this 
+    - Cognitive Naturalism - someone2's jusgement about someone1's objective nature says what is good about for someone1. Suarez says that Aquinas holds this
