@@ -1,2 +1,3 @@
 - He is natural law moralist
 - Pufendorf attacks on appeals to natural desire for sociability 
+- - Morality depends on natural law, and hence on Divine commands, and that the natural foundation of morality consists in natural, but non-moral, goodness and badness.

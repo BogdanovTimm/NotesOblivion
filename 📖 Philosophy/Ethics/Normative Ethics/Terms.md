@@ -116,8 +116,8 @@ Self-love as:
 
 - Obligations and duties are the same, obligations don't requires imposition
 - Obligations and duties are the same, obligations are imposed or incurred by voluntary action. Non-obligatory actions might create obligations or dutes - while people have no obligation to become parents, they incur obligations once they enter into these conditions
-- Obligation requires not mere imposition, but imposition by a superioe. If it is true, then God has duties, not obligations, toward us
-- Obligations and duties are the same, they both require imposition by a superior, but there are some right and wrnog actions that are independent of obligation and duty.
+- Obligation requires not mere imposition, but imposition by a superior. If it is true, then God has duties, not obligations, toward us.
+- Obligations and duties are the same, they both require imposition by a superior, but there are some right and wrong actions that are independent of obligation and duty.
 
 #                   Laws
 
@@ -136,3 +136,11 @@ Types of Laws:
 
 - Non-positive law - the law that exists on its own
 - Positive law - exists because of hte will of the legislator
+
+# Obligation
+
+How we can understand this:
+- Impositive - obligation is when someone (including me) binding me do this
+- Compulsory - obligation is when I rationally must do this
+- Deontic - every ought (both moral or prudent) judgementsd are obligations
+- Motivational - obligation is when it inclines to action

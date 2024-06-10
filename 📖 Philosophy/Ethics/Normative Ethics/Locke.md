@@ -1,2 +1,3 @@
 - He is natural law moralist
 - reason is and ought to be the slave of the passions 
+- Morality depends on natural law, and hence on Divine commands, and that the natural foundation of morality consists in natural, but non-moral, goodness and badness.

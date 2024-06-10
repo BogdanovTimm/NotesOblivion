@@ -1,6 +1,6 @@
 - The Naturalism is true. Human functionis to be guided by practical reason
 - An indeterminist doctrine of responsibility fits the doctrine of Christian predestination
-- natural law involves a divine command.
+- Natural Law involves a divine command.
 - Suarez takes Ockham to hold that no action is bad except in so far as it is prohibited by God, and no action could not become good if it were prescribed by God, and conversely. 
 - We can keep the God's Low in the state of sin, because togethere with the love of God, there may be selfish motives for action
 - Tries to stay with Aquinas
@@ -11,3 +11,5 @@
 - Suarez rejects Aquinas' view on a Natursl Law because it is too broad
 - Suarez rejects Vasquez'es view on a Natural Law, because Law does require legislator
 - Natural Law requires that God legislate it
+- God is not obligeted to do anything, because an obligation requires someone to impose that obligation.
+- Suarez does not imply that without an imposed obligation we have no sufficient moral reason for observing the principles of the Natural Law. God’s imposition gives us a further reason, but not the only reason, for observing these principles. This further reason essentially depends on God’s expressing the will for us to observe these principles, not on our recognizing that God believes we ought to observe them. Hence natural law requires more than God’s intellectual affirmation of the principles of natural law.
