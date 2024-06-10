@@ -1,3 +1,7 @@
 - Natural Law is independent from the Devine Will
 - Decalogue embodies Natural Low
 - Decalogue do not allow dispensations
+- 2 types of law:
+    - lex - depends on the will of legislator
+    - ius (right) - not depends on anyone's will
+- Natural Law is a ius type of law
