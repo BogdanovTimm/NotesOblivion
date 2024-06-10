@@ -8,3 +8,5 @@
 - There are 2 version of Naturalism:
     - Objective Naturalism - someone's nature says what is good about someone. Suarez says that Vasquez holds this 
     - Cognitive Naturalism - someone2's jusgement about someone1's objective nature says what is good about for someone1. Suarez says that Aquinas holds this
+- Suarez rejects Aquinas' view on a Natursl Law because it is too broad
+- Suarez rejects Vasquez'es view on a Natural Law, because Law does require legislator
