@@ -17,3 +17,5 @@ Sometimes you need to know either:
 `ps -ef` - see all processes and their arguments
 
 `ps -ef |grep ^argument^` - find process to which ^argument^ was passed
+
+`ps -fp xPIDX` - find by PID
