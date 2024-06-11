@@ -89,7 +89,11 @@ Is the will determined by the greater good as presented by reason?
 - To answer Yes is to be an intellectualist.
 - To answer No is to be a voluntarist.
 
-Voluntarism opposes sentimentalism in asserting a sharp distinction between the passions and the will;
+Voluntarism opposes sentimentalism in asserting a sharp distinction between the passions and the will
+
+# Voluntarism vs Naturalism about Natural Law
+
+According to one voluntarist view, nothing would be morally right or wrong if God has commanded nothing to us; our natural knowledge of the natural law is simply knowledge of the divine commands. On this view, natural law is natural in the epistemic sense, but not in the metaphysical sense. God was free to make us with the nature we have, but to command something different, and to give us natural knowledge of it; if God had done that, the principles of natural law would have been different, and the morally right and wrong would thereby have been different, even though our nature would have been the same.
 
 # Reasons
 
