@@ -45,6 +45,7 @@ Ockham seems to be committed, therefore, to saying that it is logically possible
 Ockham seems to imply that it is up to God to choose what the natural law will be. He thereby denies any necessary connexion between the nature of a creature, the good of that creature, and the natural law applying to that creature. If the creature’s nature fixes its good, but God is free to vary the natural law so that it does not conform to a creature’s nature, apparently God is free to prescribe laws that conflict with the creature’s good. Ockham does not claim that the principles of justice are unconnected with the good of human beings, or that God is free to impose new principles of justice that are unconnected with human good;
 but it is difficult to see how he can avoid such a claim, if he admits that the nature of human beings fixes their good. 
 - God can command people to do what is not appropriate for their nature
+- Nothing would be morally right or wrong if God has commanded nothing to us; our natural knowledge of the natural law is simply knowledge of the divine commands. On this view, natural law is natural in the epistemic sense, but not in the metaphysical sense. God was free to make us with the nature we have, but to command something different, and to give us natural knowledge of it; if God had done that, the principles of natural law would have been different, and the morally right and wrong would thereby have been different, even though our nature would have been the same. 
 
 
 
