@@ -16,5 +16,15 @@
 - According to Suarez, ‘obliging’ is the name for the act of introducing a moral necessity by expressing one’s will. The only agent who can introduce such a necessity is an agent who is entitled to introduce it, because he has the appropriate authority. Such an agent introduces the necessity by issuing a command. That is why obligation requires a command by a legitimate authority. 
 - His claims about obligation constitute an analysis of a narrow concept of obligation, and do not imply that all moral requirements involve an imposed necessity. 
 - Natural Law requires both:
-    - Intrincic rightness
-    - Divine command
+    - Intrincic moral rightness that is based on the nature
+    - Divine command - adds moral obligation
+- He recognizes both:
+    - natural goodness
+    - intrinsic morality
+- Types of good:
+    - Non-moral:
+        - pleasant
+        - useful
+    - Moral:
+        - right
+- Suarez accepts both Aquinas’ eudaemonism and his naturalism about the morally good.
