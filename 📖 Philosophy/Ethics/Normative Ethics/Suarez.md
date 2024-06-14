@@ -28,3 +28,4 @@
     - Moral:
         - right
 - Suarez accepts both Aquinas’ eudaemonism and his naturalism about the morally good.
+- In his metaphysics, Suarez opposes voluntarism about essences. They do not depend on God as creator 
