@@ -30,3 +30,5 @@
 - Suarez accepts both Aquinas’ eudaemonism and his naturalism about the morally good.
 - In his metaphysics, Suarez opposes voluntarism about essences. They do not depend on God as creator 
 - Just as God could not choose to create round squares, God could not choose to create any other inconsistent combinations. 
+- It is necessarily true that God knows them, and so it is not possible for them to be true without God’s knowing them;
+still, the counterfactual claim is true that even if God were not to know them, they would be true. 
