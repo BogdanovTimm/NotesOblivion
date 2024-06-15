@@ -1,3 +1,4 @@
 - Moral terms can't be reduced to non-moral ones
 - Rationalism (virtue = to be guided by praxtical reason) is true
 - Non-instrumental and overriding value of morality are true
+- Intuitionism is true: we can grasp principles of benevolence independently of grasping principles of justice. And they may conflict. Then, to resolve the conflict, we need third grasping of principles 
