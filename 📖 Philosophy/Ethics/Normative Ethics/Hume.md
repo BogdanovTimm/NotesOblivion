@@ -14,3 +14,5 @@
 - freedom consists simply in internal determination; he sees no relevant distinction between the will and the ‘sentiments’ or ‘passions’ as sources of the internal determination.
 He rejects both an indeterminist and an intellectualist account of freedom.¹⁸ Though he accepts the voluntarist criticisms of intellectualism far enough to believe that determination by intellect is not freedom, he does not regard voluntarism as an adequate alternative.
 Against both intellectualists and voluntarists, he concludes that the will is a passion. 
+- Hume’s argument about ‘is’ and ‘ought’:
+we have given the wrong account of a moral judgment if our account allows someone to believe that a moral judgment is true without having any motive to act on it. 
