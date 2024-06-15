@@ -1,3 +1,4 @@
 - Virtue Rationalism (virtue = to be guided by practical reason) is true
 - Extreme Will-Intellect-Passion Rationalism (thought without desire motivates) is true
 - Clarke’s extreme intellectualism fits his foundationalist and intuitionist epistemology.
+- Clarke’s belief in ‘eternal relations of fitness’. If such a view were right, then we could infer simply from the fact that A had benefited B that B ought to benefit A in return, without reference to the fact that A and B are rational agents in specific circumstances that affect their rational agency 
