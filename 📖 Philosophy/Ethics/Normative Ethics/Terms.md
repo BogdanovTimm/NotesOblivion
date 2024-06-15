@@ -132,14 +132,21 @@ Types of Laws:
 
 ##                  Natural Law
 
+Types of Natural Law by facts vs prescriptions:
 - Naturalism  - Natural Law contains only moral facts (without prescriptions to do good)
 - Voluntarism - Natural Law contains only prescriptions
 - Both
+
+Types of Natural Law by metaphysical vs epistemical:
+- Metaphysical - Nnatyral Law is a Law that exists independent of God's will
+- Epistemical - Natural Law is a Law that we can graspusing nothing more than our reason
 
 ##                  Positive vs Negative Law
 
 - Non-positive law - the law that exists on its own
 - Positive law - exists because of hte will of the legislator
+
+##  
 
 # Obligation
 
