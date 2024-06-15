@@ -36,3 +36,5 @@ still, the counterfactual claim is true that even if God were not to know them, 
 - an intrinsically wrong action would still be a sin (peccatum) even if God did not prohibit it; hence neither sin nor blameworthiness (culpa) depends on divine prohibition. Both sin and blameworthiness follow from the fact that a voluntary act is contrary to right reason. In that case, therefore, the bad action would be a sin and a fault morally, but not theologically, or as directed towards God.
 - He thinks Aquinas takes that God can't not prescribe Natural Law not only with his Ordered Power, but also with his Absolute Power
 - God is free not to create us. If God didn't created us - there would be no Natural Law. But when he created us - automatically there are Natural Law that we have now. God can't impose Law that isn't in accordance with our nature 
+- Similarly to Aquinas, Suarez think that there are higher and subordinate principles of Natural Law
+- Same action can't be sometimes good in itself and sometimes bad in itself 
