@@ -45,3 +45,4 @@ still, the counterfactual claim is true that even if God were not to know them, 
     - Law of particular Nations
     - Law of communications of Nations (including laws of war) 
 - Law of Nations are not part of Natural Law, hence Law of Nations are not prescribe what is good in itself
+- To do what Law of Nations prescribes is intrinsically right in that sense that it is intrinsically right to drive on one side of a road. Thought it is non-intrinsically right to drive on the left or the right side of the road, you must create a law about on which side to drive 
