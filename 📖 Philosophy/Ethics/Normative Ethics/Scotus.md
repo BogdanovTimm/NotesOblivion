@@ -70,6 +70,7 @@ Moreover, not all the principles of morality are products of God’s choice, sin
 - To maintain the Anselmian maxim, Scotus has to treat justice as simply the product of God’s choice. 
 - Scotus argues that God presents the natural law as a series of requirements of justice;
 we will have a reason to follow them if we choose to follow our affection towards justice, but we have no overriding reason to choose to follow this affection rather than some other.
+- Violations of Natural Law could be in accord with Natural Law
 
 
 
