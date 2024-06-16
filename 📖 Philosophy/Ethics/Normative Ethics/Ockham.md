@@ -46,6 +46,10 @@ Ockham seems to imply that it is up to God to choose what the natural law will b
 but it is difficult to see how he can avoid such a claim, if he admits that the nature of human beings fixes their good. 
 - God can command people to do what is not appropriate for their nature
 - Nothing would be morally right or wrong if God has commanded nothing to us; our natural knowledge of the natural law is simply knowledge of the divine commands. On this view, natural law is natural in the epistemic sense, but not in the metaphysical sense. God was free to make us with the nature we have, but to command something different, and to give us natural knowledge of it; if God had done that, the principles of natural law would have been different, and the morally right and wrong would thereby have been different, even though our nature would have been the same. 
+- Types of morality:
+    - Positive - has a legislator
+    - Non-positive - doesn't have a legislator, but also expresses the will of God and may be changed using God's unqualified power
+- 
 
 
 
