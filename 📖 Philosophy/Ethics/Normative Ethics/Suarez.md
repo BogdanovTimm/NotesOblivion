@@ -39,4 +39,5 @@ still, the counterfactual claim is true that even if God were not to know them, 
 - Similarly to Aquinas, Suarez think that there are higher and subordinate principles of Natural Law
 - Same action can't be sometimes good in itself and sometimes bad in itself
 - We may speak consciously ambiguitly if that is morally justifiably
-- God is not free to dispense us from obedience to them.⁹⁵ Suarez therefore rejects Scotus’ treatment of dispensations. 
+- God is not free to dispense us from obedience to them, because God prescribes us to obey Natural Law, rather than to obey to his Positive Law. Suarez therefore rejects Scotus’ treatment of dispensations.
+-
