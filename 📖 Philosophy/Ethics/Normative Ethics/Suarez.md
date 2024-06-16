@@ -40,4 +40,4 @@ still, the counterfactual claim is true that even if God were not to know them, 
 - Same action can't be sometimes good in itself and sometimes bad in itself
 - We may speak consciously ambiguitly if that is morally justifiably
 - God is not free to dispense us from obedience to them, because God prescribes us to obey Natural Law, rather than to obey to his Positive Law. Suarez therefore rejects Scotus’ treatment of dispensations.
--
+- He believes that the obligation imposed by the natural law requires a command expressing God’s legislative will, but he intends this point to clarify his strict concepts of law and obligation. Though he disagrees with Aquinas on this point, he accepts the further claims of Aquinas that Scotus and Ockham oppose. He claims that actions are intrinsically right and wrong, and hence are the source of duties, apart from any divine command; God necessarily prescribes and forbids these actions because they are intrinsically right and wrong. Suarez denies, therefore, that morality depends on divine commands.
