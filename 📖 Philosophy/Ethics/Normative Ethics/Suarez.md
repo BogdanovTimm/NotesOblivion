@@ -50,3 +50,4 @@ still, the counterfactual claim is true that even if God were not to know them, 
 - Suarez allows defensive war to prevent our being victims of aggression. He also allows aggressive war (1.6), in cases where we are not being attacked by another, in order to punish another state for infliction of an injury, if the other state is not willing to give just satisfaction for the injury (4.5).
 In these grounds for war Suarez gives no permission for pre-emptive strikes against an enemy. 
 - Suarez even defends rebellion and tyrannicide in some circumstances. 
+- In the case of conquest through a just war, the subject people are required (tenetur) to obey their new ruler
