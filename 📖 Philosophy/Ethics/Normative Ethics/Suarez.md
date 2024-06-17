@@ -49,3 +49,4 @@ still, the counterfactual claim is true that even if God were not to know them, 
 - Since Suarez regards the state as essentially aiming at the public good, he argues that it is legitimate for the community to depose a ruler who acts against the public good. A law professing to authorize a ruler to do what he likes, even against the public good, would not meet the conditions of Leg. i 6 for being a genuine law, and so citizens could not be obliged to obey it.
 - Suarez allows defensive war to prevent our being victims of aggression. He also allows aggressive war (1.6), in cases where we are not being attacked by another, in order to punish another state for infliction of an injury, if the other state is not willing to give just satisfaction for the injury (4.5).
 In these grounds for war Suarez gives no permission for pre-emptive strikes against an enemy. 
+- Suarez even defends rebellion and tyrannicide in some circumstances. 
