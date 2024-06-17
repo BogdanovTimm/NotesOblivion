@@ -1,1 +1,2 @@
-- Barbeyrac especially condemns Aristotle’s willingness to permit abortion in some circumstances (Politics 1335b19–26).
+- Barbeyrac especially condemns Aristotle’s willingness to permit abortion in some circumstances
+- Though he praises Hobbes, he also attacks him for treating self-interest as the only basis of society. 
