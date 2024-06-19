@@ -1,3 +1,4 @@
 - Barbeyrac especially condemns Aristotle’s willingness to permit abortion in some circumstances
 - Though he praises Hobbes, he also attacks him for treating self-interest as the only basis of society. In the Leviathan, according to Barbeyrac, Hobbes goes even further, making the sovereign the basis of morality and religion.
 - Barbeyrac shares Pufendorf’s concern to distinguish natural law theory from Hobbes’s position. 
+- Barbeyrac suggest that so much falsity is present in the Scholastics that it is not worth trying to extract the truth.

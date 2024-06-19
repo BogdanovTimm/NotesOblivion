@@ -156,6 +156,11 @@ How we can understand this:
 - Deontic - every ought (both moral or prudent) judgementsd are obligations
 - Motivational - obligation is when it inclines to action
 
+# Duty
+
+- Imperative conception of duty - every duty implies obligation, every obligation implies the command.
+- Non-imperative conception of obligation - every duty implies obligation, and some duties are independent of commands
+
 #                  Jural vs Non-Jural Morals
 
 - Jural - morality requires some legislation. It may have pre-legislation indicative facts, but they are not moral
