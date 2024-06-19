@@ -1,2 +1,4 @@
 - Anti-eudaemonism: we value virtue appropriately only if we do not regard it as a part of, or a means to, our happiness
 - Voluntarism is true - A thorough attempt to separate the freedom from the rationality of the will appears only in Schopenhauer and in existentialist views about radical freedom. 
+- Schopengauer claims that Kant's views covertly rely on a legal conception of obligation that presupposes a divine legislator.³⁸ 
+- In her view, the peculiar predicament of modern moral philosophy lies in the combination of a non-jural conception of morality with a concept of obligation that depends on a jural conception. 

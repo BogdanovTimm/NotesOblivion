@@ -13,3 +13,4 @@ The appropriate connexion with human nature relies on a hedonist conception of t
 - Human nature is not fulfilled by morality
 - Morality must be imposed on people to restrain their self-seeking tendencies
 - God commands to do what government says
+- According to Hobbes, the content of natural law, independent of divine or human legislation, consists of the demands of self-interest

@@ -1,0 +1,1 @@
+- understands a natural-law moralist as one who engages in the ‘attempt to understand morality in the legalistic terms of a natural law’. We attribute a natural-law theory in this strong sense to Aquinas, for instance, if we agree that ‘for him, the virtues are basically habits of obedience to laws’

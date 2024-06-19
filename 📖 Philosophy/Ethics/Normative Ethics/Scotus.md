@@ -71,6 +71,7 @@ Moreover, not all the principles of morality are products of God’s choice, sin
 - Scotus argues that God presents the natural law as a series of requirements of justice;
 we will have a reason to follow them if we choose to follow our affection towards justice, but we have no overriding reason to choose to follow this affection rather than some other.
 - Violations of Natural Law could be in accord with Natural Law
+- Scotus rejects eudaemonism (because in eudaemonism the one may only want its happiness, whereas in Scout, one may either wants his own happiness or justice), and takes the affection for justice to be separate from the natural pursuit of happiness. He recognizes intrinsic morality consisting in the precepts of the first table of the Decalogue; these are natural law, strictly speaking, and do not depend on the free will of God. The greater part of morality is strictly only ‘highly consonant’ with natural law, and is part of divine positive law
 
 
 

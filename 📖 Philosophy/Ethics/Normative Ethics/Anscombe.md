@@ -1,0 +1,5 @@
+- She argues, contrary to both Sidgwick and Barbeyrac, that mediaeval Christian moralists hold a jural conception. They identified basic moral principles with the precepts of the Decalogue, understood as a body of divine legislation.²⁸
+- The Reformers abandon this jural conception of morality because of the Lutheran separation between law and Gospel; in contrast to the mediaeval view about the scope of divine law, Luther claims that it applies only to unregenerate humanity.²⁹
+- Given this hostility to law (Anscombe claims), Protestants reject a jural conception of morality as a positive guide to life (though it serves to reveal sin).
+- In Anscombe’s view, modern moralists have developed a non-jural outlook, but imperfectly, since they have retained beliefs in obligation that presuppose a jural conception. 
+- Aristotle uses ‘should’ and ‘ought’ with reference to goodness and badness, but not in the special moral sense that these terms have now acquired.³¹ Since Aristotle does not use these terms with the special moral sense, he does not have a concept of the moral. 

@@ -155,3 +155,8 @@ How we can understand this:
 - Compulsory - obligation is when I rationally must do this
 - Deontic - every ought (both moral or prudent) judgementsd are obligations
 - Motivational - obligation is when it inclines to action
+
+#                  Jural vs Non-Jural Morals
+
+- Jural - morality requires some legislation. It may have pre-legislation indicative facts, but they are not moral
+- Non-Jural - morality operates with something that is good in itself
