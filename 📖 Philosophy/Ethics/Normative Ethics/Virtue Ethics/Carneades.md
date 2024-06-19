@@ -1,0 +1,3 @@
+- According to Carneades’ argument, rights (iura) simply embody calculation of utility, and therefore vary in accordance with practices (mores) and different times and occasions, so that there is no natural right
+- Since everyone naturally pursues utility above all, either there is no justice (iustitia), or justice is foolishness, since consideration for someone else’s advantage involves harm to oneself
+- Against Carneades’ claim that utility is the mother of the just and fair, he maintains that human nature is the mother of natural right, and would produce a desire for society even if we could satisfy our basic needs for survival without combining with other people 

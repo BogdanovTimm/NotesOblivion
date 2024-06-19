@@ -66,3 +66,4 @@ Moreover, in claiming that we are rationally concerned about moral goodness beca
 - Suarez holds a partly voluntarist conception of natural law, but a naturalist conception of morality, because he rejects the frist assertion, but accepts the second:
     - Even if God did not exist or did not issue commands, there would be natural law, and obligation
     - Even if God did not exist or did not issue commands, actions would be intrinsically right and wrong
+    - This is Suarez’s point when he argues that the precepts of natural law are not to be identified with the general rules that most often give the right answer. In his view, the precepts of natural law include the circumstances that introduce qualifications into simple generalizations.

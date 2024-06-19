@@ -12,7 +12,21 @@
 - He seems to agree with Suarez in recognizing duties (debita) that are independent of any divine command. Law (lex) introduces new duties (debita), but Grotius does not suggest that there are no duties prior to law.
 - With Aquinas and Suarez, he infers that the natural law is immutable, and cannot be changed by God without self-contradiction.
 - Grotius agrees with Aquinas and Suarez that if God commands us to kill someone or take their goods, God does not make murder (homicidium) or theft lawful in this instance, but changes the circumstances so that the action of killing or taking is no longer murder or theft
+- Grotius answers Carneades by denying that a society’s view of its advantage is the only basis for right. In his view, there is a natural basis of right. It is founded on human nature, and especially on the human desire for society.
+- He ascribes to human nature both this social aim and the capacity to plan for present and future; in the light of this aim and this capacity we find principles that belong to natural right.
+- Though Grotius agrees with him on some points, he does not follow Suarez in allowing a right of resistance.²⁹ In his long chapter ‘On the war of subjects against superiors’ (i 4), Grotius further limits even the limited permission that Suarez gives for rebellion: Grotius speaks as though we should regard principles as rules that give the right answer in most cases, and we should assume that if they do this, it is better to observe them even when they give the wrong answer than to modify the rule. Grotius allows only self-defence. He does not allow the form of aggressive war that Suarez allows, when the commonwealth deposes the ruler. He rejects the arguments of contemporaries who allow this power of deposition to inferior officials speaking on behalf of the commonwealth (i 4.6.1). In his view, they have only the status of private persons in relation to the supreme ruler whom they claim the right to depose. 
+- He does not introduce a jural conception of morality, but rejects a jural conception in favour of Scholastic naturalism.
+
+
+
+
+
+
+
+
+
 
 #                  Difficulties
 
 - It might be wisest to attribute to him no clear view on whether the natural law is prescribed, as such, by God’s legislative will or not.
+- the Scholastic and naturalist foundations of Grotius' moral theory of natural right tend to undermine his political claims about unrestricted obedience to a state.

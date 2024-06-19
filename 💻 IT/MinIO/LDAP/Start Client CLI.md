@@ -25,3 +25,20 @@ Where:
     xPOLICY_NAMEx          \
     --user="xUSER_NAMEx"
 ```
+4. Go to MinIO webui and create an access token for a user
+5. Create alias for LDAP user:
+```shell
+./minio_client     \
+    alias          \
+    set            \
+    'xNEW_ALIASx'  \
+    'xACCESS_KEYx' \
+    'xSECRET_KEYx'
+```
+6. Try to download some file:
+```
+./minio_client                                   \
+    get                                          \
+    "xALIAS_NAMEx/xBUCKET_NAMEx/xFILE_NAME.TXTx" \
+    "/where/to/download/file/"
+```
