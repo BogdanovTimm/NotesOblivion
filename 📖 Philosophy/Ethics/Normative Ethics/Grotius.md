@@ -16,6 +16,7 @@
 - He ascribes to human nature both this social aim and the capacity to plan for present and future; in the light of this aim and this capacity we find principles that belong to natural right.
 - Though Grotius agrees with him on some points, he does not follow Suarez in allowing a right of resistance.²⁹ In his long chapter ‘On the war of subjects against superiors’ (i 4), Grotius further limits even the limited permission that Suarez gives for rebellion: Grotius speaks as though we should regard principles as rules that give the right answer in most cases, and we should assume that if they do this, it is better to observe them even when they give the wrong answer than to modify the rule. Grotius allows only self-defence. He does not allow the form of aggressive war that Suarez allows, when the commonwealth deposes the ruler. He rejects the arguments of contemporaries who allow this power of deposition to inferior officials speaking on behalf of the commonwealth (i 4.6.1). In his view, they have only the status of private persons in relation to the supreme ruler whom they claim the right to depose. 
 - He does not introduce a jural conception of morality, but rejects a jural conception in favour of Scholastic naturalism.
+- Grotius shares some of Hobbes’s fears about the effects of philosophical arguments for disobedience, and so he tries to blunt the critical edge of some Scholastic theories.¹⁰
 
 
 

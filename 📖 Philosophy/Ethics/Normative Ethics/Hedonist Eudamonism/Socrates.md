@@ -18,6 +18,7 @@
 - Tried to find :
     - how we may reduce moral properties to non-moral terms (epistemological condition). E.g.: justice is an Aethean Law
     - which property makes all X be X (explanatory demand). E.g.: justice is not an Aethian Law, because if Aethian Law changes - justice may stays same
+- Our last appetite is always directed towards the apparently larger sum of pleasures, so, we alwayc act to bring what will maximize the net balance of future pleasure. This is the view that Socrates holds in the Protagoras; he uses it both to reject the possibility of incontinence and to explain the appearance of incontinence. In his view, we appear to be incontinent in choosing the apparently lesser pleasure over the apparently greater only because we actually exaggerate the pleasure of whatever is temporally closer.
 
 
 
