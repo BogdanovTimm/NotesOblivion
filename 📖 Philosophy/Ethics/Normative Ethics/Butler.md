@@ -10,7 +10,9 @@
 - Rejects this primacy of self-love. 
 - Butler says that the rational pursuit of happiness gives us the reason that impartial justice is even more rational that pursuit of happiness
 - Rejects eudaemonism
-- The distinction between the strength and the rational weight (or ‘authority’) of desires is Butler’s formulation of the point underlying Plato’s and Aristotle’s division between rational and non-rational parts of the soul.
+- The distinction between:
+    - Power - the strength of desires - Plato's non-ration parts of the soul. Humean deliberation.
+    - Authority - the rational weight of desires - Plato's rational parts of the soul. Non-humean deliberation.
 
 
 

@@ -31,9 +31,7 @@ Happiness (eudamonia) - set of all goods:
 ## Virtues, being moral and happiness
 
 Eudamonism - we have reason to value virtue and virtuous action as non-instrumentally good if and only if we regard them as a part of happiness.
-
 Non-eudamonist - happiness may support being moral, though this certainly is not main reason to be moral.
-
 Anti-eudamonist - virtues MUST not be viewed as means to happiness.
 
 ## Pleasure
@@ -74,7 +72,7 @@ Kant (according to some readers) appeals to a priori truths about the abstract f
     - appetites aka concupiscent
     - spirit aka irascible
 
-# Rationalism  vs Sentimentalism aka Anti-Rationalism
+# Rationalism vs Sentimentalism aka Anti-Rationalism
 
 Is the will determined by the strongest passion, as an animal’s choice is determined? 
 
@@ -83,13 +81,30 @@ Is the will determined by the strongest passion, as an animal’s choice is dete
 
 External reasons support Rationalism
 
+
+
+
+
+
+
+
+
 # Intellectualism vs Voluntarism
 
 Is the will determined by the greater good as presented by reason? 
-- To answer Yes is to be an intellectualist.
-- To answer No is to be a voluntarist.
 
-Voluntarism opposes sentimentalism in asserting a sharp distinction between the passions and the will
+- To answer Yes is to be an intellectualist.
+- To answer No:
+    - but assert distinction between passwions and will is to be a voluntarist
+    - but reject distinction between passwions and will is to be a sentimentalist
+
+
+
+
+
+
+
+
 
 # Voluntarism vs Naturalism about Natural Law
 

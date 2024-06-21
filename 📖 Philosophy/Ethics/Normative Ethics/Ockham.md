@@ -50,7 +50,8 @@ but it is difficult to see how he can avoid such a claim, if he admits that the 
     - Positive - has a legislator
     - Non-positive - doesn't have a legislator, but also expresses the will of God and may be changed using God's unqualified power
 - Ockham asserts a closer (than Scotus does) dependence of morality on God’s free choice. Both non-positive and positive morality reflect God’s choice in different ways. In his theological works Ockham does not identify either of them with the provisions of natural law. Remarks in his political works show that he recognizes natural law; but he does not suggest that belonging to natural law is the crucial test of morality
-- Ockham seems closer to a purely jural conception, since he seems to regard even non-positive morality as subject to change within God’s absolute power.²⁷
+- Ockham seems closer to a purely jural conception, since he seems to regard even non-positive morality as subject to change within God’s absolute power.
+- For Ockham, free agent is ‘that, which, when all things are present which are needful to produce the effect, can nevertheless not produce it’
 
 
 

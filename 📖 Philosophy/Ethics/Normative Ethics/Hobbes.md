@@ -27,7 +27,11 @@ The appropriate connexion with human nature relies on a hedonist conception of t
 - Hobbes does not claim to reject deliberation: This account of deliberation refers only to non-normative states; it does not mention our estimate of the value of the different options that occur to us in deliberation. It does not distinguish our being more attracted to one of two options from our believing that it deserves to be preferred. If we believe (as we suppose) that one option deserves to be preferred, we believe that the reasons for it are better than the reasons for the other option. This aspect of deliberation and will has no place in Hobbes’s account; he does not suggest that our will results from the judgment that one option is better than the other, or from the judgment that we have stronger reasons for pursuing it. Deliberation and will, in his account, result from yielding successively to a sequence of appearances about different options, without any rational assessment of their value.²
 - Hobbes' analysis of deliberation implies that the Scholastics are wrong to treat will as a distinctively rational appetite.
 - His account for deliberation leaves room for incontinence.
-
+- Hobbes rejects Aquinas’ intellectualism - the view that the will is determined by the greater good presented by reason.
+- Hobbes is a compatibilist - Against Bramhall's indeterminism, Hobbes defends the compatibilist view that we have attributed to Aquinas, and goes further by accepting soft determinism.
+- Hobbes rejects rationalism
+- Hobbes rejects indeterminism
+- Since he believes in freedom, the relevant sort of freedom is internal determination by desire. If H-deliberation is not deliberation, his inferences about freedom are insecure. 
 
 
 
@@ -42,3 +46,6 @@ The appropriate connexion with human nature relies on a hedonist conception of t
 - His remarks about better and worse deliberation rely on a normative conception of deliberation, taking it to consider what is best overall and what we ought to do in the light of what seems best overall. H-deliberation has no room for this normative conception.
 - Hobbes can't use Socrates' position from Protagoras, where Socrates claims that we always act to an apparent larger sum future pleasures, because it implies that there is no incontinence, but Hobbes itself claims that there is incontinence.
 - He may support his claims about deliberation and overall good by the empirical assumption that we always pursue the greater apparent good; but this empirical assumption conflicts with the possibility of incontinence. 
+- Hobbes argues for anti-rationalism (the will is determined by the strongest passion) against Aquinas’ conception of freewill on 2 arguments: 
+    - Deliberation (as Hobbes, conceives it) is found in animals, and so belongs both to rational and to non-rational agency
+    - Even in human beings deliberation is not necessary for voluntary action, since impulsive and rash actions are also voluntary. This one is easy to reject: for, Aquinas may said that we treat it as voluntary because we assume it is subject to deliberation on some occasions, even if not immediately before acting. Aquinas’ distinction between directly and indirectly voluntary actions helps to show that unpremeditated action is voluntary if is suitably connected to deliberation, even if deliberation has not immediately preceded.
