@@ -34,6 +34,8 @@ Eudamonism - we have reason to value virtue and virtuous action as non-instrumen
 Non-eudamonist - happiness may support being moral, though this certainly is not main reason to be moral.
 Anti-eudamonist - virtues MUST not be viewed as means to happiness.
 
+Greek eudaemonism asserts that whatever I choose for its own sake I regard as either a means to, or a part of, the good for me; but this restriction does not imply that the only thing I can choose for its own sake is a state exclusively of myself. We can consistently accept eudaemonism and value our friend’s good for our own sake, if we regard our friend’s good as part of the life that is best for us. While all the goods that I choose for their own sake are self-referential, they need not all be self-confnied. Whether they are all self-confnied is a further question to be answered by an account of what happiness consists in. 
+
 ## Pleasure
 
 Hedonism:
@@ -54,6 +56,11 @@ Hedonism:
 - Empiricism - our senses:
     - our senses of pleasure
 - Dialectic - common beliefs
+
+#             Self-confined vs Self-referential
+
+- Self-referential - Good must somehow be connected to my happiness
+- Self-confined - Good must consist ONLY in connection to my happiness
 
 # Moral Psychology
 

@@ -168,6 +168,7 @@ Hence we do not show that wealth is not a good if we find that it harms some peo
     - Human good
     - Human nature
     - Natural Law
+- Aristotle need not recognize any determinate set of particular activities that constitute the good. He need only claim that the activities in question fall into some relatively definite types. It might well be true that if we achieve our aim of knowing one language, say, we set ourselves to learn another; but these are two exercises of our language-learning capacity. Similarly, if the continual progress of desire from one object to another stays within the types of capacities whose fulfilment Aristotle takes to constitute the good, such progress does not count against the Aristotelian view. 
 
 
 
