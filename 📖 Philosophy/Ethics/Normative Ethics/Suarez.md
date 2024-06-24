@@ -67,3 +67,4 @@ Moreover, in claiming that we are rationally concerned about moral goodness beca
     - Even if God did not exist or did not issue commands, there would be natural law, and obligation
     - Even if God did not exist or did not issue commands, actions would be intrinsically right and wrong
     - This is Suarez’s point when he argues that the precepts of natural law are not to be identified with the general rules that most often give the right answer. In his view, the precepts of natural law include the circumstances that introduce qualifications into simple generalizations.
+- Suarez believes the necessity is moral necessity, leaving us with no reasonable alternative to compliance.⁴⁸ This is a normative necessity, to be explained by reference to reasons and oughts, not further reduced: In Suarez’s view, God’s communicating a command to me is sufficient to oblige me to obey it, whether or not I want to obey it.
