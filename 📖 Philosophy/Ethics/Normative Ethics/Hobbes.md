@@ -93,7 +93,7 @@ The appropriate connexion with human nature relies on a hedonist conception of t
 - he does not give a deontological ground for our obligation to obey divine commands. Nor does he assess moral rules deontologically. He assesses them with reference to the public interest, and this assessment depends on a rule-utilitarian explanation.
 - While it is helpful and appropriate to say that he tries to ‘vindicate’ and to ‘justify’ morality, and to show that we have ‘reason’ to follow it, it is also misleading; Hobbes has no room for these normative claims, except insofar as they can be reduced to claims about motivation. A justification of morality and a demonstration that we have reason to follow morality is simply a true prediction that in the specified circumstances we will have an overriding motive to follow it.
 - He connects morality with self-preservation because he takes the desire for self-preservation to be our overriding motive; hence, his argument for reducing morality to self-preservation depends on his reduction of the normative to the psychological. If we reject the latter reduction, we have good reason to question his defence of morality. 
-
+- Hobbes is not the first philosopher to appeal to a state of nature as a starting-point for understanding the basis of moral principles and political obligation. The 16th-century Scholastics and 17th-century natural law theorists also rely on a state of nature. 
 
 
 
