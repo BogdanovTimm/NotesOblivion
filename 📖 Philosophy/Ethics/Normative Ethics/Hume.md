@@ -15,4 +15,5 @@
 He rejects both an indeterminist and an intellectualist account of freedom.¹⁸ Though he accepts the voluntarist criticisms of intellectualism far enough to believe that determination by intellect is not freedom, he does not regard voluntarism as an adequate alternative.
 Against both intellectualists and voluntarists, he concludes that the will is a passion. 
 - Hume’s argument about ‘is’ and ‘ought’:
-we have given the wrong account of a moral judgment if our account allows someone to believe that a moral judgment is true without having any motive to act on it. 
+we have given the wrong account of a moral judgment if our account allows someone to believe that a moral judgment is true without having any motive to act on it.
+- Hume believes that justice is appropriate only in specific external circumstances that do not follow from human nature itself.⁷⁰ The competition that leads to a state of war results from human nature only in conditions of scarcity. 
