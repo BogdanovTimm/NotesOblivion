@@ -7,7 +7,7 @@
 - Virtues has only non-instrumental valu
 - Hedonism is true
 - Atomist view of the world, with its denial of life after death, secures peace of mind and freedom from anxiety, and so ought to be adopted on hedonist grounds.
-- Epicurus believes that reliance on the senses justif i es a non-sceptical conclusion about the external world and acceptance of the atomic theory; we do not need to abandon empiricism for rationalism in order to accept atomism.
+- Epicurus believes that reliance on the senses justifies a non-sceptical conclusion about the external world and acceptance of the atomic theory; we do not need to abandon empiricism for rationalism in order to accept atomism.
 - He denies the Cyrenaic view that a defence of hedonism conflicts with ordinary beliefs about the value of happiness and the rationality of the moral virtues.
 - Epicurus agrees with Cynics' view that happiness depends on adapting one’s desires to circumstances rather than in the accumulation of the most intense sensations of pleasure. Epicurean sages, no less than Cynic sages, are independent of external conditions and can find their happiness in conditions that are in their power.
 - Arguments for the version of determinism that excludes freedom (‘hard’ determinism) are unsound
@@ -53,3 +53,5 @@
 - The introduction of uncaused changes seems to imply that my character and my previous choices have no regular and reliable casual connexions to my current deliberation and choice.
 - We might regard this as an objection to his theory, if it implies that death is not bad; for surely (we might reply) death is manifestly bad, and a theory that denies this has gone wrong somewhere
 - the preference for static pleasure and for tranquillity seems to go beyond Epicurus’ professed epistemological basis
+- Glaucon and Adeimantus agree with Hobbes about the first and second stages. They agree that we have no reason to be just outside a commonwealth, and that the existence of a commonwealth requires general observance of justice. They argue, however, that for a reasonably astute individual in an ordinary commonwealth, injustice remains advantageous.
+Epicurus tries to answer this defence of injustice by arguing that injustice brings fear of punishment and that this fear makes injustice inexpedient for us. His reply is unconvincing.
