@@ -187,3 +187,10 @@ How we can understand this:
 
 - Jural - morality requires some legislation. It may have pre-legislation indicative facts, but they are not moral
 - Non-Jural - morality operates with something that is good in itself
+
+#                  Types of reductions
+
+Types of reductions:
+- Explanatory - 
+- Vindicating
+- Undermining
