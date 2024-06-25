@@ -1,3 +1,3 @@
 ```SAS
-SYSTASK COMMAND "ls -lah"; /* RunS given command in shell */
+SYSTASK COMMAND "ls -lah" WAIT; /* Runs given command in shell. 'WAIT' means that it will be executed in single thread */
 ```
