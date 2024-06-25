@@ -3,3 +3,4 @@
 - Clarke’s extreme intellectualism fits his foundationalist and intuitionist epistemology.
 - Clarke’s belief in ‘eternal relations of fitness’. If such a view were right, then we could infer simply from the fact that A had benefited B that B ought to benefit A in return, without reference to the fact that A and B are rational agents in specific circumstances that affect their rational agency 
 - Intuitionism is true: we can grasp principles of benevolence independently of grasping principles of justice. And they may conflict. Then, to resolve the conflict, we need third grasping of principles 
+- Critics Hobbes
