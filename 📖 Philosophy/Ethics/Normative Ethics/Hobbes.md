@@ -100,6 +100,7 @@ The appropriate connexion with human nature relies on a hedonist conception of t
     - Part of our nature
     - Contingent in so far as there are not anough resources.
 - If our desires are only contingently competitive, it may be more difficult for Hobbes to prove that the state of nature is so insecure that we need to create a commonwealth with unrestricted power to coerce. He may remove this difficulty if he is allowed to assume essentially competitive desires as part of human nature. But that assumption may make it more diffciult to explain the stability of a commonwealth of Hobbesian agents. A commonwealth may remove some confilcts, by assuring each of us of protection for our unshareable resources; but it does not prevent confilcts that arise from essentially competitive desires.
+- When you asks 'Why should I pay my debts in the peace state? If I will cheat it will not destroy peace' you are in Hobbes' hands. You can't be sure that all other people do not think same as you do. So, it is why you need to do right actions
 
 
 
