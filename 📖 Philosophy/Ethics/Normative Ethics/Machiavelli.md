@@ -14,6 +14,7 @@ Machiavelli rejects Aquinas’ system by arguing that no one set of virtues can 
 - Good effects of a bad action justifies bad action
 - Just like Augustine, Machiavelly sees 2 types of virtues: christian ones and the pagan ones. But Machiavelly disagrees with Augustine about which virtues are to be preffered - Augustine thinks that self-assertion and arrogance is bad, but Machiavelly thinks self-assertion and arrogance are good.
 - Machiavelli thinks that ordinary moral virtues are good, but we live in a world in which every our descision occures in an extraordinary situations
+- Maybe Machiavelly holds that rulers may not conform to Natural Law, whether simple civil people should conform to Natural Law
 
 # Difficulties
 - We have found, however, that Augustine does not hold this view of pagan virtue, and that he is right not to hold it.¹⁵ The virtues advocated by pagan moralists are not forms of self-assertion or arrogance; they include concern for the interests of others for their own sake. Machiavelli’s division between the pagan and the Christian outlook does not fit the views of pagan moralists.
