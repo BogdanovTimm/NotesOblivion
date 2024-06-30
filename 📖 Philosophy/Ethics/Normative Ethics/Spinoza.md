@@ -34,7 +34,7 @@ He replaces freedom in action with freedom of mind.²⁷ But he does not abandon
 - A passion can be removed only by a stronger and opposite passion 
 - Spinoza believes that some version of psychological egoism is correct; each person pursues his own good, because every being essentially tends towards its own continuance.²⁸ We might take him to be referring to a basic desire for one’s own preservation; his statement of the basic ‘striving’ (conatus) may remind us of Aquinas’ claim that all things ‘desire’ (or ‘aim at’, appetunt) being. But such a claim raises some difficulties for Spinoza. 
 - His general view is that there are no final causes in nature. In his view, believers in final causes make the future exercise causal influence on the past, in defiance of the real order of causal influence.³⁰ They imagine that this is so in nature because they take nature to be a means of satisfying their own desires, and so they ascribe to nature the ends that they pursue for themselves.³¹ But we have no reason to accept this anthropomorphic conception of nature. On the contrary, desire is prior to belief about goodness.
-
+- Pleasure is a feature of my awareness of states that promote my preservation, and this is the sort of state that I call good.³⁷ 
 
 
 
