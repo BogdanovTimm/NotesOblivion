@@ -31,6 +31,7 @@ for since intellect grasps their causes, it also grasps their necessity.
 - Instead of causing beliefs about what we ought to do, the growth of adequate knowledge inevitably results, without any further action, in the decay of our passions. 
 - Spinoza leaves out this aspect of our intuitive views about freedom and activity, but he assumes that he is still entitled to speak of freedom and activity.
 He replaces freedom in action with freedom of mind.²⁷ But he does not abandon freedom of action altogether. Though he denies interaction between mind and body, he allows interaction among mental states. If we restrict ‘action’ to mental interaction, Spinoza allows action guided by reason. If this is the only freedom worth having, it is reasonable of him to claim that he allows us the freedom that is worth having, and that he allows us to be active rather than passive. He believes we can be free of the influence of the passions only if we give up the idea of acting (moving our bodies) for reasons altogether. 
+- A passion can be removed only by a stronger and opposite passion 
 
 
 
