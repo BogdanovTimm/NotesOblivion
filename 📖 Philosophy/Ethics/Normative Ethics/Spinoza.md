@@ -32,6 +32,7 @@ for since intellect grasps their causes, it also grasps their necessity.
 - Spinoza leaves out this aspect of our intuitive views about freedom and activity, but he assumes that he is still entitled to speak of freedom and activity.
 He replaces freedom in action with freedom of mind.²⁷ But he does not abandon freedom of action altogether. Though he denies interaction between mind and body, he allows interaction among mental states. If we restrict ‘action’ to mental interaction, Spinoza allows action guided by reason. If this is the only freedom worth having, it is reasonable of him to claim that he allows us the freedom that is worth having, and that he allows us to be active rather than passive. He believes we can be free of the influence of the passions only if we give up the idea of acting (moving our bodies) for reasons altogether. 
 - A passion can be removed only by a stronger and opposite passion 
+- Spinoza believes that some version of psychological egoism is correct; each person pursues his own good, because every being essentially tends towards its own continuance.²⁸ We might take him to be referring to a basic desire for one’s own preservation; his statement of the basic ‘striving’ (conatus) may remind us of Aquinas’ claim that all things ‘desire’ (or ‘aim at’, appetunt) being. But such a claim raises some difficulties for Spinoza. 
 
 
 
