@@ -225,7 +225,10 @@ but, given Aquinas’ eudaemonism, the right direction of the will follows from 
 - Aquinas and his successors, therefore, do not seem to be natural-law moralists. Though they take the precepts of natural law to include fundamental moral principles, they do not take moral facts to be reducible to facts about natural law. On the contrary, Aquinas takes facts about natural law to consist in those facts about rational nature that underlie his account of the virtues
 - In Aquinas’ view, a rule belongs to natural law because it is morally right and prescribes what ftis rational nature. Even for positive law, his test of validity is not purely procedural; it must have been enjoined by legitimate authority, but it must also be just. It is even more obvious that for natural law moral rightness is prior to any legislation. The basic principles underlying legal validity, therefore, are indicative laws, moral principles that do not rely on moral necessity imposed by will. 
 - Aquinas’ conception of freewill is consistent with the compatibilist arguments against Bramhall.
-- the degree of happiness that we can achieve in this life is incomplete 
+- the degree of happiness that we can achieve in this life is incomplete
+- Aquinas, for instance, clearly believes that the outlook we form under the influence of our passions misleads us about what is worth pursuing in life. 
+- Aquinas does not believe that if God’s existence is necessary and everything else depends on God, there cannot be any freedom in the world. For, in his view, God creates secondary causes that have a causal role appropriate for their type of agency, and this role allows contingency.¹⁶ Aquinas does not claim that secondary causes make themselves undetermined or self-determining. He claims that God makes them and the rest of the universe in such a way that what happens to them depends on their states—sensory or rational. Since they are not necessitated by the rest of the universe apart from their sensory and rational states, they determine things contingently. Aquinas is free to say that God necessarily makes things such that they are necessitated to be secondary causes, and sources of contingent events. 
+- Aquinas believe in contingency without indeterminism 
 
 
 

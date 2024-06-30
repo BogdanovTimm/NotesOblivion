@@ -194,3 +194,8 @@ Types of reductions:
 - Explanatory - 
 - Vindicating
 - Undermining
+
+#                  Types of liberty
+
+- self-determination - the ‘liberty of spontaneity’
+- the capacity for opposites - the ‘liberty of indifference’
