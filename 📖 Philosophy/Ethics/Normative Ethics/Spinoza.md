@@ -28,6 +28,7 @@
 Activity regains a place within Spinoza’s system once he connects the division between activity and passivity with the division between adequate and inadequate ideas. The passions are essentially passive, and are the results of inadequate ideas.²⁴ Since inadequate ideas result from the imagination, and adequate ideas from intellect, passions are products of the imaginative point of view. 
 - The inadequate ideas of passion differ from the adequate ideas of intellect insofar as they do not include a grasp of the causes of events. To the imagination, many events appear contingent that will appear necessary if we look at them from the point of view of intellect;
 for since intellect grasps their causes, it also grasps their necessity. 
+- Instead of causing beliefs about what we ought to do, the growth of adequate knowledge inevitably results, without any further action, in the decay of our passions. 
 
 
 
