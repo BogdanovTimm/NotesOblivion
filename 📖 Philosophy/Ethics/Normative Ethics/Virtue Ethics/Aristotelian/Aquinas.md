@@ -229,7 +229,7 @@ but, given Aquinas’ eudaemonism, the right direction of the will follows from 
 - Aquinas, for instance, clearly believes that the outlook we form under the influence of our passions misleads us about what is worth pursuing in life. 
 - Aquinas does not believe that if God’s existence is necessary and everything else depends on God, there cannot be any freedom in the world. For, in his view, God creates secondary causes that have a causal role appropriate for their type of agency, and this role allows contingency.¹⁶ Aquinas does not claim that secondary causes make themselves undetermined or self-determining. He claims that God makes them and the rest of the universe in such a way that what happens to them depends on their states—sensory or rational. Since they are not necessitated by the rest of the universe apart from their sensory and rational states, they determine things contingently. Aquinas is free to say that God necessarily makes things such that they are necessitated to be secondary causes, and sources of contingent events. 
 - Aquinas believe in contingency without indeterminism 
-
+- God is capable of intellectual love without passions, because love belongs to God’s will.
 
 
 
