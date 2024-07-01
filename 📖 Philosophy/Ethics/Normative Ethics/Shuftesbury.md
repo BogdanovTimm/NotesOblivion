@@ -1,0 +1,1 @@
+- He maintains that moral rightness and wrongness are not dependent on the reaction of observers, and so he accepts one of the main rationalist objections against sentimentalism
