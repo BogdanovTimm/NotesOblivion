@@ -4,3 +4,4 @@
 - Clarke’s belief in ‘eternal relations of fitness’. If such a view were right, then we could infer simply from the fact that A had benefited B that B ought to benefit A in return, without reference to the fact that A and B are rational agents in specific circumstances that affect their rational agency 
 - Intuitionism is true: we can grasp principles of benevolence independently of grasping principles of justice. And they may conflict. Then, to resolve the conflict, we need third grasping of principles 
 - According to rationalist critics, Hobbes is more deeply mistaken. Cudworth and Clarke attack all attempts to vindicate morality by reducing normative facts (i.e., facts about what we ought to do, and what we have reason to do) to non-normative psychological facts (about what we are in fact moved to do).
+- he maintains a connexion between reason and morality
