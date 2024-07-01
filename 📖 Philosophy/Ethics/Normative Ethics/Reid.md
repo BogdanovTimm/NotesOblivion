@@ -1,2 +1,3 @@
 - Non-instrumental and overriding value of morality are true
-- The rational pursuit of happiness gives us the reason that impartial justice is even more rational that pursuit of happiness 
+- The rational pursuit of happiness gives us the reason that impartial justice is even more rational that pursuit of happiness
+- Reid is a realist and defends independent morality, but he also sympathizes with those who treat moral knowledge as the product of a moral sense.¹⁶ He argues that reference to a moral sense supports realism and independent morality, because it explains how we can form moral judgments and claim moral knowledge of the properties that Whewell has in mind 
