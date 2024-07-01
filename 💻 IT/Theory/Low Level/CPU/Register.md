@@ -1,0 +1,1 @@
+Often, modern CPUs has registers - some mini-RAMs, built in them to store data.
