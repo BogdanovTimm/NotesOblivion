@@ -6,3 +6,4 @@
 - Thought that Aristotle's and the Scholastics' rejection of an Extreme Will-Desire Intellectualism supports his (Hutcheson's) Extreme Will-Intellect-Passion Sentimentalism, because the only reasons are the internal ones
 - The anti-rationalist position of Hutcheson claims that the different specific ends people pursue ref l ect their different desires, inclinations, and attitudes, and must ultimately be explained by these, rather than by their different rational beliefs about anything.
 - Critiques Hobbes from sentimentalist point of view. According to sentimentalist critics, he has appealed to the wrong non-normative facts, because he is wrong about the motives that actually influence us. Hutcheson treats normative facts as facts about the reactions of our moral sense. 
+- he denies a connexion between reason and morality
