@@ -1,7 +1,10 @@
 #                  How it works
 
+Basically, CPU is just a counter that sometimes can do `goto` operation instead of simple `current_number++`
+
 1. CPU gets what it need to do from ROM or RAM
-2. It does it
+2. CPU does it
+3. 
 
 
 
