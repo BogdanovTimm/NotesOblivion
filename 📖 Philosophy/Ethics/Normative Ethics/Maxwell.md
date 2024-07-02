@@ -1,0 +1,1 @@
+- Maxwell protests against the view that egoism is the only safe alternative to enthusiasm. 

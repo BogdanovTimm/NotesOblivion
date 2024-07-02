@@ -9,3 +9,5 @@
 - he denies a connexion between reason and morality
 - defends independent morality by appealing to a moral sense. 
 - He is naturalist about the relation of the divine will to morality, but he is sentimentalist about our knowledge of moral properties
+- Hutcheson is a utilitarian, and tries to show that a moral sense theory is committed to utilitarianism. He agrees with Whewell in connecting a meta-ethical with a normative thesis, but the connexion is the opposite of the one that Whewell asserts. Whewell believes that a moral sense theory is an expression of belief in metaphysically independent morality that includes non-consequentialist morality; Hutcheson, however, believes that a moral sense theory supports utilitarian morality. 
+- oppose theological voluntarism. 

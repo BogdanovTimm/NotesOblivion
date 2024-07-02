@@ -1,3 +1,4 @@
 - He maintains that moral rightness and wrongness are not dependent on the reaction of observers, and so he accepts one of the main rationalist objections against sentimentalism
 - defends independent morality by appealing to a moral sense. 
 - He is naturalist about the relation of the divine will to morality, but he is sentimentalist about our knowledge of moral properties 
+- Shaftesbury protests against the view that egoism is the only safe alternative to enthusiasm. 

@@ -1,1 +1,2 @@
 - Argues against Augustinian claim that virtues of a pagans are actually sins
+- The Aristotelian conception makes the grasp of natural law a part of the rational grasp of the ultimate end by rational agents.

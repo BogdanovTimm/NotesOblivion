@@ -1,6 +1,15 @@
 - Whewell sees such a division in 17th- and 18th-century British moral philosophy, between belief in ‘independent’ and in ‘dependent’ morality.⁹ Morality is independent if it carries its own authority apart from its consequences; it is good in itself and gives us a sufficient reason for observing it, whether or not it also leads to our own pleasure, or the maximum universal pleasure, or to rewards in the afterlife. The authority of ‘dependent’ morality, however, depends on whether it leads to these consequences (LHMPE 52, 57). Hence Whewell sometimes speaks of ‘independent morality’ versus ‘the morality of consequences’ (84), and sometimes of ‘the morality of principles’ and ‘the morality of consequences’ (79).¹⁰ Whewell’s descriptions suggest two ways of distinguishing dependent from independent morality:
     - A metaphysical division - Some people affirm, while others deny, that moral properties can be reduced to such non-moral properties as our own pleasure, or universal pleasure, or the tendency to result in rewards after death
     - A normative division - Some people reduce moral rightness to a tendency to promote some specific type of consequences (desired independently of morality?), whereas others deny this reduction. The parenthesis in the second division marks a question about Whewell’s meaning. If it expresses his view, independent morality rejects the reduction of moral rightness to a specific non-moral property. In that case, the second division is a special case of the first division.¹² If, however, the bracketed phrase does not capture Whewell’s intention, the second division is neither identical to the first nor a special case of it. We might hold that rightness consists in a tendency to promote morally desirable consequences, but deny that these consequences are themselves desirable independently of morality. If, for instance, we say that rightness consists in a tendency to promote goodness, but we hold that goodness is not reducible to a non-moral property, we believe in ‘dependent morality’ or ‘the morality of consequences’ according to Whewell’s second division, but not according to his first division.¹³
+- In his view, the rejection of voluntarism requires belief in independent morality, which is both metaphysically irreducible and normatively non-consequentialist.
+
+
+
+
+
+
+
+
 
 # Difficulties
 

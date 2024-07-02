@@ -199,3 +199,20 @@ Types of reductions:
 
 - self-determination - the ‘liberty of spontaneity’
 - the capacity for opposites - the ‘liberty of indifference’
+
+
+
+
+
+
+
+
+
+
+#                  Whewell's division of ethical positions
+
+- Epistemology - Sentimentalists and rationalists disagree primarily on epistemological issues
+- Metaphysics - Realists and anti-realists, and voluntarists and naturalists, disagree primarily on metaphysical issues
+- Normative Ethics - Consequentialists and non-consequentialists disagree primarily on normative issues. 
+
+Sentimentalists && anti-Voluntarists. 

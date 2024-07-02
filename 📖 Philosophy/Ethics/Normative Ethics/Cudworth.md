@@ -2,3 +2,5 @@
 Cudworth does not invent this assessment of voluntarism; he relies on the critique of Ockham by Suarez, who cannot be accused of ignorance of Scholasticism or of raising anachronistic questions. This assessment of Scotus and Ockham may not be correct, since they may not accept all the views that later critics, or later followers, connect with voluntarism. They both understand morality as conformity to correct reason. 
 - According to rationalist critics, Hobbes is more deeply mistaken. Cudworth and Clarke attack all attempts to vindicate morality by reducing normative facts (i.e., facts about what we ought to do, and what we have reason to do) to non-normative psychological facts (about what we are in fact moved to do)
 - he maintains a connexion between reason and morality 
+- oppose theological voluntarism. 
+- The Aristotelian conception makes the grasp of natural law a part of the rational grasp of the ultimate end by rational agents.

@@ -1,1 +1,3 @@
-- Argues that Hutcheson’s belief in a moral sense requires him to reject realism and the metaphysical independence of morality. 
+- Argues that Hutcheson’s belief in a moral sense requires him to reject realism and the metaphysical independence of morality.
+- Balguy both accepts metaphysically independent morality and is somewhat sympathetic to utilitarianism.
+- oppose theological voluntarism. 

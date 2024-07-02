@@ -5,3 +5,4 @@
 - Intuitionism is true: we can grasp principles of benevolence independently of grasping principles of justice. And they may conflict. Then, to resolve the conflict, we need third grasping of principles 
 - According to rationalist critics, Hobbes is more deeply mistaken. Cudworth and Clarke attack all attempts to vindicate morality by reducing normative facts (i.e., facts about what we ought to do, and what we have reason to do) to non-normative psychological facts (about what we are in fact moved to do).
 - he maintains a connexion between reason and morality
+- oppose theological voluntarism. 
