@@ -8,3 +8,4 @@
 - Critiques Hobbes from sentimentalist point of view. According to sentimentalist critics, he has appealed to the wrong non-normative facts, because he is wrong about the motives that actually influence us. Hutcheson treats normative facts as facts about the reactions of our moral sense. 
 - he denies a connexion between reason and morality
 - defends independent morality by appealing to a moral sense. 
+- He is naturalist about the relation of the divine will to morality, but he is sentimentalist about our knowledge of moral properties
