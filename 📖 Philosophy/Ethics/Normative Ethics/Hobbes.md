@@ -119,6 +119,7 @@ The appropriate connexion with human nature relies on a hedonist conception of t
 - knowledge of human nature does not show that morality is a non-instrumental element in the human good.²⁸ A correct account of human nature shows, in Hobbes’s view, that no correct conception of the human good supports claims about the first principles of natural law. To this extent, he is a radical sceptic about morality. He believes, however, that, given the actual circumstances that face human beings, he can avoid general scepticism about morality. His analysis of the content of morality implies that it aims at the public good; hence, if we find a reason, from an egoistic hedonist point of view, to pursue the public good, we find a reason to observe moral rules.
 - Hobbes sometimes suggests that reason may be the source of violations of the laws of nature, and so it needs coercion to change the rational attractiveness of the different options.
 - According to Hobbes, peace is a non-competitive instrumental good; we all benefit from it in pursuing our various sources of pleasure and satisfaction, but our ends are not essentially non-competitive. 
+- Since Hobbes believes we have a good reason to obey the natural law even if we leave God aside, and he believes that the only good reasons are those that appeal to self-interested motives, he argues that it is in my interest to observe the laws of nature. Hence he treats the laws of nature as indirect counsels of self-preservation, because they preserve the commonwealth. 
 
 
 
