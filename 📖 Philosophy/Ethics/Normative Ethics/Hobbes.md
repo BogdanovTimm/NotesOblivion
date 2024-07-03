@@ -120,6 +120,7 @@ The appropriate connexion with human nature relies on a hedonist conception of t
 - Hobbes sometimes suggests that reason may be the source of violations of the laws of nature, and so it needs coercion to change the rational attractiveness of the different options.
 - According to Hobbes, peace is a non-competitive instrumental good; we all benefit from it in pursuing our various sources of pleasure and satisfaction, but our ends are not essentially non-competitive. 
 - Since Hobbes believes we have a good reason to obey the natural law even if we leave God aside, and he believes that the only good reasons are those that appeal to self-interested motives, he argues that it is in my interest to observe the laws of nature. Hence he treats the laws of nature as indirect counsels of self-preservation, because they preserve the commonwealth. 
+- The only natural goods are the pleasant (iucundum) and the advantageous (utile)
 
 
 

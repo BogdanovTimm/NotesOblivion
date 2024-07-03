@@ -73,6 +73,7 @@ we will have a reason to follow them if we choose to follow our affection toward
 - Violations of Natural Law could be in accord with Natural Law
 - Scotus rejects eudaemonism (because in eudaemonism the one may only want its happiness, whereas in Scout, one may either wants his own happiness or justice), and takes the affection for justice to be separate from the natural pursuit of happiness. He recognizes intrinsic morality consisting in the precepts of the first table of the Decalogue; these are natural law, strictly speaking, and do not depend on the free will of God. The greater part of morality is strictly only ‘highly consonant’ with natural law, and is part of divine positive law
 - For Scotus, free agent is ‘that, which, when all things are present which are needful to produce the effect, can nevertheless not produce it’
+- Scotus is the only one who explicitly distinguishes eudaemonist reasons from impartial practical reason, which he connects with the affection for the just.²⁷
 
 
 
