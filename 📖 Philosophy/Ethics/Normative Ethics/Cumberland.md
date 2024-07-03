@@ -3,4 +3,4 @@
 - He critiques Hobbes
 - He thinks that Grotius argued from effect to the cause, appealing to the shared sentiments of different people at different times to establish the existence of natural law
 - We will find that the laws of nature are those principles that promote thegreatest common goodofrational beings, andthat they aresupportedby divinesanctions.
-- Cumberland intends his account of the laws of nature to refute Hobbes. 
+- Cumberland intends his account of the laws of nature to refute Hobbes. He especially attacks Hobbes’s account of human nature, of the state of nature as a state of war, and of natural right. At these points Hobbes reveals his basic errors about the content and aim of the laws of nature, and about our reason for following them. Cumberland argues against Hobbes that the laws of nature are not basically counsels of self-preservation, to be justified by their role in preserving the peace of the commonwealth and keeping us out of the state of nature. According to Cumberland, the laws of nature aim at the common good of rational agents, and this aim by itself makes it reasonable for rational agents to observe them.
