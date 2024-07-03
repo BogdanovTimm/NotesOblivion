@@ -1,3 +1,6 @@
 - He is natural law moralist
 - Morality depends on natural law, and hence on Divine commands, and that the natural foundation of morality consists in natural, but non-moral, goodness and badness.
 - He critiques Hobbes
+- He thinks that Grotius argued from effect to the cause, appealing to the shared sentiments of different people at different times to establish the existence of natural law
+- We will find that the laws of nature are those principles that promote thegreatest common goodofrational beings, andthat they aresupportedby divinesanctions.
+- Cumberland intends his account of the laws of nature to refute Hobbes. 
