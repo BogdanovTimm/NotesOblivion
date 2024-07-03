@@ -1,1 +1,2 @@
 - Maxwell protests against the view that egoism is the only safe alternative to enthusiasm. 
+- He is Cumberland’s translator and editor 
