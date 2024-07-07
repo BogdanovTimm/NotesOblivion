@@ -35,3 +35,5 @@ The ‘sanction’ that Cumberland has in mind is not confined to rewards and pu
 #                  Difficulties
 
 - He might claim that if the common end is the common good, including each person’s individual good, we can and should all agree to pursue it, because it is non-competitive. But we might still doubt whether this is so. Perhaps we can agree on pursuit of a common good, because we all hope to get our own good out of it; but it does not immediately follow that I have as good a reason to pursue the common good for its own sake as I have to pursue my own good. 
+- According to Cumberland, the promotion of non-moral goodness is the whole of morality, if it is prescribed by divine law. But this account still reduces morality to an instrumental status.⁴⁰ Cum-
+berland claims that moral principles are commanded by God simply as means to the public good; but this account of moral obligation makes it a purely prudential, not a moral, bond. 
