@@ -1,2 +1,3 @@
 - Maxwell protests against the view that egoism is the only safe alternative to enthusiasm. 
-- He is Cumberland’s translator and editor 
+- He is Cumberland’s translator and editor
+- Maxwell rejects non-normative accounts of goodness that do not make it clear that goodness deserves to be chosen and is a worthy object of pleasure.³⁷ For similar reasons he finds an account of goodness as ‘convenience’ unsatisfactory. He takes ‘convenience’ to refer only to the non-moral good, as Cumberland understands it, and he finds this inadequate to capture moral goodness.³⁸ If we combine an account of goodness as convenience with a eudaemonist conception of morality, we do not capture the essential features of moral obligation. 
