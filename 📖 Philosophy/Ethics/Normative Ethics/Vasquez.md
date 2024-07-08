@@ -6,3 +6,4 @@
     - ius (right) - not depends on anyone's will
 - Natural Law is a ius type of law
 - There is a Natural Law (lex), properly so called, apart from the legislative will of God and this Natural Law imposes a genuine obligation apart from God’s command
+- Vasquez take natural law and its obligation to precede any divine command
