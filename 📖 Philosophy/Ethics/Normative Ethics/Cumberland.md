@@ -23,6 +23,7 @@ The ‘sanction’ that Cumberland has in mind is not confined to rewards and pu
 - he makes it clear that he believes in two irreducibly different aims of practical reason.²⁸ 
 - Cumberland’s view of practical reason assumes that some natural goods are both non-instrumental and non-hedonic. These include the virtues of character recognized by the Greek moralists (Though they have moral goodness only because of this relation to a divine command. ).²⁹ He therefore rejects the view of Hobbes and Locke, that the only natural goods are the pleasant (iucundum) and the advantageous (utile). But he disagrees with Suarez’s view that the morally right (honestum) is one of the natural goods. In Cumberland’s view, the natural goods that are good in their own nature also promote the common good, and may be pursued for the sake of the common good, apart from any law. But these goods cannot be the source of an obligation or a duty (debitum), and so cannot be honesta, without reference to a law. Hence he rejects Suarez’s belief in natural duties prior to obligation and law. 
 - he rejects Hobbes’s claims about the right of nature. He argues that the exercise of a Hobbesian right to do what I please in the state of nature would violate the demands of practical reason, and therefore go beyond my rights.³² 
+- According to Cumberland, the fact that virtue is a part of happiness is a sanction attached to virtue by a legislator. 
 
 
 
