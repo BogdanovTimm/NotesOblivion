@@ -5,7 +5,7 @@ enum enum_name {
     jay,         // jay    = 2
     enum_length, // corvid_num = 3
 };
-char const* const array_name[corvid_num] = { 
+char const* const array_name[enum_length] = { 
    [raven]  = "raven", 
    [magpie] = "magpie", 
    [jay]    = "jay",  
