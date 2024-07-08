@@ -6,3 +6,17 @@ void function(int given[0]) {
     (* given) = 2;
 }
 ```
+
+
+
+
+
+
+
+
+
+#                  Non-null funciton pointer
+
+```C
+int function(void adress_of_given_function(void)); 
+```
