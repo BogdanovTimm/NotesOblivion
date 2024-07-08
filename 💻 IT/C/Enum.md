@@ -6,9 +6,9 @@ enum enum_name {
     enum_length, // corvid_num = 3
 };
 char const* const array_name[enum_length] = { 
-   [raven]  = "raven", 
-   [magpie] = "magpie", 
-   [jay]    = "jay",  
+   [raven]  = "raven", //[1] = raven
+   [magpie] = "magpie",//[0] = magpie
+   [jay]    = "jay",   //[2] = jay
 };
 for (unsigned i = 0; i < enum_length; ++i) {
     printf("Corvid %u is the %s\n", 
