@@ -2,7 +2,7 @@
 
 ##                 Select All
 
-`db.^table_name^.find()` - it will give you only a page of all rows from a table. 
+`db.xTABLENAMEx.find()` - it will give you only a page of all rows from a table. 
 
 `it` - go to the next page of rows
 
@@ -11,7 +11,7 @@
 find in both field, or field's arrays
 
 ```JSON
-db.^table_name^.find(
+db.xTABLENAMEx.find(
     {"^column_name^.^sub_column^": "^value^"}, // WHERE
     {"^included_column_name^":1, "^excluded_column_name^":0} // SELECT. It is called Projeciton
 )
@@ -32,7 +32,7 @@ db.^table_name^.find(
 
 
 
-# Select only neede columns
+# Select only needed columns
 
 It is called projection in Mongodb.
 
