@@ -25,6 +25,8 @@ The ‘sanction’ that Cumberland has in mind is not confined to rewards and pu
 - he rejects Hobbes’s claims about the right of nature. He argues that the exercise of a Hobbesian right to do what I please in the state of nature would violate the demands of practical reason, and therefore go beyond my rights.³² 
 - According to Cumberland, the fact that virtue is a part of happiness is a sanction attached to virtue by a legislator. 
 - - Cumberland’s argument to show that morality is as immutable as human nature confilcts with Ockham’s view that God is free to change what accords with human nature, and with Scotus’ view that God is free to command us not to act in accord with human nature.⁵⁰ In Cumberland's view, God necessarily wills that we act in accord with our nature, and therefore necessarily wills the common good of rational beings (with ‘good’ understood in a non-moral sense). depends on the contingent fact that God is benevolent. If this were a contingent fact about God, it would also be a contingent fact that God legislates rules that promote the common good of rational agents; for if God were malevolent, rules designed to cause suffering to rational agents would be morally right. To avoid making rightness dependent on the arbitrary will of God, Cumberland insists that God is essentially good, and therefore is not free to legislate evil. 
+- For Hobbes, the question about why we ought to obey God is easily answered.
+He derives the obligation (and hence motivation) to obey God from God’s overwhelming power; he recognizes no distinction, for moral purposes, between power and authority (or legitimacy). Cumberland agrees with Cudworth in rejecting this basis for the moral requirement to obey God 
 
 
 
