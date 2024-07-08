@@ -1,19 +1,19 @@
 ```C
-enum corvid { 
-    magpie,     // magpie = 0
-    raven,      // raven  = 1
-    jay,        // jay    = 2
-    corvid_num, // corvid_num = 3
+enum enum_name { 
+    magpie,      // magpie = 0
+    raven,       // raven  = 1
+    jay,         // jay    = 2
+    enum_length, // corvid_num = 3
 };
-char const* const bird[corvid_num] = { 
+char const* const array_name[corvid_num] = { 
    [raven]  = "raven", 
    [magpie] = "magpie", 
    [jay]    = "jay",  
 };
-for (unsigned i = 0; i < corvid_num; ++i) {
+for (unsigned i = 0; i < enum_length; ++i) {
     printf("Corvid %u is the %s\n", 
            i, 
-           bird[i]
+           array_name[i]
     );
 }
 ```
