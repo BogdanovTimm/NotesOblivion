@@ -4,3 +4,4 @@ Cudworth does not invent this assessment of voluntarism; he relies on the critiq
 - he maintains a connexion between reason and morality 
 - oppose theological voluntarism. 
 - The Aristotelian conception makes the grasp of natural law a part of the rational grasp of the ultimate end by rational agents.
+- According to Cudworth, a legislative account of morality makes morality mutable in the wrong way, since it implies that if God had legislated differently, it would have been right (e.g.) to murder, cheat, and torture, and that therefore morality is mutable in relation to divine legislation.

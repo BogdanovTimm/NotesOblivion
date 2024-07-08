@@ -3,3 +3,4 @@
 - Morality depends on natural law, and hence on Divine commands, and that the natural foundation of morality consists in natural, but non-moral, goodness and badness.
 - He critiques Hobbes
 - the non-moral natural goods are simply those that promote one’s own advantage 
+- the confusion creates spurious support for a legislative conception of morality.
