@@ -27,3 +27,12 @@ Structures can be assigned with `=` but not compared with `==` or `!=`
 #                  Inner structs
 
 All struct declarations in a nested declaration have the same scope of visibility. That is, if the previous nested struct declarations appear globally, both struct s are subsequently visible for the whole C file. If they appear inside a function, their visibility is bound to the {} block in which they are found. Because of that, inner structs make no sense
+
+#        struct + typedef
+
+```C
+typedef struct struct_name struct_name;
+struct struct_name{
+  .variable1,
+};
+```
