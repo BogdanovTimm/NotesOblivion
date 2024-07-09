@@ -4,3 +4,6 @@
 - He assumes that rationalism requires indeterminism.
 - He is an indeterminist because he is a voluntarist; he appeals to the possibility of choosing the lesser good when one knows the greater good. He assumes that if the will is free from necessitation by passions, it is free from causal necessitation altogether. 
 - He contrasts spontaneous agents with rational and deliberative agents, and claims that only the latter are free.
+- He rejects:
+    - Hobbes’s version ofdeterminism andanti-rationalism;
+    - the intellectualist position ofAquinas;

@@ -102,8 +102,8 @@ Is the will determined by the greater good as presented by reason?
 
 - To answer Yes is to be an intellectualist.
 - To answer No:
-    - but assert distinction between passwions and will is to be a voluntarist
-    - but reject distinction between passwions and will is to be a sentimentalist
+    - but assert distinction between passions and will is to be a voluntarist
+    - but reject distinction between passions and will is to be a sentimentalist
 
 
 
