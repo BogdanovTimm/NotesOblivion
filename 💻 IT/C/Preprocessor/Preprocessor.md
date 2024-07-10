@@ -1,0 +1,1 @@
+In preprocessor conditions, unknown identifiers evaluate to 0. 
