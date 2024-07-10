@@ -6,3 +6,4 @@
 - According to rationalist critics, Hobbes is more deeply mistaken. Cudworth and Clarke attack all attempts to vindicate morality by reducing normative facts (i.e., facts about what we ought to do, and what we have reason to do) to non-normative psychological facts (about what we are in fact moved to do).
 - he maintains a connexion between reason and morality
 - oppose theological voluntarism. 
+- In Clarke the belief in intrinsic morality is separated from naturalism,

@@ -1,2 +1,3 @@
 - So we must not say that if God did not exist nevertheless these truths would be true; for the existence of God is the first and most eternal of all possible truths and the one from which alone all others proceed.
 - Dismisses Aristotelian metaphysics as hopelessly antiscientifci, primitive, and obscure.
+- Descartes accepts voluntarism for the eternal truths, by treating them as the products of the divine will

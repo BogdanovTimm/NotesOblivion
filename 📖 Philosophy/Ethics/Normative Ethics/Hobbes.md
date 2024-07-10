@@ -123,6 +123,7 @@ The appropriate connexion with human nature relies on a hedonist conception of t
 - The only natural goods are the pleasant (iucundum) and the advantageous (utile)
 - For Hobbes, the question about why we ought to obey God is easily answered.
 He derives the obligation (and hence motivation) to obey God from God’s overwhelming power; he recognizes no distinction, for moral purposes, between power and authority (or legitimacy)
+- he accepts a voluntarist account of the relation between divine commands and morality. 
 
 
 

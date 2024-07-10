@@ -1,0 +1,1 @@
+- According to Heracleitus, good and just are mutable, because the changing characterofdifferentcircumstancesordifferentconventionswhollydeterminesthegoodness or justice of different actions.

@@ -1,2 +1,3 @@
 - The mas is the measure of all things - everything (including ethics) is relational
 - So, scepticism is false, because the mere fact that there is no objective moral facts does not elliminatecthem
+- According to Protagoras, good and just are mutable, because the changing characterofdifferentcircumstancesordifferentconventionswhollydeterminesthegoodness or justice of different actions.

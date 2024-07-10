@@ -15,7 +15,8 @@
     - Authority - the rational weight of desires - Plato's rational parts of the soul. Non-humean deliberation.
 - Butler revived Aristotelian view that human nature constitutes a system, rather than a collection of desires
 - About indirect consequentialism:Butler suggests that in the context of reflexion—‘in a cool hour’, as he puts it—we can appropriately ask questions that ought not to intrude into immediate deliberation.
-- Protests against the view that egoism is the only safe alternative to enthusiasm. 
+- Protests against the view that egoism is the only safe alternative to enthusiasm.
+- Butler maintains the connexion asserted by Suarez about the relation of the immutability of morality and the naturalist account of moral properties
 
 
 
