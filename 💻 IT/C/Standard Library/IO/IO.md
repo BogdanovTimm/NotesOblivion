@@ -1,2 +1,0 @@
-- `puts`  -         append end-of-line character to the string
-- `fputs` - doesn’t append end-of-line character to the string
