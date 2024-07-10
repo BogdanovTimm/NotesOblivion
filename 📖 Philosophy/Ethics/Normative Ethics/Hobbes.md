@@ -124,6 +124,7 @@ The appropriate connexion with human nature relies on a hedonist conception of t
 - For Hobbes, the question about why we ought to obey God is easily answered.
 He derives the obligation (and hence motivation) to obey God from God’s overwhelming power; he recognizes no distinction, for moral purposes, between power and authority (or legitimacy)
 - he accepts a voluntarist account of the relation between divine commands and morality. 
+- Such a reply to Cudworth fits Hobbes’s general view that to be obliged is to have a desire strong enough to move us to do the action we are obliged to do. This is why Hobbes believes that the winning side in a war imposes valid obligations on the losing side, insofar as it has the superior power. We have no obligations to obey anyone’s commands in the state of nature; for, since no one has the power to compel us, no one can produce in us a strong enough desire to obey the command. 
 
 
 
