@@ -79,17 +79,23 @@ Kant (according to some readers) appeals to a priori truths about the abstract f
     - appetites aka concupiscent
     - spirit aka irascible
 
+
+
+
+
+
 # Rationalism vs Sentimentalism aka Anti-Rationalism
 
-Is the will determined by the strongest passion, as an animal’s choice is determined? 
+It is a question about moral psychology.
 
+Is the will determined by the strongest passion, as an animal’s choice is determined? 
 - To answer Yes is to be an anti-rationalist.
 - To answer No is to be a rationalist. 
 
 External reasons support Rationalism
 
-
-
+- Extreme rationalism - motivation do not presuppose desire for an ultimate end.
+- Moderate rationalism - motivation pressupose the desire for ultimate end, but it may be some specific object of desire that depends on reason
 
 
 
@@ -98,6 +104,7 @@ External reasons support Rationalism
 
 # Intellectualism vs Voluntarism
 
+It is a question about moral psychology.
 Is the will determined by the greater good as presented by reason? 
 
 - To answer Yes is to be an intellectualist.
@@ -105,7 +112,8 @@ Is the will determined by the greater good as presented by reason?
     - but assert distinction between passions and will is to be a voluntarist
     - but reject distinction between passions and will is to be a sentimentalist
 
-
+Extreme intellectualist  - belief that x is better than y moves me to choose x over y. 
+Moderate intellectualist - some desires moving us to action depend essentially on practical reason, and hence on beliefs about the good. We would not be rational agents if we lacked these desires, constituting a will. Aquinas.
 
 
 
