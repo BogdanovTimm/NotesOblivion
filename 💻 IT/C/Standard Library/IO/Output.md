@@ -44,3 +44,9 @@ Modes for `fopen()`:
     - "wx" "w+x" "wbx" "w+bx" "wb+x" - Same as above, but error if the file exists prior to the call 
 
 If we know that the numbers we write will be read back in from a file later, the forms "%+d" for signed types, "%#X" for unsigned types, and "%a" for floating point are the most appropriate. They guarantee that the string-to-number conversions will detect the correct form and that the storage in a file will not lose information. 
+
+###                Print pointers
+
+```C
+printf("%p", (void*) given_address);
+```

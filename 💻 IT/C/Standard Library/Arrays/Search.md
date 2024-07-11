@@ -1,0 +1,1 @@
+- `qsort(element_to_find_address, array, array_size, element_size, compare_function_address)` - bsearch will never make more than ⌈log2(n)⌉ calls to `compare_function` 

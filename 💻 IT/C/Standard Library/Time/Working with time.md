@@ -21,11 +21,12 @@ Consists of :
 
 As we know, struct tm structures a calendar time mainly as you would expect. It has hierarchical date members such as tm_year for the year, tm_mon for the month, and so on, down to the granularity of a second. 
 It has one pitfall, though: how the members are counted. All but one start with 0: 
-- tm_mon set to 0 stands for January
-- tm_wday 0 stands for Sunday. 
-- tm_mday starts counting days in the month at 1. 
-- tm_year must add 1900 to get the year in the Gregorian calendar. Years represented that way should be between Gregorian years 0 and 9999.
-- tm_sec is in the range from 0 to 60, inclusive. The latter is for the rare occasion of leap seconds. 
-- tm_wday for the week day
-- tm_yday for the day in the year
-- tm_isdst is a flag that informs us whether a date is considered to be in DST for the local time zone. The consistency of all these members can
+- `tm_sec` - Seconds after minure. [0, 60]. The latter is for the rare occasion of leap seconds.
+- `tm_min` - [0, 59]
+- `tm_hour` - [0, 23]
+- `tm_mday` - [1, 31]
+- `tm_wday` - [0, 6] 0 stands for Sunday. 
+- `tm_mon` - [0, 12]s et to 0 stands for January
+- `tm_year` - Year since 1900 (So, XXXX - 1990 where XXXX is a year you intrested in)
+- `tm_yday` - Days since January [0, 365]
+- `tm_isdst` - Daylight Saving Time flag. is a flag that informs us whether a date is considered to be in DST for the local time zone. The consistency of all these members can

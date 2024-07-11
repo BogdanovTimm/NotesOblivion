@@ -20,3 +20,4 @@ void function(int given[0]) {
 ```C
 int function(void adress_of_given_function(void)); 
 ```
+
