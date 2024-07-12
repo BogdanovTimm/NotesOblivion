@@ -35,6 +35,33 @@ int main(void) {
 }
 ```
 
+Structs in Heap:
+```C
+#include <stdio.h> 
+
+typedef struct struct_name struct_name;
+
+struct struct_name {
+    int  struct_variable1;
+    int* struct_array;
+};
+
+void circular_init(struct_name* address_of_given, size_t size) {
+    if (address_of_given) {
+        if (size) {
+            *(address_of_given) = (struct_name) {
+                .struct_variable1 = size, 
+                .struct_array     = malloc(sizeof(int[size])), 
+            };
+        }
+    }
+}
+
+int main(void) {
+    // main function....
+}
+```
+
 #                  Passing arrays as pointers
 
 If you pass array as a pointer, you must pass array length as another parameter to the function, because `sizeof()` don't work with pointer.
