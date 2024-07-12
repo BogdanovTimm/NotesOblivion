@@ -1,0 +1,1 @@
+`sizeof` returns size in bytes of a given object
