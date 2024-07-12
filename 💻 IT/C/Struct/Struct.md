@@ -36,3 +36,21 @@ struct struct_name{
   .variable1,
 };
 ```
+
+#                  Alignment
+
+Iff type has sizeof() = 4, then it will be stored in RAM addresses that is divisible by 4. So same structure, depending on in which order you have placed its elements, will have different size:
+- Not so efficient:
+    ```C
+    struct { // 8 bytes
+        char variable1;
+        int  variable2;
+    }
+    ```
+- More efficient:
+    ```C
+    struct { // 5 bytes
+        int  variable2;
+        char variable1;
+    }
+    ```

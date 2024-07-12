@@ -1,0 +1,2 @@
+- `alignas(sizeof(complex double)) complex double variable`
+- `alignas(sizeof(float [4])) float array_of_floats [4]; `

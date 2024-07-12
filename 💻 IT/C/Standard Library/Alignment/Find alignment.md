@@ -1,0 +1,2 @@
+-  `alignof(int)`
+- `_Alignof(int)`
