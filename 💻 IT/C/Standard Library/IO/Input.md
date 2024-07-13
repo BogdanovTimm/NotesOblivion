@@ -8,6 +8,7 @@
 
 - `fgetc()` - for a single character
 - `fgets()` - for a string.
+- `snprintf()` - when formatting output of unknown length. This function ensures in addition that no more than n bytes are ever written to s. If the return value is greater than or equal to n, the string is been truncated to fit. In particular, if n is 0, nothing is written into s. 
 
 ```C
 #include <stdlib.h>
@@ -38,3 +39,7 @@ int main(int argc, char* argv[argc +1]) {
     return return_code;
 }
 ```
+
+#                  Formatted
+
+- `scnaf()`

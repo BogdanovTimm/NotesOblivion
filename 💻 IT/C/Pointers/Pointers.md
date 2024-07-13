@@ -10,7 +10,12 @@ int main(int argc, char* argv[argc + 1]) {
 
 #                  register
 
-Objects with register keyword do not have address
+##                 Do not
+
+- Create arrays with `register` - they are useless, because you can't access them.
+
+Objects with register keyword do not have address, so you can't use `&(registerVariable))`.
+Declare local variables that are not arrays in performance-critical code as `register`. 
 
 #                  Types of pointer
 
