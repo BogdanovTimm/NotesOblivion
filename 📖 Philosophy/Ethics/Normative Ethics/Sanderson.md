@@ -1,0 +1,5 @@
+- Sanderson’s silence on intrinsic morality weakens some of his arguments against those who recognize no moral principles apart from divine commands. He argues that we cannot even use the Scriptures intelligently if we do not rely on moral judgments and principles that are not explicitly announced in the Scriptures (4.16–17). This argument would have been stronger if he had insisted that moral principles are commanded by God because of their intrinsic rightness.
+
+# Difficulties
+
+- Sanderson’s silence on intrinsic morality weakens some of his arguments against those who recognize no moral principles apart from divine commands. He argues that we cannot even use the Scriptures intelligently if we do not rely on moral judgments and principles that are not explicitly announced in the Scriptures (4.16–17). This argument would have been stronger if he had insisted that moral principles are commanded by God because of their intrinsic rightness. While Sanderson may have this point in mind against his opponents, he does not make it clear. 
