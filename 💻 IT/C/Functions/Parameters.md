@@ -1,3 +1,11 @@
+#                  Always do
+
+- Functions that receive pointers should use array syntax and distinguish different cases: 
+    - A pointer to a single object of the type – These functions should use the `givenArray[static 1]` notation and thus indicate that they expect a pointer that is nonnull: `void function(double givenArray[static 1])`
+    - A pointer to a collection of objects of known number – These functions should use the `givenArray[static 228]` notation and thus indicate that they expect a pointer that points to at least that number of elements: `void function(double givenArray[static 228])`; 
+    - A pointer to a collection of objects of unknown number – These functions should use the VLA notation: `void function(size_t arraySize, double givenArray[arraySize])`
+    - A pointer to a single object of the type or a null pointer – Such a function must guarantee that even when it receives a null pointer, the execution remains in a defined state: `void function(double* givenObjectOrNullAddress)`
+
 #                  Arrays vs pointers
 
 - use array   notation if we suppose it can’t be `null`

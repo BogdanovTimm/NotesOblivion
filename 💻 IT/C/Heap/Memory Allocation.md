@@ -2,6 +2,7 @@
 
 - Don’t cast the return of `malloc()` and other functions. 
 - Don't forget in `#include <stdlib.h>`
+- Don't use `malloc()`. Dynamical allocation should be done with `calloc()`. This avoids another quarter of the problems with uninitialized objects. 
 
 In fact, this mechanism creates storage instances that are only seen as byte arrays and do not have any interpretation as objects. They only acquire a type, once we store something. 
 

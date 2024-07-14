@@ -1,3 +1,7 @@
+#                  Do not
+
+- Dont' create pointers to addresses of block-scope (local). Therefore, it is good practice to mark all variables in complex code with `register`.
+
 Always initialize pointers. 
 
 ```C
