@@ -89,3 +89,12 @@ void function2(void given_function(void));
 typedef void function_type(void);
 void function2(function_type* given_function);
 ```
+
+#                  Restrict
+
+`restrict` means that object, which address function receives, has only 1 pointer to that address:
+```C
+void function(int* restrict oneAndOnlyAddress) {
+
+}
+```
