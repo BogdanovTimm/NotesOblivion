@@ -35,4 +35,4 @@ Takeaway 3.18.4.6 A thread must only call mtx_unlock on a mutex that it holds.
 From all of this, we can deduce a simple rule of thumb:
 Takeaway 3.18.4.7 Each successful mutex lock corresponds to exactly one call to mtx_unlock.
 
-Every mutext must be destroyed using 
+Every mutext must be destroyed using mtx_destroy. It must be called • Before the scope of a mutex with automatic storage duration ends • And before the memory of a dynamically allocated mutex is freed
