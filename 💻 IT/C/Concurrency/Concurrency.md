@@ -17,4 +17,8 @@ There are no atomic array types.
 The best way to access data local to threads is to use local variables: Takeaway 3.18.3.1 Pass thread-specific data through function arguments. Takeaway 3.18.3.2 Keep thread-specific state in local variables. 
 In case this is not possible (or maybe too complicated), a special storage class and a dedicated data type allow us to handle thread-local data. _Thread_local is a storage class specifier that forces a thread-specific copy of the variable that is declared as such. The header threads.h also provides a macro thread_local, which expands to the keyword. <threads.h> Takeaway 3.18.3.3 A thread_local variable has one separate instance for each thread. That is, thread_local variables must be declared similar to variables with static storage duration: they are declared in file scope, or, if not, they must additionally be declared static (see subsection 13.2, table 13.1). As a consequence, they cannot be initialized dynamically. 3.18.3.4 Use thread_local if initialization can be determined at compile time. 
 
-If a storage class specifier is not sufficient because we have to do dynamic initialization and destruction, we can use thread-specific storage, tss_t. It abstracts the identification of thread-specific data into an opaque ID, referred to as key, and accessor functions to set or get the data: 
+If a storage class specifier is not sufficient because we have to do dynamic initialization and destruction, we can use thread-specific storage, tss_t. It abstracts the identification of thread-specific data into an opaque ID, referred to as key, and accessor functions to set or get the data:
+
+# Mutex (full lock)
+
+Use mutex only if you have variable that must be created at runtime
