@@ -24,3 +24,15 @@ If a storage class specifier is not sufficient because we have to do dynamic ini
 Use mutex only if you have variable that must be created at runtime
 
 Every mutex must be initialized with mtx_init.
+
+The second parameter of mtx_init specifies the “type” of the mutex. It must be one of these four values:
+• mtx_plain • mtx_timed • mtx_plain|mtx_recursive • mtx_timed|mtx_recursive As you probably have guessed, using mtx_plain versus mtx_timed controls the possi-bility to use mtx_timedlock. The additional property mtx_recursive enables us to call mtx_lock and similar functions successively several times for the same thread, without unlocking it beforehand.
+Takeaway 3.18.4.3 A thread that holds a nonrecursive mutex must not call any of the mutex lock functions for it.
+The name mtx_recursive indicates that it is mostly used for recursive functions that call mtx_lock on entry of a critical section and mtx_unlock on exit.
+Takeaway 3.18.4.4 A recursive mutex is only released after the holding thread issues as many calls to mtx_unlock as it has acquired locks.
+Takeaway 3.18.4.5 A locked mutex must be released before the termination of the thread.
+Takeaway 3.18.4.6 A thread must only call mtx_unlock on a mutex that it holds.
+From all of this, we can deduce a simple rule of thumb:
+Takeaway 3.18.4.7 Each successful mutex lock corresponds to exactly one call to mtx_unlock.
+
+Every mutext must be destroyed using 
