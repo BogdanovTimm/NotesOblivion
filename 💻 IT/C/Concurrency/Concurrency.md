@@ -36,3 +36,9 @@ From all of this, we can deduce a simple rule of thumb:
 Takeaway 3.18.4.7 Each successful mutex lock corresponds to exactly one call to mtx_unlock.
 
 Every mutext must be destroyed using mtx_destroy. It must be called • Before the scope of a mutex with automatic storage duration ends • And before the memory of a dynamically allocated mutex is freed
+
+Threads should preferably only operate on data that is local, through function arguments and automatic variables. If unavoidable, thread-specific data can also be created as thread_local objects or via tss_create. Use the latter only when you need dynamic construction and destruction of the variable.
+• Small critical data that is shared between threads should be specified as _Atomic.
+• Critical sections (code paths that operate on unprotected shared data) must be protected, usually by using a mtx_t mutex.
+• Conditional processing dependencies between threads are modeled with cnd_t condition variables.
+• Thread code that does not have the ability to rely on a post mortem cleanup by main should use thrd_detach and place all its cleanup code in atexit and/or at_quick_exit handlers.
