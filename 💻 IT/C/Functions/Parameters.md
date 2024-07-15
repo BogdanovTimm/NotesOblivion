@@ -98,3 +98,73 @@ void function(int* restrict oneAndOnlyAddress) {
 
 }
 ```
+
+#                  const
+
+Using `const` only restricts modifying given withing funciton. Oustide, it may be changed.
+```C
+void function(unsigned int const given) {
+}
+```
+
+#                  ...
+
+`void function(...) {}` is a bad way to create variable length list of parameters.
+Better use Macro-technics from Modern C (which I didn't get).
+
+#                  Generics
+
+Constraints:
+```C
+inline void functionWithGeneric(unsigned int given1, unsigned int given2) {
+    // Very good function body for unsigned ints
+}
+inline void functionForFLoat(float given1, float given2) {
+    // Very goof funciton body for floats
+}
+
+#define functionWithGeneric(given1, given2)  \
+    _Generic ((given1) + (given2),           \
+        float       : functionForFloat      ,\
+        unsigned int: functionForUnsignedInt,\
+        default     : functionWithGeneric    \
+    )                                        \
+    ((given1), (given2))
+```
+
+#                  Check that given argument is string
+
+It is ugly, but it is the only way to do it:
+```C
+#ifdef NDEBUG
+#    define TRACE_ON 0
+#else
+#    define TRACE_ON 1
+#endif
+#define TRACE_PRINT2(F, X)                  \
+    do {                                    \
+        if (TRACE_ON)                       \
+            fprintf(stderr , "" F "\n", X); \
+    } while (false)
+#define function_to_check(stringParameter) \
+    function_to_check("" stringParameter "")
+
+inline char const* (function_to_check)(char const givenString[static 1]){ 
+```
+
+#                  Check that given argument is a pointer
+
+```C
+#ifdef NDEBUG
+#    define TRACE_ON 0
+#else
+#    define TRACE_ON 1
+#endif 
+#define TRACE_PRINT2(F, X)                  \
+    do {                                    \
+        if (TRACE_ON)                       \
+            fprintf(stderr , "" F "\n", X); \
+    } while (false)
+#define CHECK_IF_POINTER(HEAD , MAYBE_POINTER)      \
+    TRACE_PRINT2(HEAD " %p", ((void*){ 0 } = (MAYBE_POINTER)))
+```
