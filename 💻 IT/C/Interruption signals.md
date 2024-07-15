@@ -1,0 +1,1 @@
+Objects of type `sig_atomic_t` should not be used as counters. 
