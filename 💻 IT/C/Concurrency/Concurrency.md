@@ -22,3 +22,5 @@ If a storage class specifier is not sufficient because we have to do dynamic ini
 # Mutex (full lock)
 
 Use mutex only if you have variable that must be created at runtime
+
+Every mutex must be initialized with mtx_init.
