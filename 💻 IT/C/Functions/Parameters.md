@@ -115,6 +115,12 @@ Better use Macro-technics from Modern C (which I didn't get).
 #                  Generics
 
 Constraints:
+- The type expressions in a `_Generic()` expression should only be unqualified types: 
+    - no array types
+    - no function types
+    - no pointer to VLA
+
+Code:
 ```C
 inline void functionWithGeneric(unsigned int given1, unsigned int given2) {
     // Very good function body for unsigned ints
