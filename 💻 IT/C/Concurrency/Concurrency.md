@@ -42,3 +42,5 @@ Threads should preferably only operate on data that is local, through function a
 • Critical sections (code paths that operate on unprotected shared data) must be protected, usually by using a mtx_t mutex.
 • Conditional processing dependencies between threads are modeled with cnd_t condition variables.
 • Thread code that does not have the ability to rely on a post mortem cleanup by main should use thrd_detach and place all its cleanup code in atexit and/or at_quick_exit handlers.
+
+3.19.2.5 Calls to cnd_signal and cnd_broadcast should occur inside a critical section that is protected by the same mutex as the waiters. 
