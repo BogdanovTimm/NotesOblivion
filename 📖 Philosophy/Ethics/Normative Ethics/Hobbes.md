@@ -136,7 +136,7 @@ He derives the obligation (and hence motivation) to obey God from God’s overwh
 - Locke accepts Hobbes’s hedonist starting-point. His anti-rationalism about motivation and action presumes a non-rational desire for an end, and he agrees with Hobbes in identifying this end with pleasure. Hobbes’s next step is to reduce moral principles to counsels of self-preservation. But Locke does not follow Hobbes on this point.
 - Hobbes, who goes furthest in a voluntarist direction, believes that what fits human nature is independent of God’s legislative will; that is why the laws of nature are counsels of self-preservation. But Hobbes does not believe that God commands obedience to these natural laws because they preserve human society; the commands are not an exercise of God’s benevolence or of God’s care for creation, but of God’s power. 
 - He abandon Culverwell’s unsatisfactory compromise that we cannot recognise intrinsic rightness without recognising a requirement (debitum). He prefers a more thoroughly voluntarist position that rejects intrinsic rightness. 
-
+- Hobbes, Cumberland, and Pufendorf all reject intrinsic rightness.
 
 
 

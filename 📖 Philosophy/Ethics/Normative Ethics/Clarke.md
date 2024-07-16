@@ -8,3 +8,7 @@
 - oppose theological voluntarism. 
 - In Clarke the belief in intrinsic morality is separated from naturalism,
 - Clarke accepts Cudworth's going beyond Suarez: According to Suarez’s ‘intermediate’ position (as Suarez describes it), some aspects of natural law are independent of the divine legislative will and some depend on it. Natural law is law, and imposes an obligation, insofar as it depends on the divine will, whereas the rightness and wrongness of the acts that it prescribes and prohibits are features of the nature of things in themselves, apart from the divine will. Emphasis on one side or another of Suarez’s position results in a more strongly voluntarist or naturalist account. It is clearer that Cudworth goes beyond Suarez on this point, and reverts to Vasquez’s view that obligation, as well as duty, belongs to nature and not primarily to will.
+
+#                  Difficulties
+
+- Clarke and Balguy agree with Parker’s conception of happiness (His argument against Greek Moralists assumes a broadly hedonistic conception of happiness, which leads him to misunderstand the Stoic and the Aristotelian and Platonic position), and hence with his assertion that Greek moral philosophy cannot assure the appropriate connexion between virtue and happiness.⁴²

@@ -6,3 +6,19 @@
 - the confusion creates spurious support for a legislative conception of morality.
 - Even Hobbes, who goes furthest in a voluntarist direction, believes that what fits human nature is independent of God’s legislative will; that is why the laws of nature are counsels of self-preservation. But Hobbes does not believe that God commands obedience to these natural laws because they preserve human society; the commands are not an exercise of God’s benevolence or of God’s care for creation, but of God’s power. Culverwell, Locke, Cumberland, and Pufendorf reject this part of Hobbes’s view; they agree that in some way God necessarily chooses to command observance of the natural law that preserves human society. On this point they agree with Suarez. They differ from Suarez, and from one another, in their views about whether the element of natural law that is independent of command and will is also morality. None of them defends Suarez’s combination of naturalism (about right and wrong) and voluntarism (about obligation and law).
 - He abandon Culverwell’s unsatisfactory compromise that we cannot recognise intrinsic rightness without recognising a requirement (debitum). He prefers a more thoroughly voluntarist position that rejects intrinsic rightness. 
+- without a divine command some courses of action are unreasonable, and others are rationally appropriate, but no action is morally right or wrong because none is obligatory
+- Hobbes, Cumberland, and Pufendorf all reject intrinsic rightness.
+
+
+
+
+
+
+
+
+
+
+#                  Difficulties
+
+- Pufendorf’s mistake of assuming that insofar as God created beings who have moral duties to God (as God the Creator), God is the legislator who creates obligations by legislation.
+- Pufendorf argues, that morality requires laws, and therefore requires a lawgiver; but that argument still leaves open questions about why we ought to obey the lawgiver.

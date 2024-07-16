@@ -1,5 +1,16 @@
 - He defends some aspects of Scholastic naturalism, and especially of Suarez’s version of it, against a voluntarist interpretation of Calvinism. He is a Calvinist himself; he opposes both Arminians and Antinomians, and argues that Calvinist views on nature and grace do not rule out, but support, reliance on natural law and natural reason.²²
 - He defends some aspects of Scholastic naturalism, and especially of Suarez’s version of it, against a voluntarist interpretation of Calvinism. He is a Calvinist himself; he opposes both Arminians and Antinomians, and argues that Calvinist views on nature and grace do not rule out, but support, reliance on natural law and natural reason.²² Though Culverwell’s work was presumably known to Cudworth, it did not persuade Cudworth to make similar concessions to voluntarism. It is relevant to Locke’s view of the role of divine commands in morality. CulverwellisnotanextremevoluntaristholdingthepositionofSeldenor(insomerespects) Hobbes. 
+- without a divine command some courses of action are unreasonable, and others are rationally appropriate, but no action is morally right or wrong because none is obligatory
+- Culverwell recognizes intrinsic rightness and wrongness, but he gives them a quasi-aesthetic interpretation that is alien to Suarez.
+- Both Suarez and Culverwell allow natural rightness, though they disagree about whether it can support duties.
+
+
+
+
+
+
+
+
 
 #                  Difficulties
 
