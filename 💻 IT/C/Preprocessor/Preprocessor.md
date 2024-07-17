@@ -1,5 +1,13 @@
 In preprocessor conditions, unknown identifiers evaluate to 0. 
 
+#                  Variables
+
+Always use `()` if you need to do some computations:
+```C
+#define VARIABLE_NAME_1 228
+#define VARIABLE_NAME_2 (228 / 2) 
+```
+
 #                  Macro-functions
 
 From:
