@@ -41,9 +41,12 @@ int main(int argc, char* argv[argc +1]) {
 
 #                  Formatted
 
-##                 Do not
+##                 cnaf
+
+###                 Do not
 
 - Do not put `\n` at the end of pattern in `scanf()`
+
 
 `scanf("%d", &(usersInput));`:
 - integers:
@@ -83,4 +86,10 @@ int main(void) {
            intVariable2
     );
 }
+```
+
+###                How to scan 123 as 1, 2, 3
+
+```C
+scanf("1%d1%d1%d", integer1, integer2, integer3);
 ```
