@@ -41,8 +41,46 @@ int main(int argc, char* argv[argc +1]) {
 
 #                  Formatted
 
+##                 Do not
+
+- Do not put `\n` at the end of pattern in `scanf()`
+
 `scanf("%d", &(usersInput));`:
 - integers:
+    - `%d` - always reinterpret integers as written with 10th base
+    - `%i` - reinterpret integers as written in 10th (123), 8th (0123) or 16th(0x123) base
 - floats: `scanf("%f", &(usersInput))` - `%f%`, `%g` and `%e` works exactly the same
 
-Remember that after `scanf()` will do its work, there is `\n` left
+Rules:
+- `1 2` means `1( )*2`
+- ` `   means `( )*`
+- `%%`  means `%`
+
+How it works:
+1. It goes into secret buffer.
+2. It scans buffer using given pattern.
+3. If it finds space - it will delete it, even if it was written in a given pattern.
+4. If it finds character that it needs to save into variable - it deletes it from buffer
+5. If it finds character that does not exist in a given pattern, it will exit and do not delete remaining character, including the one on which it has failed.
+6. Remember that after `scanf()` will do its work, there is `\n` left.
+
+For example for input '5.6 1 10', `intVariable = 5`, `floatVariable = 0.6`, `intVariable = 1`:
+```C
+#include <stdio.h> 
+
+int main(void) {
+    auto int   intVariable;
+    auto int   intVariable2;
+    auto float floatVariable;
+    scanf("%d%f%d",
+          &(intVariable),
+          &(floatVariable),
+          &(intVariable2)
+    );
+    printf("Given1: [%d]\nGiven2: [%f]\nGiven3: [%d]",
+           intVariable,
+           floatVariable,
+           intVariable2
+    );
+}
+```
