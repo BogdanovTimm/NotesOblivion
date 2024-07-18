@@ -1,0 +1,1 @@
+`(currentElement + variable2) % maxAllowed`
