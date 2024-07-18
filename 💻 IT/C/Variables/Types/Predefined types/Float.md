@@ -55,3 +55,21 @@ the smallest negative double value is `-DBL_MAX`
 
 Max and min values are unique for 16bit, 32bit and 64 bit processors.
 Use `<float.h>` to find the varibles that describes max and min values for the processor, on which C programm is ran.
+
+
+
+
+
+
+
+
+
+
+#                  Cool stuff
+
+##                 Find number after a point
+
+```C
+float variable1 = 12.5;
+variable1 = variable1 - (int) variable1; // Cast to an int will delete everything after the point
+```

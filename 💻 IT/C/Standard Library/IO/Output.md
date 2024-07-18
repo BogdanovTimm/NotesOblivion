@@ -4,7 +4,7 @@
 
 #                  Print to terminal
 
-- floats:
+- floats/doubles/long doubles:
     - `printf("Text to display [%5.2f]\n", givenFLoat)` - `%<Minimum-width>.<Max Numbers after dot>f`. If `<Minimum-width>` < 0, then it will be left-justified.
     - `printf("Text to display [%5.2e]\n", givenFLoat)` - exponential form. `%<Minimum-width>.<Max Numbers after dot>f`. If `<Minimum-width>` < 0, then it will be left-justified.
     - `printf("Text to display [%5.2g]\n", givenFLoat)` - automatically chooses `%f` or `%e`. `%<Minimum-width>.<Max Numbers after dot>f`. If `<Minimum-width>` < 0, then it will be left-justified.

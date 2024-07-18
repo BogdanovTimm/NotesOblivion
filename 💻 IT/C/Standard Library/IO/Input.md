@@ -68,6 +68,7 @@ int main(int argc, char* argv[argc +1]) {
     - `%llu` - `unsigned long long int` in 10th base
     - `%llo` - `unsigned long long int` in 8th base
     - `%llx` - `unsigned long long int` in 16th base
+    - `%zu`  - `size_t`
 - floats: 
     - `scanf("%f", &(givenFloat))` - `%f%`, `%g` and `%e` works exactly the same for `floats`
     - `scanf("%lf", &(givenDouble))`
@@ -77,7 +78,8 @@ int main(int argc, char* argv[argc +1]) {
     - `scanf("%Le", &(givenLongDouble))`
     - `scanf("%Lg", &(givenLongDouble))`
 - characters:
-    - `scanf("%c", &(givenChar))`
+    - `scanf("%c", &(givenChar))`  - character or whitespace
+    - `scanf("% c", &(givenChar))` - non-white space character
     - `getchar()` - faster than `printf()`
 
 Rules:
