@@ -6,7 +6,7 @@ Types of ints (from smalles to largest):
 - `long int`      - To force compiler to treat some value as `long int`: `12345L`
 - `long long int` - To force compiler to treat some value as `long long int`: `12345LL`
 - from `<stdint.h>`:
-    - `size_t`
+    - `size_t` = `unsigned int`
     - `int32_t`
 
 Also, they may be:
