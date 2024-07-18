@@ -2,6 +2,7 @@
 
 - Don’t use `gets()` 
 - Find EOF without `feof()` - detecting a return of EOF alone is not sufficient to conclude that the end of the stream has been reached. We have to call feof to test whether a stream’s position has reached its end-of-file marker. End of file can only be detected after a failed read. 
+- Do not use both `scanf()` and `getchar()` - they both wors with same buffer, so, `scnaf()` may leave some characters that `getchar()` will read.
 
 # Unformatted text input. 
 
@@ -50,9 +51,34 @@ int main(int argc, char* argv[argc +1]) {
 
 `scanf("%d", &(usersInput));`:
 - integers:
-    - `%d` - always reinterpret integers as written with 10th base
-    - `%i` - reinterpret integers as written in 10th (123), 8th (0123) or 16th(0x123) base
-- floats: `scanf("%f", &(usersInput))` - `%f%`, `%g` and `%e` works exactly the same
+    - `%d`   - `signed int` as written with 10th base
+    - `%i`   - `signed int` as written in 10th (123), 8th (0123) or 16th(0x123) base
+    - `%u`   - `unsigned int` in 10th base
+    - `%o`   - `unsigned int` in 8th base
+    - `%x`   - `unsigned int` in 16th base
+    - `%hd`  - `signed short int` in 10th base
+    - `%hu`  - `unsigned short int` in 10th base
+    - `%ho`  - `unsigned short int` in 8th base
+    - `%hx`  - `unsigned short int` in 16th base
+    - `%ld`  - `signed long int` in 10th base
+    - `%lu`  - `unsigned long int` in 10th base
+    - `%lo`  - `unsigned long int` in 8th base
+    - `%lx`  - `unsigned long int` in 16th base
+    - `%lld` - `signed long long int` in 10th base
+    - `%llu` - `unsigned long long int` in 10th base
+    - `%llo` - `unsigned long long int` in 8th base
+    - `%llx` - `unsigned long long int` in 16th base
+- floats: 
+    - `scanf("%f", &(givenFloat))` - `%f%`, `%g` and `%e` works exactly the same for `floats`
+    - `scanf("%lf", &(givenDouble))`
+    - `scanf("%le", &(givenDouble))`
+    - `scanf("%lg", &(givenDouble))`
+    - `scanf("%Lf", &(givenLongDouble))`
+    - `scanf("%Le", &(givenLongDouble))`
+    - `scanf("%Lg", &(givenLongDouble))`
+- characters:
+    - `scanf("%c", &(givenChar))`
+    - `getchar()` - faster than `printf()`
 
 Rules:
 - `1 2` means `1( )*2`
@@ -62,7 +88,7 @@ Rules:
 How it works:
 1. It goes into secret buffer.
 2. It scans buffer using given pattern.
-3. If it finds space - it will delete it, even if it was written in a given pattern.
+3. If current something to find is not `char` - then, if it finds space - it will delete it, even if it was written in a given pattern. If current something to find is `char` - it will return ' ' as a founded `char`
 4. If it finds character that it needs to save into variable - it deletes it from buffer
 5. If it finds character that does not exist in a given pattern, it will exit and do not delete remaining character, including the one on which it has failed.
 6. Remember that after `scanf()` will do its work, there is `\n` left.
@@ -92,4 +118,29 @@ int main(void) {
 
 ```C
 scanf("1%d1%d1%d", integer1, integer2, integer3);
+```
+
+###                 How to find end of the line
+
+```C
+do {
+    scanf("%c", &(givenChar));
+} while (givenChar != '\n')
+```
+
+###                Scan through given line
+
+This code:
+```C
+while (currentChar != '\n') {
+    // Do something with every char
+    currentChar = getchar();
+}
+```
+
+May be rewritten as:
+```C
+while (getchar() != '\n') {
+    // Do something with every char
+}
 ```
