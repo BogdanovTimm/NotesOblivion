@@ -11,12 +11,13 @@
 - use array   notation if we suppose it can’t be `null`
 - use pointer notation if it corresponds to a single item of the base type that also can be `null`
 
-#                  Array parameter
+#                  Unnnamed Array aka Compound Literal
 
-To enshure that you will get array with at least 1 character, you may use:
-```C
+`function((unsigned int[]) {1, someVariable});`
 
-```
+Also, it may be const:
+`function((const unsigned int[]) {1, someVariable});`
+
 
 #                  Structs
 
