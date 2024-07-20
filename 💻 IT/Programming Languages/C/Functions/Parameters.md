@@ -6,17 +6,73 @@
     - A pointer to a collection of objects of unknown number – These functions should use the VLA notation: `void function(size_t arraySize, double givenArray[arraySize])`
     - A pointer to a single object of the type or a null pointer – Such a function must guarantee that even when it receives a null pointer, the execution remains in a defined state: `void function(double* givenObjectOrNullAddress)`
 
-#                  Arrays vs pointers
 
-- use array   notation if we suppose it can’t be `null`
-- use pointer notation if it corresponds to a single item of the base type that also can be `null`
 
-#                  Unnnamed Array aka Compound Literal
+
+
+
+
+
+
+
+#                  Arrays
+
+##                 Arrays vs pointers
+
+- Use array   notation if we suppose it can’t be `null`
+- Use pointer notation if it corresponds to a single item of the base type that also can be `null`
+- You can get your function only a slice of an array as a parameter `function(&(array[5]), (arraySize - 5));`
+
+If you pass array as a pointer, you must pass array length as another parameter to the function, because `sizeof()` don't work with pointer:
+```C
+void function(size_t array_size, int const array[array_size]);
+```
+
+
+
+
+
+##                  Unnnamed Array aka Compound Literal
 
 `function((unsigned int[]) {1, someVariable});`
 
 Also, it may be const:
 `function((const unsigned int[]) {1, someVariable});`
+
+
+
+
+##                 Passing multi-dimensional arrays as an one-dimensional ones
+
+Because C stores rows of multidimensional arrays as just going one after the other, you can pass multidimensional array as an on-dimensional one:
+```C
+#include <stdio.h>
+
+void function(const size_t arraySize, const unsigned int array[arraySize]) {
+    for (unsigned int iterator = 0;
+         iterator < 2 * 3;
+         iterator++
+    ) {
+        printf("[%u]", array[iterator]);//'()' us required
+        if (iterator == 2) {
+            printf("\n");
+        }
+    }
+}
+
+void main() {
+    unsigned int array[2][3] = {
+            {1, 2, 3},
+            {4, 5, 6}
+    };
+    function(2 * 3, array[0]);
+}
+```
+
+
+
+
+
 
 
 #                  Structs
@@ -71,13 +127,13 @@ int main(void) {
 }
 ```
 
-#                  Passing arrays as pointers
 
-If you pass array as a pointer, you must pass array length as another parameter to the function, because `sizeof()` don't work with pointer.
 
-```C
-void function(size_t array_size, int const array[array_size]);
-```
+
+
+
+
+
 
 #                  Passing pointers as arguments
 
@@ -91,6 +147,14 @@ typedef void function_type(void);
 void function2(function_type* given_function);
 ```
 
+
+
+
+
+
+
+
+
 #                  Restrict
 
 `restrict` means that object, which address function receives, has only 1 pointer to that address:
@@ -100,18 +164,47 @@ void function(int* restrict oneAndOnlyAddress) {
 }
 ```
 
+
+
+
+
+
 #                  const
 
-Using `const` only restricts modifying given withing funciton. Oustide, it may be changed.
-```C
-void function(unsigned int const given) {
-}
-```
+They are 2 places to write `const:`
+- Using `const` only restricts modifying given withing funciton. Oustide, it may be changed.
+    ```C
+    void function(unsigned int const given) {
+
+    }
+    ```
+- Using `const` to represent that this value can't be changed (given may be not const outside the function):
+    ```C
+    void function(const unsigned int given) {
+        // 
+    }
+    ```
+
+
+
+
+
+
+
+
 
 #                  ...
 
 `void function(...) {}` is a bad way to create variable length list of parameters.
 Better use Macro-technics from Modern C (which I didn't get).
+
+
+
+
+
+
+
+
 
 #                  Generics
 
@@ -139,6 +232,14 @@ inline void functionForFLoat(float given1, float given2) {
     ((given1), (given2))
 ```
 
+
+
+
+
+
+
+
+
 #                  Check that given argument is string
 
 It is ugly, but it is the only way to do it:
@@ -158,6 +259,14 @@ It is ugly, but it is the only way to do it:
 
 inline char const* (function_to_check)(char const givenString[static 1]){ 
 ```
+
+
+
+
+
+
+
+
 
 #                  Check that given argument is a pointer
 
