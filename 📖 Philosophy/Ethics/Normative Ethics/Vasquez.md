@@ -7,3 +7,4 @@
 - Natural Law is a ius type of law
 - There is a Natural Law (lex), properly so called, apart from the legislative will of God and this Natural Law imposes a genuine obligation apart from God’s command
 - Vasquez take natural law and its obligation to precede any divine command
+- The relevant deontic concepts—right, wrong, duty, and so on—presuppose some reference to a norm and a law. One might agree with this claim, but still deny that moral properties require legislation; that is why Vasquez, for instance, asserts that not every ius is a lex.
