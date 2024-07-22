@@ -18,6 +18,8 @@
 - He does not introduce a jural conception of morality, but rejects a jural conception in favour of Scholastic naturalism.
 - Grotius shares some of Hobbes’s fears about the effects of philosophical arguments for disobedience, and so he tries to blunt the critical edge of some Scholastic theories.¹⁰
 - Grotius accepts the naturalist side of Suarez’s position: According to Suarez’s ‘intermediate’ position (as Suarez describes it), some aspects of natural law are independent of the divine legislative will and some depend on it. Natural law is law, and imposes an obligation, insofar as it depends on the divine will, whereas the rightness and wrongness of the acts that it prescribes and prohibits are features of the nature of things in themselves, apart from the divine will. Emphasis on one side or another of Suarez’s position results in a more strongly voluntarist or naturalist account. It is difficult to say whether Grotius goes further than Suarez in maintaining that obligation and law, as well as rightness, belong to the nature of things apart from the divine will.
+- To a limited extent, Hobbes believes in intrinsic moral properties, since he believes that the moral virtues are simply those states that promote self-preservation as means to peaceful and commodious living. But he does not believe that rightness (honestas) consists in anything beyond advantage (commodum); on this point Suarez, Grotius, Cumberland, and Pufendorf all disagree with him.
+- Aristotle, the Stoics, the Scholastics, and Grotius: According to these defenders of natural sociality, facts about human nature itself, and not simply about competition, aggression, and self-preservation (as in Hobbes), make political life appropriate for human beings.
 
 
 

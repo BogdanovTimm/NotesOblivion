@@ -31,6 +31,7 @@ He derives the obligation (and hence motivation) to obey God from God’s overwh
 - He abandon Culverwell’s unsatisfactory compromise that we cannot recognise intrinsic rightness without recognising a requirement (debitum). He prefers a more thoroughly voluntarist position that rejects intrinsic rightness. 
 - without a divine command some courses of action are unreasonable, and others are rationally appropriate, but no action is morally right or wrong because none is obligatory
 - Hobbes, Cumberland, and Pufendorf all reject intrinsic rightness.
+- To a limited extent, Hobbes believes in intrinsic moral properties, since he believes that the moral virtues are simply those states that promote self-preservation as means to peaceful and commodious living. But he does not believe that rightness (honestas) consists in anything beyond advantage (commodum); on this point Suarez, Grotius, Cumberland, and Pufendorf all disagree with him. 
 
 
 

@@ -136,6 +136,15 @@ But Confucius’ point of view is a source of good advice for Zeno only if Zeno 
 - They agree with Socrates that the source of bad actions is a rational miscalculations of goods
 - We are not free to reject the apparently greater good (Intellectualism)
 - Passions (or pre-passions) makes it that we think that particular action is good on the whole
+- Aristotle, the Stoics, the Scholastics, and Grotius: According to these defenders of natural sociality, facts about human nature itself, and not simply about competition, aggression, and self-preservation (as in Hobbes), make political life appropriate for human beings.
+
+
+
+
+
+
+
+
 
 # Difficulties
 

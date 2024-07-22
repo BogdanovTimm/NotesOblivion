@@ -137,6 +137,7 @@ He derives the obligation (and hence motivation) to obey God from God’s overwh
 - Hobbes, who goes furthest in a voluntarist direction, believes that what fits human nature is independent of God’s legislative will; that is why the laws of nature are counsels of self-preservation. But Hobbes does not believe that God commands obedience to these natural laws because they preserve human society; the commands are not an exercise of God’s benevolence or of God’s care for creation, but of God’s power. 
 - He abandon Culverwell’s unsatisfactory compromise that we cannot recognise intrinsic rightness without recognising a requirement (debitum). He prefers a more thoroughly voluntarist position that rejects intrinsic rightness. 
 - Hobbes, Cumberland, and Pufendorf all reject intrinsic rightness.
+- To a limited extent, Hobbes believes in intrinsic moral properties, since he believes that the moral virtues are simply those states that promote self-preservation as means to peaceful and commodious living. But he does not believe that rightness (honestas) consists in anything beyond advantage (commodum); on this point Suarez, Grotius, Cumberland, and Pufendorf all disagree with him. 
 
 
 
