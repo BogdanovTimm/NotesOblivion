@@ -5,6 +5,16 @@
 - We might even agree that virtue requires the choice of the right action for the right reason, looking to the very fact that makes the action right. This demand might be understood, as Kant understands it, non-teleologically, so that it does not refer to any connexion between virtuous action and one’s ultimate end.
 - Apart from our moral beliefs, we have no reason to attribute freedom to human beings
 - Kant’s contrast between acting on duty and acting on other motives: The two people he contrasts with the person acting out of duty are the trader who does the honest thing for the sake of his business and the philanthropist who acts out of his generous sentiments. The action of the philanthropist lacks moral worth not because it is selfish, but because his reason for doing the generous action rests ultimately on his generous impulses; if he lacked them, he would have lost his reason for these actions. Kant is primarily concerned with the distinction that Aquinas draws in his account of intellectual love.
+- Pufendorf, then, seems to be open to the objections that Cudworth raises against Hobbes. Kant summarizes these objections in claiming that positive law presupposes natural law.⁴⁶ We might not agree with Kant’s claim that the ground of the authority of a legislator of positive law must be moral, and therefore must be part of natural law. But his claim is plausible if we consider a legislative theory of the natural moral law itself; the non-moral grounds that Pufendorf offers do not vindicate the authority of a moral legislator. Hence at least one natural law cannot itself be valid simply because it has been legislated by a divine legislator. This is why Kant, while conceding that we may call God a legislator, denies that God is the author of the moral law.
+
+
+
+
+
+
+
+
+
 
 # Difficulties
 
