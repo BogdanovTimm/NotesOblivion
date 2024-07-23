@@ -139,7 +139,7 @@ He derives the obligation (and hence motivation) to obey God from God’s overwh
 - Hobbes, Cumberland, and Pufendorf all reject intrinsic rightness.
 - To a limited extent, Hobbes believes in intrinsic moral properties, since he believes that the moral virtues are simply those states that promote self-preservation as means to peaceful and commodious living. But he does not believe that rightness (honestas) consists in anything beyond advantage (commodum); on this point Suarez, Grotius, Cumberland, and Pufendorf all disagree with him. 
 - The only source of reasons supporting practical principles—he ought to say—is desire for some end. If human beings in their natural state want self-preservation, they have reasons of advantage; but the reasons come from their desires, not from their nature, since they do not remain in the absence of the relevant desire. This is Hobbes’s position (or one of his positions) about reasons and natural goods. 
-
+- Hobbes does not hold a pure natural law theory, since he also claims that the natural laws whose observance is commanded by God are counsels of prudence, and that this fact makes them moral rules. But his test for God’s being a legitimate ruler and legislator is simply divine power. 
 
 
 
