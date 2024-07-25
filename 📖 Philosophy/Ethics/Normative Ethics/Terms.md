@@ -1,12 +1,18 @@
 # Goods
 
 - Goods - either final end or a step to happiness:
-    - Instrumental - needed for non-instrumental goods
-    - Non-instrumental - needed for themselves
-    - Internal - in our control
-    - External - out of our control
-    - Qualified - it's good only within some circumstances 
-    - Unqualified - it's good in all circumstances 
+    - Instrumental vs Non-Instrumental:
+        - Instrumental - needed for non-instrumental goods
+        - Non-instrumental - needed for themselves
+    - Internal vs External:
+        - Internal - in our control
+        - External - out of our control
+    - Qualified vs Unqualified:
+        - Qualified - it's good only within some circumstances 
+        - Unqualified - it's good in all circumstances 
+    - Moral vs Non-Moral (Advantage and Disatvantage):
+        - Moral
+        - Non-Moral (Advantage and Disadvantage)
 
 # Values
 
@@ -124,6 +130,7 @@ Moderate intellectualist - some desires moving us to action depend essentially o
 # Voluntarism vs Naturalism about Natural Law
 
 According to one voluntarist view, nothing would be morally right or wrong if God has commanded nothing to us; our natural knowledge of the natural law is simply knowledge of the divine commands. On this view, natural law is natural in the epistemic sense, but not in the metaphysical sense. God was free to make us with the nature we have, but to command something different, and to give us natural knowledge of it; if God had done that, the principles of natural law would have been different, and the morally right and wrong would thereby have been different, even though our nature would have been the same.
+According to the naturalist, nothing needs to be added to created nature for moral properties to exist; according to the voluntarist, divine legislation has to be added.
 
 # Reasons
 
