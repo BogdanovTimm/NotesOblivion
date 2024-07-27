@@ -89,3 +89,19 @@ printf("Lorem"
        "Ipsum"
 ); // It will print: LoremIpsum
 ```
+
+
+
+
+
+
+
+
+
+#                  Find '\0'
+
+`if(*(currentPosition))` = `if(*(currentPosition) != '\0')`
+
+Also:
+- `while(*(currentPosition))` - stops when it points to '\0'
+- `while(*(currentPosition)++)` - stops right after '\0'
