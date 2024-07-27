@@ -1,0 +1,1 @@
+- `strcmp(string1, string2)` - string1 is less if its character starts with 'aa' and string2 starts with 'ax'. Also, string1 is less if it starts same as string2, but string1 is shorter than string2: 'aa' is smaller than 'aaa'

@@ -1,0 +1,2 @@
+- `strcat(stringToWhichToAdd, stringToAdd)` - fast, but if `stringToAdd > (sizeof(stringToWhichToAdd) - strlen(stringToWhichToAdd) - 1)`, then behaviour is undefined
+- `strncat(stringToWhichToAdd, stringToAdd, (sizeof(stringToWhichToAdd) - strlen(stringToWhichToAdd) - 1))` - safe, but slower. Automatically ads `'\0'` at the end, even if it is not there.

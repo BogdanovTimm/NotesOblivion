@@ -19,6 +19,7 @@
 
 ##                 Arrays vs pointers
 
+There is some rules, although actually, compiler does not make a difference:
 - Use array   notation if we suppose it can’t be `null`
 - Use pointer notation if it corresponds to a single item of the base type that also can be `null`
 - You can get your function only a slice of an array as a parameter `function(&(array[5]), (arraySize - 5));`

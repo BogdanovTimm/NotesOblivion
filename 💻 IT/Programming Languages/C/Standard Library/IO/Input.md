@@ -1,10 +1,19 @@
 #                  Do not
 
-- Don’t use `gets()` 
+- Don’t use `gets()` - it is unsafe because you can't define a Maximum length of a string.
 - Find EOF without `feof()` - detecting a return of EOF alone is not sufficient to conclude that the end of the stream has been reached. We have to call feof to test whether a stream’s position has reached its end-of-file marker. End of file can only be detected after a failed read. 
 - Do not use both `scanf()` and `getchar()` - they both wors with same buffer, so, `scnaf()` may leave some characters that `getchar()` will read.
 
-# Unformatted text input. 
+
+
+
+
+
+
+
+
+
+#                  Unformatted text input 
 
 - `fgetc()` - for a single character
 - `fgets()` - for a string.
@@ -40,9 +49,17 @@ int main(int argc, char* argv[argc +1]) {
 }
 ```
 
+
+
+
+
+
+
+
+
 #                  Formatted
 
-##                 cnaf
+##                 scanf
 
 ###                 Do not
 
@@ -70,16 +87,34 @@ int main(int argc, char* argv[argc +1]) {
     - `%llx` - `unsigned long long int` in 16th base
     - `%zu`  - `size_t`
 - floats: 
-    - `scanf("%f", &(givenFloat))` - `%f%`, `%g` and `%e` works exactly the same for `floats`
-    - `scanf("%lf", &(givenDouble))`
-    - `scanf("%le", &(givenDouble))`
-    - `scanf("%lg", &(givenDouble))`
-    - `scanf("%Lf", &(givenLongDouble))`
-    - `scanf("%Le", &(givenLongDouble))`
-    - `scanf("%Lg", &(givenLongDouble))`
+    - `%f` - `%f%`, `%g` and `%e` works exactly the same for `floats`
+    - `%lf`
+    - `%le`
+    - `%lg`
+    - `%Lf`
+    - `%Le`
+    - `%Lg`
+- strings:
+    - `scanf("%228s", whereToSafeString)` - goes to secret buffer. Skips all whitespaces. When it encounters 1st non-whitespace character - then it will get characters till 1st whitespace. When called again - strats again from the place when it ened last time. Always use it like `%<Max-Width>s` to prefent writing into the RAM that is outside of an array.
+    - `gets()` - reads till 1st new-line character. Unsafe
+    - while-loop with `getchar()`. You need to manually add '\0' at the end:
+    ```C
+    int readLine(char givenArray[], int arraySize) {
+        int currentCharacter;
+        int currentPosition;
+        while (currentCharacter != '\n') {
+            if (currentPosition < arraySize) {
+                givenArray[currentPosition++] = currentCharacter;
+            }
+        }
+        givenArray[currentPosition] = '\0';
+        return currentPosition; // Returns number of character stored
+    }
+    ```
+    - `fgets()` - ???
 - characters:
-    - `scanf("%c", &(givenChar))`  - character or whitespace
-    - `scanf("% c", &(givenChar))` - non-white space character
+    - `%c`  - character or whitespace
+    - ` %c` - non-white space character
     - `getchar()` - faster than `printf()`
 
 Rules:
@@ -116,11 +151,17 @@ int main(void) {
 }
 ```
 
+
+
+
 ###                How to scan 123 as 1, 2, 3
 
 ```C
 scanf("1%d1%d1%d", integer1, integer2, integer3);
 ```
+
+
+
 
 ###                 How to find end of the line
 
@@ -129,6 +170,9 @@ do {
     scanf("%c", &(givenChar));
 } while (givenChar != '\n')
 ```
+
+
+
 
 ###                Scan through given line
 
