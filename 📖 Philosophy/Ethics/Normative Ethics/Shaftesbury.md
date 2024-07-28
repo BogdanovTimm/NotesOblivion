@@ -2,3 +2,4 @@
 - defends independent morality by appealing to a moral sense. 
 - He is naturalist about the relation of the divine will to morality, but he is sentimentalist about our knowledge of moral properties 
 - Shaftesbury protests against the view that egoism is the only safe alternative to enthusiasm. 
+- If Leibniz concedes this point to Shaftesbury, he need not withdraw his claim that divine rewards and punishments are important. Even if they are not necessary to make virtue promote one’s happiness, they may provide signifciant further reasons for believing this claim, and especially for believing that virtue does not require a long-term sacrifice of happiness. Shaftesbury agrees on these points. But it does not follow that divine rewards and punishments are needed to demonstrate that virtue promotes happiness. 
