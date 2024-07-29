@@ -7,3 +7,9 @@
        [jay]    = "jay",              \
 }
 ```
+
+```C
+functionName((struct structName) {228, 1477});
+
+variable1 = (struct structName) {.variable1 = 228, .variable2 = 1477};
+```

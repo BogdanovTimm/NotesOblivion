@@ -1,3 +1,8 @@
+#                  Do not
+
+- Do not use `typedef structute` if structure will be use in the Linked List
+- Do not use a structure as an argument or as a return type for a function. Rather, use a pointer to a struct
+
 ```C
 #include <stdio.h>
 
@@ -20,15 +25,82 @@ int main(void) {
 }
 ```
 
+
+
+
+
+
+
+
+
 #                  Comparing structs
 
 Structures can be assigned with `=` but not compared with `==` or `!=`
+
+
+
+
+
+
+
+
 
 #                  Inner structs
 
 All struct declarations in a nested declaration have the same scope of visibility. That is, if the previous nested struct declarations appear globally, both struct s are subsequently visible for the whole C file. If they appear inside a function, their visibility is bound to the {} block in which they are found. Because of that, inner structs make no sense
 
-#        struct + typedef
+
+
+
+
+
+
+
+
+
+#                  Struct with names
+
+##                 Struct tag
+
+```C
+# include <stdio.h>
+
+struct structName {
+    unsigned int variable1;
+    unsigned int variable2;
+};
+
+void main() {
+    struct structName structNameInstance1 = {
+            1,
+            2
+    };
+    printf("%u\n", structNameInstance1.variable1);
+    printf("%u\n", structNameInstance1.variable2);
+}
+```
+
+
+
+
+
+##                 struct + typedef
+
+```C
+typedef struct {
+    unsigned int variable1;
+    unsigned int variable2;
+} structName;
+
+void main() {
+    structName structNameInstance1 = {
+            1,
+            2
+    };
+    printf("%u\n", structNameInstance1.variable1);
+    printf("%u\n", structNameInstance1.variable2);
+}
+```
 
 ```C
 typedef struct struct_name struct_name;
@@ -36,6 +108,13 @@ struct struct_name{
   .variable1,
 };
 ```
+
+
+
+
+
+
+
 
 #                  Alignment
 
