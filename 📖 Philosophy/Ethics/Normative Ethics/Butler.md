@@ -17,6 +17,7 @@
 - About indirect consequentialism:Butler suggests that in the context of reflexion—‘in a cool hour’, as he puts it—we can appropriately ask questions that ought not to intrude into immediate deliberation.
 - Protests against the view that egoism is the only safe alternative to enthusiasm.
 - Butler maintains the connexion asserted by Suarez about the relation of the immutability of morality and the naturalist account of moral properties
+- Butler’s objection that utilitarianism allows unfair treatment of one person simply for the benefti of others.²⁵
 
 
 
