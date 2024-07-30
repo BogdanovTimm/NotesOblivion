@@ -8,6 +8,14 @@
 - oppose theological voluntarism. 
 - In Clarke the belief in intrinsic morality is separated from naturalism,
 - Clarke accepts Cudworth's going beyond Suarez: According to Suarez’s ‘intermediate’ position (as Suarez describes it), some aspects of natural law are independent of the divine legislative will and some depend on it. Natural law is law, and imposes an obligation, insofar as it depends on the divine will, whereas the rightness and wrongness of the acts that it prescribes and prohibits are features of the nature of things in themselves, apart from the divine will. Emphasis on one side or another of Suarez’s position results in a more strongly voluntarist or naturalist account. It is clearer that Cudworth goes beyond Suarez on this point, and reverts to Vasquez’s view that obligation, as well as duty, belongs to nature and not primarily to will.
+- Sometimes, however, Leibniz’s principle of perfection seems rather similar to one of Clarke’s principles of fitness—as though it were intended as a principle that we can just see to be correct, without reference to our nature as rational agents. 
+
+
+
+
+
+
+
 
 #                  Difficulties
 
