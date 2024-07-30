@@ -190,3 +190,53 @@ while (getchar() != '\n') {
     // Do something with every char
 }
 ```
+
+
+
+
+###                Read
+
+```C
+#include <ctype.h>
+#include <stdio.h>
+//#include "readline.h" // TODO: Add this
+
+/*-----------------------------------------------------------------------------
+| Description: Takes user's input and saves it into a string. Deletes trailing 
+|         white-spaces.
+|------------------------------------------------------------------------------
+| Parameters:
+|     * arrayToSafeInput - array in which user's input will be saved.
+|     * arraySize        - size of the array for user's input.
+|------------------------------------------------------------------------------
+|Side-effects:
+|    * Will change given array by saving user's input in it and by adding '\0'
+|------------------------------------------------------------------------------
+|Output:
+|    * Number of characters saved
++----------------------------------------------------------------------------*/
+int read_line(char arrayToSafeInput[], int arraySize) {
+    // v------------------- VARIABLES --------------------v
+    int chcurrentChar;
+    int currentPosition = 0;
+    // ^------------------- VARIABLES --------------------^
+
+    while (isspace(chcurrentChar = getchar())) // Deleting of trailing white-spaces
+    ;
+    while (chcurrentChar != '\n' && chcurrentChar != EOF) { // Reading characters 1 by 1
+        if (currentPosition < arraySize)
+            arrayToSafeInput[currentPosition++] = chcurrentChar;
+        chcurrentChar = getchar();
+    }
+    arrayToSafeInput[currentPosition] = '\0'; // Add '\0' at the end of the string
+    return currentPosition;
+}
+
+int main(void) {
+    char string[20];
+    read_line(string, 20);
+    for(unsigned int i = 0; i < 20; i++) {
+        printf("%c", string[i]);
+    }
+}
+```
