@@ -22,3 +22,5 @@ int main(int argc, char* argv[argc + 1]) {
     }
 }
 ```
+
+Unions may be copied using `=`
