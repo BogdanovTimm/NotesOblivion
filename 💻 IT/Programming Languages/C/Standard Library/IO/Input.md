@@ -114,7 +114,7 @@ int main(int argc, char* argv[argc +1]) {
     - `fgets()` - ???
 - characters:
     - `%c`  - character or whitespace
-    - ` %c` - non-white space character
+    - ` %c` - non-white space character. Helps to avoid reading new-line character that lasts from previous call to `scanf()`
     - `getchar()` - faster than `printf()`
 
 Rules:
