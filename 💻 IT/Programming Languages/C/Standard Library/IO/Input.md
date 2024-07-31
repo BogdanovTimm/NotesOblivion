@@ -209,10 +209,10 @@ while (getchar() != '\n') {
 |     * arrayToSafeInput - array in which user's input will be saved.
 |     * arraySize        - size of the array for user's input.
 |------------------------------------------------------------------------------
-|Side-effects:
+| Side-effects:
 |    * Will change given array by saving user's input in it and by adding '\0'
 |------------------------------------------------------------------------------
-|Output:
+| Output:
 |    * Number of characters saved
 +----------------------------------------------------------------------------*/
 int read_line(char arrayToSafeInput[], int arraySize) {
