@@ -88,3 +88,5 @@ Moreover, in claiming that we are rationally concerned about moral goodness beca
 - Suarez distinguishes morality and Natural Law
 - He deviates from Aquinas about necessary conditions for natural law, not about necessary conditions for morality.
 - He recognizes both formal and complete morality without divine legislation. 
+- Suarez insists that without divine commands there are only ‘indicative’ facts, and that divine commands are needed for genuine prescriptions, but he believes that the right sorts of indicative facts are suffciient for moral facts.
+- When Suarez recognizes intrinsic honestas and turpitudo, he thereby recognizes intrinsic moral rightness and wrongness. Similarly, Pufendorf believes that if there is no intrinsic morality, there is no intrinsic honestas and turpitudo. According to Suarez, intrinsic honestas and turpitudo are also the basis for duties (debita), sins (peccata), and blameworthiness (culpa). Suarez disagrees with Adams’s view about the source of moral requirements; Adams’s arguments ought not to persuade us that Suarez is mistaken. 
