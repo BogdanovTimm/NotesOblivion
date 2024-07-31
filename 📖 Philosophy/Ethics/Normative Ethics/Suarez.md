@@ -86,3 +86,5 @@ Moreover, in claiming that we are rationally concerned about moral goodness beca
 - Suarez tries to establish the relevant sort of contradiction not by appealing to the alleged internal inconsistency of ‘deliberate homicide is not bad’, but by appealing to the conflict between this claim and the needs of rational nature. The voluntarist supposes that God can change deliberate homicide from being wrong to being right without changing rational nature; the naturalist claims that this supposition is self-contradictory, given the connexion between wrongness and rational nature. 
 - Natural law needs laws and command, but morality does not need them
 - Suarez distinguishes morality and Natural Law
+- He deviates from Aquinas about necessary conditions for natural law, not about necessary conditions for morality.
+- He recognizes both formal and complete morality without divine legislation. 
