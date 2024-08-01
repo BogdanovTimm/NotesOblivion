@@ -19,3 +19,4 @@ we have given the wrong account of a moral judgment if our account allows someon
 - Hume believes that justice is appropriate only in specific external circumstances that do not follow from human nature itself.⁷⁰ The competition that leads to a state of war results from human nature only in conditions of scarcity. 
 - Hume intends his moral sense theory to express anti-realism and the rejection of independent morality. HE believes that he continues and develops Hutcheson’s approach to morality, and especially his account of the moral sense
 - oppose theological voluntarism. 
+- Later believers in a moral sense, Hume and Hutcheson, reject moral realism

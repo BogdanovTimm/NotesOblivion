@@ -12,6 +12,15 @@
 - But what is an ‘imperative’ conception of a moral principle? Sidgwick’s answer is not completely clear, because he seems to combine two conceptions of the imperative:
     - Sometimes he contrasts ‘imperative’ with ‘attractive’. Attractive principles refer explicitly to some desirable goal that the principles secure, whereas imperative principles do not. Hence ‘imperative’ seems to be equivalent to ‘deontological’.
     - Sometimes he assumes that imperative principles depend on acts of legislation.
+- Sidgwick’s appreciative account of Shaftesbury does not mention Platonism or realism. In Sidgwick’s view, Shaftesbury’s Characteristics marks ‘a turning-point in the history of English ethical thought’, because he is ‘the first moralist who distinctly takes psychological experience as the basis of ethics’
+
+
+
+
+
+
+
+
 
 #                  Difficulties
 

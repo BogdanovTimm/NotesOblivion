@@ -26,6 +26,10 @@
 - Hence the requirement to obey God seems to be based in facts about our nature. According to Locke, it is inseparable from the nature of human beings that they are required (teneri) to love and worship God and to fulfil the other things that are appropriate (convenientia) to rational nature
 - If a principle based on natural appropriateness is the moral basis of our obedience to God’s commands, the obligation of the law of nature rests on a principle of natural morality. This cannot be simply a principle of natural utility; for that might require submission to a pirate or robber no less than to a legitimate ruler. If we are required in conscience to obey God, obedience is required by natural rightness (honestas), and therefore by a principle of natural intrinsic morality. Though he does not speak, as Suarez does, of natural duties (debita) in these cases,⁵⁶ they must be duties, if they are to include some moral basis for obedience to God. Here, then, Locke implicitly agrees with Suarez’s distinction between natural morality and the obligation that results from divine command. 
 - Intrinsic morality holds this tenuous, but indispensable, place in the Essays on the Law of Nature. The same is true in the Essay. Even though the Essay moves away from the Scholastic framework of the earlier work towards an explicitly Hobbesian position, Locke still maintains that our reason for obeying God depends on something more than our recognition of God’s irresistible power.⁶¹ Our recognition of God’s right as creator and the recognition of God’s goodness and wisdom seem to give us two reasons, apart from God’s power, for obeying God. 
+- Locke agrees with Hobbes’s psychological egoistic hedonism and theological voluntarism.
+
+
+
 
 
 

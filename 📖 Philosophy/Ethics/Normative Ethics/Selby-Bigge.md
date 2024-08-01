@@ -1,0 +1,1 @@
+- Selby-Bigge takes a similar view of Shaftesbury, since his collection prints works by Shaftesbury, Hutcheson, and Butler as ‘three principal texts of the sentimental school’.

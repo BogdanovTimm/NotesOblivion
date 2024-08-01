@@ -2,6 +2,14 @@
 
 - Use signed numbers for working with bits
 
+
+
+
+
+
+
+
+
 #                  Representation
 
 `{4, 5}` means:
@@ -10,6 +18,14 @@
 --------
 00110000
 ```
+
+
+
+
+
+
+
+
 
 #                  << and >>
 
@@ -28,6 +44,14 @@ If new bits will not fit into number of allowed bits - they will simply be dropp
 00011
 ```
 
+
+
+
+
+
+
+
+
 #                  ~
 
 Simply chooses each bit to other value:
@@ -35,6 +59,42 @@ Simply chooses each bit to other value:
  A 101100
 ~A 010011
 ```
+
+
+
+
+
+
+
+
+
+#                  Operations with bits
+
+- Set  to 1:
+    - `variable |= 1 << positionFromRight` - set 1 bit to 1 at a given position. Do not alter others. If already 1 - do nothing.
+    - `variable |=  0x0010` - set given 1s to 1s. Do not alter others. If already 1 - do nothing.
+    - `variable |=  0x0010 | 0x0001` - set given 1s to 1s. Do not alter others. If already 1 - do nothing.
+- Set  to 0:
+    - `variable &= ~(1 << positionFromRight)` - set 1 bit to 0. Do not alter others. If already 0 - do nothing.
+    - `variable &= ~(0x0010)` - set given 1s to 0s. Do not alter others. If already 0 - do nothing.
+    - `variable &= ~(0x0010 | 0x0001)` - set given 1s to 0s. Do not alter others. If already 0 - do nothing.
+- Set to 1s and 0s:
+    - `variable = variable & ~0x0070 | 0x0050` - clear bits 4-6 and then set new ones
+- Get 1s and 0s:
+    - `values = (variable >> 4) & 0x0007` - gets 4-6 bits
+- Test if 1:
+    - `if (variable & 1 << positionFromRight)` - check if given 1 is 1.
+    - `if (variable & 0x0010)` - check if given 1s is 1s.
+    - `if (variable & (0x0010 | 0x0001))` - check if either given bit is 1
+
+
+
+
+
+
+
+
+
 
 #                  Cool stuff
 
@@ -49,6 +109,14 @@ Simply chooses each bit to other value:
 - `-B` = `~B + 1`
 - Only in unsigned: `A + ~A` = `−1`
 - Only in unsigned: `A + (~A + 1)` = `0`
+
+
+
+
+
+
+
+
 
 #                  Working with bits
 
