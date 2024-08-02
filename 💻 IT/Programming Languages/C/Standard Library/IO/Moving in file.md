@@ -1,0 +1,7 @@
+- Go to:
+    - `fseek(givenStream, numberOfBytes, positionFromWhereToCountBytes)` - For small files (smaller than MAX_LONG bytes). Go to the given number if bytes (right - if positive values, left - if negative values) from a beginning of the file (SEEK_SET), current position (SEEK_CUR) or the end of a file (SEEK_END).
+    - `fsetpos(givenStream, givenAddressAreafOfFpos_t)` - for large files. Stores error in `errno`
+    - `rewind(givenStream)` - like `fseek(givenStream, 0L, SEEK_SET)` but `rewind()` does not return a value and `rewind()` clears error indicator for a given stream.
+- Get current position:
+    - `ftell(givenStream)` - For small files (smaller than MAX_LONG bytes). Returns given position in bytes if a given stream is a binary. If the given stream is text - then I don't know
+    - `fgetpos(givenStream, givenAddressAreafOfFpos_t)` - for large files. Stores error in `errno`

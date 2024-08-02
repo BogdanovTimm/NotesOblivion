@@ -3,6 +3,8 @@
 - Don’t use `gets()` - it is unsafe because you can't define a Maximum length of a string.
 - Find EOF without `feof()` - detecting a return of EOF alone is not sufficient to conclude that the end of the stream has been reached. We have to call feof to test whether a stream’s position has reached its end-of-file marker. End of file can only be detected after a failed read. 
 - Do not use both `scanf()` and `getchar()` - they both wors with same buffer, so, `scnaf()` may leave some characters that `getchar()` will read.
+- Do not store return value of `fgetc()`, `getc()` and `getchar()` in `char`! Store it in the `int`.
+- Do not use `fread()` with text streams
 
 
 
@@ -15,9 +17,12 @@
 
 #                  Unformatted text input 
 
-- `fgetc()` - for a single character
+- `getc(givenStream)` - for a single character from a given stream. It may be a macro. It may be caled as a function by `(getc(givenStream))`
+- `fgetc(givenStream)` - `getc()` as a funciton. It is always a function. Needed for historical reasons.
+- `getchar()` - gets 1 character from stdin stream. Usually it is a macro like `#define getchar() getc(stdin)`
 - `fgets()` - for a string.
-- `snprintf()` - when formatting output of unknown length. This function ensures in addition that no more than n bytes are ever written to s. If the return value is greater than or equal to n, the string is been truncated to fit. In particular, if n is 0, nothing is written into s. 
+- `snprintf()` - when formatting output of unknown length. This function ensures in addition that no more than n bytes are ever written to s. If the return value is greater than or equal to n, the string is been truncated to fit. In particular, if n is 0, nothing is written into s.
+- `ungetc()` - pushes `char` that was last get with `getc()` back to its stream.
 
 ```C
 #include <stdlib.h>
@@ -49,6 +54,31 @@ int main(int argc, char* argv[argc +1]) {
 }
 ```
 
+
+
+##                 Cool things
+
+###                Get characters from a stream or file line by line
+
+```C
+while ((currentChar = getc(givenStream)) != EOF) {
+    //
+}
+```
+
+
+
+
+
+
+
+
+
+#                  Check errors
+
+- `feof()` - checks whether EOF was returned (it means end-of-file)
+- `ferror()` - checks whether error occured
+- If neither of them was true, but there is an error - then it was a matching error - for example, functions encountered a letter while searching for a number.
 
 
 
@@ -96,7 +126,8 @@ int main(int argc, char* argv[argc +1]) {
     - `%Lg`
 - strings:
     - `scanf("%228s", whereToSafeString)` - goes to secret buffer. Skips all whitespaces. When it encounters 1st non-whitespace character - then it will get characters till 1st whitespace. When called again - strats again from the place when it ened last time. Always use it like `%<Max-Width>s` to prefent writing into the RAM that is outside of an array.
-    - `gets()` - reads till 1st new-line character. Unsafe
+    - `fgets(arrayToSafeReaded, maxNumberOfCharsToSafe, givenStream)` - reads till 1st new-line-char. Safes new-line-char.
+    - `gets(arrayToSafeReaded)` - reads till 1st new-line-char. Unsafe. Never stores new-line-char
     - while-loop with `getchar()`. You need to manually add '\0' at the end:
     ```C
     int readLine(char givenArray[], int arraySize) {
@@ -111,7 +142,6 @@ int main(int argc, char* argv[argc +1]) {
         return currentPosition; // Returns number of character stored
     }
     ```
-    - `fgets()` - ???
 - characters:
     - `%c`  - character or whitespace
     - ` %c` - non-white space character. Helps to avoid reading new-line character that lasts from previous call to `scanf()`
