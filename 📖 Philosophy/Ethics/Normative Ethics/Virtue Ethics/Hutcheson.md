@@ -13,3 +13,16 @@
 - oppose theological voluntarism. 
 - Later believers in a moral sense, Hume and Hutcheson, reject moral realism
 - Some later critics treat Shaftesbury as the first sentimentalist. Hutcheson is the first of these critics; he designs his Inquiry as a defence of Shaftesbury’s principles.¹ The principles he defends are disinterested affection and a moral sense—two prominent themes in Shaftesbury’s defence of the moral outlook. 
+- These claims about a moral sense allow objective moral properties. If we are immediately aware of them, they may still be aspects of ftiness to rational nature, as Suarez supposes. Shaftesbury’s suggestion that we have a natural sense of the honestum might indicate that he agrees with Suarez’s conception of the nature of moral properties. Belief in a moral sense conflicts with realism, however, if we hold a Lockean conception of a sense and its objects. According to Locke, or one common interpretation of Locke, senses whose objects are secondary qualities do not tell us about objective features of the world, but only about our own ideas. If Shaftesbury accepts a Lockean conception, his belief in a moral sense commits him to claims about moral knowledge that conflict with metaphysical realism about moral properties. But belief in a moral sense does not by itself require Lockean epistemological claims. As Reid points out later, belief in a moral sense does not push us towards realism or anti-realism until we decide how we are to conceive the relevant sort of sense.⁵³ Hutcheson makes up his mind on this question, by accepting a Lockean conception of a sense, and therefore rejecting realism about moral properties.⁵⁴
+- In contrast to Fiddes, Hutcheson develops the psychological side of Shaftesbury’s argument. He believes he defends Shaftesbury’s realism by insisting on the irreducibility of moral properties and sentiments to Hobbesian self-interest. He relies on Shaftesbury’s defence of the moral sense against Hobbesian egoism, and formulates his account of the metaphysics and epistemology of morality on the basis of a Lockean account of the moral sense. This account requires the rejection of the metaphysical independence of moral properties from beliefs, sentiments, and legislation, and so abandons one aspect of Shaftesbury’s realism. 
+
+
+
+
+
+
+
+
+#                  Difficulties
+
+- Hutcheson takes a step that Shaftesbury does not take, by defniing moral goodness as essentially what is approved by the moral sense. He takes the moral sense to be disinterested, and therefore he supposes that he defends Shaftesbury. This interpretation of the moral sense and its relation to moral goodness is also Berkeley’s interpretation of Shaftesbury, and it is the basis for Berkeley’s criticism.⁵⁷ But Hutcheson overlooks the fact that he defends only the motivational part of Shaftesbury’s realist doctrine, and that he undermines the metaphysical part. Balguy points out this consequence of Hutcheson’s modification of Shaftesbury; he shows that Hutcheson’s position exposes him to Shaftesbury’s argument against theological voluntarism.⁵⁸ 

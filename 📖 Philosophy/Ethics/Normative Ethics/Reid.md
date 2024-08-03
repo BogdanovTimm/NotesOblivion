@@ -5,3 +5,4 @@
 - believes in a moral sense, metaphysically independent morality, and non-consequentialist morality. 
 - oppose theological voluntarism.
 - In Reid, the belief in intrinsic morality is separated from naturalism,
+- As Reid points out later, belief in a moral sense does not push us towards realism or anti-realism until we decide how we are to conceive the relevant sort of sense.⁵³ 
