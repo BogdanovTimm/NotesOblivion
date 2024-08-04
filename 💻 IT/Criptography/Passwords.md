@@ -4,4 +4,4 @@ To store passwords, you need to create a hash of them. Good hashes for passwords
 - PBKDF2
 - bcrypt
 - scrypt
-- Argon2
+- Argon2 
