@@ -18,7 +18,7 @@
 - Protests against the view that egoism is the only safe alternative to enthusiasm.
 - Butler maintains the connexion asserted by Suarez about the relation of the immutability of morality and the naturalist account of moral properties
 - Butler’s objection that utilitarianism allows unfair treatment of one person simply for the benefti of others.²⁵
-
+- Clarke does not point out the possibility of deriving a principle of benevolence from the obligation to prudence combined with the obligation to equity.³⁹ If we rationally wish to promote our own interest, and we recognize that what is rational for us to want for ourselves is equally rational for others to want for themselves, an appeal to equity justifeis the extension of benevolence to everyone. Clarke’s explicit argument appeals to the principle of equity to justify universal benevolence, but he does not appeal to the rationality of prudence. This may be because he treats the principle of prudence as derivative from other duties, not as a rational principle in its own right. Here Butler improves on him.⁴⁰ 
 
 
 
