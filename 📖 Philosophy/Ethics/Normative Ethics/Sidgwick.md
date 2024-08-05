@@ -13,7 +13,7 @@
     - Sometimes he contrasts ‘imperative’ with ‘attractive’. Attractive principles refer explicitly to some desirable goal that the principles secure, whereas imperative principles do not. Hence ‘imperative’ seems to be equivalent to ‘deontological’.
     - Sometimes he assumes that imperative principles depend on acts of legislation.
 - Sidgwick’s appreciative account of Shaftesbury does not mention Platonism or realism. In Sidgwick’s view, Shaftesbury’s Characteristics marks ‘a turning-point in the history of English ethical thought’, because he is ‘the first moralist who distinctly takes psychological experience as the basis of ethics’
-
+- In reply to Clarke’s question one might ask why one should suppose that my interest does not make all the difference. To understand this question, we need to understand the force of ‘why one should suppose’. Does this ‘why’ ask for a reason from the impartial point of view, or a reason from my self-interested point of view? Or can we identify some third point of view? This question underlies the argument that leads Sidgwick to affirm an ultimate dualism of practical reason.³⁵
 
 
 

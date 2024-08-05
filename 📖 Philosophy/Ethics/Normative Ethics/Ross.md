@@ -1,0 +1,1 @@
+- Ross, FE 52–4, is sympathetic to Clarke and Price on fitness

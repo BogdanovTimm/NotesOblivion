@@ -6,7 +6,7 @@
     2) These social requirements depend on the demands that other persons actually make, not simply on those that they are entitled to make.⁴⁹  It does not seem obvious that what I owe to people, or what I am required to do for them, always and essentially depends on what they actually demand of me or on what someone else actually demands on their behalf. It seems to depend on what they need, or on what they are entitled to, apart from anyone’s actual demands.⁵¹ 
     3) Such requirements would be too variable and alterable unless they expressed divine commands.⁵⁰ 
     4) Therefore moral requirements express divine commands. 
-
+- While Balguy defends ftiness as a morally relevant and signifciant feature that makes actions right, Adams appeals directly to the immediate judgment that actions are right and wrong, without trying to explain this through fitness and unfitness.²⁹ 
 
 
 
