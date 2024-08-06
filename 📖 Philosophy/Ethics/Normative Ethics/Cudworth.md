@@ -37,6 +37,11 @@ Cudworth does not invent this assessment of voluntarism; he relies on the critiq
 - Clarke’s idea of intrinsic morality may be defended by appeal to Cudworth’s demand for eternal and immutable morality. If the rightness of sparing the life of an innocent person is immutable, it belongs to the action simply insofar as it is sparing the life of an innocent person. If it depended on some further facts about the agent or the beneficiary of the action, it could change from being right to wrong if these further facts changed; hence its rightness would not be immutable. If it is to be immutably right, the mere fact that it is sparing the life of an innocent person must be the sole and sufficient basis of its rightness. Though Cudworth does not connect immutability with the intrinsic character of an action in exactly Clarke’s terms, Clarke might intelligibly claim to capture Cudworth’s implicit position. 
 - Cudworth stands between Suarez and Clarke on these issues. He does not speak of ftiness as they do, and so he does not make it clear whether he takes the immutability of morality to require the strong immutability demanded by Clarke or the more qualifeid immutability allowed by Suarez. 
 - Cudworth rejects the view that (1) the true principles of justice are those commanded by the sovereign, and (2) are true because they are commanded by the sovereign.
+- This indirect connexion is less clear, but apparently still present, in Cudworth. He may accept the eudaemonist framework of Scholastic ethics; even if he does not, he suggests that the hegemonicon regards moral rightness as a consideration to be considered along with other considerations bearing on action. He does not suggest that the bare awareness of moral rightness is sufficient to explain acting on it. 
+
+
+
+
 
 
 

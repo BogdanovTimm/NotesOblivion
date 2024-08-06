@@ -1,33 +1,34 @@
 #                  Copy file from this PC to a remote one
 
-```
-smbclient \
-    -U Xusername_on_remote_pcX%XpasswordX \
-    -W XDOMAIN_NAMEX \
-    -I Xserver.ruX //Xserver.ruX/Xshared_folderX/  \
+```shell
+smbclient                                          \
+    -U xREMOTE_USERNAMEx%xPASSWORDx                \
+    -W xDOMAINx                                    \
+    -I xDO.MAIN.RUx //xSERVER.RUx/xSHARED/FOLDERx/  \
     -c '
-        cd
-            "Xfolder/on/remote/pcX/"
-        ;
-        lcd
-            "/Xfolder/on/this/pcX/"
-        ;
-        prompt
-        ;
-        mput
-            "Xstart of the name of files to copyX"*
+        cd      "/xFOLDER/ON/REMOTE/PCx/";
+        lcd     "/xFOLDER/ON/THIS/PC0x";
+        prompt;
+        mput    "Xstart of the name of files to copyX"*
     '
 ```
 
+
+
+
+
+
+
+
+
 #                  See files in folder on remote PC
 
-```
+```shell
 smbclient \
-    -U Xusername_on_remote_pcX%XpasswordX \
-    -W XDOMAIN_NAMEX \
-    -I Xserver.ruX //Xserver.ru/somethigX/  \
+    -U xREMOTE_USERNAMEx%xPASSWORDx         \
+    -W xDOMAIN_NAMEx                        \
+    -I xSERVER.RUx //Xserver.ru/somethigX/  \
     -c '\
-        ls
-            "Xfolder/on/remote/pcX/"
+        ls "Xfolder/on/remote/pcX/"
     '
 ```
