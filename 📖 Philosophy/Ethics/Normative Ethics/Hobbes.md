@@ -36,7 +36,7 @@ The appropriate connexion with human nature relies on a hedonist conception of t
 - Desire = advance towards anticipated pleasure. So, he maintains psychological hedonist egoism as a theory of motives
 - The objects of our passions are means to our satisfaction or security
 - If I pity someone quite unrelated to me who will not affect my security, I do not believe that this person or what is happening to him actually affects my security. In this case Hobbes believes that I think of what I would feel if my security, for instance, were threatened. In thinking of the counterfactual situation, I actually have some of the feeling that I would have if the situation were actual, and so I have the feeling even when my security is not involved.
--  He believes that the non-egoistic passions (if there are any) motivate us only if they seem to affect our prospects of pleasure and pain
+- He believes that the non-egoistic passions (if there are any) motivate us only if they seem to affect our prospects of pleasure and pain
 - Hobbes argues that satisfaction or contentment (Epicurean static pleasures), taken as an ultimate end of desire, does not explain why we go on desiring and acting and would not regard the cessation of desire as a welcome outcome (L. 11.1). Hence, we ought not to identify pleasure with Epicurean satisfaction or contentment; we ought to identify it with Epicurean ‘kinetic’ pleasure. We seek means to ‘secure the way of our future desire’. But securing the way of our future desire cannot be our ultimate end; for we do not want to secure the way of our future desire for its own sake.
 - There is 3 types of good:
     - beautiful - good in the promise
