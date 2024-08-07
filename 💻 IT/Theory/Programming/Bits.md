@@ -25,7 +25,23 @@
 
 
 
+# And, or, xor
 
+- Anding with 0s allow you to set bits to 0s:
+    ```
+    011011010 AND
+    110000111 will be
+    ---------
+    010000010
+    ```
+- Oring with 1s allow you to set bits to 1s:
+    ```
+    011011010 OR
+    001111000 will be
+    ---------
+    011111010
+    ```
+- Xoring 
 
 #                  << and >>
 
