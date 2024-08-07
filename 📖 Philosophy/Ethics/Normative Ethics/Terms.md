@@ -380,3 +380,15 @@ Types of reductions:
 - Normative Ethics - Consequentialists and non-consequentialists disagree primarily on normative issues. 
 
 Sentimentalists && anti-Voluntarists. 
+
+
+
+
+
+
+
+
+
+#                  Moral Realism
+
+I think you are a moral realist if you think that right can't be reduced to pleasure or advantage.

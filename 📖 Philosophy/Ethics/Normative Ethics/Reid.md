@@ -6,3 +6,4 @@
 - oppose theological voluntarism.
 - In Reid, the belief in intrinsic morality is separated from naturalism,
 - As Reid points out later, belief in a moral sense does not push us towards realism or anti-realism until we decide how we are to conceive the relevant sort of sense.⁵³ 
+- Balguy, Price, and Reid, who develop and defend Clarke’s rationalism in more detail, and examine some of the objections about moral knowledge, motivation, and justification that seem to arise for Clarke.

@@ -6,3 +6,4 @@
 - oppose theological voluntarism. 
 - An appeal to Scripture and reason seemed to many Dissenters — notably Price — to undermine the dogmas set out in the historic creeds, and in particular the doctrine of the Trinity
 - InPrice, the belief in intrinsic morality is separated from naturalism,
+- Balguy, Price, and Reid, who develop and defend Clarke’s rationalism in more detail, and examine some of the objections about moral knowledge, motivation, and justification that seem to arise for Clarke.

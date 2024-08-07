@@ -1,2 +1,3 @@
 - Tries to find why we have our moral beliefs
 - Anti-eudaemonism: we value virtue appropriately only if we do not regard it as a part of, or a means to, our happiness
+- Kaye’s account of Mandeville’s opponents does not distinguish (i) those who deny that a virtuous person can have any non-moral motive for a virtuous action from (ii) those who deny that a non-moral motive by itself is insufficient for virtue. Since Kaye speaks as though both classes held the first view, he gives the impression that most moralists held a more rigorous view than they really held.
