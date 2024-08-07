@@ -19,7 +19,7 @@
 - Butler maintains the connexion asserted by Suarez about the relation of the immutability of morality and the naturalist account of moral properties
 - Butler’s objection that utilitarianism allows unfair treatment of one person simply for the benefti of others.²⁵
 - Clarke does not point out the possibility of deriving a principle of benevolence from the obligation to prudence combined with the obligation to equity.³⁹ If we rationally wish to promote our own interest, and we recognize that what is rational for us to want for ourselves is equally rational for others to want for themselves, an appeal to equity justifeis the extension of benevolence to everyone. Clarke’s explicit argument appeals to the principle of equity to justify universal benevolence, but he does not appeal to the rationality of prudence. This may be because he treats the principle of prudence as derivative from other duties, not as a rational principle in its own right. Here Butler improves on him.⁴⁰ 
-
+- Clarke does not reject this naturalist account of the basis of moral obligations. In his discussion of benevolence and universal love, he frist offers an explanation that relies on the inherent fitness of seeking the greater good, but then, as we saw, he appeals to Stoic views on nature and conciliation.⁶⁷ These are naturalist views, and Clarke speaks here of the natural constitution and needs of human beings. He does not see that this account of moral obligations conflicts with his claims about the inherent fitness of certain actions. Butler contrasts a naturalist position with the a priori rationalism of Clarke. Butler’s naturalism is all the more plausible in the light of Clarke’s tendency to rely on it.⁶⁸  
 
 
 
