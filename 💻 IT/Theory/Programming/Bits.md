@@ -41,7 +41,13 @@
     ---------
     011111010
     ```
-- Xoring 
+- Xoring with 1s allow you to flip 1s to 0s and 0s to 1s:
+    ```
+    011011010 XOR
+    001111000 will be
+    ---------
+    010100010
+    ```
 
 #                  << and >>
 
