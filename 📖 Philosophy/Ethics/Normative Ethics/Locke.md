@@ -35,7 +35,6 @@
 
 
 
-
 #                  Difficulties
 
 - It is difficult to say whether hedonism or anti-rationalism comes first in Locke’s argument. Each claim supports the other, but both are open to dispute. 
@@ -44,3 +43,4 @@
 It is difficult, however, to see how Locke can consistently allow intrinsic morality within his moral outlook. Given his hedonist account of motivation and value, some connexion with pleasure and pain is necessary for reasons and motives. If moral properties were entirely divorced from the prospect of pleasure and pain, they would be irrelevant to our action.
 Since Locke rejects Hobbes’s natural connexion of moral rightness with pleasure and pain, he has to assume an artificial connexion through divine commands. Locke recognizes a place for natural rightness in his discussion of God’s right and God’s wisdom. But if he is right to recognize such a place, the rest of his views about pleasure, value, and morality are open to question. 
 - Hobbes’s account of morality rests on his moral psychology, and in particular on his conception of practical reason. He denies that practical reason is the source of any distinctive ends; its only function is to fnid means to ends that are independently fxied by non-rational desires.⁴⁵ Locke and Hutcheson develop this Hobbesian view. We have found it useful, in discussing both the mediaeval disputes and the dispute between Hobbes and Bramhall, to distinguish intellectualism (the view that action depends primarily on intellect rather than will) from rationalism (the view that action depends on passion rather than rational will). Aquinas is a moderate intellectualist, but also a rationalist, whereas Scotus is both a voluntarist and a rationalist. Hobbes’s discussion does not distinguish the two positions, and on this point Locke and Hutcheson follow him. 
+- Locke, however, assumes that extreme intellectualism is the ‘received opinion’, perhaps because he does not distinguish intellectualism from rationalism (which one might indeed take to be a received Scholastic opinion).⁴⁷
