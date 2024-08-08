@@ -141,7 +141,7 @@ Kant (according to some readers) appeals to a priori truths about the abstract f
 
 - Rational Part - will
 - Non-Rational Part:
-    - rational desires aka boulesis
+    - rational desires aka boulesis. Respond to the weight of normative reasons that we recognize in the course of deliberation. If we have rational desires, we respond to apparently better reasons, and do not simply register the comparative strength of desires. 
     - appetites aka concupiscent
     - spirit aka irascible
 
