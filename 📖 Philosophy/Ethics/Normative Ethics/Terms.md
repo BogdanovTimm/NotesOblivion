@@ -43,7 +43,7 @@ Happiness (eudamonia) - set of all goods:
 - Hedonistic Eudamonism:
     - set of goods consists of maximum sum of pleasures
     - set of goods consists of freedom from pain
-- Aristotelian - life in accordance with human nature
+- Aristotelian - life in accordance with human nature (includes actions and states of character)
 
 ###                Properties of Happiness
 
@@ -159,14 +159,11 @@ It is a question about moral psychology.
 
 Is the will determined by the strongest passion, as an animal’s choice is determined? 
 - To answer Yes is to be an anti-rationalist.
-- To answer No is to be a rationalist. 
+- To answer No is to be a rationalist:
+    - Extreme rationalism - motivation do not presuppose desire for an ultimate end.
+    - Moderate rationalism - motivation pressupose the desire for ultimate end, but it may be some specific object of desire that depends on reason
 
 External reasons support Rationalism
-
-- Extreme rationalism - motivation do not presuppose desire for an ultimate end.
-- Moderate rationalism - motivation pressupose the desire for ultimate end, but it may be some specific object of desire that depends on reason
-
-
 
 
 
@@ -176,7 +173,9 @@ External reasons support Rationalism
 It is a question about moral psychology.
 Is the will determined by the greater good as presented by reason? 
 
-- To answer Yes is to be an intellectualist.
+- To answer Yes is to be an intellectualist:
+    - Extreme Intellectualism - actions do not need a desire
+    - Moderate Intellectualism - all action requires desire, but still maintain that reasoning about the good produces the appropriate sort of desire.
 - To answer No:
     - but assert distinction between passions and will is to be a voluntarist
     - but reject distinction between passions and will is to be a sentimentalist
