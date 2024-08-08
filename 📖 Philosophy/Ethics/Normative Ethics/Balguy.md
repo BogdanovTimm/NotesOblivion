@@ -6,7 +6,7 @@
 - Hutcheson takes a step that Shaftesbury does not take, by defniing moral goodness as essentially what is approved by the moral sense. He takes the moral sense to be disinterested, and therefore he supposes that he defends Shaftesbury. This interpretation of the moral sense and its relation to moral goodness is also Berkeley’s interpretation of Shaftesbury, and it is the basis for Berkeley’s criticism.⁵⁷ But Hutcheson overlooks the fact that he defends only the motivational part of Shaftesbury’s realist doctrine, and that he undermines the metaphysical part. Balguy points out this consequence of Hutcheson’s modification of Shaftesbury; he shows that Hutcheson’s position exposes him to Shaftesbury’s argument against theological voluntarism.⁵⁸ 
 - While Balguy defends ftiness as a morally relevant and signifciant feature that makes actions right, Adams appeals directly to the immediate judgment that actions are right and wrong, without trying to explain this through fitness and unfitness.²⁹ 
 - Balguy, Price, and Reid, who develop and defend Clarke’s rationalism in more detail, and examine some of the objections about moral knowledge, motivation, and justification that seem to arise for Clarke.
-
+- The rationalist Balguy argues that if we are moved wholly by non-rational desires for ends, we do not act freely and responsibly; he assumes that merit requires freedom, and freedom requires the capacity for rational motivation.⁶²
 
 
 
