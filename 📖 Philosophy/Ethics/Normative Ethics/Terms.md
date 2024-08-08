@@ -392,3 +392,15 @@ Sentimentalists && anti-Voluntarists.
 #                  Moral Realism
 
 I think you are a moral realist if you think that right can't be reduced to pleasure or advantage.
+
+
+
+
+
+
+# Versions of Hedonism
+
+- Psychological:
+    - Direct Hedonism
+    - Indirect Hedonism
+- Prudential hedonism — the identification of one’s own good and one’s own happiness with pleasure.²² For a prudential hedonist, self-interested reasoning is about ways of maximizing pleasure; any aims that do not aim at maximizing my pleasure do not aim at my happiness or my good.
