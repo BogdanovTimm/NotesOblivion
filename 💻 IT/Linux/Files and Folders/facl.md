@@ -4,7 +4,7 @@ It is a way to allow more than 1 user to have rights.
 
 #                  Code
 
-`get facl xFOLDERx` - shows current facl-rights for a given folder
+`getfacl xFOLDERx` - shows current facl-rights for a given folder
 
 `setfacl -b xFOLDERx` - removes current facl-rights for a given folder
 

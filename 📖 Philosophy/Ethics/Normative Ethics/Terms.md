@@ -164,15 +164,19 @@ It is a question about moral psychology:
 
 
 
+
+
+
+
+
 #                  Intellectualism vs Voluntarism
 
 It is a question about moral psychology:
-Is the will determined by the greater good as presented by reason? 
-- Reason can determine the Will by presenting the greater good to it:
-    - Extreme  Intellectualism - actions do not need a desire. My belief that X is better than Y moves me to choose X over Y.
-    - Moderate Intellectualism - all action requires desire, but reasoning about the good produces the appropriate sort of desire. Some Desires moving us to action depend essentially on Practical Reason, and hence on beliefs about the good. We would not be rational agents if we lacked these Desires, constituting a Will. Aquinas.
-- Voluntarism - Reason can't determine the Will by presenting the greater good to it and assert distinction between Passions and Will
-- Sentimentalism - Reason can't determine the Will by presenting the greater good to it and reject distinction between Passions and Will
+- Intellectualism - Reason can determine the Will (alone or together with something else) by presenting the greater good to it:
+    - Extreme  Intellectualism - (Reason can solely determine the Will) actions do not need a desire. My belief that X is better than Y moves me to choose X over Y.
+    - Moderate Intellectualism - (Reason together with Desire can determine the Will) all action requires desire, but reasoning about the good produces the appropriate sort of desire. Some Desires moving us to action depend essentially on Practical Reason, and hence on beliefs about the good. We would not be rational agents if we lacked these Desires, constituting a Will. Aquinas.
+- Voluntarism - Reason can't (at all) determine the Will by presenting the greater good to it and assert distinction between Passions and Will
+- Sentimentalism - Reason can't (at all) determine the Will by presenting the greater good to it and reject distinction between Passions and Will
 
 
 
