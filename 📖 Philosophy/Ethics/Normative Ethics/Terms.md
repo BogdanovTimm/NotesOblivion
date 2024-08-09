@@ -155,34 +155,24 @@ Kant (according to some readers) appeals to a priori truths about the abstract f
 
 #                  Rationalism vs Sentimentalism aka Anti-Rationalism
 
-It is a question about moral psychology.
-
-Is the will determined by the strongest passion, as an animal’s choice is determined? 
-- To answer Yes is to be an anti-rationalist.
-- To answer No is to be a rationalist:
-    - Extreme rationalism - motivation do not presuppose desire for an ultimate end.
-    - Moderate rationalism - motivation pressupose the desire for ultimate end, but it may be some specific object of desire that depends on reason
-
-External reasons support Rationalism
+It is a question about moral psychology:
+- Anti-Rationalism - Strongest Passion can   solely determine the Will.
+- Rationalism      - Strongest Passion can't solely determine the Will. Existense of External Reasons support Rationalism. It may be divided further on:
+    - Extreme  Rationalism - motivation do not presuppose desire for an ultimate end.
+    - Moderate Rationalism - motivation pressupose the desire for ultimate end, but it may be some specific object of desire that depends on reason.
 
 
 
 
 #                  Intellectualism vs Voluntarism
 
-It is a question about moral psychology.
+It is a question about moral psychology:
 Is the will determined by the greater good as presented by reason? 
-
-- To answer Yes is to be an intellectualist:
-    - Extreme Intellectualism - actions do not need a desire
-    - Moderate Intellectualism - all action requires desire, but still maintain that reasoning about the good produces the appropriate sort of desire.
-- To answer No:
-    - but assert distinction between passions and will is to be a voluntarist
-    - but reject distinction between passions and will is to be a sentimentalist
-
-Extreme intellectualist  - belief that x is better than y moves me to choose x over y. 
-Moderate intellectualist - some desires moving us to action depend essentially on practical reason, and hence on beliefs about the good. We would not be rational agents if we lacked these desires, constituting a will. Aquinas.
-
+- Reason can determine the Will by presenting the greater good to it:
+    - Extreme  Intellectualism - actions do not need a desire. My belief that X is better than Y moves me to choose X over Y.
+    - Moderate Intellectualism - all action requires desire, but reasoning about the good produces the appropriate sort of desire. Some Desires moving us to action depend essentially on Practical Reason, and hence on beliefs about the good. We would not be rational agents if we lacked these Desires, constituting a Will. Aquinas.
+- Voluntarism - Reason can't determine the Will by presenting the greater good to it and assert distinction between Passions and Will
+- Sentimentalism - Reason can't determine the Will by presenting the greater good to it and reject distinction between Passions and Will
 
 
 
