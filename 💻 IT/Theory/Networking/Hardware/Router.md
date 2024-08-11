@@ -1,5 +1,15 @@
 #                  What it is
 
+- Connects different networks together
+
+
+
+
+
+
+
+
+
 #                  Which layers it uses
 
 It uses:
