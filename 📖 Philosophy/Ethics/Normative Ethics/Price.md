@@ -7,3 +7,4 @@
 - An appeal to Scripture and reason seemed to many Dissenters — notably Price — to undermine the dogmas set out in the historic creeds, and in particular the doctrine of the Trinity
 - InPrice, the belief in intrinsic morality is separated from naturalism,
 - Balguy, Price, and Reid, who develop and defend Clarke’s rationalism in more detail, and examine some of the objections about moral knowledge, motivation, and justification that seem to arise for Clarke.
+- Price notices this parallel between egoism and utilitarianism.²⁹ His argument against egoism is quite similar to Hutcheson’s, but he believes that the same sort of argument undermines Hutcheson’s utilitarianism. Though his argument does not do justice to indirect utilitarianism, it raises serious questions about Hutcheson’s whole system. 
