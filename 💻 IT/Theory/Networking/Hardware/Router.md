@@ -1,6 +1,7 @@
 #                  What it is
 
 - Connects different networks together
+- They can receive and anser broadcast message, but they can't transmitt broadcast message from one network to another
 
 
 
