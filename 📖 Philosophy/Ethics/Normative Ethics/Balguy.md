@@ -7,6 +7,12 @@
 - While Balguy defends ftiness as a morally relevant and signifciant feature that makes actions right, Adams appeals directly to the immediate judgment that actions are right and wrong, without trying to explain this through fitness and unfitness.²⁹ 
 - Balguy, Price, and Reid, who develop and defend Clarke’s rationalism in more detail, and examine some of the objections about moral knowledge, motivation, and justification that seem to arise for Clarke.
 - The rationalist Balguy argues that if we are moved wholly by non-rational desires for ends, we do not act freely and responsibly; he assumes that merit requires freedom, and freedom requires the capacity for rational motivation.⁶²
+- Balguy answers that Clarke’s appeal to motivation by reason is preferable to Hutcheson’s theory of desire and action, and that Clarke’s analysis of moral judgment as rational recognition of eternal fitnesses is both true and informative. 
+- Balguy criticizes this sentimentalist view. He agrees with Hutcheson’s objections to libertarian accounts of freedom that identify free action with action on no sufficient motive. But he notices that Hutcheson takes these objections to imply the impossibility of action that is not the result of non-rational instinct.² Balguy believes that if Hutcheson were right on this point, we could not justify ordinary judgments about merit, which presume rational motivation, as opposed to non-rational motivation by instinct.³ Internal determination of actions does not ensure the sort of freedom that is relevant to moral merit and demerit; hence the sentimentalist account of motivation fails to identify this freedom. Since some sort of rational motivation is necessary for freedom, motivation by sentiment, as the sentimentalists understand it, is insufficient for freedom. 
+- Can the idea of motivation by reason be made more intelligible than Hutcheson supposes? Balguy suggests that recognition of the intrinsic merits of a course of action may move us to action, without any further appeal to a non-rational instinct.⁴ If we are rational agents, we can be moved by the merits of a course of action; that claim is no less intelligible and explanatory than the anti-rationalist appeal to a prior non-rational instinct.⁵ 
+
+
+
 
 
 
