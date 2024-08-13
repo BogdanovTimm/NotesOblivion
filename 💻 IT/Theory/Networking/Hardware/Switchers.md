@@ -44,3 +44,12 @@ It just adds a header to a Ethernet packet:
     - User Priority - level of user priority from 0 (lowest) to 7 (highest) (3 bit long).
     - CFI - if 1 - then frame should not be bridged to an untagged port (1 bit long). For compatibility between Ethernet and Token Ring networks.
     - VID - VLAN ID (12 bits long). Containt number of the VLAN
+
+###                Native VLAN
+
+Each port has its Native VLAN - VLAN-number to which port will send packages that do not have VLAN ID.
+
+###                Trunk Mode
+
+Each port may be used in Trunk Mode - it allows to 1 port to be attached to 2 or more VLANs.
+Ports that work in Trunk Mode also have Native VLANs
