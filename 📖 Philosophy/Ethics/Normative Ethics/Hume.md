@@ -20,3 +20,4 @@ we have given the wrong account of a moral judgment if our account allows someon
 - Hume intends his moral sense theory to express anti-realism and the rejection of independent morality. HE believes that he continues and develops Hutcheson’s approach to morality, and especially his account of the moral sense
 - oppose theological voluntarism. 
 - Later believers in a moral sense, Hume and Hutcheson, reject moral realism
+- Since the only intelligible account of moral properties makes them dependent on the reactions of the moral sense, our view that they are non-arbitrary and immutable in certain ways turns out to be unjustified.⁵⁶
