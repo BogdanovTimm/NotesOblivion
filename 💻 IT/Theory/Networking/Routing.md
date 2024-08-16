@@ -4,7 +4,7 @@
 4. On Data Level, Router checks data on errors
 5. Roter sends packets from Data (2) to Network Layer (3)
 6. On Network Level, Router decides whether to send packets to next router or to the PC on this Neywork
-5. Router sends Packets to Level 1
+7. Router sends Packets to Level 1
 
 Router has 2 Level 1 and Level 2 implementations - one for input and 1 for output
 Level 1 and 2 may have different implementatiins, while level 3 must be same as on Sender and Final-Destination PCs
