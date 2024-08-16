@@ -397,3 +397,17 @@ I think you are a moral realist if you think that right can't be reduced to plea
     - Direct Hedonism
     - Indirect Hedonism
 - Prudential hedonism — the identification of one’s own good and one’s own happiness with pleasure.²² For a prudential hedonist, self-interested reasoning is about ways of maximizing pleasure; any aims that do not aim at maximizing my pleasure do not aim at my happiness or my good.
+
+
+
+
+
+
+
+
+
+#                  Open Question
+
+Types of Open Questions: 
+    - A semantic open question. When Shaftesbury and Hutcheson suggest that substitution of ‘willed by God’ for ‘good’ in ‘Good is what is willed by God’ reduces a non-tautologous sentence to a tautology, they might be observing that ‘good’ and ‘willed by God’ do not mean the same.
+    - A moral open question. When Cudworth claims that Hobbes’s account of right as what the legislator wills leaves a question open, he means that it leaves open a reasonable moral question, and so does not give a satisfactory account of what rightness consists in, which would be a satisfactory explanation of what makes things right.⁴² 
