@@ -7,6 +7,7 @@
     3) Such requirements would be too variable and alterable unless they expressed divine commands.⁵⁰ 
     4) Therefore moral requirements express divine commands. 
 - While Balguy defends ftiness as a morally relevant and signifciant feature that makes actions right, Adams appeals directly to the immediate judgment that actions are right and wrong, without trying to explain this through fitness and unfitness.²⁹ 
+- Adams sometimes seems to come close to acceptance of Balguy’s principle of subtraction.¹² He seems to rely on subtraction when he suggests that God is not virtuous, because God has no difficulties to overcome. Since God’s moral purpose coincides completely with God’s other purposes, the principle of subtraction requires us to deny virtue to God. But this conclusion does not satisfy Adams. For he also claims that virtue does not consist in the conquering of difficulties, but in having the power to conquer them; since God has this power, God has virtues.
 
 
 
