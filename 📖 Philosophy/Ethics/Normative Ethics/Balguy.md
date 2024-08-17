@@ -32,7 +32,7 @@
 - Hutcheson’s claims about God provoke a controversy between Balguy, Bayes, and Grove about whether God acts out of rectitude (Balguy), benevolence (Bayes), or wisdom (Grove) (114).
 - It would be consistent to agree with Doddridge and Grove about the divine nature against voluntarists and sentimentalists, and still to accept utilitarianism; for one might argue that a perfectly reasonable agent will accept utilitarianism. Cumberland holds that God rationally chooses to promote the common good because this is the reasonable end; and one might defend a parallel claim about utility. Hutcheson’s rationalist opponents, however, deny that practical reason supports utilitarianism; Balguy, Butler, Doddridge, and Price all maintain that practical reason imposes some limits on the pursuit of maximum utility.
 - Balguy is sympathetic to Hutcheson’s utilitarianism, though he does not entirely endorse it; but he argues that sentimentalism does not offer a satisfactory defence of utilitarianism. Balguy argues that utilitarian benevolence, a completely impartial commitment to maximizing the general good, is not simply the result of our particular passions of benevolence. Not only do sentimentalism and utilitarianism fail to support each other; they actually conflict. 
-
+- Balguy does not object to Hutcheson’s account of the content of utilitarianism. In particular, he does not distinguish Cumberland’s conception of the common good of rational beings from Hutcheson’s maximizing conception that allows us harm one person in order to raise the total good. He speaks of a universal good that ‘includes’ the private good of every individual. 
 
 
 
