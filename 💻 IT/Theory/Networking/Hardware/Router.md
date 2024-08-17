@@ -34,3 +34,7 @@ From local to public:
 2. When packet goes to NAT-Router, it changes local IP Address of our PC to a public IP Address of our PC
 3. Other PC sends responce packet from it public IP Address to our PC's public IP Address
 4. When packet goes to NAT-Router, it changes public IP Address of our PC to a local IP Address of our PC
+
+##                  Port-based-NAT-Router
+
+You may resolve many internal IP Adresses into different ports of a single piblic IP address
