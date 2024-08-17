@@ -21,3 +21,5 @@ we have given the wrong account of a moral judgment if our account allows someon
 - oppose theological voluntarism. 
 - Later believers in a moral sense, Hume and Hutcheson, reject moral realism
 - Since the only intelligible account of moral properties makes them dependent on the reactions of the moral sense, our view that they are non-arbitrary and immutable in certain ways turns out to be unjustified.⁵⁶
+- Balguy’s criticism of Hutcheson convinces not only Butler and Price, but also Hume.
+For Hume implicitly agrees that Hutcheson cannot combine his sentimentalist objections to Clarke with his realist defence of Shaftesbury, because his sentimentalism conflicts with realism. Butler and Price argue that in the face of this we should give up sentimentalism, but Hume decides to give up realism instead.
