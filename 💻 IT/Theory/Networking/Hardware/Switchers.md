@@ -2,6 +2,7 @@
 
 - Connects different PC on same Networks together
 - Do not have IP address, because it uses OSI layers lower than 3d
+- Connects different PCs inton1 brosdcast and unicast network
 
 
 
