@@ -16,6 +16,6 @@ There are 2 types of protocols:
 * Distance vector:
     * RIP
     * EIGRP
-    * BGP - used to find a path between networks in the Internet
+    * BGP - used to find a shortest path between networks in the Internet
 * Link-state routing:
-    * OSPF - used to find a path between sub-networks in local networks
+    * OSPF - used to find a least-cost path between sub-networks in local networks
