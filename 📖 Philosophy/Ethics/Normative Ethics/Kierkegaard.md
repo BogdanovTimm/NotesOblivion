@@ -1,0 +1,1 @@
+* Kierkegaard’s sharp division between the outlook of rational morality and the Christian outlook; in his view, the Christian revelation imposes demands that do not simply go beyond rational morality, but are basically opposed to it.
