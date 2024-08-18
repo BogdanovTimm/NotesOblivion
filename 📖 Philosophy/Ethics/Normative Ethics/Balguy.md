@@ -66,3 +66,18 @@ But these examples do not support the principle of subtraction. The mother in th
 - To justify the principle of subtraction, we would need to suppose that both the soldier and the mother have an equal tendency to act ‘conscientiously and resolutely’, and that they differ only insofar as the mother’s instinct agrees with her conscientious motive and the soldier’s instinct disagrees with it. But if we describe the example in this way, is Balguy’s judgment right? The soldier’s action may be a clearer proof of his moral character, but his action seems to have no more merit than the mother’s.
 - His answer to voluntarists would have been easy to defend if he had agreed with Aquinas’ view that a Christian life includes infused as well as acquired virtues and that the infused virtues exceed natural reason. Balguy, however, does not answer in this way.
 - Balguy does not seem to suggest that revelation adds any virtues to those that we already know, or that it imposes obligations on us that we could not justify by natural reason. God appears primarily as a legislator reinforcing demands with sanctions. God does not appear as an object of love who might be the focus of the virtue of charity. If this account of Balguy’s position is fair, he leaves out an important element in the Christian approach to morality. 
+
+
+
+
+
+
+
+
+
+
+
+#                   Difficulties
+
+- might mean either of two things: (1) The ancient philosophers could have grasped Christian morality by the natural reason they had, had they been more attentive or less blinded by vice. (2) They could not have grasped Christian morality, since it cannot be grasped without the Christian revelation.
+The second view is Aquinas’ view; it does not suggest that the failure of non-Christian moralists is simply a failure to do their work properly. Balguy, however, seems to endorse the first view, but not the second. While he claims that Christian morality is sublime, he does not suggest that its specifically Christian character is derived from Christian theology. 
