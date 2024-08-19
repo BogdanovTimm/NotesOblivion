@@ -2,6 +2,16 @@
 
 It is a protocol that finds shortest-path without loops.
 
+
+
+
+
+
+
+
+
+#                  STP
+
 It does:
 - Spanning tree defines a tree with a root switch and a loop-free path from the root to all switches in the Layer 2 network. 
 - Spanning tree forces redundant data paths into a standby (blocked) state. If a network segment in the spanning tree fails and a redundant path exists, the spanning-tree algorithm recalculates the spanning-tree topology and activates the standby path.
