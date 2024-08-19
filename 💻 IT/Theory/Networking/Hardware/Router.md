@@ -14,9 +14,10 @@
 #                  Which layers it uses
 
 It uses:
-1. Physical
-2. Data Link
-3. Network Level
+1. Physical Layer
+2. Data Link Layer
+3. Network Layer
+4. (Only BGP-Routers) Transport Layer
 
 
 
@@ -38,3 +39,15 @@ From local to public:
 ##                  Port-based-NAT-Router
 
 You may resolve many internal IP Adresses into different ports of a single piblic IP address
+
+
+
+
+
+
+
+
+
+#                   BGP-Router
+
+Works using level 4
