@@ -27,3 +27,5 @@ When PC does not hawve a  IP address, the only communication it can do is perfor
 
 
 It is used when DHCP Server is down for a PC to automatically choose the IP-Address for itself from a reserved ones. 
+
+IP-Address block is 169.254.0.0/16 
