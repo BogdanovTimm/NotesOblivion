@@ -18,3 +18,4 @@
 - There is no infused moral virtues
 - Good actions are nothing more than consequences of God's justification
 - Good actions can't give us God's mercy
+- Though Butler does not mention natural law, he introduces it, as Clarke does, by appeal to St Paul’s claim that human beings are by nature a law to themselves (Rm. 2:15).³⁴ Aquinas cites this passage as a Scriptural warrant for including a doctrine of natural law in Christian moral theology. Luther and Calvin, among many others, agree with Aquinas.³⁵
