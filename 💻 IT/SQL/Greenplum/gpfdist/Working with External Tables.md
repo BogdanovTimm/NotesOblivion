@@ -2,7 +2,7 @@
 
 2 Types of external tables:
 - Readable - read-only
-- Witable - write-only
+- Writable - write-only
 
 #                  Code
 
@@ -10,19 +10,15 @@
 
 ```SQL
 CREATE READABLE EXTERNAL TABLE 
-    XschemaX.XtableX
-    (Xcolumn1X XintX)
-    LOCALTION
-        ('gpfdist://Xserver.ruX:X55551X/Xpath/to/file/from/gpfdist/open/folderX.csv')
-    FORMAT
-        'CSV'
-            (DELIMETER ',')
+    XschemaX.XtableX (
+        Xcolumn1X XintX
+    )
+LOCATION ('gpfdist://Xserver.ruX:X55551X/Xpath/to/file/from/gpfdist/open/folderX.csv')
+FORMAT 'CSV' (DELIMETER ',')
 ;
 
-SELECT
-    *
-    FROM
-        XschemaX.XtableX
+SELECT *
+FROM XschemaX.XtableX
 ;
 ```
 
@@ -32,19 +28,21 @@ SELECT
 
 ```SQL
 CREATE WRITABLE EXTERNAL TABLE 
-    XschemaX.XtableX
-    (Xcolumn1X XintX)
-    LOCALTION
-        ('gpfdist://Xserver.ruX:X55551X/Xpath/to/file/from/gpfdist/open/folderX.csv')
-    FORMAT
-        'CSV'
-            (DELIMETER ',')
+    XschemaX.XtableX (
+        Xcolumn1X XintX
+    )
+LOCATION ('gpfdist://Xserver.ruX:X55551X/Xpath/to/file/from/gpfdist/open/folderX.csv')
+FORMAT 'CSV' (DELIMETER ',')
 ;
 
 INSERT INTO
-    XschemaX.XtableX
-        (Xcolumn1X, Xcolumn2X)
-    VALUES
-        (1, 2)
+    XschemaX.XtableX (
+        Xcolumn1X,
+        Xcolumn2X
+    )
+    VALUES (
+        1,
+        2
+    )
+;
 ```
-
