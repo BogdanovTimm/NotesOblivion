@@ -27,22 +27,21 @@ FROM XschemaX.XtableX
 ##                 Working with Write-only table
 
 ```SQL
-CREATE WRITABLE EXTERNAL TABLE 
-    XschemaX.XtableX (
-        Xcolumn1X XintX
+CREATE WRITABLE EXTERNAL TEMPORARY TABLE 
+    xTABLENAMEx (
+        xCOLUMN1x xINTEGERx,
+        xCOLUMN2x xINTEGERx
     )
-LOCATION ('gpfdist://Xserver.ruX:X55551X/Xpath/to/file/from/gpfdist/open/folderX.csv')
-FORMAT 'CSV' (DELIMETER ',')
+LOCATION ('gpfdist://Xserver.ruX:X55551X/Xpath/to/file/from/gpfdist/open/folderX.txt')
+FORMAT 'TEXT' (DELIMITER ',')
 ;
 
-INSERT INTO
-    XschemaX.XtableX (
-        Xcolumn1X,
-        Xcolumn2X
-    )
-    VALUES (
-        1,
-        2
-    )
+INSERT INTO xTABLENAMEx (
+    xCOLUMN1x,
+    xCOLUMN2x
+) VALUES (1,2),
+         (3,4)
+;
+
 ;
 ```
