@@ -3,6 +3,7 @@
 LIBNAME
     LibName1 /* Max length must be 8 characters */
     'c:\path\to\folder\with\tables.sas7bdat'
+;
 ```
 
 #                   Create a new one
