@@ -28,7 +28,7 @@ DATA xGPSCHMx.xGPFDIST_TABLEx (
     /* v----------------------------- SETTINGS ----------------------------v */
     BL_HOST     = 'GPFDIST.SERVER.RUx'
     BL_PORT     = 'x5555x/'    /* Yes, '/' is needed                         */
-    BL_FORMAT   = 'CSV'        /* 'CSV' or 'TEXT'                            */
+    BL_FORMAT   = 'CSV'        /* Auto-converts .sas into 'CSV' or 'TEXT'    */
     BL_USE_PIPE = YES          /*  Don't create temporary files. May crash   */
     /* ^----------------------------- SETTINGS ----------------------------^ */
     
