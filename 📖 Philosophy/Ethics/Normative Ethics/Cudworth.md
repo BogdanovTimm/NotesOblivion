@@ -39,6 +39,7 @@ Cudworth does not invent this assessment of voluntarism; he relies on the critiq
 - Cudworth rejects the view that (1) the true principles of justice are those commanded by the sovereign, and (2) are true because they are commanded by the sovereign.
 - This indirect connexion is less clear, but apparently still present, in Cudworth. He may accept the eudaemonist framework of Scholastic ethics; even if he does not, he suggests that the hegemonicon regards moral rightness as a consideration to be considered along with other considerations bearing on action. He does not suggest that the bare awareness of moral rightness is sufficient to explain acting on it. 
 - Cudworth attacks Hobbes for making morality mutable in relation to decisions of legislators.
+- Cumberland and Cudworth take happiness and the ultimate good to be distinct from pleasure, but they do not make this point a major theme of their elaborate criticisms of Hobbes.
 
 
 
