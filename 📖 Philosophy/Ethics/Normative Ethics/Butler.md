@@ -95,6 +95,7 @@ Hutcheson answers this argument by conceding the first and third premisses and r
 - He answers some objections to the authority of morality. Many people assume that morality requires benevolence and that benevolence is bound to conflict with self-love.
 Butler believes that this assumption rests on the errors that he corrects in his account of self-love and the particular passions. Once we see these errors, we see that self-love and benevolence need not conflict, and so we can reject the claims about morality that imply the conflict.
 This argument vindicates morality, however, only if (1) morality requires only what the passion of benevolence moves us to do, and (2) the outlook of self-love determines what is natural, because self-love is not only a superior principle, but the supreme principle. Butler accepts neither assumption. 
+- Butler agrees with Balguy’s criticism of Hutcheson’s account of benevolence. In contrast to Hutcheson, he speaks of benevolence in two distinct ways. On the one hand, benevolence as a passion is one of the particular affections, involving a desire for the good of another for the other’s sake. On the other hand, it is a principle that to some extent is analogous to self-love.² It is not simply a collection of benevolent impulses, but something more like a rational principle, directed towards the good of society. A rational principle is the only plausible basis of the claim that benevolence is the sum of virtue.³ 
 
 
 
