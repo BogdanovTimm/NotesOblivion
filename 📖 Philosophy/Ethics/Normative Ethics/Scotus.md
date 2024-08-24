@@ -75,6 +75,9 @@ we will have a reason to follow them if we choose to follow our affection toward
 - For Scotus, free agent is ‘that, which, when all things are present which are needful to produce the effect, can nevertheless not produce it’
 - Scotus is the only one who explicitly distinguishes eudaemonist reasons from impartial practical reason, which he connects with the affection for the just.²⁷
 - Scotus believes that moral considerations necessarily go beyond any natural good. Scotus believes this because he believes that moral considerations are rational and impartial in ways that no natural good can be. 
+- Scotus argues for both sorts of exception to the psychological egoist assumption, and Butler agrees with him:
+    - We may reject self-interest for something inferior. We have irrational desires, which we pursue despite knowing that it is bad for us. We pursue a grievance against someone, for instance, even though we know that the grievance is unjustified and that we will only harm ourselves. 
+    - We may reject self-interest for something superior. We act on moral motives, if we believe that this is rational action (and hence not included in the first exception to psychological egoism) that is independent of self-love.
 
 
 
