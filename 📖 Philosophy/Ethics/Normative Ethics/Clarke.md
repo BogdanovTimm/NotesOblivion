@@ -73,6 +73,7 @@
     * (2) He takes an extreme view of the role of natural reason if ‘agreeable to’ means that natural reason must, from its own resources, find a sufficient basis for agreeing with revelation. According to this extreme view, revelation has a purely heuristic or suggestive role in discovery; it is similar to the teacher of arithmetic who gives learners a hint that allows them to find an answer that is defensible independently of any hint they may have been given. Clarke, however, does not clearly reject the extreme view that natural reason must eventually be able to satisfy itself of the correctness of Christian claims. 
     * These two accounts of the role of natural reason and revelation do not exhaust the possibilities. Aquinas, for instance, does not confine himself to the moderate claim, but he stops short of the extreme claim.
 - He argues more plausibly that future rewards are an appropriate addition to the moral motive, though they neither replace it nor dilute it.³ 
+- This questioner agrees with (e.g.) John Clarke that the only proper sense to be attached to ‘obligation’ is some psychological necessity derived from a sanction imposed by a law.⁵ 
 
 
 
