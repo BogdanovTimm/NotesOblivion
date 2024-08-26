@@ -140,6 +140,7 @@ But Butler may not intend a pluralist position. Though he does not insist on any
 These claims about the content of morality matter for two of Butler’s further claims:
 (1) Morality is to be identified with living in accord with nature. (2) Conscience approves of morality. If morality were identical to the requirements of utilitarian benevolence, he would have to prove these two further claims by connecting nature and conscience with utilitarianism. But since he does not accept utilitarianism, he has to connect nature and conscience with moral principles including the non-utilitarian elements we have mentioned.
 Does he make his task easier or harder by rejecting utilitarianism? 
+- To understand some of Butler’s claims about nature, morality, and superiority, we should return to his rather complex views on self-love and benevolence. Self-love is superior to the passion of benevolence; for benevolence towards particular persons ‘may be a degree of weakness, and so be blameable’ (P 39). When the passion of benevolence conflicts with self-love, self-love has authority and ought to prevail.
 
 
 
