@@ -175,6 +175,9 @@ Normative naturalism does not seem to be subject to the open question argument d
 The normative element expressed by ‘appropriate’ leaves no room for the sort of question that Balguy raises about Hutcheson. 
 - Even if Butler’s naturalism fails to provide a non-normative ‘explication’ of moral properties, it makes morality more mutable than it appears to be in the rationalists’ view. In their view, gratitude is the appropriate and fitting response to a benefaction, and we can see this simply from consideration of the definitions of these actions and attitudes themselves.²³ To deny that benefaction requires gratitude is parallel to denying that being a triangle requires having internal angles adding up to two right angles.
 The epistemological and metaphysical implications of these rationalist claims are different from the implications of Butler’s claims. According to Butler, rightness and wrongness rest on the requirements of human nature as a system. To know what these requirements are, we cannot simply attend, say, to the relation of benefactor and beneficiary. We need to attend to the further facts that we discover in considering a human being as a system 
+- Butler, therefore, is neither a sentimentalist nor a rationalist nor an unsystematic moralist.
+His acceptance of traditional normative naturalism places him in an intermediate position between Hutcheson and Clarke; or perhaps one ought to say that it puts him outside the dispute between them, since he denies their common assumption that a naturalist account must be sentimentalist. As Suarez’s position shows, a philosopher might intelligibly believe both that moral properties are eternal and immutable in relation to will, command, sentiment, and legislation, while believing that they depend on facts about rational nature.
+This is a distinctive position, not a mere amalgam of fragments gathered from rationalism and sentimentalism. 
 
 
 
