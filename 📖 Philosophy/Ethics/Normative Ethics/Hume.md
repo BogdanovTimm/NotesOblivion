@@ -23,6 +23,7 @@ we have given the wrong account of a moral judgment if our account allows someon
 - Since the only intelligible account of moral properties makes them dependent on the reactions of the moral sense, our view that they are non-arbitrary and immutable in certain ways turns out to be unjustified.⁵⁶
 - Balguy’s criticism of Hutcheson convinces not only Butler and Price, but also Hume.
 For Hume implicitly agrees that Hutcheson cannot combine his sentimentalist objections to Clarke with his realist defence of Shaftesbury, because his sentimentalism conflicts with realism. Butler and Price argue that in the face of this we should give up sentimentalism, but Hume decides to give up realism instead.
+- Both Hume and Price notice that Hutcheson’s position on authority is unsatisfactory. In Hume’s view, the concession to Butler is a mistake. In Price’s view, Hutcheson is right to agree with Butler, but wrong to suppose that the moral sense meets Butler’s conditions for an authoritative principle.²⁰ Both critics argue, from their opposite points of view, that Hutcheson can restore consistency to his position only by moving either to a more rationalist or to a more anti-rationalist view.
 
 
 
