@@ -23,3 +23,16 @@ we have given the wrong account of a moral judgment if our account allows someon
 - Since the only intelligible account of moral properties makes them dependent on the reactions of the moral sense, our view that they are non-arbitrary and immutable in certain ways turns out to be unjustified.⁵⁶
 - Balguy’s criticism of Hutcheson convinces not only Butler and Price, but also Hume.
 For Hume implicitly agrees that Hutcheson cannot combine his sentimentalist objections to Clarke with his realist defence of Shaftesbury, because his sentimentalism conflicts with realism. Butler and Price argue that in the face of this we should give up sentimentalism, but Hume decides to give up realism instead.
+
+
+
+
+
+
+
+
+
+#                   Difficulties
+
+- But Martineau and Hume over-estimate the degree to which Hutcheson agrees with Butler. Though he goes some way towards acceptance of Butler’s view of conscience, he stops short on one crucial point. In Butler’s view, superior principles essentially appeal to authority rather than mere strength. If conscience is supreme, it is also most authoritative.
+If it has authority to decide the questions it decides, it appeals to considerations that take legitimate precedence over the considerations that lower principles appeal to. One might infer that a supreme principle, so understood, must be a rational principle. But Hutcheson rejects that inference. He does not treat the moral sense as rational.
