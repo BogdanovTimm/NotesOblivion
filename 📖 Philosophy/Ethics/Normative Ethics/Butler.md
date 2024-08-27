@@ -161,6 +161,7 @@ Hence, according to Butler, if we acknowledge the reality of other people, the o
 Similarly, the particular agent has no reason to complain about the treatment he is given in relation to other people, if the proper principles of morality are observed. 
 - Butler answers by claiming that we are a law to ourselves apart from any imposed law or sanction. In opposition to both John Clarke and Hutcheson, and in agreement with Samuel Clarke, he takes obligation to require authority, as distinct from psychological strength.
 Hence, when he claims that conscience carries its own authority with it, and therefore carries its obligation with it, he identifies obligation with the presence of reasons as distinct from motives. He does not mean that conscience infallibly creates a desire to conform to it, but that it is a superior principle that prescribes natural action. 
+- Butler does not suggest that self-interest is an appropriate motive for virtuous action, since virtue consists in ‘affection to . . . what is right and good, as such’. Nonetheless, he allows a defence of virtue that appeals to self-interest. To understand the role of this defence, we should notice that the appeal to self-love is a concession (‘let it be allowed . . .’) made for the sake of argument. It does not state Butler’s view of the proper role of self-love.⁶³ It simply points out that many people will ask what they have to gain from being virtuous, and that the defender of virtue has no reason to be afraid of this question
 
 
 
