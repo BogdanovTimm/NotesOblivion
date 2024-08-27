@@ -168,6 +168,7 @@ Hence, when he claims that conscience carries its own authority with it, and the
 - Since the considerations about nature that support the naturalness of self-love also support the naturalness of conscience, Butler concludes that we have the same reason to follow conscience as we have to follow self-love.
 This argument is dialectically effective against Hobbes. For Hobbes agrees that we have reason to follow self-love; but, in Butler’s view, he does not give a good account of what that reason is, since he mistakenly relies on a purely psychological conception of strength of desires
 - Butler’s account of human nature assigns an important place to practical reason, both in prudence and in morality, that sharply distinguishes his view from the sentimentalist position. He differs from sentimentalists insofar as he argues from facts about human nature, as opposed to facts about human feelings and sentiments. In his view, facts about nature are relevant because they provide reasons independent of the actual desires of particular human beings. He therefore rejects Hobbes’s view of practical reason, and Hutcheson’s view of justifying reasons.
+- Butler argues that when we understand virtue better, we do not simply find that we feel like following it; we see that it deserves to be followed. Contrary to Shaftesbury’s view, the authority of conscience consists not in the fact that people tend to feel favourable to it, but in the fact that conscience provides reasons that deserve to be followed in preference to other reasons.¹ 
 
 
 
