@@ -161,6 +161,10 @@ It is a question about moral psychology:
     - Extreme  Rationalism - motivation do not presuppose desire for an ultimate end.
     - Moderate Rationalism - motivation pressupose the desire for ultimate end, but it may be some specific object of desire that depends on reason.
 
+##                  Moral Judgement
+
+- in Hutcheson and Hume the combination of an anti-rationalist view of motivation and justification with an internalist view of the connexion between moral judgment and motivation leads to an anti-rationalist view of moral judgment.⁴⁴ They believe that desire, as opposed to reason, is the source of motivation; they assume that the making of a moral judgment necessarily motivates the agent to act on it; and so they infer that the making of a moral judgment involves some desire or emotion.⁴⁵
+
 
 
 
