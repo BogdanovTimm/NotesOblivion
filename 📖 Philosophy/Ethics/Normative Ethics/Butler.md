@@ -178,6 +178,7 @@ The epistemological and metaphysical implications of these rationalist claims ar
 - Butler, therefore, is neither a sentimentalist nor a rationalist nor an unsystematic moralist.
 His acceptance of traditional normative naturalism places him in an intermediate position between Hutcheson and Clarke; or perhaps one ought to say that it puts him outside the dispute between them, since he denies their common assumption that a naturalist account must be sentimentalist. As Suarez’s position shows, a philosopher might intelligibly believe both that moral properties are eternal and immutable in relation to will, command, sentiment, and legislation, while believing that they depend on facts about rational nature.
 This is a distinctive position, not a mere amalgam of fragments gathered from rationalism and sentimentalism. 
+- He alludes to the ‘enthusiastic’ view that the love of God should be entirely disinterested and self-forgetful, so that any thought of the benefits one gains from the love of God is entirely out of place, and incompatible with the proper love of God. 
 
 
 
