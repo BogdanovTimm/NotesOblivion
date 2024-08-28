@@ -31,6 +31,7 @@ Hume takes his scepticism to be pervasive, since it shows that our beliefs about
 Since we have to act, we cannot (he claims) maintain complete suspension of belief.
 Still, sceptical philosophy changes our attitude to our common-sense beliefs. If we are sceptics, we recognize that we hold our ordinary beliefs because they are entrenched and we cannot easily get rid of them, not because we think the evidence warrants them.⁶ This is not our normal attitude—before we become sceptics—to our everyday beliefs. If we agree with Hume that sceptical arguments undermine the justification of everyday beliefs, we cannot turn our back on sceptical conclusions when we engage in the activities of everyday life.
 - A sceptical point of view does not undermine every impulse to philosophical inquiry, but it changes the character of the inquiry. If we are sceptics, we ask psychological rather than normative questions. Instead of asking what is morally good or bad, we ask what causes us to judge one thing good and another bad. 
+- The experimental method allows us to construct this science of man that makes no claims about ultimate reality, and does not go beyond the ordinary claims of common life. Even if we are sceptics about the objective truth of claims about the world, our scepticism does not spread to claims about our propensities and tendencies. For the relevant claims belong to the science of human nature, which survives Hume’s sceptical doubts.⁹ 
 
 
 
