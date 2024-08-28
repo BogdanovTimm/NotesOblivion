@@ -74,6 +74,7 @@
     * These two accounts of the role of natural reason and revelation do not exhaust the possibilities. Aquinas, for instance, does not confine himself to the moderate claim, but he stops short of the extreme claim.
 - He argues more plausibly that future rewards are an appropriate addition to the moral motive, though they neither replace it nor dilute it.³ 
 - This questioner agrees with (e.g.) John Clarke that the only proper sense to be attached to ‘obligation’ is some psychological necessity derived from a sanction imposed by a law.⁵ 
+- Clarke claims a priori knowledge of ‘eternal fitnesses’ that exist independently of our beliefs and preferences. 
 
 
 
