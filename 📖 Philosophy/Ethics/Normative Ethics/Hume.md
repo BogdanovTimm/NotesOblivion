@@ -30,6 +30,7 @@ Hume takes his scepticism to be pervasive, since it shows that our beliefs about
 - If Hume’s premisses seem to lead by valid arguments to absurd conclusions, ought we to doubt the truth of his premisses? Hume does not think so. In his view, sceptical philosophy and common sense are in permanent tension. Sceptical arguments encourage him to reject all beliefs.⁵ Common life does not refute the sceptical arguments, but it weakens their influence.
 Since we have to act, we cannot (he claims) maintain complete suspension of belief.
 Still, sceptical philosophy changes our attitude to our common-sense beliefs. If we are sceptics, we recognize that we hold our ordinary beliefs because they are entrenched and we cannot easily get rid of them, not because we think the evidence warrants them.⁶ This is not our normal attitude—before we become sceptics—to our everyday beliefs. If we agree with Hume that sceptical arguments undermine the justification of everyday beliefs, we cannot turn our back on sceptical conclusions when we engage in the activities of everyday life.
+- A sceptical point of view does not undermine every impulse to philosophical inquiry, but it changes the character of the inquiry. If we are sceptics, we ask psychological rather than normative questions. Instead of asking what is morally good or bad, we ask what causes us to judge one thing good and another bad. 
 
 
 
