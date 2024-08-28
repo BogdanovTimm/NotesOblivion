@@ -36,6 +36,7 @@ Still, sceptical philosophy changes our attitude to our common-sense beliefs. If
 - This description shows that the science of man is insufficient for Hume’s sceptical conclusions. In Book i his case for scepticism depends on his claims about the cognitive capacities we need in order to acquire knowledge of the world as it is. He claims, for instance, that if we are justified in believing that causal connexions in the world are more than constant conjunctions, we need an impression of necessary connexion in the world.
 Psychological inquiry shows us (in his view) that we have no such impression. But some argument going beyond psychological inquiry is needed to show that we need such an impression if we are to believe justifiably in causation. Such argument seems to belong to metaphysics and epistemology. Hence the discipline that Hume practises in order to reach sceptical conclusions does not seem to be the purely psychological science of human nature that answers his post-sceptical questions.
 The purely psychological science of human nature, therefore, cannot assure us that the only questions worth asking are those that this science of human nature can answer. To convince ourselves to restrict our questions to the science of human nature, we need arguments in metaphysics and epistemology. 
+- Rationalism and objectivism, the two positions that he rejects, imply that moral judgments express knowledge of an objective reality. 
 
 
 
