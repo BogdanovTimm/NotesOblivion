@@ -80,6 +80,8 @@ And so Hume’s denial that reason provides exciting reasons is more extreme tha
 - Even in the Treatise, where he is an incompatibilist about determinism and freedom, he is a compatibilist about determinism and responsibility. In his view, to be responsible is to be an object of moral sentiments, and in particular of praise, blame, gratitude, anger, love, hatred. Determinism does not undermine these sentiments; indeed, we cannot be objects of these sentiments unless our characters and dispositions causally determine our actions (T ii 3.2.6). 
 - his claim that actions ‘out of character’ are not objects of praise and blame. The criticism is especially justified given that he claims to describe our actual reactions, not to tell us what reactions we ought to have. 
 - change of character removes responsibility for past actions. 
+- Hume takes his practical argument to undermine every purely cognitive view of morality.
+He mentions three claims: (1) Virtue is ‘nothing but a conformity to reason’. (2) There are eternal fitnesses that ‘are the same to every rational being that considers them’. (3) Right and wrong impose an obligation on God as well as on human beings.³ Hume speaks as though he is considering only views that treat moral judgments as a priori knowledge of ‘relations of ideas’ (as Hume calls them). Clarke and Price hold such views, but it is not clear that Butler agrees with them. Hume’s argument is not confined, however, to conceptions of moral judgments as a priori; it seems to extend to all purely cognitive views (iii 1.1.26). According to such views, we can know that an action is right or wrong by knowing some fact about the world that is not constituted by the thoughts or feelings of the subject who knows. 
 
 
 
