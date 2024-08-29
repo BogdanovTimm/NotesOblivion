@@ -77,6 +77,8 @@ Hume is right, given his view of the functions of reason, to deny that the prefe
 And so Hume’s denial that reason provides exciting reasons is more extreme than the apparently similar claims of Aristotle and Aquinas. He does not mean only that reason needs desire before we are moved to action; he also claims that the only source of motivation is desire without reason. In his view, a practical reason cannot modify a desire for an end, because the functions of reason do not apply to desire for ends. His claim about exciting reasons rests on his account of the functions of reason; but we have seen that this account does not refute Butler’s position. 
 - The Treatise appears to accept hard determinism, since it defends a doctrine of necessity and determinism that Hume takes to conflict with a belief in liberty. The Inquiry takes a compatibilist position, claiming that liberty, on any reasonable understanding of it, is not ruled out by necessity, on any reasonable understanding of it.⁴⁶ 
 - Hume implicitly acknowledges that one might defend a doctrine of liberty as spontaneity without indifference, but he develops this point only in the Inquiry.⁴⁸ 
+- Even in the Treatise, where he is an incompatibilist about determinism and freedom, he is a compatibilist about determinism and responsibility. In his view, to be responsible is to be an object of moral sentiments, and in particular of praise, blame, gratitude, anger, love, hatred. Determinism does not undermine these sentiments; indeed, we cannot be objects o 
+
 
 
 
