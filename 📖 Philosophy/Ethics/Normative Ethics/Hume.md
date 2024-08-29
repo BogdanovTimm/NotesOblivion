@@ -78,6 +78,8 @@ And so Hume’s denial that reason provides exciting reasons is more extreme tha
 - The Treatise appears to accept hard determinism, since it defends a doctrine of necessity and determinism that Hume takes to conflict with a belief in liberty. The Inquiry takes a compatibilist position, claiming that liberty, on any reasonable understanding of it, is not ruled out by necessity, on any reasonable understanding of it.⁴⁶ 
 - Hume implicitly acknowledges that one might defend a doctrine of liberty as spontaneity without indifference, but he develops this point only in the Inquiry.⁴⁸ 
 - Even in the Treatise, where he is an incompatibilist about determinism and freedom, he is a compatibilist about determinism and responsibility. In his view, to be responsible is to be an object of moral sentiments, and in particular of praise, blame, gratitude, anger, love, hatred. Determinism does not undermine these sentiments; indeed, we cannot be objects of these sentiments unless our characters and dispositions causally determine our actions (T ii 3.2.6). 
+- his claim that actions ‘out of character’ are not objects of praise and blame. The criticism is especially justified given that he claims to describe our actual reactions, not to tell us what reactions we ought to have. 
+- change of character removes responsibility for past actions. 
 
 
 
