@@ -125,7 +125,7 @@ Though he rejects objectivism, he does not deny that moral judgments are about o
 - If Hume reaches an anti-objectivist conclusion, what is his conclusion about? Is it about the meaning of moral judgments, and hence about the metaphysical claims that they imply? Or is it about the nature of moral facts themselves? His claim that in making a moral judgment about an action we ‘mean’ only that we have a sentiment about it does not answer all our questions.⁶ For we might take the claim in at least three ways: 
     * Moral judgments are statements about the speaker’s feelings - The first view faces a simple objection. If you judge an action to be right, and I judge the same action to be wrong, but I mean that I disapprove of the action and you mean that you approve of it, my judgment that the action is wrong does not contradict your judgment that it is right. But in fact we think the two judgments are contradictory. This is a good reason for supposing that Hume has not given the right account of the meaning of a moral judgment.
 Our view about when moral judgments contradict each other seems to presuppose that we take them to be judgments about ‘the objects themselves’, and not about our reactions. 
-    * Moral judgments are not statements about feelings, but expressions of feelings.
+    * Moral judgments are not statements about feelings, but expressions of feelings. The second view of what we ‘mean’ in speaking of moral rightness makes moral judgments into expressions of sentiments, rather than statements about them. This is the non-cognitivist interpretation of Hume’s position. 
     * When we make moral judgments, we are only talking about (referring to) feelings.
  
 
