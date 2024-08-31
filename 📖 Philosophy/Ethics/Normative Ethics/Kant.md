@@ -9,7 +9,7 @@
 - Kant describes the pursuit of one’s own perfection and the happiness of others as duties of virtue, as opposed to right. His division between duties of virtue and of right seems to affirm a division that Leibniz rejects. 
 - Butler believes Clarke goes too far in rejecting naturalism; the restoration of some aspects of traditional naturalism is Butler’s answer to sentimentalism. Kant’s objections to rationalism are similar to Butler’s in some important ways that are not completely obvious. Once we see these similarities, we can more easily see the ways in which Kant’s answers to the objections do and do not differ from Butler’s return to traditional naturalism. 
 - A variation of Hutcheson’s constructivism might substitute a rational procedure for the reactions of the moral sense. This is approximately the form of constructivism favoured by Kant, according to some views of his position
-
+- Balfour relies on the Socratic and Stoic view (later exploited by Kant) that virtue consists in the good use of other goods;
 
 
 
