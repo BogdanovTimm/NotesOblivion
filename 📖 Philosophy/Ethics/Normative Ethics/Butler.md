@@ -198,7 +198,7 @@ Since I can have a reason I do not recognize, (1) is true even of people who hav
 Which of these claims is a matter of definition, and which is a substantive claim, needing more argument than simple clarification of the relevant concepts? It is especially difficult to decide whether claim (1) is intended as a definition of virtue. It might be taken two ways:
 (a) What makes something virtue is the fact that it is approved by conscience (understood in some way that does not involve reference to virtue). (b) Conscience approves of something that (on independent grounds) constitutes virtue. If (b) is meant, is it a necessary or a contingent truth about conscience? Would it be conscience if it did not approve of morality?
 We have already found reasons to answer No to the last question.⁴⁷ Butler seems to believe that conscience is the superior principle that necessarily takes the point of view of morality. Someone who had no moral beliefs would have no conscience. Someone who has mistaken moral beliefs has a mistaken, or perhaps corrupt, conscience. But this aspect of conscience does not settle the more important question about whether morality is reducible to what conscience approves of. 
-
+- From Butler’s point of view, then, it is reasonable to distinguish a particular kind of approval that he calls moral approval, resting on the application of rational standards, which include the demand for voluntary action. 
 
 
 
