@@ -1,5 +1,7 @@
 - Ascribe to the Stoics the view that gaining external goods is a game of skill of reasoning for virtuous people. On this basis Adam Smith ascribes an adaptive conception of happiness to the Stoics.
 - Sentimentalism is true: the extent to which we are capable of sympathy defines the extent of concern.
+- The assertion that meta-ethical conclusions are practically unimportant is part of Smith’s defence of sentimentalism. Some opponents of sentimentalism claim that it undermines morality. Hume answers that the debate between sentimentalism and rationalism concerns a question of purely theoretical interest, so that a decision in favour of sentimentalism could not tend to undermine morality. Smith adds nothing to Hume on this point.
+- 
 
 # Difficulties
 
