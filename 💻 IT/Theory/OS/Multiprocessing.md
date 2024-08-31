@@ -5,8 +5,9 @@ It is when 1 core of CPU is non-parallelly runs more tgan 1 program.
 It works like this:
 1) OS starts a timer for a few milliseconds
 2) OS runs some program 1
-3) When timer is off, program 1 return control to the OS
-4) OS desides whether to:
+3) When timer is off, program 1 returns control to the OS
+4) OS saves context (arguments, etc) of a program 1 
+5) OS desides whether to:
     * Return control back to program 1:
         1) OS starts a timer for a few milliseconds
         2) OS runs some program 1
