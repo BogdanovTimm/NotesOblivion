@@ -19,3 +19,20 @@ It works like this:
         3) OS runs some program 2
         4) When timer is off, program 2 return control to the OS
         5) Back to 4)
+
+
+
+
+
+
+
+
+
+#                  Scheduler
+
+Scheduler has queues that has different priorities. 
+
+* If Process1 is in queue which priority is greater than queue in which Process 2 recides, then Process 1 is chosen
+* If Process1 and Process2 both recide in same queue, then Process1 and Process2 will be run in Round-Robin
+
+The key to MLFQ scheduling therefore lies in how the scheduler sets priorities. Rather than giving a fixed priority to each job, MLFQ varies the priority of a job based on its observed behavior. If, for example, a job repeatedly relinquishes the CPU while waiting for input from the key-board, MLFQ will keep its priority high, as this is how an interactive process might behave. If, instead, a job uses the CPU intensively for long periods of time, MLFQ will reduce its priority. In this way, MLFQ will try to learn about processes as they run, and thus use the history of the job to predict its future behavior. 
