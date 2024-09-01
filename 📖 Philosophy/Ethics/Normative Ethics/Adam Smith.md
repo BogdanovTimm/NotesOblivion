@@ -8,7 +8,8 @@ Balguy replies that Hutcheson’s account of corrigibility does not answer the c
 - Though Smith agrees with Hutcheson and Hume in rejecting rationalism, he rejects their arguments for tracing moral judgments to a moral sense. In his view, Hutcheson introduced a moral sense because he had correctly eliminated reason and self-love as the source of moral judgments, but could not find their source in any other recognized mental capacity;
 hence he needed some new capacity. He called it the moral sense because he took it to be somewhat analogous to the external senses, and also somewhat analogous to the ‘reflex senses’ whose operations result from the operations of other senses
 - Smith criticizes Hutcheson on three grounds:
-    - We make moral judgments about our moral sentiments themselves. 
+    - We make moral judgments about our moral sentiments themselves. The first line of criticism is reasonable. It exploits Balguy’s objection that the moral sense is corrigible because we apply moral criticism to someone’s moral sentiments, on the assumption that they are capable of improvement, and that they reflect moral credit or discredit on a person (vii 3.3.8–10, 322–4). Hutcheson tries to explain some criticisms of a particular agent’s moral sense, by reference to the moral sense of the ‘normal’ observer. But if ‘normal’ just means ‘statistically most frequent’, he does not answer Balguy’s objection.
+Smith implicitly agrees with Balguy; for if Hutcheson’s appeal to the normal observer refuted Balguy, it would refute Smith too
     - Moral judgments are too various to be expressions of a single sentiment or emotion.
     - Even if we exclude reason and self-interest, other recognized mental capacities can explain moral judgments, and so we do not need a new one.
 
