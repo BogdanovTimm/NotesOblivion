@@ -26,6 +26,8 @@ In opposition to the moral sense theory, Smith claims that the different operati
     - One kind is a passion in us that corresponds to a passion in the other person.
 This is the reaction advised by St Paul in ‘Rejoice with those who rejoice and weep with those who weep’.²⁴ 
     - Another kind is a passion in us that is directed to the other person’s situation. Smith recognizes these two passions, but he tries to explain the second by reference to the first, by introducing counterfactual passions that are reproduced in actual passions. 
+- The difference between passions based on evaluative judgments and passions based on counterfactual passions (described above) can be seen more clearly in cases where the two kinds of passions conflict. Suppose that A sees B taking cruel pleasure in causing pain to C, and that A knows both that A also tends to enjoy the pleasures that a cruel person would enjoy and that A is insensitive to pain. Smith’s analysis requires A to reflect: ‘If I were in B’s situation, I would enjoy causing pain to C, and if I were in C’s situation, I would not care much about the pain I suffered from B’. According to Smith, then, A will have fellow-feeling for B rather than C. But if A is a moderately good person, this analysis does not fit; for A recognizes that these features of A are not a good reason for denying that B is doing unjustified harm to C.
+Hence A’s sympathy for C rests on A’s judgments about the badness of B’s cruelty and the severity of C’s suffering, not on the feelings that A would have in B’s and C’s situation. If A is a moderately good person, these evaluative judgments cause A to sympathize with C, not with B. 
 
 
 
