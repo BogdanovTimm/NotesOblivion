@@ -7,6 +7,10 @@ Like Hutcheson, he accepts some of the rationalist critique of Hobbes, but he be
 Balguy replies that Hutcheson’s account of corrigibility does not answer the case against Hobbes. For if moral judgments allow only the sort of correction that Hutcheson describes, we can adjust them to the normal judge’s reactions, but we cannot criticize the normal moral judge. But morality (in Balguy’s view) is not mutable in relation to the reactions of the normal judge. According to Balguy and Price, we regard the moral sense as correct only if it corresponds to some principles of right and wrong that are independent of it; that is Cudworth’s reply to Hobbes’s appeal to law as the basis of right.
 - Though Smith agrees with Hutcheson and Hume in rejecting rationalism, he rejects their arguments for tracing moral judgments to a moral sense. In his view, Hutcheson introduced a moral sense because he had correctly eliminated reason and self-love as the source of moral judgments, but could not find their source in any other recognized mental capacity;
 hence he needed some new capacity. He called it the moral sense because he took it to be somewhat analogous to the external senses, and also somewhat analogous to the ‘reflex senses’ whose operations result from the operations of other senses
+- Smith criticizes Hutcheson on three grounds:
+    - We make moral judgments about our moral sentiments themselves. 
+    - Moral judgments are too various to be expressions of a single sentiment or emotion.
+    - Even if we exclude reason and self-interest, other recognized mental capacities can explain moral judgments, and so we do not need a new one.
 
 
 
