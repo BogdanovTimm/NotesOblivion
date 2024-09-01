@@ -22,6 +22,10 @@ In opposition to the moral sense theory, Smith claims that the different operati
     - We feel anguish at the sight of people who have lost their reason, even if they seem quite cheerful about it. The counterfactual suppositions on which this anguish is based are inconsistent; I suppose myself suffering terribly if I were aware of myself in that situation, though at the same time I suppose that if I were in that situation I would not be aware of it, and hence would not suffer.²² 
     - A mother feels agony for her child suffering from a disease, even though the child cannot have the fears for the future that explain the mother’s anxiety.
     - We feel sorry for the dead because we imagine ourselves both being dead (and so having no consciousness) and being aware of being dead (and so being conscious).²³ 
+- To see why such reactions (mother that feels sympathy to a dideased child and our sympathy to a crazy people) are appropriate, we should distinguish two kinds of ‘fellow-feeling’. 
+    - One kind is a passion in us that corresponds to a passion in the other person.
+This is the reaction advised by St Paul in ‘Rejoice with those who rejoice and weep with those who weep’.²⁴ 
+    - Another kind is a passion in us that is directed to the other person’s situation. Smith recognizes these two passions, but he tries to explain the second by reference to the first, by introducing counterfactual passions that are reproduced in actual passions. 
 
 
 
