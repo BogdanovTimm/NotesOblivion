@@ -35,7 +35,8 @@ Scheduler has queues that has different priorities.
 * If Process1 is in queue which priority is greater than queue in which Process 2 recides, then Process 1 is chosen
 * If Process1 and Process2 both recide in same queue, then Process1 and Process2 will be run in Round-Robin
 * If Process1 is just started, it goes into the queue with the highest priority
-* If Process1 will use CPU for too long without starting I/O operation - it will be plaved ibto queue with less prioroty
+* If Process1 will use CPU for too long without starting I/O operation - it will be plased into queue with less prioroty
+* If Process1 will use CPU shortly, starting I/O periodically, but it also will be placed in the queue with less priority, because it uses too much CPU in total
 * Once in a time, move all Processes to the highest queue (for the most CPU-aggressive without I/O to do some progress) 
 
 
