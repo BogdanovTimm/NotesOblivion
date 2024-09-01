@@ -36,6 +36,7 @@ Scheduler has queues that has different priorities.
 * If Process1 and Process2 both recide in same queue, then Process1 and Process2 will be run in Round-Robin
 * If Process1 is just started, it goes into the queue with the highest priority
 * If Process1 will use CPU for too long without starting I/O operation - it will be plaved ibto queue with less prioroty
+* Once in a time, move all Processes to the highest queue (for the most CPU-aggressive without I/O to do some progress) 
 
 
 The key to MLFQ scheduling therefore lies in how the scheduler sets priorities. Rather than giving a fixed priority to each job, MLFQ varies the priority of a job based on its observed behavior. If, for example, a job repeatedly relinquishes the CPU while waiting for input from the key-board, MLFQ will keep its priority high, as this is how an interactive process might behave. If, instead, a job uses the CPU intensively for long periods of time, MLFQ will reduce its priority. In this way, MLFQ will try to learn about processes as they run, and thus use the history of the job to predict its future behavior. 
