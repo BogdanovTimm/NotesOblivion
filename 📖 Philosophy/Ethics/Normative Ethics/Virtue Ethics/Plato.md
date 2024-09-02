@@ -47,4 +47,4 @@
 - Common believes exclude hedonism
 - Hedonism is false
 - Plato regard external, non-moral goods (health, physical safety, freedom from pain, etc.) as components of happiness that are not infallibly secured by virtue.
-- Plato thinks the just person gets more pleasure than the unjust
+- Plato thinks the just person gets more pleasure than the unjust. Plato, however, believes that the just person gets more pleasure because he is happier; and he thinks the pleasure is greater because its objects are better. Plato does not claim that by Price’s tests we can discover that the just person gets more pleasure. Price relies on the conception of pleasure and happiness that is assumed by his hedonist opponents, and wrongly applies it to non-hedonist eudaemonist arguments.
