@@ -85,6 +85,7 @@ Thisapplication ofPrice’sopen question argument presentsafairobjection to Hutc
 The objective conception of obligation conflicts both with sentimentalism and with the legislative conception accepted by voluntarists. According to voluntarists, ‘obligation’ explains ‘right’, ‘wrong’, ‘duty’, and so on. All of these other moral concepts include a reference to obligation—as Price agrees—and obligation refers to legal imposition. Price rejects this direction of explanation; rightness consists wholly in facts about objective properties of things that are independent of the will of any legislator. Though obligatoriness and rightness imply some law binding us to do what is obligatory and right, this law does not require any legislator. The law results simply from the fact that some things are right, and that therefore we ought to do them.⁹²
 - Price does not accept—or even consider—the option defended by Suarez, confining obligation to legislation and allowing intrinsic rightness and wrongness without obligation.
 This option tries to explain why the voluntarist position seems plausible, by allowing that legislation introduces a distinct type of moral requirement. But its recognition of intrinsic rightness agrees with Price on the basic issue.
+- According to Hutcheson, ‘a person is obliged to an action, when every spectator, or he himself upon reflexion, must approve his action and disapprove omitting it’ (116). Price replies that the obligation is what we recognize as the basis of our approval of an action; it is not the approval itself.⁹ 
 
 
 
