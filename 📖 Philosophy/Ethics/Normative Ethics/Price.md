@@ -86,6 +86,7 @@ The objective conception of obligation conflicts both with sentimentalism and wi
 - Price does not accept—or even consider—the option defended by Suarez, confining obligation to legislation and allowing intrinsic rightness and wrongness without obligation.
 This option tries to explain why the voluntarist position seems plausible, by allowing that legislation introduces a distinct type of moral requirement. But its recognition of intrinsic rightness agrees with Price on the basic issue.
 - According to Hutcheson, ‘a person is obliged to an action, when every spectator, or he himself upon reflexion, must approve his action and disapprove omitting it’ (116). Price replies that the obligation is what we recognize as the basis of our approval of an action; it is not the approval itself.⁹ 
+- He asserts an internal connexion between knowledge of an obligation to do x and being moved to do x, not between the existence of the obligation to do x and being moved to do x. 
 
 
 
