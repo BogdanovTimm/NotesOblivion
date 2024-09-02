@@ -51,6 +51,7 @@ Protagoras and other ancient philosophers were right to extend anti-realism from
 If rightness consisted in obeying a law, it would be absurd to ask whether it is right to obey a law; for that question would simply ask whether obeying a law is obeying a law.
 But Price observes that the question is not at all absurd, and that therefore the definition is unacceptable.
 He therefore offers a second condition of adequacy: (C2) If definition D defines right action as doing F, but it is reasonable to ask ‘Is doing F right or wrong?’, because the answer is not clearly ‘right’, then D is unacceptable.
+- If the two conditions (C1) and (C2) mark two ways in which a definition of a moral property is unacceptable, a definition is acceptable only if questions of the first sort are clearly ill-formed, resting on a misunderstanding, and the answer to questions of the second sort is, as Price says, ‘most trifling’, a near-tautology. If we have found the standard of rightness, the question ‘Is F right?’ should be ill-formed, and ‘Conformity to F is right’ should be as trivially analytic as ‘A brother is a male sibling’. Price objects to proposed definitions by pointing out that some questions are reasonable that ought not to be reasonable if the definitions were correct. We may therefore say that he identifies ‘open questions’. 
 
 
 
