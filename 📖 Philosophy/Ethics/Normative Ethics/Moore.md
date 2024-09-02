@@ -1,4 +1,7 @@
 - Moral terms can't be reduced to non-moral ones
+- This distinction is quite alien to Plato, who takes the right answer to his question ‘What is the F itself that Fs have in common?’ to be exactly what makes F things F, or that ‘by which’ F things are F. While Ross assumes that properties match concepts, Plato does not. Ross, following Moore, distinguishes:
+    - Property of rightness itself - 'What is the F itself that Fs have in common?’
+    - Right-making property - what makes F things F, or that ‘by which’ F things are F
 
 
 
