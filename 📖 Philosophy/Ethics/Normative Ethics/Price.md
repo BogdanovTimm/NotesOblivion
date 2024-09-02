@@ -65,6 +65,8 @@ For he might claim that Clarke’s and Butler’s accounts of moral properties d
 Something similar might be true about fitness, rightness, appropriateness, obligation, and related features of morality. Price’s objection is sound only if appeals to fitness are entirely non-explanatory.To see whether Price is right, we need to distinguish two objections that he might intend:
     - Alleged definitions of moral rightness (etc.) by reference to fitness do not eliminate terms such as ‘ought’ and ‘right’.
     - These alleged definitions do not eliminate moral terms. These two objections are not the same. For even if we cannot explain normative properties by appeal to exclusively non-normative properties (those that can be understood without ‘ought’, ‘right’, ‘good’, and concepts explained through them), we might be able to explain moral normative properties by appeal to non-moral normative properties. Perhaps Clarke and Butler explain the moral through the non-moral, not the normative through the non-normative.
+- Similarly, Price does not show that appeals to fitness provide no criterion of virtue (127).
+He assumes that the relevant sort of criterion is one that we could appeal to, in a particular case, to resolve a doubt about whether an action is right. He points out that if we cannot see whether an action is right, it will not help us to ask whether it has the relevant sort of fitness, and so he infers that fitness is not a criterion. But that is not the only sort of criterion one might seek. An appeal to fitness might say what makes a right action right, and in this way provide a criterion, even if we cannot use it in a particular case to settle difficulties in moral judgments. 
 
 
 
