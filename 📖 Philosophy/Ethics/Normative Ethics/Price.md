@@ -44,6 +44,7 @@ Price, however, need not accept this defence of Hutcheson. The moral sense theor
 - Price believes that an anti-realist about morality faces a further difficulty, because the arguments for anti-realism about moral properties support anti-realism in other areas as well.
 Protagoras and other ancient philosophers were right to extend anti-realism from ethics to other areas. This question does not refute anti-realism about moral properties, but it shows that anti-realists may have to pay a higher price than they recognize.
 - In arguing that morality is ‘eternal and immutable’ (50), because it is not mutable in relation to our judgments, Price agrees with Cudworth. He improves Cudworth’s argument by showing how his opponent is committed to accepting the consequences of treating actions as being in themselves morally indifferent. He also agrees with Cudworth in taking the objectivity of moral properties to rule out a voluntarist account of morality and will that would make morality consist in divine commands. 
+- Price follows Cudworth in rejecting voluntarism about God and morality. Believing that moral rightness is eternal and immutable, he cannot identify it with the content of a positive law made by God or regard it as wholly dependent on God’s will. 
 
 
 
