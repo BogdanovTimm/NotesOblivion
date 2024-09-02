@@ -22,15 +22,5 @@
 - Butler, Reid, and Sidgwick say that the rational pursuit of happiness gives us the reason that impartial justice is even more rational that pursuit of happiness. In trying to maintain the rationality of the affection for justice without allowing the rationality of the desire for happiness, Kant weakens his case for the supremacy of justice.
 - The non-eudaemonist intellectualist interpretationofScotusanticipatesaKantianargumentforconnectingfreedomwithpractical reason. This argument raises difficulties for Kant that are parallel to some of the difficulties that we have found in trying to make room for Scotus’ voluntarism. Both Scotus and Kant may be better off with a more intellectualist conception of freedom than the one that they tend to accept. 
 - Kant departs further than Butler departs from Aristotelian eudaemonism, since he rejects the naturalist account of virtue and the harmony of self-love and conscience. 
-
-
-
-
-
-
-
-
-
-# Difficulties 
-
-- Voluntarism is one element in the Kantian conception of the will. But Kant does not give up the connexion between the will and practical reason. The voluntarist aspects of his position conflict with the intellectualist aspects. He returns to Scotus’ belief that the affection for justice is somehow constitutive of, not simply one possible manifestation of, the freedom of the will; and so some of the objections to Scotus seem to fit Kant as well. 
+- Voluntarism is one element in the Kantian conception of the will. But Kant does not give up the connexion between the will and practical reason. The voluntarist aspects of his position conflict with the intellectualist aspects. He returns to Scotus’ belief that the affection for justice is somehow constitutive of, not simply one possible manifestation of, the freedom of the will; and so some of the objections to Scotus seem to fit Kant as well.
+- The question draws attention to an important aspect of eudaemonism. We might wrongly take a eudaemonist to rely on an empirical, though universal, feature of human beings, that they desire happiness. This is how Kant interprets the desire for happiness.
