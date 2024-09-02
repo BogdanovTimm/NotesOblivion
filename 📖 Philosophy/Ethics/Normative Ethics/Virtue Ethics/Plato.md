@@ -47,3 +47,4 @@
 - Common believes exclude hedonism
 - Hedonism is false
 - Plato regard external, non-moral goods (health, physical safety, freedom from pain, etc.) as components of happiness that are not infallibly secured by virtue.
+- Plato thinks the just person gets more pleasure than the unjust
