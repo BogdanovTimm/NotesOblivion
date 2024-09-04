@@ -261,4 +261,5 @@ This aspect of Aquinas’ ethics is difficult to discern in Clarke and Balguy. I
 This is his explanation of the intuitions that suggest that freedom requires some ability to do otherwise. If his explanation is correct, these intuitions do not require incompatibilism;
 hence we undermine one argument to show that the ability to do otherwise must include an indeterministic process. 
 - According to Aquinas’ account of human nature and the law of nature, an appeal to the state of nature helps to explain the moral constraints on the formation of a state.
-For characteristics of human nature explain why it is reasonable to form a state; and the provisions of the law of nature determine the sorts of powers that people can legitimately assign to the state 
+For characteristics of human nature explain why it is reasonable to form a state; and the provisions of the law of nature determine the sorts of powers that people can legitimately assign to the state
+- Aquinas’ ethical theory is not intuitionist, and it does not treat moral facts as sui generis. 
