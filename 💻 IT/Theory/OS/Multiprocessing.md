@@ -49,3 +49,10 @@ Linux, btw, uses another scheduler:
 4) Process runs for a given time
 5) It saves this Process' new active CPU-usahe time into a Red-Black-Tree
 6) Go to 1)
+
+#                  RAM
+
+
+MMU - the memory management unit. Some chips that are used in multiprocessing:
+* Base chip - keeps to which physical RAM bit 1st logical RAM bit is equal to
+* Bounds chip - keeps to which physical RAM bit last logical RAM bit is equal to
