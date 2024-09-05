@@ -199,6 +199,7 @@ Which of these claims is a matter of definition, and which is a substantive clai
 (a) What makes something virtue is the fact that it is approved by conscience (understood in some way that does not involve reference to virtue). (b) Conscience approves of something that (on independent grounds) constitutes virtue. If (b) is meant, is it a necessary or a contingent truth about conscience? Would it be conscience if it did not approve of morality?
 We have already found reasons to answer No to the last question.⁴⁷ Butler seems to believe that conscience is the superior principle that necessarily takes the point of view of morality. Someone who had no moral beliefs would have no conscience. Someone who has mistaken moral beliefs has a mistaken, or perhaps corrupt, conscience. But this aspect of conscience does not settle the more important question about whether morality is reducible to what conscience approves of. 
 - From Butler’s point of view, then, it is reasonable to distinguish a particular kind of approval that he calls moral approval, resting on the application of rational standards, which include the demand for voluntary action. 
+- John Clarke is to allow moral motivation independent of self-interest, and to allow that it is reasonable to act on it, while still insisting that it would be unreasonable to act on it consistently if it tended to destroy our own happiness. This position would be a demand for the reconciliation of moral motives with self-interested motives. Such a demand would be close to Samuel Clarke’s and Butler’s position.
 
 
 
