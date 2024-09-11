@@ -13,7 +13,7 @@
     * `c` - show command with which aplication was started
     * `shift` + `v` - show process hierarcy
     * Filter:
-        * `o` - filter processes
-        * `shift` + `=` - clear filtering
+        * `o` - filter processes by name: `COMMAND=xPART_OF_PROCESS_NAMEx`
+        * `=` - clear filtering
         * `shift` + `i` - show only active processes
 * `z` - enable colors
