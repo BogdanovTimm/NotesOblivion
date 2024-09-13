@@ -16,4 +16,6 @@
         * `o` - filter processes by name: `COMMAND=xPART_OF_PROCESS_NAMEx`
         * `=` - clear filtering
         * `shift` + `i` - show only active processes
+    * Working with processes:
+        * `k` - and then PID
 * `z` - enable colors

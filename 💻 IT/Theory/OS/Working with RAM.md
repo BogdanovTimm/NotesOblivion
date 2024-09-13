@@ -31,3 +31,40 @@ After coalesing, we again have the 1 chunk of 12 free bytes
 ##                 Dividing it on fixed-sized peaces (paging)
 
 Page table - per-process data structure used by the Operating System to record where each virtual page of the address space is placed in physical memory. The major role of the page table is to store address translations for each of the virtual pages of the address space, thus letting us know where in physical memory each page resides.
+
+###                TLB
+
+TLB aka translation-lookaside buffer - part of the chip’s memory-management unit (MMU), and is simply a hardware cache of popular virtual-to-physical address translations; thus, a better name would be an address-translation cache. 
+
+Upon each virtual memory reference, the hardware first checks the TLB to see if the desired translation is held therein; if so, the translation is performed (quickly) without having to consult the page table (which has all translations).
+
+
+
+
+
+
+
+
+
+#                  SWAP
+
+Paging out - it is when some RAM-Addresses are evicted (moved) into the SWAP space
+
+##                 Dirty Pages
+
+Dirty pages is a page, data in which was modifyed while being in the RAM. It means that if this dirty page will be evicted (written to the SWAP space) - they will be written to the Hard Disk, which is slow.
+So, Operation Systems usually prefer to evict clean pages first, because it is simply faster.
+
+
+
+
+
+
+
+
+
+#                  Page fault
+
+Page fault - it is when a program tries to access a RAM Address and it either:
+* Occurs to be in the SWAPspace on the disk
+* Accessing this RAM Address is illegal
