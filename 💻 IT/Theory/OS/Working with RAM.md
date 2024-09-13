@@ -38,6 +38,10 @@ TLB aka translation-lookaside buffer - part of the chip’s memory-management un
 
 Upon each virtual memory reference, the hardware first checks the TLB to see if the desired translation is held therein; if so, the translation is performed (quickly) without having to consult the page table (which has all translations).
 
+###                Huge Pages
+
+Huge Pages are good for a databases, because they allow to reduce the number of pages overall, so the TLB can contain more % of overall pages in it. And because in databases the rows lies near each other, it is good.
+
 
 
 
