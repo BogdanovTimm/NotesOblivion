@@ -18,4 +18,6 @@
         * `shift` + `i` - show only active processes
     * Working with processes:
         * `k` - and then PID
-* `z` - enable colors
+* Colors:
+    * `z` - enable colors
+    * `Shift` + `z` - change colors
