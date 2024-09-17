@@ -14,7 +14,7 @@ CREATE READABLE EXTERNAL TABLE
         Xcolumn1X XintX
     )
 LOCATION ('gpfdist://Xserver.ruX:X55551X/Xpath/to/file/from/gpfdist/open/folderX.csv')
-FORMAT 'CSV' (DELIMETER ',')
+FORMAT 'CSV' (DELIMITER ',')
 ;
 
 SELECT *
