@@ -4,8 +4,8 @@ HDD-Disk is divided into blocks of, say, 4KB.
 
 Different blocks play different roles:
 * Store data
-* Table of `Inodes`-`struct`s - for both files, hard-links, folders, and soft-links
-* Allocation structures - tracks whether other blocks are free or holds data/`Inodes`. These structures may be different for blocks that keep data or Inodes. It may be:
+* Table of `Inodes`-`struct`s - for both files, hard-links, folders, and soft-links. It may be stored in the different place on the HDD or near the data it points to.
+* Allocation structures - tracks whether other blocks are free or holds data/`Inodes`. These structures may be different for blocks that keep data or Inodes. There may be placed either in the different place on the disk (and thus track free blocks for entire disk) or in every block-group (and thus track free blocks of this group it is in). It may be:
     * Free List - there is a single pointer in the Superblock that points to the 1st free block. 1st free block keeps pointer to the next free block and so on.
     * Bitmap - each bit say whether block is free (0) or in use (1)
 * Superblock - keeps information about file system, so the OS may know what it needs to do:
@@ -13,6 +13,30 @@ Different blocks play different roles:
     * Where the Table of the Inodes begins
     * File system type
     * other...
+
+
+
+
+
+
+
+
+
+
+#                  Disk Virtualization
+
+Disks export a logical address space of blocks and hide details of their physical geometry from clients.
+
+
+
+
+
+
+
+#                  Searching speed
+
+If 2 files are in the one block group - then they will be accessed fast from each other.
+
 
 
 
@@ -73,6 +97,22 @@ Directories stores C-structs `dirent` that stores:
 * `unsigned short d_reclen`    - Length of this record
 * `unsigned char  d_type`      - Type of file
 
+
+
+
+
+
+
+
+
+
+#                  Chache and Buffers
+
+Because I/O is itself very slow, OS uses 2 ides to improve the speed:
+* Chaching - it stores popular data-blocks and so no I/O is needed:
+    * It may be a special cache only for HDD data
+    * Unified Page Cache - cache for both RAM and HDD data
+* Buffering aka Immediate Reporing - it is when OS saves data to write into some buffer in the RAM. Later, it will write this buffer to the HDD using I/O. Also, if it was some temporary file that was written in buffer and was deleted before the I/O started - it may avoid both write and delete I/O by leaving interily in the RAM buffer. Most OSes flushes buffer once in 5-30 seconds. If you need to 
 
 
 
@@ -187,3 +227,22 @@ Types of the entities:
 #                  File Descriptor
 
 In this way, a file descriptor is a capability [L84], i.e., an opaque handle that gives you the power to perform certain operations. Another way to think of a file descriptor is as a pointer to an object of type file; once you have such an object, you can call other “methods” to access the file, like read() and write() (we’ll see how to do so below).
+
+
+
+
+
+
+
+
+
+#                  Chrash-Consistency
+
+2 ways:
+* File System Checker aka `fsck` - let inconsistency be and just fix it with `fsck`:
+    * Checks the superblock whether it is corrupted
+    * Checks whether the Bitmap is same as the Inodes. If not, it trust the Inodes
+    * Check Inode state
+    * Checks whether Inode link number is correct and fix it if not
+    * Finds whether there is a situation when 2 Inodes points to a same block
+* Journaling aka Write-ahead log - Used by  ext3, ext4, reiserfs, IBM’s JFS, SGI’s XFS, and Windows NTFS
