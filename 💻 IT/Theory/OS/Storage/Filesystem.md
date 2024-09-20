@@ -246,3 +246,6 @@ In this way, a file descriptor is a capability [L84], i.e., an opaque handle tha
     * Checks whether Inode link number is correct and fix it if not
     * Finds whether there is a situation when 2 Inodes points to a same block
 * Journaling aka Write-ahead log - Used by  ext3, ext4, reiserfs, IBM’s JFS, SGI’s XFS, and Windows NTFS
+* Soft Updates
+* Copy On Write aka COW - write new version of a file in a different place
+* Backpointer-Based Consistency aka BBC
