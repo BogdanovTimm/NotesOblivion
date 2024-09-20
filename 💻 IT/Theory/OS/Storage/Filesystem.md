@@ -1,14 +1,38 @@
+#                  Structure of the HDD
+
+HDD-Disk is divided into blocks of, say, 4KB.
+
+Different blocks play different roles:
+* Store data
+* Table of `Inodes`-`struct`s - for both files, hard-links, folders, and soft-links
+* Allocation structures - tracks whether other blocks are free or holds data/`Inodes`. These structures may be different for blocks that keep data or Inodes. It may be:
+    * Free List - there is a single pointer in the Superblock that points to the 1st free block. 1st free block keeps pointer to the next free block and so on.
+    * Bitmap - each bit say whether block is free (0) or in use (1)
+* Superblock - keeps information about file system, so the OS may know what it needs to do:
+    * Number of blocks
+    * Where the Table of the Inodes begins
+    * File system type
+    * other...
+
+
+
+
+
+
+
+
+
 #                  Inode
 
-Inode is a `struct` that holds the meta-data about some file.
+Inode is a `struct` that holds the meta-data about some file, hard-link, soft link, or directory.
 
 All inodes reside on disk.
 
 A copy of active INodes are usually cached in memory to speed up access.
 
-I-Node is a C-struct contains:
+`Inode` is a C-`struct` that contains:
 * ID of device containing file
-* Inode number (I-Number) - Numeric id of a file (it's low-level name)
+* Inode number (I-Number) - Numeric id of a file (it's low-level name). Inodes are find by it
 * Protection
 * Number of hard links
 * User ID of owner
@@ -38,11 +62,11 @@ Types of pointers to the actual HDD-Address (In comparing the two approaches, po
 
 
 #                  Directory aka Folder
-
+.
 Folder is a file that contains pairs of human-readable name of a file/folder and its I-Node.
-Folders have I-Node name.
+Folders have its `Inode` with metadata in the Table of the Inodes and itself kept in the data blocks.
 
-Directories stores keeps C-structs `dirent` that stores:
+Directories stores C-structs `dirent` that stores:
 * `char           d_name[256]` - Filename
 * `ino_t          d_ino`       - Inode number
 * `off_t          d_off`       - Offset to the next `dirent`-struct
@@ -64,6 +88,66 @@ Directories stores keeps C-structs `dirent` that stores:
 When you create a file you do:
 * Create an `inode`-structure
 * Map `inode` with a human-readable name and adds them both to the `dirent`-structure of the directory the file will be placed
+
+
+The amount of write traffic is even worse when one considers a simple and common operation such as file creation. To create a file, the file
+system must not only allocate an inode, but also allocate space within
+the directory containing the new file. The total amount of I/O traffic to
+do so is quite high: one read to the inode bitmap (to find a free inode),
+one write to the inode bitmap (to mark it allocated), one write to the new
+inode itself (to initialize it), one to the data of the directory (to link the
+high-level name of the file to its inode number), and one read and write
+to the directory inode to update it. If the directory needs to grow to accommodate the new entry, additional I/Os (i.e., to the data bitmap, and
+the new directory block) will be needed too. All that just to create a file!
+
+
+
+
+
+
+
+
+
+##                 Reading a file
+
+Steps of reading a file:
+1) `open(/folder1/folder2/file.txt)`:
+    1. Read a root    Inode       - OS always knows its Inode. Finds where a root data-block is
+    2. Read a root    data-bclock - finds the Inode-number of the folder1 Inode
+    3. Update last-access time of the `/` folder in its Inode
+    4. Read a folder1 Inode       - finds where a folder1 data-block is
+    5. Read a folder1 data-block  - finds the Inode-number of the folder2 Inode
+    6. Update last-access time of the `/folder1/` in its Inode
+    7. Read a folder2 Inode       - finds where a folder2 data-block is
+    8. Read a folder2 data-block  - finds the Inode-number of the file.txt
+    9. Update last-access time of the `/folder1/folder2/` in its Inode
+    10. Read a file.txt Inode      - finds where a file.txt data-block is
+    11. FS checks permissions
+    12. FS allocates a **File-Descriptor** for this process in the per-process open-file table, and returns it to the user
+2) `read()`:
+    1. Reads a 1st data-block of the file
+    2. Updates last-access time of the file in the file.txt Inode
+    3. Update RAM open file table for this file descriptor by updating the file offset (so, the next read will read the second file block)
+3) `read()` - if file was not closed yet. It will do same as in the 2) step
+4) `close()` -  Deallocates the **File-Descriptor**
+
+
+
+
+
+
+
+
+
+##                 Writing into a file
+
+Each write to a file generates 5 I/Os:
+* Read the Bitmap
+* Write the Bitmap to reflect its new state to disk
+* Read the file's Inode
+* Write the file's Inode, which is updated with the new block’s location
+* Write the actual file's data-block itself
+
 
 
 
