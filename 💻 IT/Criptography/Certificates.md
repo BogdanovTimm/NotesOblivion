@@ -1,6 +1,7 @@
 #                  What it is?
 
 Certificate is a file (usually server's public key), signed by the CA's **???**.
+Certificate is used to be shure that the given Public-Key is from the trusted machine.
 
 
 
