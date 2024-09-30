@@ -1,0 +1,3 @@
+The MinIO responding node automatically handles routing internal requests to other nodes in the deployment and returning the final response to the client.
+
+Applications typically should not manage those connections, as any changes to the deployment topology would require application updates. Production environments should instead deploy a load balancer or similar network control plane component to manage connections to the MinIO deployment. For example, you can deploy an NGINX load balancer to perform “least connections” or “round robin” load balancing against the available nodes in the deployment.
