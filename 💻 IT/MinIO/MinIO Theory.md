@@ -110,19 +110,20 @@ Each erasure set is independent of all others in the same pool - If one erasure 
 
 MinIO can tolerate losing up to the total number of drives equal to the number of parity devices available in the erasure set while still providing full access to an object.
 
-Erasure-Set - group of some HDD-Drives in the Server-Pool
+Erasure-Set - group of some HDD-Drives in the Server-Pool of equal size.
 
 Shard - part (chunk) of the object. Shards evenly distributed among each HDD-Drive in the Erasure-Set. MinIO can continue seamlessly serving read and write requests despite the loss of any single HDD-Drive. At the highest redundancy levels, MinIO can serve read requests with minimal performance impact despite the loss of up to half of the total drives in the deployment. There are 2 types of Shards:
 * Data-Shard - 
 * Parity-Shard - 
 
-MinIO calculates the size and number of Erasure Sets in a Server Pool based on the total number of drives in the set and the number of minio servers in the set. See Erasure Coding Basics for more information.
+MinIO calculates the size and number of Erasure Sets in a Server Pool based on the total number of drives in the set and the number of minio servers in the set - if we have 8 servers with 4 HDD-Drives each, then it will create 4 Erasure-Sets (and which will have 8 HDD-Drives in them). 
 
-However, the lost data may still impact workloads which rely on the assumption of 100% data availability. Furthermore, each erasure set is fully independent of the other such that you cannot restore data to a completely degraded erasure set using other erasure sets. You must use Site or Bucket replication to create a BC/DR (Business Conctinuity and Disaster Recovery)-ready remote deployment for restoring lost data.
+Once the Erasure-Set for some Server-Pool was initialized - you can change it only be re-creating a Server-Pool.
+Also, objects written with a given parity settings do not automatically update if you change the parity values later.
 
-##                 How MinIO calculates number of Erasure-Sets per Server-Pool
 
-If we have 8 servers with 4 HDD-Drives each, then it will create 4 Erasure-Sets (and which will have 8 HDD-Drives in them)
+However, the lost data may still impact workloads which rely on the assumption of 100% data availability. Furthermore, each erasure set is fully independent of the other such that you cannot restore data to a completely degraded erasure set using other erasure sets. You must use Site-Replication or Bucket-Replication to create a BC/DR (Business Conctinuity and Disaster Recovery)-ready remote deployment for restoring lost data.
+
 
 
 
@@ -132,7 +133,7 @@ If we have 8 servers with 4 HDD-Drives each, then it will create 4 Erasure-Sets 
 Quorum - a minimum number of drives that must be available to perform a task. 
 Types of Quorum:
 * Reading-Quorum - always equals the configured number of Parity-HDD-Disks. So, you can read objects unless the Erasure-Set has lost any drives more than number of Parity-HDD-Disks.
-* Writing-Quorum - if number of Parity-HDD-Disks is less than 1/2 of all drives in the Erasure-Set, then Write-Quorm = number of Parity-HDD-Disks. If number of Parity-HDD-Disks is 1/2 f number of all HDD-Disks, then Writing-Quorum = number of Parity-HDD-Disks + 1.
+* Writing-Quorum - if number of Parity-HDD-Disks is less than 1/2 of all drives in the Erasure-Set, then Write-Quorm = number of Parity-HDD-Disks. If number of Parity-HDD-Disks is 1/2 f number of all HDD-Disks, then Writing-Quorum = number of Parity-HDD-Disks + 1. It is needed to prevent split-brain scenario, where there are 2 MinIO-Clusters instead of a one.
 
 Typically, MinIO requires a higher number of available drives to maintain the ability to write objects than what is required to read objects.
 
@@ -181,3 +182,5 @@ MinIO can also perform bit rot checks and healing using the MinIO Scanner. Howev
 You can use any S3-compatible SDK to upload objects to a MinIO deployment. Each SDK performs the equivalent of a PUT operation which transmits the object to MinIO for storage.
 
 MinIO also implements support for multipart uploads (https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpuoverview.html), where clients can split an object into multiple parts for better throughput and reliability of transmission. MinIO reassembles these parts until it has a completed object, then stores that object at the specified path.
+
+It seems that there is no Data-HDD-Disks and Parity-HDD-Disks. Each HDD-Disk contains both Data-Shards and Parity-Shards parts of the objects.
