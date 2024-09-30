@@ -1,6 +1,6 @@
 #                  What it is
 
-
+Object storage.
 
 #                  What parts does it have?
 
@@ -28,6 +28,8 @@ Once the Server-Pool is createxd, you can't change it. Only that you can do is
 1) Create a new one
 2) Copy all data from the old one 
 3) Delete the old one
+
+
 
 
 ##                 Server-Pool
@@ -96,7 +98,6 @@ For each unique object namespace `BUCKET/PREFIX/[PREFIX/...]/OBJECT.EXTENSION`, 
 
 
 
-
 #                  Erasure Coding (Software-RAID)
 
 MinIO Erasure Coding is a data redundancy and availability feature that allows MinIO deployments with multiple drives to automatically reconstruct objects on-the-fly despite the loss of multiple drives or nodes in the cluster. Erasure Coding provides object-level healing with significantly less overhead than adjacent technologies such as RAID or replication.
@@ -122,6 +123,9 @@ However, the lost data may still impact workloads which rely on the assumption o
 ##                 How MinIO calculates number of Erasure-Sets per Server-Pool
 
 If we have 8 servers with 4 HDD-Drives each, then it will create 4 Erasure-Sets (and which will have 8 HDD-Drives in them)
+
+
+
 
 ##                 Read-Quorum and Write-Quorum
 
