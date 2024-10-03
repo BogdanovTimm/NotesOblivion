@@ -9,6 +9,16 @@ It is the door by which 2 PCs may communicate with each other:
 +----------+    +----------+
 ```
 
+Socket consists of:
+* UDP-Socket:
+    * Other Socket's IP-Address
+    * Other Socket's Port-Number
+* TCP-Socket:
+    * Other-Socket's IP-Address
+    * Other-Socket's Port-Number
+    * Its own        IP-Address
+    * Its own        Port-Number
+
 #                  Layers
 
 It uses:
