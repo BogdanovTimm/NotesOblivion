@@ -4,6 +4,7 @@ It is the door by which 2 PCs may communicate with each other:
 ```
     PC1             PC1     
 +----------+    +----------+
+|          |    |          |
 | Socket-1*------*Socket-2 |
 |          |    |          |
 +----------+    +----------+
@@ -18,6 +19,14 @@ Socket consists of:
     * Other-Socket's Port-Number
     * Its own        IP-Address
     * Its own        Port-Number
+
+
+
+
+
+
+
+
 
 #                  Layers
 
