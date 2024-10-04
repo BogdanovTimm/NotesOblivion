@@ -44,6 +44,8 @@ TCP may use:
 
 #                  How it works
 
+##                 Handshake
+
 ```
 1)
   Client-PC-1            Server-PC-2  
@@ -72,6 +74,74 @@ TCP may use:
      4) Transport-Level on PC-2 taes data from the TCP-Receive-Buffer and place it into the TCP-Socket
      5) Applicaiton-Level on PC-2 takes data from te TCP-Socket
 
+##                 TCP-Receive-Buffer
+
+TCP-Receive-Buffer uses window.
+
+Window - Pointers that tracks:
+- Sent sequence-numbers that were sent and ACKnowledged
+- Sent sequence-numbers that were sent but were not ACKnowledged
+- Sent sequence-number that ready to be sent
+
+##                  How sending works
+
+```
+     Sending-PC                         Receiving-PC   
++------------------+                +------------------+
+| Sending-Buffer   |                | Sending-Buffer   |
+|     +----+       |  TCP-Segment   |     +----+       |
+|     |cock|       |  +----------+  |     |    |       |
+|     +----+       |  | SEQ : 0  |  |     +----+       |
+|                  |--| Data:'c' |->|                  |
+| Receiving-Buffer |  | ACK : 0  |  | Receiving-Buffer |
+|     +----+       |  +----------+  |     +----+       |
+|     |    |       |                |     |    |       |
+|     +----+       |                |     +----+       |
++------------------+                +------------------+
+
+
+     Sending-PC                         Receiving-PC   
++------------------+                +------------------+
+| Sending-Buffer   |                | Sending-Buffer   |
+|     +----+       |  TCP-Segment   |     +----+       |
+|     |cock|       |  +----------+  |     |c   |       |
+|     +----+       |  | SEQ : 0  |  |     +----+       |
+|                  |<-| Data:'c' |--|                  |
+| Receiving-Buffer |  | ACK : 1  |  | Receiving-Buffer |
+|     +----+       |  +----------+  |     +----+       |
+|     |    |       |                |     |c   |       |
+|     +----+       |                |     +----+       |
++------------------+                +------------------+
+
+
+     Sending-PC                         Receiving-PC   
++------------------+                +------------------+
+| Sending-Buffer   |                | Sending-Buffer   |
+|     +----+       |  TCP-Segment   |     +----+       |
+|     |cock|       |  +----------+  |     |c   |       |
+|     +----+       |  | SEQ : 1  |  |     +----+       |
+|                  |--| Data:'o' |->|                  |
+| Receiving-Buffer |  | ACK : 1  |  | Receiving-Buffer |
+|     +----+       |  +----------+  |     +----+       |
+|     |c   |       |                |     |c   |       |
+|     +----+       |                |     +----+       |
++------------------+                +------------------+
+
+
+
+     Sending-PC                         Receiving-PC   
++------------------+                +------------------+
+| Sending-Buffer   |                | Sending-Buffer   |
+|     +----+       |  TCP-Segment   |     +----+       |
+|     |cock|       |  +----------+  |     |co  |       |
+|     +----+       |  | SEQ : 1  |  |     +----+       |
+|                  |<-| Data:'o' |--|                  |
+| Receiving-Buffer |  | ACK : 2  |  | Receiving-Buffer |
+|     +----+       |  +----------+  |     +----+       |
+|     |c   |       |                |     |co  |       |
+|     +----+       |                |     +----+       |
++------------------+                +------------------+
+```
 
 
 
@@ -80,7 +150,35 @@ TCP may use:
 
 
 
-#                  Segment Size
+#                   Segment
+
+##                 TCP-Segmet
+
+TCP-Segment consists of:
+- Sending-PC-Port
+- Receiving-PC-Port
+- Length of a Application-Layer-DATA + all TCP-Headers
+- Checksum
+- Sequece-Number - 32 bit value representing which byte in the whole Applicaiton-Level data does the first-byte in this segment is (for example, first byte in this segment is the 1000th byte in the file)
+- ACKnowledge-Number - 32 bit value representing which byte in the whole Applicaiton-Level data should be next (even if now Receiving-PC has 1st and 2nd byte but lacks 3d and 4th, but somehow has received 5th and 6th - then, Receving-PC will send an TCP-Segment with ACK = 3)
+- Receive-Window - 16 bit value representing number of bytes that Receiving-PC is willing to accept
+- Header-Length - 4 bit value representing length of the TCP-Header in 32-bit words. It needed because Options-Header is of variable length
+- Options - optional values such as:
+    - MSS (Maximum Segment Size)
+    - Window scaling factor
+    - Timestamp
+- ACK-flag - 1 bit that indicates whether ACKnowledge number was succesfully received
+- RST-flag - 1 bit that indicates whether used for conenciton establishment
+- SYN-flag - 1 bit that indicates whether used for conenciton establishment
+- FIN-flag - 1 bit that indicates whether used for conenciton establishment
+- CWR - 1 bit that indicates whether congestion notification
+- ECE - 1 bit that indicates whether  congestion notification
+- PSH - (rarely used) 1 bit that indicates whether Receiving-PC should pass the data to the Applicaiton-Layer immediately
+- URG - (rarely used) 1 bit that indicates whether there is an urgent data
+- Applicatin-Level-Data
+- End-of-Urgent-Data-Pointer - a pointer to the last bit of the urgent data
+
+##                 Segment Size
 
 MSS (Maximum-Segment-Size) - The maximum amount of Application-Level-Data that can be grabbed and placed in a Transport-Layer-Segment.
 
