@@ -12,6 +12,8 @@ It is the protcol that finds IP-Address of a PC given its FQDN (Fully Qualified 
 
 #                  DNS
 
+DNS uses UDP-Transport-Layer-Protocol
+
 ##                 Domains
 
 Domains are organised like:
