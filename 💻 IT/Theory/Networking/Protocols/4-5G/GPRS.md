@@ -1,0 +1,3 @@
+#                  What it is?
+
+When the Base-Station receives datagrams from the mobile device, it encapsulates them using the GPRS Tunneling Protocol, including the TEID (unique Tunnel identifier), and sends them in UDP segments to the Serving Gateway  at the other end of the tunnel. On the receiving side, the base station decapsulates tunneled UDP datagrams, extracts the encapsulated IP datagram destined for the mobile  device, and forwards that IP datagram over the wireless hop to the mobile device. 
