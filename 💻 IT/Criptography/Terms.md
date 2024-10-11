@@ -1,3 +1,5 @@
+Integrity - Authentication
+
 Shipher text - cryptogram
 Shipher:
 - Symmetrical - uses one secret key for both shipher and deshipher (or second key maybe generated easilly) - fast, but you need to often change key somehow:
