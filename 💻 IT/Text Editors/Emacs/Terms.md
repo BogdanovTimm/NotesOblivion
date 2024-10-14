@@ -1,0 +1,1 @@
+- Frame = new running instance of the Emacs
