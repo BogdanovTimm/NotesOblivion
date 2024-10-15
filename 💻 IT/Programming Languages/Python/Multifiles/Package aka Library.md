@@ -5,6 +5,11 @@ Package (aka Library) is a directory with `file.py`s
 
 
 
+
+
+
+
+
 # How to import package
 
 ## '--- Whole module
