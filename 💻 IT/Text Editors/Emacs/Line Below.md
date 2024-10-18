@@ -1,0 +1,19 @@
+`CS:@---FR  BUF      POS LINE   (MAJOR MINOR)`:
+- `CS` - Character Set (UTF-8):
+    - `-` - only new line characters may be handled
+    - `=` - nothing is handled
+- `:` or `(Unix)` - which new line characters:
+    - `:` or `Unix` - new line
+    - `\` or `DOS`  - carriage return + linefeed
+    - `/` or `MAC`  - carriage return
+- `@` (possible) - On frames created for ‘emacsclient’ (*note Invoking emacsclient::), the next character is ‘@’.  This indication is typical for frames of an Emacs process running as a daemon (*note Emacs Server::)
+- `--`:
+    - `--` - not-read-only, the buffer displayed in the window has the same contents as the corresponding file on the disk; i.e., if the buffer is unmodified.  
+    - `**` - not-read-only, the buffer is modified, 
+    - `%*` - read-only modified
+    - `%%` - read-only, unmodified
+- `-` or `@`:
+    - `-` - file is on the local maching
+    - `@` - file in on the remote machine
+- `FR` (only for terminals) - this window name
+- `BUF` - this window name (often the filename)
