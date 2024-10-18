@@ -179,6 +179,7 @@ Why not try this second reply, and agree that I have no reason for my self-conce
 The qualities provoking the feeling of approval need not be confined to voluntary states of character and actions. Indeed, the attempt to connect morally good action and character with the voluntary is an error of Christian morality.³⁵ 
 - Hume takes a different view of the rationalist objection about mutability. He believes that rationalists are right to allege that the mutability that they criticize follows from the truth of a sentimentalist view, but he denies that this constitutes an objection to sentimentalism; sentimentalists, in his view, must simply acknowledge the sort of mutability that the rationalists allege against them.⁸ 
 - According to Hume, the possibility that 'Reason tells you that it is reasonable to pursue y, given that you want x and y is a means to x' is false; it is just a psychological fact that the desire for the end results in the desire for the means. One might argue, however, that this is not a purely psychological fact, and that it involves the application of a superior principle (as Butler supposes).⁴⁴ 
+- This law-based and action-oriented outlook is often taken to be characteristic of modern as opposed to ancient moral outlooks.³³ If we consider sentimentalism with this contrast in mind, it seems to go in the ‘ancient’ direction.  Hume presents an account of the different virtues that form our conception of ‘personal merit’.³⁴
 
 
 

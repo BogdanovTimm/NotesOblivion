@@ -88,6 +88,7 @@ Hutcheson answers this argument by conceding the first and third premisses and r
 - Hutcheson confines the moral sense to the moral judge who reacts favourably to the benevolence of an agent; he makes a second-order attitude of approval or endorsement of a sentiment essential to the moral sense. Simple benevolence without this further approval does not involve the moral sense, according to Hutcheson. The further approval is Hutcheson’s analogue to the operation of conscience, as Butler conceives it.³⁵ 
 - In Hutcheson psychology determines epistemology; for he believes that the sort of moral knowledge that rationalists attribute to us could not influence our actions in the way that moral knowledge plainly does, and so he infers that his moral psychology shows the error in rationalist epistemology.⁹
 - Hutcheson agrees with Cudworth and Balguy in believing that moral properties are not arbitrary and positive, but have a firmer basis in nature; hence he tries to show that his sentimentalism does not introduce an unwelcome degree of mutability.
+- This law-based and action-oriented outlook is often taken to be characteristic of modern as opposed to ancient moral outlooks.³³ If we consider sentimentalism with this contrast in mind, it seems to go in the ‘ancient’ direction. Hutcheson takes the moral sense to approve of benevolence, a state of the agent.
 
 
 

@@ -1,0 +1,1 @@
+- She compares and contrasts Aristotle and Kant on the relation of moral virtue to emotion (whether emotions can be praiseworthy). She concludes (227) that the points of contrast do not constitute a difference in the basic ethical outloos. Relevant questions are discussed by Sherman,
