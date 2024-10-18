@@ -5,4 +5,4 @@ It is something like a proxy - if you want to download something from [maven.apa
 It is needed to strict places from which users can download something.
 
 [](https://nexus.services.mts.ru/) - webpage
-[](https://confluence.mts.ru/pages/viewpage.action?pageId=256805792) - list of proxies for each normal source in the Internet
+[](https://confluence.mts.ru/pages/viewpage.action?pageId=256805792) - list of proxies for each normal source in the Internetpython

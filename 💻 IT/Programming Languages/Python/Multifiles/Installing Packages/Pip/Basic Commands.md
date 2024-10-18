@@ -1,1 +1,2 @@
 - `pip list` - display installed packages
+- `pip install xPACKAGE_NAMEx --proxy=http://host.domain.com:55555` - install package through proxy
