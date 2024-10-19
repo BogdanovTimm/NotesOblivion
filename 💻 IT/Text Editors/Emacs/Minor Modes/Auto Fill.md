@@ -1,0 +1,1 @@
+For instance, the minor mode called Auto Fill mode splits lines automatically when they get too long
