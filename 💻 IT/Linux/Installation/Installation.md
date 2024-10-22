@@ -8,8 +8,11 @@
     3) `station xDEVICE_NAMEx scan` - find allowable Wi-Fi Networks
     4) `station xDEVICE_NAMEx get-networks` - display found Wi-Fi Networks
     5) `station xDEVICE_NAMEx connect "xWi-Fi Network Namex (SSID)"`
-2) `ping archlinux,org` - enshure that everything is OK
+2) `ping archlinux.org` - enshure that everything is OK
 6) `timedatectl` - make shure that your time is OK
+
+
+
 
 ## '-------- 1. Partitioning
 
@@ -21,8 +24,8 @@
 3) Find needed HardDrive
 4) `parted /dev/xSDAx` - now you are in Parted:
     1) `mklabel gpt` - create a new GUID Partition Table
-    2) `mkpart "EFI system partition" fat32 1MiB 1025MiB`   - create Partition with Partition-Type-GUID = fat32. (Do not use it if your PC do not support UEFI)
-    3) `set 1 esp on`                                       - change Partition-Type-GUID from fat32 to C12A7328-F81F-11D2-BA4B-00A0C93EC93B
+    2) `mkpart "EFI system partition" fat32 1MiB 1025MiB`   - create Partition with Partition-Type-GUID = fat32. (Do not use it if your PC does not support UEFI)
+    3) `set 1 esp on`                                       - change Partition-Type-GUID from fat32 to C12A7328-F81F-11D2-BA4B-00A0C93EC93B (Do not use it if your PC does not support UEFI)
     4) `mkpart "swap partition" linux-swap 1025MiB 5121MiB` - create Partition with Partition-Type-GUID = 0657FD6D-A4AB-43C4-84E5-0933C84B4F4F
     5) `mkpart "root partition" ext4 512MiB 100%`           - create Partition with Partition-Type-GUID = ext4.
     6) `type 3 4F68BCE3-E8CD-4DB1-96E7-FBCAF984B709`        - change Partition-Type-GUID from EXT4  to 'Linux x86-64 root (/)'
