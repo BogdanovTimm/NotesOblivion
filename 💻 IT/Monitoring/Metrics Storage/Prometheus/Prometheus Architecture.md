@@ -1,3 +1,7 @@
+#                  Why use Prometheus?
+
+It does not require to install additional metrics-gathering tool, such as StatsD, CocclectD.
+
 #                  Prometheus Architecture
 
 ```
