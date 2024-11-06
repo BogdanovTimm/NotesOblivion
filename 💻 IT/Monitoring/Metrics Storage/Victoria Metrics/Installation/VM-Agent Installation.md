@@ -20,7 +20,22 @@ You need to have already-working Prometheus exporter.
 5) `sudo    mkdir    /opt/vm/vmagent-remotewrite-data    -p` - create folder for temporary Victoria-Metrics VM-Agent data
 6) `sudo    chown    -R    victoriametrics:victoriametrics    /opt/vm/vmagent-remotewrite-data` - change owner of folder for temporary Victoria-Metrics VM-Agent data
 7) `sudo    mkdir    /etc/victoria`
-8) `sudo    cp    ./prometheus.yaml     /etc/victoria/` - copy already-written settings for getting metrics from prometheus exporter
+8) `sudo    vim    /etc/victoria/prometheus.yaml` - create settings for getting metrics from prometheus exporter. Write this within it:
+    ```yaml
+    global:
+      scrape_interval: 30s                  # 30 seconds is a minimum adequate value
+      external_labels:                      # Aditional lables
+        #monitor: 'victoriametrics-monitor'
+        ims_system_id: mis-dwh
+    
+    scrape_configs:
+      - job_name: 'copy-system-vmagent'      # Add label [job=xJOB_NAMEx] to all metrics
+        #scrape_interval: 30s                # Reassign global:scrape_interval
+        #metrics_path: /alertmanager/metrics # Path to metrics in url. [/metrics] is a default
+        metrics_path: /metrics
+        static_configs:
+          - targets: ['localhost:55551']     # URL from whereto gather metrics
+    ```
 9) `sudo    cp    ./vmagent.service     /etc/systemd/system/` - copy already-written settings for systemd
 10) `sudo    systemctl    daemon-reload`
 11) `sudo    systemctl    enable    vmagent.service`
