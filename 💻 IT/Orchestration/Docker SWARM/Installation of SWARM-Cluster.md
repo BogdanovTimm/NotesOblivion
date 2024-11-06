@@ -17,3 +17,5 @@ We will have:
     4) `docker swarm join-token worker` - run this command on your SWARM-Manager PC
 5) `docker swarm join --token xLONG_TOKEN_FROM_PREVIOUS_STEPx x100.100.100.100:55555x` - run this on both of your SWARM-Worker PCs
 6) `docker node ls` - run this command on your xSWARM_MANAGERx PC. It checks statuses of SWARM-Managers and SWQARM-Workers (empty 'MANAGER STATUS' column). If they are OK, then now you have working SWARM-Cluster!
+7) `docker swarm join-token manager` - gives you the SWARM-Manager token
+8) `docker swarm join --token xLONG_TOKEN_FROM_PREVIOUS_STEPx x100.100.100.111:55555x` - add a new SWARM-Manager to the SWARM-Cluster
