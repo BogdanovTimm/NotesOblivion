@@ -15,7 +15,7 @@ SWARM-Service is a desired state of some number of SWARM-Tasks (with 1 Docker-Co
 Run this code on your SWARM-Manager PC. It creates a new SWARM-Service with 5 replicas (actual number of simultaneously running containers) that will run Alpine-Linux Docker-Image and ping google.com:
 ```bash
 docker service create          \
-    --replicas 5               \ # Number of replicas
+    --replicas 5               \ # Number of replicas. Can't be used with [--publish mode=host]
     --name xSWARM_SERVICEx     \ # Just SWARM-Service alias
     --update-delay 10s         \ # Number of time between simultaneously changin SWARM-Tasks [docker service update]
     --update-parallelism 1     \ # Max number of SWARM-Tasks you can simultaneously change using [docker service update]
@@ -27,7 +27,7 @@ docker service create          \
     --publish "published=55555,\ # Route this port on each SWARM-Worker PC to...
 target=44444,\                   #         ...this port within the Docker-Container. Also defines OSI-Level-4 protocol
 protocol=udp,\                   # Protocol to use [udp] or [tcp]
-mode=host"                     \ # Whether to use (ingress) or not (host) of Docker-Load-Balancer (Routing-Mesh)
+mode=host"                     \ # Whether to use (ingress) or not (host) the default Docker-Network-Overlay that would work as Load-Balancer (Routing-Mesh)
     --endpoint-mode dnsr       \ # Set whether to use Docker-Virtual-IP-Addresses (vip) or default IP-Address of the PC
     --network xDOCKER_NETWORKx \ # Set which Docker-Network to use
     --with-registry-auth       \ # If you use Docker-Registry that requires login

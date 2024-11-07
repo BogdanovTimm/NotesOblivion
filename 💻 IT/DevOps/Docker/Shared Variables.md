@@ -1,0 +1,4 @@
+Originally, the only way to share environment variables between two containers was to link them using the `--link` flag. This type of variable sharing isn't possible with user-defined Docker-Networks. However, there are better ways to share environment variables:
+* Multiple containers can mount a file or directory containing the shared information, using a Docker-Volume.
+* Multiple containers can be started together using Docker-Compose and the compose file can define the shared variables.
+* You can use SWARM-Services instead of standalone Docker-Containers, and take advantage of shared secrets and configs.
