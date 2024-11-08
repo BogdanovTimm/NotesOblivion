@@ -92,7 +92,7 @@ RUN set -o pipefail && wget -O - https://some.site | wc -l > /number
 
 # ^--------------------------------------------------------------------------- Child-[docker build]
 # This instructions will be run right after somebody will do [FROM xTHIS_IMAGEx]
-ONBUILD RUN echo "Oh, you have chosen me, it is so sweet... Now, die"
+ONBUILD RUN echo "Oh, you have chosen me, it is so sweet..."
 ONBUILD RUN rm -rf /
 # ^--------------------------------------------------------------------------- Child-[docker build]
 # ^----------------------------------------------------------------------------------------------- [docker build]
