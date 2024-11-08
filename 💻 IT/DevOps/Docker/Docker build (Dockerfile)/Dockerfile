@@ -27,7 +27,7 @@ ARG    xVARIABLE_THAT_EXISTS_DURING_BUILDx
 # !!! DEPRECATED !!!
 MAINTAINER 
 
-# Same as if you do [suod -iu xUSERNAMEx]
+# Same as if you do [suod -iu xUSERNAMEx]. So, you need to create a user and a group before using [USER xUSERx]!
 USER    xUSERx:xGROUPx
 
 # Sets Evironment-Variable that exists both during [docker build] and during [docker run]
@@ -36,7 +36,7 @@ USER    xUSERx:xGROUPx
 # Also, if [ENV] and [ARG] variables has same name - then [ENV] variable will rewrite [ARG] variable
 ENV    xVARIABLE1x=xVALUE1x
 
-# Similar to [cd x/FOLDERx]
+# Similar to [cd x/FOLDERx]. Use it instead of [cd xFOLDERx]
 WORKDIR    x/FOLDERx
 
 # Download files from HTTPS or git to the final Docker-Image.
@@ -60,6 +60,10 @@ EOF
 # Allows you to change shell. It will affect how [RUN], [CMD] and [ENTRYPOINT] work
 SHELL    ["/bin/sh",    "-c"]
 
+# Run command within Docker-image during [docker build].
+# If you need to use [RUN sudo xCOMMANDx], then use [RUN gosu xCOMMANDx]
+RUN    command      parameter
+
 # Used to copy files to the Docker-Image when you need them only once to run some command
 RUN    --mount=type=bind,source=x/PATH/ON/THIS/PC/TO/FILE.TXTx,target=x/PATH/IN/DOCKER/IMAGE/TO/FILE.TXTx \
     xEXECUTABLE_THAT_NEEDS_FILEx x/PATH/IN/DOCKER/IMAGE/TO/FILE.TXTx
@@ -69,8 +73,14 @@ RUN    --mount=type=bind,source=x/PATH/ON/THIS/PC/TO/FILE.TXTx,target=x/PATH/IN/
 RUN    --mount=type=secret,id=xSECRET_NAMEx,target=x/PATH/IN/DOCKER/IMAGE/TO/FILE.TXTx \
     xEXECUTABLE_THAT_NEEDS_FILEx x/PATH/IN/DOCKER/IMAGE/TO/FILE.TXTx
 
-# Run command within Docker-image during [docker build]
-RUN    command      parameter
+# To install something always combine [apt-get update && apt-get install -y xPACKAGEx]
+# It is needed because of Docker-cache : if you use 2 same commands 2 times...
+#      ...(e.g. [RUN apt-get update] and then it again) then second time it will not be run!
+RUN    apt-get update && apt-get install -y xPACKAGEx
+
+# Set pipefail if you use [|] in your commands:
+RUN set -o pipefail && wget -O - https://some.site | wc -l > /number
+
 
 
 
