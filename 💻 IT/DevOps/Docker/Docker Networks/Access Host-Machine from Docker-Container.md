@@ -30,26 +30,4 @@ For each for its Docker-Virtual-Network of the type `bridge`, Docker creates a D
     deny             all;
     ```
 3) `docker run --network=xDOOCKER_NETWORKx --ip=222.222.222.2 xDOCKER_IMAGEx` - now, if within Docker-Container you do `ping 222.222.222.1:80`, it will work
-
-
-
-
-
-
-
-
-
-## Use Docker-Compose with `extra_hosts`
-
-Create a docker-compose file:
-
-```YAML
-version: "3"
-services:
-  web:
-    build: .
-    ports:
-      - "55555:44444"
-    extra_hosts:
-      - "host.docker.internal:host-gateway"
 ```
