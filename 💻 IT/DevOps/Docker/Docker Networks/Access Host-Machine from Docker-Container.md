@@ -16,23 +16,20 @@ And you need to access non-Dcoker applciation from the Docker-Containter.
 
 # How to do it
 
-## Use Docker-Network-Port-Forwarding
+## Connect to Docker-Virtual-Network-Card
 
-`docker run --publish 55555:44444 xDOCKER_IMAGEx` - now, within the Docker-Container, if you do `ping localhost:44444`, actually you will `ping host-machine:55555`
-
-`docker run --publish 127.0.0.1:55555:44444 xDOCKER_IMAGEx` - same as above, but only localhost connections are allowed.
-
-
-
-
-
-
-
-
-
-## Add variable
-
-`docker run -d --add-host host.docker.internal:host-gateway xDOCKER_IMAGEx` - now, if within Docker-Container you do `ping host.docker.internal:44444`, it actually will do `ping host-machine:44444`
+For each for its Docker-Virtual-Network of the type `bridge`, Docker creates a Docker-Virtual-Network-Card with some IP-Address. So, you can:
+1) `docker network create --driver bridge xDOCKER_NETWORKx --subnet=222.222.222.0/24 --gateway=222.222.222.1` - create a Docker_Virtual-Network with Docker-Virtual-Network-Card with IP-Address 222.222.222.1
+2) Configura your host-application:
+    1) `vim /etc/nginx/sites-available/default` and add to this:
+    ```conf
+    listen     localhost:80;
+    listen 222.222.222.1:80; # Docker-Virtual-Network-Card
+    allow      localhost;
+    allow  222.222.222.2;    # Docker-Container IP-Address
+    deny             all;
+    ```
+3) `docker run --network=xDOOCKER_NETWORKx --ip=222.222.222.2 xDOCKER_IMAGEx` - now, if within Docker-Container you do `ping 222.222.222.1:80`, it will work
 
 
 
