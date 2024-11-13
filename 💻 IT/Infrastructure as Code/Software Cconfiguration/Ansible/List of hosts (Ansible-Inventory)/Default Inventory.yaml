@@ -1,0 +1,53 @@
+ungrouped:
+  hosts:
+    xSERVER_1.DOMAINx.com:
+
+
+
+
+
+
+
+
+
+xGROUP_1x:
+  hosts:
+    xSERVER_[1:9:2].DOMAINx.com:
+    xALIAS_1x:
+      http_port: 55
+      maxRequestsPerchild: 10
+      ansible_connection: ssh
+      ansible_user: xLINUX_USERx
+      ansible_host: 1.1.1.1
+
+
+
+
+
+
+
+
+
+xGROUP_2x:
+  hosts:
+    xSERVER_1.DOMAINx.com:
+    xSERVER_3.DOMAINx.com:
+  vars:
+    ntp_server: xHOST.DOMAIN.COMx
+    proxy: xHOST.DOMAIN.COMx
+
+
+
+
+
+
+
+
+
+xGROUP_OF_GROUPSx:
+  children:
+   xGROUP_1x:
+
+xGROUP_OF_GROUPS_OF_GROUPSx:
+  children:
+    xGROUP_OF_GROUPSx:
