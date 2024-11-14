@@ -1,0 +1,50 @@
+---
+
+#-----------------------------------------------------------------------------+
+# Description: Do something very important
+#-----------------------------------------------------------------------------+
+- name: xPLAY_1x
+  # v------------------------------------------------------ ANSIBLE-PLAY-SETTINGS
+  hosts: xHOST_FROM_INVENTORY_1x
+  remote_user: xLINUX_USERx
+  # ^------------------------------------------------------ ANSIBLE-PLAY-SETTINGS
+  tasks:
+    - name: xTASK_1x
+      set_fact:         # Save output of executing command on the remote PC as Ansible-Playbook-Variable
+        xVARIABLEx: "{{ ansible_facts['cpu_temperature'] }}"
+      xANSIBLE.MODULEx: # Imagine we use [ansible.builtin.yum]
+        name: xSERVICEx
+        state: xLATESTx
+      # v------------------------------ Run Ansible-Task only if expression returns [True]
+      when: ansible_selinu.status         == "enabled" or
+            ansible_facts['distribution'] == "Debian"
+      # ^------------------------------ Run Ansible-Task only if expression returns [True]
+
+    - name: xTASK_2x
+      xANSIBLE.MODULEx:     # Image we use [ansible.builtin.template]
+        src: /xPATH/ON/THIS/PC/TO/FILE.j2x
+        dest: /xPATH/ON/REMOTE/PC/TO/FILE.TXTx
+      # v------------------------------ Run Ansible-Task only if expression returns [True]
+      when: xVARIABLEx == 3 # 'VARIABLEx | int' means that Ansible is forced to treat value as integer
+      # ^------------------------------ Run Ansible-Task only if expression returns [True]
+
+
+
+
+
+
+
+
+
+#-----------------------------------------------------------------------------+
+# Description: Do something very important
+#-----------------------------------------------------------------------------+
+- name: xPLAY_2x
+  # v------------------------------------------------------ ANSIBLE-PLAY-SETTINGS
+  hosts: xHOST_FROM_INVENTORY_1x
+  # ^------------------------------------------------------ ANSIBLE-PLAY-SETTINGS
+  tasks:
+    - name: xTASK_3x
+      xANSIBLE.MODULEx: # Imagine we use [ansible.builtin.yum]
+        name: xSERVICEx
+        state: xLATESTx
