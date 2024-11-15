@@ -7,6 +7,9 @@
   # v------------------------------------------------------ ANSIBLE-PLAY-SETTINGS
   hosts: xHOST_FROM_INVENTORY_1x
   remote_user: xLINUX_USERx
+  vars_files:
+    - "vars/common.yml"
+    - [ "vars/{{ ansible_facts['ps_family'] }}.yml", "vars/os_defaults.yml" ]
   # ^------------------------------------------------------ ANSIBLE-PLAY-SETTINGS
   tasks:
     - name: xTASK_1x
@@ -46,5 +49,13 @@
   tasks:
     - name: xTASK_3x
       xANSIBLE.MODULEx: # Imagine we use [ansible.builtin.yum]
+        name: xSERVICEx
+        state: xLATESTx
+      notify: # Run Ansible-Handlers by their names
+        - xHANDLERx
+
+  hadlers:
+   - names: xHANDLERx
+     xANSIBLE.MODULEx: # Imagine we use [ansible.builtin.yum]
         name: xSERVICEx
         state: xLATESTx
