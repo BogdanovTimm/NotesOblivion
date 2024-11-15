@@ -21,7 +21,6 @@
 
 
 
-
 # Delete
 
 ```yaml

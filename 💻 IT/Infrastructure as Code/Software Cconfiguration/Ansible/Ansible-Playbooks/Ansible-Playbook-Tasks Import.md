@@ -44,10 +44,3 @@ See [[External Task Example]]
 	      #? Dinamic import
 	      include_tasks: for{{ ansible_os_family }}.yaml
 ```
-
-
-
-
-
-
-
