@@ -10,6 +10,7 @@ Roles is a little parts of a Playbookname.yaml. Different from [[Import tasks]],
 
 
 # Creating a new one
+
 1. `mkdir roles && cd roles` - creating a `roles` folder
 2. `ansible-galaxy init new_role_name`
 
