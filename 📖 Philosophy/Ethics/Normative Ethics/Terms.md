@@ -413,5 +413,51 @@ I think you are a moral realist if you think that right can't be reduced to plea
 #                  Open Question
 
 Types of Open Questions: 
-    - A semantic open question. When Shaftesbury and Hutcheson suggest that substitution of ‘willed by God’ for ‘good’ in ‘Good is what is willed by God’ reduces a non-tautologous sentence to a tautology, they might be observing that ‘good’ and ‘willed by God’ do not mean the same.
-    - A moral open question. When Cudworth claims that Hobbes’s account of right as what the legislator wills leaves a question open, he means that it leaves open a reasonable moral question, and so does not give a satisfactory account of what rightness consists in, which would be a satisfactory explanation of what makes things right.⁴² 
+    - A semantic open question aka Open Question about concepts/meanings of words/terms. When Shaftesbury and Hutcheson suggest that substitution of ‘willed by God’ for ‘good’ in ‘Good is what is willed by God’ reduces a non-tautologous sentence to a tautology, they might be observing that ‘good’ and ‘willed by God’ do not mean the same. Though the concept of 'goodness' is not the same concept as the concept of 'maximum pleasure', the two concepts might still be concepts of just one property. If we want to know what property goodness is, we ought not to follow Moore’s method. We cannot apply the Semantic Open Question Argument until we grasp the meaning of the relevant word, and therefore we cannot use it to refute accounts of the meaning of the word. If we say that every man's thought about words are important for us, then Open Question restricts any defition. If we count only those who can use the word 'appropriatly', then we need to give an account of appropriatness.
+    - A moral open question aka Open Question abour Real Properties of Things. When Cudworth claims that Hobbes’s account of right as what the legislator wills leaves a question open, he means that it leaves open a reasonable moral question, and so does not give a satisfactory account of what rightness consists in, which would be a satisfactory explanation of what makes things right.⁴² 
+
+
+
+
+
+
+
+
+
+# Concepts vs Things
+
+We need to distinguish questions:
+- 'What is Good' / Which Properties does Good have? - it gives us a Real Definition
+- 'How we use term (word) 'good'?' / Which concept do we mean when we say 'good'?' - Conceptual analysis (maybe it is also nominal definition)
+- Which things are Good?
+- Besides concepts, termshave extensions. If 2 terms have the same extension, it does not follow that they express the same concept or introduce the same property.
+
+Both properties and concepts are non-extensional. It is not the same as non-explicable.
+
+If properties are explanatory: If we have a disease that causes certain symptoms, including red spots, high temperature, and so on (Explanatory Condition), we may call this disease ‘measles’. We have 2 true non-synonimous descriptions of 1 Explanatory Condition:
+- Descriptin 1 - The man that have these symptoms have 'measles'. But we have not yet shown why measles explains these symptoms if we describe it only as ‘measles’; this is no better than saying that a drug puts us to sleep because it has a dormitive virtue. 
+- Description 2 - To show how this condition is explanatory, we have to say enough about measles to show the appropriate explanatory connexion between features of a specifci internal condition and the various external symptoms. In that case, we will have found an explanatory account of the explanatory condition. Description 2 of the explanatory property will be a real definition. We have every reason to expect that such a definition will raise an open question.
+
+
+
+
+
+
+
+
+
+# Indefinable vs inexplicable
+
+Even if some Ethic Terms are indefinable, they may be explicable and so we stll may know analytic truths about it.
+
+
+
+
+
+
+
+
+
+# Intuitionism (Fundamentalists-Intuitionism) vs Holism (Holists-Intuitionism)
+
+Both Intuitionists and Holists rely on intuitions about godd, right and so on. The are differ in that Intuitionists treat intuitions in such a way that you can't compare one intuition with other. Holists allow such comparisons.
