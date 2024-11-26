@@ -1,3 +1,22 @@
+# Branches of Meta-Ethics
+
+Branches:
+- Metaphysics of Morality:
+    - Objectivism/Subjectivism
+- Semantics of Morality:
+    - Cognitivism/Non-Cognitivism
+    - Descriptivism/Prescriptivism
+- Epistemology of Morality:
+    - Intuitionism
+
+
+
+
+
+
+
+
+
 #                  Goods
 
 - Goods - either final end or a step to happiness:
