@@ -1,14 +1,28 @@
+1333
+
 # Branches of Meta-Ethics
 
 Branches:
 - Metaphysics of Morality:
-    - Objectivism/Subjectivism
+    - Objectivism/Subjectivism - whether moral properties are non-angent-relative (e.g. non-imposed ones) properties (e.g. Is there a real disagreement when 2 people say that two mutually exclusing things are right or good?)
+    - Naturalism/Non-Naturalism - whether moral properties are Natural properties (for example, whether it can be studied by Natural Sciences. But difference between natural and non-natural properties can be drawn differently than like this)
 - Semantics of Morality:
-    - Cognitivism/Non-Cognitivism
-    - Descriptivism/Prescriptivism
+    - Cognitivism/Non-Cognitivism (emotivism, presctiptivism. expressivism) - whether moral concepts are meaningfull (e.g. describe or excplicate some properties of objects) or not? (e.g. Is there a real disagreement when 2 people say that two mutually exclusing things are right or good? Cognitivists say 'yes', Non-cognitivists say 'no, but it seems like it, because of our disagreement in emotions or attitude')
+    - Descriptivism/Non-Descriptivism - whether our moral judgements has only 1 meaning - as in an affirmative statements (e.g. whether moral judgements are analytically (it will favor Non-Descriptivism) or only synthetically (it will favor Descriptivism) connected with our motivation. So, non-cognitivist can't be descriptivist.
 - Epistemology of Morality:
-    - Intuitionism
+    - Intuitionism - from where do we find the root of our knowledge about right or good?
 
+
+
+
+
+
+
+
+
+# Non-Intuitionist's Non-naturalist's Descriptivism
+
+We can describe actions (or people or whatever) using moral terms, which we can synthetically explicate (and argument about them), using concepts that are both non-natural and non-moral ('ought', 'appropriate', 'reason')
 
 
 
